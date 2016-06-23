@@ -1,0 +1,95 @@
+{ "height":11,
+ "layers":[
+        {
+         "data":[19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 7, 7, 7, 7, 7, 7, 7, 7, 7, 19, 19, 19, 19, 7, 5, 7, 7, 7, 7, 7, 5, 7, 19, 19, 19, 19, 7, 7, 7, 7, 7, 7, 7, 7, 7, 19, 19, 19, 19, 7, 7, 7, 7, 7, 7, 7, 7, 7, 19, 19, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 19, 19, 19, 19, 7, 7, 7, 7, 7, 7, 7, 7, 7, 19, 19, 19, 19, 7, 7, 7, 7, 7, 7, 7, 7, 7, 19, 19, 19, 19, 7, 5, 7, 7, 7, 7, 7, 5, 7, 19, 19, 19, 19, 7, 7, 7, 7, 7, 7, 7, 7, 7, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19],
+         "height":11,
+         "name":"Terrain",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":13,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[0, 0, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 0, 0, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 0, 0, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 0, 0, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 17, 17, 17, 0, 0, 0, 0, 0, 0, 3, 0, 3, 17, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 17, 17, 17, 0, 0, 0, 0, 0, 0, 3, 0, 3, 17, 0, 0, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 0, 0, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 0, 0, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 0, 0, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17],
+         "height":11,
+         "name":"Blocking",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":13,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "height":11,
+         "name":"Interactables",
+         "objects":[
+                {
+                 "gid":2,
+                 "height":0,
+                 "name":"ToNorkosDungeon-10",
+                 "properties":
+                    {
+                     "":"",
+                     "destx":"28",
+                     "desty":"10",
+                     "map":"Norkos Dungeon -10",
+                     "movementType":"ascend"
+                    },
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":0,
+                 "x":16,
+                 "y":96
+                }, 
+                {
+                 "gid":15,
+                 "height":0,
+                 "name":"Sword in the Stones",
+                 "properties":
+                    {
+                     "rarity":"godly",
+					 "flavorText": "A legendary sword, wrapped in vines. Thought to be lost to time, it waits for a gallant hero to retrieve it.",
+					 "storyline": "Lore: Norkos Dungeon"
+                    },
+                 "type":"Collectible",
+                 "visible":true,
+                 "width":0,
+                 "x":160,
+                 "y":96
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "width":13,
+         "x":0,
+         "y":0
+        }],
+ "orientation":"orthogonal",
+ "properties":
+    {
+     "name":"norkos"
+    },
+ "tileheight":16,
+ "tilesets":[
+        {
+         "firstgid":1,
+         "image":"..\/..\/..\/img\/tiles.png",
+         "imageheight":64,
+         "imagewidth":144,
+         "margin":0,
+         "name":"tiles",
+         "properties":
+            {
+
+            },
+         "spacing":0,
+         "tileheight":16,
+         "tilewidth":16
+        }],
+ "tilewidth":16,
+ "version":1,
+ "width":13
+}
