@@ -1,0 +1,53 @@
+{
+    "Draygon Gear": {
+        "items": [
+            "Draygon Armor",
+            "Draygon Helmet",
+            "Draygon Gloves",
+            "Draygon Greaves"
+        ]
+    },
+    "Sunken Treasure": {
+        "items": [
+            "Pirate Hat",
+            "Pirate Hook",
+            "Star Amulet",
+            "Bag of Booty",
+	    "Seajewel"
+        ]
+    },
+    "Christmas Gear": {
+        "items": [
+            "Red Tunic",
+            "Thick Winter Gloves",
+            "Decorative Red Pants",
+            "Heavy Winter Boots",
+	    "Magical Snowball"
+        ]
+    },
+    "Basilisk Gear": {
+        "items": [
+            "Basilisk Shield"
+        ]
+    },
+    "Snowbeast Gear": {
+        "items": [
+            "Royal Coif"
+        ]
+    },
+    "Leviathan Gear": {
+        "items": [
+            "Royal Scaled Robe"
+        ]
+    },
+    "Spot's Treasure Hoard": {
+        "items": [
+            "Royal Dragonskin Boots"
+        ]
+    },
+    "Lich Lord's Gear": {
+        "items": [
+            "Royal Sword of the Fallen Hero"
+        ]
+    }
+}

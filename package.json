@@ -1,0 +1,23 @@
+{
+  "name": "maps",
+  "version": "0.0.0",
+  "description": "Maps for IdleLands",
+  "scripts": {
+    "test": "npm run verify:all",
+    "verify:all": "node test/verify/_all",
+    "analysis:all": "node test/analysis/_all"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IdleLands/Maps.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IdleLands/Maps/issues"
+  },
+  "homepage": "https://github.com/IdleLands/Maps#readme",
+  "dependencies": {
+    "lodash": "^4.13.1",
+    "require-dir": "^0.3.0"
+  }
+}

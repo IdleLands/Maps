@@ -1,0 +1,151 @@
+{
+  "Draygon Armor": {
+    "type": "body",
+    "str": 300,
+    "agi": 300,
+    "dex": 300
+  },
+  "Draygon Helmet": {
+    "type": "head",
+    "str": 300,
+    "agi": 300,
+    "dex": 300
+  },
+  "Draygon Gloves": {
+    "type": "hands",
+    "str": 300,
+    "agi": 300,
+    "dex": 300
+  },
+  "Draygon Greaves": {
+    "type": "legs",
+    "str": 300,
+    "agi": 300,
+    "dex": 300
+  },
+  "Pirate Hat": {
+    "type": "head",
+    "con": 150,
+    "agi": 150,
+    "dex": 450,
+    "luck": 50
+  },
+  "Pirate Hook": {
+    "type": "offhand",
+    "agi": 450,
+    "dex": 150,
+    "punish": 1
+  },
+  "Star Amulet": {
+    "type": "neck",
+    "str": 25,
+    "agi": 25,
+    "dex": 25,
+    "con": 25,
+    "int": 25,
+    "wis": 25,
+    "luck": 25,
+    "strPercent": 3,
+    "agiPercent": 3,
+    "dexPercent": 3,
+    "conPercent": 3,
+    "intPercent": 3,
+    "wisPercent": 3,
+    "luckPercent": 3
+  },
+  "Bag of Booty": {
+    "type": "mainhand",
+    "str": 450,
+    "gold": 15,
+    "goldPercent": 3
+  },
+  "Seajewel": {
+    "type": "charm",
+    "wis": 450,
+    "water": 1000,
+    "thunder": 1000,
+    "mp": 500
+  },
+  "Red Tunic": {
+    "type": "body",
+    "str": 600,
+    "dex": 150,
+    "luck": 25,
+    "defense": 1,
+    "hpRegen": 25
+  },
+  "Thick Winter Gloves": {
+    "type": "hands",
+    "str": 600,
+    "con": 150,
+    "conPercent": 5,
+    "luck": 25
+  },
+  "Decorative Red Pants": {
+    "type": "legs",
+    "int": 300,
+    "wis": 300,
+    "dex": 300,
+    "luck": 25,
+    "royal": 1
+  },
+  "Heavy Winter Boots": {
+    "type": "feet",
+    "str": 300,
+    "agi": 300,
+    "dex": 150,
+    "luck": 25,
+    "firePercent": 5
+  },
+  "Magical Snowball": {
+    "type": "offhand",
+    "int": 300,
+    "intPercent": 10,
+    "wis": 300,
+    "wisPercent": 10,
+    "luck": 25
+  },
+  "Basilisk Shield": {
+    "type": "offhand",
+    "agi": 180,
+    "con": 80,
+    "defense": 2,
+    "glowing": 1
+  },
+  "Royal Coif": {
+    "type": "head",
+    "agi": 600,
+    "dex": 600,
+    "con": 250,
+    "deadeye": 2,
+    "royal": 2
+  },
+  "Royal Scaled Robe": {
+    "type": "body",
+    "int": 800,
+    "wis": 300,
+    "con": 100,
+    "defense": 2,
+    "royal": 2
+  },
+  "Royal Dragonskin Boots": {
+    "type": "feet",
+    "agi": 1000,
+    "dex": 1100,
+    "str": 400,
+    "hp": 500,
+    "defense": 1,
+    "royal": 2
+  },
+  "Royal Sword of the Fallen Hero": {
+    "type": "mainhand",
+    "str": 1500,
+    "dex": 500,
+    "int": 150,
+    "con": -50,
+    "luck": -25,
+    "offense": 2,
+    "vorpal": 1,
+    "royal": 2
+  }
+}

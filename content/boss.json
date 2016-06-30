@@ -1,0 +1,1226 @@
+{
+    "Goblin Lord": {
+        "respawn": 7200,
+        "availableScore": 1000,
+        "stats": {
+            "class": "Monster",
+            "hp": 1000,
+            "level": 10,
+            "agi": 200,
+            "dex": 200,
+            "str": 300
+        },
+        "items": [
+            { "name": "Goblin Lord Shortsword", "dropPercent": 95 }
+        ]
+    },
+    "dChicken Problem Solver": {
+        "respawn": 4200,
+        "availableScore": 1500,
+        "stats": {
+            "class": "Fighter",
+            "hp": 3000,
+            "level": 1,
+            "con": 100,
+            "dex": 100,
+            "str": 100
+        },
+        "items": [
+            { "name": "dSolver's Feather", "dropPercent": 85 }
+        ]
+    },
+    "Mummy Lord": {
+        "respawn": 7200,
+        "availableScore": 1500,
+        "stats": {
+            "class": "Fighter",
+            "hp": 3000,
+            "level": 15,
+            "con": 200,
+            "dex": 200,
+            "str": 300
+        },
+        "items": [
+            { "name": "Mummy Lord Greatsword", "dropPercent": 85 }
+        ]
+    },
+    "Lizard King": {
+        "respawn": 10800,
+        "availableScore": 2500,
+        "stats": {
+            "class": "Mage",
+            "hp": 5000,
+            "mp": 10000,
+            "level": 20,
+            "con": 200,
+            "str": 200,
+            "int": 300
+        },
+        "items": [
+            { "name": "Lizard King Staff", "dropPercent": 80 }
+        ]
+    },
+    "Warden of Norkos": {
+        "respawn": 10800,
+        "availableScore": 3200,
+        "stats": {
+            "class": "Barbarian",
+            "hp": 72468,
+            "mp": 1000,
+            "level": 60,
+            "con": 1000,
+            "str": 3900,
+            "int": 100,
+            "luck": 800,
+            "thunder": 2000,
+            "mindwipe": 1
+        },
+        "items": [
+            { "name": "Wardens Gavel", "dropPercent": 95 },
+            { "name": "Subtle Sapphire", "dropPercent": 25 }
+        ]
+    },
+    "Super Ninja Gaiden": {
+        "respawn": 10800,
+        "availableScore": 2400,
+        "stats": {
+            "class": "Rogue",
+            "hp": 14740,
+            "level": 30,
+            "str": 1800,
+            "con": 400,
+            "dex": 1600,
+            "agi": 1500,
+            "poison": 1
+        },
+        "items": [
+            { "name": "Super Shuriken", "dropPercent": 80 }
+        ]
+    },
+    "Emeriss the Guardian": {
+        "respawn": 10800,
+        "availableScore": 2400,
+        "stats": {
+            "class": "Mage",
+            "hp": 7370,
+            "level": 20,
+            "int": 400,
+            "wis": 450,
+            "agi": 50
+        },
+        "items": [
+            { "name": "Staff of the Prophet", "dropPercent": 80 }
+        ]
+    },
+    "Trustee Rakshasha": {
+        "respawn": 10800,
+        "availableScore": 1000,
+        "stats": {
+            "class": "Monster",
+            "hp": 7370,
+            "level": 10,
+            "agi": 50,
+            "dex": 75,
+            "str": 100,
+            "mindwipe": 1
+        },
+        "items": [
+            { "name": "Moonlight Signet", "dropPercent": 80 }
+        ]
+    },
+    "Black Dragon King": {
+        "respawn": 10800,
+        "availableScore": 2400,
+        "stats": {
+            "class": "Monster",
+            "hp": 21200,
+            "level": 40,
+            "str": 1800,
+            "dex": 1750,
+            "con": 1000,
+            "sturdy": 1
+        },
+        "items": [
+            { "name": "Ward of the Black Dragon King", "dropPercent": 60 }
+        ]
+    },
+    "Child Minotaur": {
+        "respawn": 10800,
+        "availableScore": 2500,
+        "stats": {
+            "class": "Fighter",
+            "hp": 5120,
+            "level": 20,
+            "str": 300,
+            "dex": 250,
+            "agi": 275
+        },
+        "items": [
+            { "name": "Oversized Locket", "dropPercent": 60 }
+        ]
+    },
+    "Sibling Minotaur": {
+        "respawn": 10800,
+        "availableScore": 4000,
+        "stats": {
+            "class": "Fighter",
+            "hp": 13745,
+            "level": 25,
+            "str": 575,
+            "dex": 545,
+            "agi": 350,
+            "con": 50
+        },
+        "items": [
+            { "name": "Hand-Me-Down Battleaxe", "dropPercent": 65 }
+        ]
+    },
+    "Elder Minotaur": {
+        "respawn": 10800,
+        "availableScore": 6000,
+        "stats": {
+            "class": "Mage",
+            "hp": 12580,
+            "level": 30,
+            "int": 1100,
+            "wis": 990,
+            "agi": 50
+        },
+        "items": [
+            { "name": "Wizard Hat with Horns", "dropPercent": 70 }
+        ]
+    },
+    "King Minotaur": {
+        "respawn": 10800,
+        "availableScore": 11400,
+        "stats": {
+            "class": "Barbarian",
+            "hp": 21000,
+            "level": 40,
+            "str": 2100,
+            "dex": 750,
+            "con": 1200,
+            "agi": 100,
+            "sturdy": 1
+        },
+        "items": [
+            { "name": "King Minotaur's Axe", "dropPercent": 85 }
+        ]
+    },
+    "Vampire Lord": {
+        "respawn": 10800,
+        "availableScore": 4000,
+        "stats": {
+            "class": "Rogue",
+            "hp": 13666,
+            "level": 42,
+            "str": 750,
+            "dex": 1000,
+            "con": 250,
+            "agi": 1000,
+            "wis": 500,
+            "int": 500,
+            "vampire": 2
+        },
+        "items": [
+            { "name": "Golden Vampire Gauntlets", "dropPercent": 80 }
+        ],
+        "collectibles": [
+            { "name": "Vampire Heart", "dropPercent": 95, "storyline": "Era: Corruption", "flavorText": "The still-beating heart of a vampire. It reeks of darkness." }
+        ]
+    },
+    "Cloud Giant": {
+        "respawn": 10800,
+        "availableScore": 11400,
+        "stats": {
+            "class": "Fighter",
+            "hp": 14777,
+            "level": 45,
+            "str": 2000,
+            "dex": 500,
+            "con": 1200,
+            "agi": 100,
+            "sturdy": 1
+        },
+        "items": [
+            { "name": "Halberd of the Giants", "dropPercent": 80 }
+        ],
+        "collectibles": [
+            { "name": "Crystal of Air", "dropPercent": 30, "storyline": "Era: Corruption", "flavorText": "It's hard to tell, but there are pockets of air in this crystal." }
+        ]
+    },
+    "Ghostly Pirate Captain": {
+        "respawn": 10800,
+        "availableScore": 1200,
+        "stats": {
+            "class": "Pirate",
+            "hp": 1750,
+            "level": 15,
+            "luck": 33,
+            "dex": 200,
+            "agi": 200,
+            "parry": 10
+        },
+        "items": [
+            { "name": "Incorporeal Cutlass", "dropPercent": 70 }
+        ]
+    },
+    "Baby Red Draygon": {
+        "respawn": 10800,
+        "availableScore": 3000,
+        "stats": {
+            "class": "Barbarian",
+            "hp": 16999,
+            "level": 30,
+            "luck": 33,
+            "dex": 600,
+            "agi": 900,
+            "str": 2000,
+            "prone": 1,
+            "glowing": 1
+        },
+        "items": [
+            { "name": "Fire Infused Dragon Tooth", "dropPercent": 75 }
+        ],
+        "collectibles": [
+            { "name": "Red Draygon Scale", "dropPercent": 50, "storyline": "Lore: Draygons", "flavorText": "A gleaming ruby-like scale. It's warm to the touch." }
+        ]
+    },
+    "Mama Red Draygon": {
+        "respawn": 10800,
+        "availableScore": 5000,
+        "stats": {
+            "class": "Mage",
+            "hp": 39212,
+            "mp": 77777,
+            "level": 55,
+            "luck": 77,
+            "dex": 1600,
+            "con": 1300,
+            "agi": 500,
+            "str": 3900,
+            "wis": 999,
+            "int": 2900,
+            "fire": 7777,
+            "defense": 2,
+            "fear": 1,
+            "sturdy": 1
+        },
+        "items": [
+            { "name": "Breastplate of Wrath", "dropPercent": 80 }
+        ]
+    },
+    "Lich Brother of Anger": {
+        "respawn": 10800,
+        "availableScore": 1000,
+        "stats": {
+            "class": "Fighter",
+            "hp": 12999,
+	    "mp": 3000,
+            "level": 35,
+            "luck": 30,
+            "dex": 1300,
+	    "con": 888,
+	    "agi": 750,
+	    "int": 1000,
+	    "str": 2000,
+	    "offense": 2,
+	    "sturdy": 1,
+	    "lethal": 1
+        },
+        "items": [
+            { "name": "Amulet of Anger", "dropPercent": 80 }
+        ]
+		},
+    "Lich Brother of Fear": {
+        "respawn": 10800,
+        "availableScore": 2000,
+        "stats": {
+            "class": "Monster",
+            "hp": 14999,
+	    "mp": 15000,
+            "level": 40,
+            "luck": 10,
+            "dex": 1000,
+	    "con": 1000,
+	    "agi": 1000,
+	    "str": 1000,
+	    "wis": 1000,
+	    "int": 1000,
+	    "defense": 2,
+	    "fear": 10,
+	    "sturdy": 1,
+	    "startle": 1
+        },
+        "items": [
+            { "name": "Amulet of Fear", "dropPercent": 80 }
+        ]
+		},
+    "Lich Brother of Decay": {
+        "respawn": 10800,
+        "availableScore": 3000,
+        "stats": {
+            "class": "Mage",
+            "hp": 16221,
+	    "mp": 53000,
+            "level": 45,
+            "luck": 33,
+            "agi": 888,
+	    "con": 150,
+	    "wis": 1200,
+	    "int": 2200,
+	    "fire": 500,
+	    "ice": 500,
+	    "thunder": 500,
+	    "defense": 2,
+	    "shatter": 1,
+	    "poison": 2
+        },
+        "items": [
+            { "name": "Amulet of Decay", "dropPercent": 80 }
+        ]
+		},
+    "Lich Brother of Insanity": {
+        "respawn": 10800,
+        "availableScore": 4000,
+        "stats": {
+            "class": "Random",
+            "hp": 19381,
+	    "mp": 55555,
+            "level": 50,
+            "luck": 200,
+            "dex": 700,
+	    "con": 621,
+	    "agi": 1200,
+	    "str": 1000,
+	    "wis": 500,
+	    "int": 2500,
+	    "defense": 1,
+	    "fear": 1,
+	    "sturdy": 1,
+	    "Dance": 1
+        },
+        "items": [
+            { "name": "Amulet of Insanity", "dropPercent": 80 }
+        ]
+		},
+    "Lich Brother of Death": {
+        "respawn": 10800,
+        "availableScore": 5000,
+        "stats": {
+            "class": "Lich",
+            "hp": 23090,
+	    "mp": 75000,
+            "level": 55,
+            "dex": 1500,
+	    "con": 1500,
+	    "agi": 1000,
+	    "str": 2000,
+	    "wis": 30,
+	    "int": 2000,
+	    "fear": 1,
+	    "vampire": 1
+        },
+        "items": [
+            { "name": "Amulet of Death", "dropPercent": 80 }
+        ]
+		},
+    "The Lich Lord": {
+        "respawn": 10800,
+        "availableScore": 6000,
+        "stats": {
+            "class": "Lich",
+            "hp": 26930,
+	    "mp": 100000,
+            "level": 65,
+            "luck": 1,
+            "dex": 1025,
+	    "con": 1500,
+	    "agi": 975,
+	    "str": 2001,
+	    "wis": 899,
+	    "int": 2001,
+	    "shatter": 1,
+	    "lethal": 1,
+	    "fear": 5,
+	    "glowing": 1,
+	    "startle": 1
+	    
+        },
+        "items": [
+            { "name": "Lich Lord's Phylactery", "dropPercent": 80 }
+        ],
+        "collectibles": [
+            { "name": "Cursed Orb", "dropPercent": 75, "flavorText": "Every crack looks like it opens to a void.", "storyline": "Era: Corruption"}
+        ]
+		},
+    "Venerable Dwarven Lord": {
+        "respawn": 10800,
+        "availableScore": 5000,
+        "stats": {
+            "class": "Random",
+            "hp": 17580,
+	    "mp": 75000,
+            "level": 50,
+            "luck": 12,
+            "dex": 900,
+	    "con": 1120,
+	    "agi": 950,
+	    "str": 2300,
+	    "wis": 1100,
+	    "int": 1500
+        },
+        "items": [
+            { "name": "Jewel-Encrusted Pick Axe", "dropPercent": 80 }
+        ]
+		},
+    "Mushroom Beast": {
+        "respawn": 10800,
+        "availableScore": 5000,
+        "stats": {
+            "class": "Archer",
+            "hp": 13790,
+	    "mp": 10000,
+            "level": 38,
+            "luck": 20,
+            "dex": 1800,
+	    "con": 900,
+	    "agi": 1001,
+	    "str": 1000,
+	    "int": 150,
+	    "glowing": 1,
+	    "venom": 1
+        },
+        "items": [
+            { "name": "Mushroom Shaped Charm", "dropPercent": 80 }
+        ]
+		},
+    "Elf Administrator": {
+        "respawn": 10800,
+        "availableScore": 1500,
+        "stats": {
+            "class": "Generalist",
+            "hp": 1600,
+	    "mp": 1500,
+            "level": 15,
+            "luck": 25,
+            "dex": 125,
+	    "con": 105,
+	    "wis": 175,
+	    "agi": 125,
+	    "str": 275,
+	    "int": 200
+        },
+        "items": [
+            { "name": "The Nice List", "dropPercent": 80 }
+        ]
+		},
+    "Angry Elf": {
+        "respawn": 10800,
+        "availableScore": 0,
+        "stats": {
+            "class": "Barbarian",
+            "hp": 1600,
+            "level": 12,
+            "luck": 25,
+            "dex": 120,
+	    "con": 175,
+	    "agi": 75,
+	    "str": 375,
+	    "offense": 1
+        }
+		},
+    "Toy Maker Elf": {
+        "respawn": 10800,
+        "availableScore": 0,
+        "stats": {
+            "class": "Jester",
+            "hp": 1225,
+	    "mp": 1500,
+            "level": 12,
+            "luck": 200
+        }
+        	},
+    "Reindeer Warden": {
+        "respawn": 10800,
+        "availableScore": 5000,
+        "stats": {
+            "class": "Mage",
+            "hp": 21005,
+	    "mp": 36000,
+            "level": 40,
+            "str": 2200,
+	    "int": 2300,
+	    "wis": 500,
+	    "luck": 25,
+            "dex": 850,
+            "con": 1200,
+            "agi": 670,
+            "sturdy": 1,
+	    "ice": 10000,
+	    "icePercent": 10
+        },
+        "items": [
+            { "name": "Snow Covered Antlers", "dropPercent": 80 }
+        ]
+		},
+    "Santa, Lord of Presents": {
+        "respawn": 10800,
+        "availableScore": 9000,
+        "stats": {
+            "class": "Fighter",
+            "gender": "male",
+            "hp": 75800,
+	    "mp": 10000,
+            "level": 80,
+            "luck": 25,
+            "dex": 2300,
+	    "con": 3500,
+	    "agi": 1701,
+	    "str": 4400,
+	    "int": 900,
+	    "glowing": 1,
+	    "silver": 1,
+	    "sturdy": 1,
+	    "startle": 1
+        },
+        "items": [
+            { "name": "The Naughty List", "dropPercent": 80 }
+        ]
+		},
+    "Lucifer the Flame-Born": {
+        "respawn": 10800,
+        "availableScore": 2400,
+        "stats": {
+            "class": "Mage",
+            "hp": 23200,
+            "mp": 28200,
+            "level": 40,
+            "str": 1800,
+            "int": 1750,
+            "wis": 1450,
+            "con": 900,
+            "fire": 10000,
+            "sturdy": 1
+        }
+    },
+    "Green Draygon": {
+        "respawn": 10800,
+        "availableScore": 5150,
+        "stats": {
+            "class": "Mage",
+            "hp": 28312,
+            "mp": 53000,
+            "level": 53,
+            "str": 230,
+            "int": 3370,
+	    "agi": 570,
+            "wis": 1800,
+            "con": 876,
+            "venom": 2,
+            "poison": 2
+        },
+        "items": [
+            { "name": "Noxious Amulet", "dropPercent": 80 }
+        ]
+    },
+    "Fighter Guardian": {
+        "respawn": 10800,
+        "availableScore": 3700,
+        "stats": {
+            "class": "Fighter",
+            "hp": 23200,
+            "level": 40,
+            "str": 2000,
+            "con": 1120,
+	    "dex": 400,
+            "defense": 1,
+            "offense": 1,
+	    "glowing": 1
+        },
+        "items": [
+            { "name": "Guardian Longsword", "dropPercent": 80 }
+        ]
+    },
+    "Mage Guardian": {
+        "respawn": 10800,
+        "availableScore": 2400,
+        "stats": {
+            "class": "Mage",
+            "hp": 26705,
+            "mp": 44000,
+            "level": 44,
+            "str": 400,
+            "int": 2015,
+            "wis": 700,
+            "con": 100,
+            "fire": 350,
+	    "earth": 350,
+	    "crit": 3,
+	    "lethal": 1,
+	    "glowing": 1
+        },
+        "items": [
+            { "name": "Guardian Staff", "dropPercent": 80 }
+        ]
+    },
+    "Cleric Guardian": {
+        "respawn": 10800,
+        "availableScore": 2400,
+        "stats": {
+            "class": "Cleric",
+            "hp": 35000,
+            "mp": 48000,
+            "level": 48,
+            "str": 1950,
+            "int": 1000,
+            "wis": 1950,
+	    "dex": 600,
+	    "agi": 500,
+            "con": 825,
+	    "defense": 2, 
+            "sturdy": 1,
+	    "glowing": 1
+        },
+        "items": [
+            { "name": "Guardian Mace", "dropPercent": 80 }
+        ]
+    },
+    "Generalist Guardian": {
+        "respawn": 10800,
+        "availableScore": 2400,
+        "stats": {
+            "class": "Generalist",
+            "hp": 35000,
+            "mp": 15000,
+            "level": 52,
+            "str": 1800,
+            "int": 1800,
+	    "dex": 1500,
+	    "agi": 1200,
+            "wis": 900,
+            "con": 900,
+	    "luck": 100,
+	    "parry": 1,
+	    "crit": 1,
+	    "glowing": 1
+        },
+        "items": [
+            { "name": "Guardian Guidebook", "dropPercent": 80 }
+        ]
+    },
+    "Guardian Lord": {
+        "respawn": 10800,
+        "availableScore": 5150,
+        "stats": {
+            "class": "Fighter",
+            "hp": 73000,
+            "level": 60,
+            "str": 2500,
+	    "dex": 1500,
+	    "agi": 1500,
+            "con": 2000,
+	    "luck": 100,
+            "sturdy": 1,
+	    "defense": 1,
+	    "offense": 1,
+	    "parry": 1,
+	    "crit": 2,
+	    "glowing": 2
+        },
+        "items": [
+            { "name": "Guardian Tower Shield", "dropPercent": 80 }
+        ]
+    },
+    "Barney": {
+        "respawn": 10800,
+        "availableScore": 5150,
+        "stats": {
+            "class": "Fighter",
+            "hp": 22500,
+	    "mp": 3700,
+            "level": 51,
+            "str": 1666,
+	    "dex": 1285,
+	    "agi": 1285,
+            "con": 481,
+	    "luck": 26,
+            "prone": 1,
+	    "parry": 1,
+	    "poison": 1,
+	    "venom": 1
+        },
+        "items": [
+            { "name": "Acid Amulet Shard", "dropPercent": 75 }
+        ]
+    },
+    "Necromancer Guardian": {
+        "respawn": 10800,
+        "availableScore": 6700,
+        "stats": {
+            "class": "Necromancer",
+            "hp": 70000,
+	    "mp": 54320,
+            "level": 90,
+            "str": 2200,
+	    "dex": 2200,
+            "wis": 5000,
+	    "luck": -10,
+            "power": 1,
+	    "punish": 1
+        },
+        "items": [
+            { "name": "Necromantic Essence", "dropPercent": 75 }
+        ]
+    },
+    "Fire Giant": {
+        "respawn": 10800,
+        "availableScore": 6150,
+        "stats": {
+            "class": "Fighter",
+            "hp": 80000,
+	    "mp": 600,
+            "level": 75,
+            "str": 3400,
+	    "dex": 2200,
+	    "agi": 1990,
+            "con": 2700,
+	    "fire": 2000,
+	    "luck": 15,
+            "prone": 1,
+	    "parry": 1,
+	    "defense": 1,
+	    "offense": 1,
+	    "sturdy": 1,
+	    "vorpal": 1
+        },
+        "items": [
+            { "name": "Halberd of the Fire Giants", "dropPercent": 75 }
+        ]
+    },
+    "Spot, the Dragon": {
+        "respawn": 10800,
+        "availableScore": 5150,
+        "stats": {
+            "class": "Mage",
+            "hp": 39000,
+	    "mp": 27000,
+            "level": 65,
+            "str": 1500,
+	    "dex": 1550,
+	    "agi": 1905,
+	    "int": 2000,
+	    "wis": 50,
+	    "fire": 2000,
+	    "mpregen": 100,
+            "con": 400,
+            "lethal": 1,
+	    "offense": 2,
+	    "fear": 1
+        },
+        "items": [
+            { "name": "Flame Polished Gauntlets", "dropPercent": 75 }
+        ],
+        "collectibles": [
+            { "name": "Bottle of Ketchup", "dropPercent": 75, "flavorText": "Spot was always prepared for adventurers.", "storyline": "Lore: Draygons"}
+        ]
+    },
+    "Little Yeti": {
+        "respawn": 10800,
+        "availableScore": 400,
+        "stats": {
+            "class": "Monster",
+            "hp": 500,
+            "mp": 300,
+            "level": 5,
+            "str": 100,
+            "dex": 100,
+            "agi": 100
+        },
+        "items": [
+            { "name": "Yeti Sized Club", "dropPercent": 80 }
+        ]
+    },
+    "Leviathan": {
+        "respawn": 10800,
+        "availableScore": 2000,
+        "stats": {
+            "class": "Random",
+            "hp": 13652,
+            "mp": 20000,
+            "level": 34,
+            "str": 1200,
+            "int": 1000,
+            "dex": 805,
+	    "agi": 620,
+	    "poison": 4,
+	    "prone": 1,
+	    "sturdy": 1
+        },
+        "items": [
+            { "name": "Leviathan Claw", "dropPercent": 80 }
+        ],
+        "collectibles": [
+            { "name": "Leviathan Egg", "dropPercent": 45, "storyline": "Era: Corruption", "flavorText": "An ivory egg. It occasionally stirs with activity, though it's hard to discern why." }
+        ]
+    },
+    "Snowbeast": {
+        "respawn": 10800,
+        "availableScore": 2400,
+        "stats": {
+            "class": "Mage",
+            "hp": 16350,
+            "mp": 15000,
+            "level": 45,
+            "str": 1500,
+            "int": 1750,
+	    "dex": 1000,
+            "agi": 1200,
+	    "wis": 1000,
+	    "ice": 4000,
+	    "deadeye": 1,
+	    "startle": 1
+        },
+        "collectibles": [
+            { "name": "Snowbeast Skull", "dropPercent": 90, "flavorText": "What are you, the Bone Collector?", "storyline": "Lore: Frigri" }
+        ]
+    },
+    "Unspeakably Horrible Cave Creature": {
+        "respawn": 10800,
+        "availableScore": 666,
+        "stats": {
+            "class": "Monster",
+            "hp": 17666,
+            "mp": 333,
+            "level": 25,
+            "str": 730,
+            "dex": 400,
+            "agi": 400,
+	    "int": 100,
+	    "poison": 1,
+	    "vampire": 1,
+	    "lethal": 1,
+	    "hpregen": 50
+        },
+        "items": [
+            { "name": "Slime Covered Jerkin", "dropPercent": 80 }
+        ]
+    },
+    "Basilisk": {
+        "respawn": 10800,
+        "availableScore": 1000,
+        "stats": {
+            "class": "Monster",
+            "hp": 7400,
+            "mp": 1000,
+            "level": 15,
+            "str": 475,
+            "dex": 300,
+            "agi": 210,
+	    "prone": 3,
+	    "defense": 1,
+	    "venom": 1,
+	    "startle": 1
+        },
+        "collectibles": [
+            { "name": "Gorgon Snake", "dropPercent": 5, "storyline": "Memoir: Necromancer", "flavorText": "The Necromancers of olde would oft use artifacts like this to summon powerful monsters." },
+	    { "name": "Basilisk Scale", "dropPercent": 95, "storyline": "Lore: Draygons", "flavorText": "This once jet black and red scale has now turned to stone." }
+        ]
+    },
+    "Slicer": {
+        "respawn": 10800,
+        "availableScore": 3400,
+        "stats": {
+            "class": "Fighter",
+            "gender": "male",
+	    "hp": 39000,
+            "level": 55,
+            "str": 2400,
+            "dex": 1000,
+	    "con": 800,
+            "agi": 1000,
+	    "int": 250,
+	    "glowing": 1,
+	    "silver": 1,
+	    "power": 1,
+	    "defense": 1,
+	    "vorpal": 1
+        },
+        "items": [
+            { "name": "Slicer's Sabre", "dropPercent": 80 }
+        ]
+    },
+    "Smasher": {
+        "respawn": 10800,
+        "availableScore": 3400,
+        "stats": {
+            "class": "Barbarian",
+            "gender": "male",
+            "hp": 39000,
+            "level": 55,
+            "str": 2670,
+            "dex": 900,
+	    "con": 1400,
+            "agi": 900,
+	    "int": -123,
+	    "wis": -456,
+	    "glowing": 1,
+	    "prone": 1,
+	    "power": 1,
+	    "defense": 2
+        },
+        "items": [
+            { "name": "Smasher's Smashin' Club", "dropPercent": 75 }
+        ]
+    },
+    "Naga Necromancer": {
+        "respawn": 10800,
+        "availableScore": 10000,
+        "stats": {
+            "class": "Necromancer",
+	    "gender": "female",
+            "hp": 185000,
+	    "mp": 200000,
+            "level": 100,
+            "str": 6900,
+            "dex": 4000,
+	    "con": 3000,
+            "agi": 2100,
+	    "int": 6700,
+	    "wis": 1400,
+	    "aegis": 1,
+	    "crit": 5,
+	    "dance": 1,
+	    "deadeye": 1,
+	    "fear": 1,
+	    "lethal": 1,
+	    "offense": 1,
+	    "parry": 2,
+	    "poison": 4,
+	    "prone": 1,
+	    "punish": 1,
+	    "silver": 1,
+	    "startle": 1,
+	    "vorpal": 2
+        },
+        "items": [
+            { "name": "Naga Resurrection Trident", "dropPercent": 60 }
+        ]
+    },
+    "Lord Waxington": {
+        "respawn": 10800,
+        "availableScore": 1500,
+        "stats": {
+            "class": "Rogue",
+            "hp": 4995,
+            "level": 20,
+            "str": 250,
+            "con": 130,
+            "dex": 600,
+            "agi": 250,
+	    "luck": 15,
+            "crit": 10,
+	    "sturdy": 1
+        },
+        "items": [
+            { "name": "Lord Waxington's Top Hat", "dropPercent": 80 }
+        ]
+    },
+    "Andy the Skeleton": {
+        "respawn": 10800,
+        "availableScore": 0,
+        "stats": {
+            "class": "Monster",
+            "hp": 2500,
+            "level": 23,
+            "luck": 30,
+            "dex": 225,
+	    "con": 175,
+	    "agi": 255,
+	    "str": 500,
+	    "int": 300,
+	    "wis": 200,
+	    "offense": 1
+        }
+		},
+    "Goldy the Skeleton": {
+        "respawn": 10800,
+        "availableScore": 0,
+        "stats": {
+            "class": "MagicalMonster",
+            "hp": 2500,
+	    "mp": 2500,
+            "level": 23,
+            "luck": 30,
+            "dex": 225,
+	    "con": 175,
+	    "agi": 255,
+	    "str": 500,
+	    "int": 300,
+	    "wis": 200,
+	    "lethal": 1
+        }
+		},
+    "Mr Bones": {
+        "respawn": 10800,
+        "availableScore": 0,
+        "stats": {
+            "class": "Bard",
+	    "gender": "Male",
+            "hp": 2500,
+	    "mp": 2500,
+            "level": 23,
+            "luck": 30,
+            "dex": 225,
+	    "con": 175,
+	    "agi": 255,
+	    "str": 500,
+	    "int": 300,
+	    "wis": 200,
+	    "hpregen": 100
+        }
+		},
+    "Norkian Necromancer": {
+        "respawn": 10800,
+        "availableScore": 2500,
+        "stats": {
+            "class": "Necromancer",
+            "hp": 17324,
+            "level": 35,
+            "str": 1100,
+            "con": 60,
+            "dex": 500,
+            "agi": 300,
+	    "int": 1500,
+            "lethal": 3,
+	    "sturdy": 1
+        } 
+    },
+    "Living Crystal": {
+        "respawn": 10800,
+        "availableScore": 9000,
+        "stats": {
+            "class": "Random",
+            "hp": 200000,
+            "level": 125,
+            "str": 10000,
+            "con": 7000,
+            "dex": 7000,
+            "agi": 7000,
+	    "int": 10000,
+	    "wis": 7000,
+	    "luck": 150,
+            "poison": 4,
+	    "venom": 3,
+	    "glowing": 1,
+	    "hpregen": 500
+        },
+        "items": [
+            { "name": "Crystal Crown", "dropPercent": 75 }
+        ]
+    },
+    "Astral Guard": {
+        "respawn": 10800,
+        "availableScore": 1500,
+        "stats": {
+            "class": "Fighter",
+            "hp": 200000,
+            "level": 150,
+            "str": 15000,
+            "con": 15000,
+            "dex": 9000,
+            "agi": 9000,
+	    "luck": 200,
+            "crit": 2,
+	    "aegis": 1,
+	    "prone": 1,
+	    "vorpal": 1,
+	    "absolute": 100,
+	    "offense": 2,
+	    "defense": 2
+        },
+        "items": [
+            { "name": "Astral Boots", "dropPercent": 20 }
+        ]
+    },
+    "Astral Beast": {
+        "respawn": 10800,
+        "availableScore": 15555,
+        "stats": {
+            "class": "Random",
+            "hp": 5000000,
+            "level": 200,
+            "str": 80000,
+            "con": 25000,
+            "dex": 27000,
+	    "int": 60000,
+	    "wis": 40000,
+            "agi": 30000,
+	    "luck": 2000,
+            "crit": 9,
+	    "aegis": 1,
+	    "prone": 1,
+	    "vorpal": 2,
+	    "absolute": 100,
+	    "offense": 3,
+	    "defense": 4,
+	    "damageReduction": 300,
+	    "dance": 2,
+	    "mindwipe": 1,
+	    "deadeye": 2,
+	    "fear": 10,
+	    "glowing": 1,
+	    "haste": 10,
+	    "lethal": 2,
+	    "parry": 2,
+	    "poison": 5,
+	    "venom": 5,
+	    "power": 1,
+	    "punish": 1,
+	    "shatter": 1,
+	    "silver": 1,
+	    "startle": 2,
+	    "sturdy": 1,
+	    "vampire": 1,
+	    "hpregen": 666,
+	    "holy": 1000	    
+        },
+        "items": [
+            { "name": "Astral Stabilizer", "dropPercent": 75 }
+        ]
+    },
+    "Gryffyndor House Representative": {
+        "respawn": 10800,
+        "availableScore": 2400,
+        "stats": {
+            "class": "Monster",
+            "hp": 23200,
+            "mp": 28200,
+            "level": 40,
+            "str": 1800,
+            "dex": 1500,
+            "agi": 1400,
+            "con": 1000
+        },
+        "items": [
+            { "name": "Gryffyndor Sword", "dropPercent": 80 }
+        ]
+    },
+    "Sky Dragon of Vocalnus": {
+        "respawn": 10800,
+        "availableScore": 2400,
+        "stats": {
+            "class": "Bard",
+            "hp": 23200,
+            "mp": 28200,
+            "level": 40,
+            "str": 1800,
+            "wis": 1500,
+            "int": 1400,
+            "con": 1000
+        },
+        "items": [
+            { "name": "Nimbus Cloud Mace", "dropPercent": 80 }
+        ]
+    }
+}

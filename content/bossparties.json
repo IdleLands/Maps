@@ -1,0 +1,34 @@
+{
+  "Wardens": {
+    "respawn": 7200,
+    "members": [
+      "Warden of Norkos",
+      "Warden of Norkos"
+    ]
+  },
+  "Christmas Elves": {
+    "respawn": 7200,
+    "members": [
+      "Elf Administrator",
+      "Angry Elf",
+      "Toy Maker Elf"
+    ]
+  },
+  "Spooky Scary Skeletons": {
+    "respawn": 7200,
+    "members": [
+      "Andy the Skeleton",
+      "Goldy the Skeleton",
+      "Mr Bones"
+    ]
+  },
+  "Astral Guards": {
+    "respawn": 7200,
+    "members": [
+      "Astral Guard",
+      "Astral Guard",
+      "Astral Guard",
+      "Astral Guard"
+    ]
+  }
+}
