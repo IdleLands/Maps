@@ -29,8 +29,9 @@
          "objects":[
                 {
                  "gid":2,
-                 "height":0,
-                 "name":"ToNorkosDungeon1",
+                 "height":16,
+                 "id":1,
+                 "name":"ToNorkosDungeon-1",
                  "properties":
                     {
                      "destName":"Norkos Dungeon -1",
@@ -42,14 +43,15 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":480,
                  "y":224
                 }, 
                 {
                  "gid":1,
-                 "height":0,
-                 "name":"ToNorkos-3",
+                 "height":16,
+                 "id":2,
+                 "name":"ToNorkosDungeon-3",
                  "properties":
                     {
                      "destx":"3",
@@ -60,23 +62,24 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":16,
                  "y":48
                 }, 
                 {
                  "gid":15,
-                 "height":0,
+                 "height":16,
+                 "id":3,
                  "name":"Strange Helm",
                  "properties":
                     {
-						"flavorText": "A helm that appears to be made by someone new to the practice. The style is not quite of Norkos, though.",
-						"storyline": "Lore: Norkos Dungeon"
+                     "flavorText":"A helm that appears to be made by someone new to the practice. The style is not quite of Norkos, though.",
+                     "storyline":"Lore: Norkos Dungeon"
                     },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":16,
                  "y":80
                 }],
@@ -87,6 +90,7 @@
          "x":0,
          "y":0
         }],
+ "nextobjectid":4,
  "orientation":"orthogonal",
  "properties":
     {
@@ -98,7 +102,7 @@
         {
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":80,
+         "imageheight":112,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
@@ -107,6 +111,7 @@
 
             },
          "spacing":0,
+         "tilecount":63,
          "tileheight":16,
          "tilewidth":16
         }],
