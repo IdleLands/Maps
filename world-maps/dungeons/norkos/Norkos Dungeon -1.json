@@ -23,13 +23,15 @@
          "y":0
         }, 
         {
+         "draworder":"topdown",
          "height":17,
          "name":"Interactables",
          "objects":[
                 {
                  "gid":1,
-                 "height":0,
-                 "name":"ToNorkosDungeon2",
+                 "height":16,
+                 "id":1,
+                 "name":"ToNorkosDungeon-2",
                  "properties":
                     {
                      "destName":"Norkos Dungeon -2",
@@ -38,15 +40,17 @@
                      "map":"Norkos Dungeon -2",
                      "movementType":"descend"
                     },
+                 "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":176,
                  "y":160
                 }, 
                 {
                  "gid":2,
-                 "height":0,
+                 "height":16,
+                 "id":2,
                  "name":"ToNorkos",
                  "properties":
                     {
@@ -56,38 +60,43 @@
                      "map":"Norkos",
                      "movementType":"ascend"
                     },
+                 "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":480,
                  "y":32
                 }, 
                 {
                  "gid":26,
-                 "height":0,
+                 "height":16,
+                 "id":3,
                  "name":"Goblin Lord",
                  "properties":
                     {
 
                     },
+                 "rotation":0,
                  "type":"Boss",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":656,
                  "y":240
                 }, 
                 {
                  "gid":15,
-                 "height":0,
+                 "height":16,
+                 "id":4,
                  "name":"Goblish Cap",
                  "properties":
                     {
-						"flavorText": "A small metal saucer used by goblins to protect their noggins.",
-						"storyline": "Lore: Norkos Dungeon"
+                     "flavorText":"A small metal saucer used by goblins to protect their noggins.",
+                     "storyline":"Lore: Norkos Dungeon"
                     },
+                 "rotation":0,
                  "type":"Collectible",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":656,
                  "y":96
                 }],
@@ -98,11 +107,13 @@
          "x":0,
          "y":0
         }],
+ "nextobjectid":5,
  "orientation":"orthogonal",
  "properties":
     {
      "name":"norkos"
     },
+ "renderorder":"right-down",
  "tileheight":16,
  "tilesets":[
         {
@@ -117,6 +128,7 @@
 
             },
          "spacing":0,
+         "tilecount":63,
          "tileheight":16,
          "tilewidth":16
         }],

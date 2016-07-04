@@ -29,8 +29,9 @@
          "objects":[
                 {
                  "gid":2,
-                 "height":0,
-                 "name":"ToNorkos-3",
+                 "height":16,
+                 "id":1,
+                 "name":"ToNorkosDungeon-3",
                  "properties":
                     {
                      "destName":"Norkos Dungeon -3",
@@ -42,14 +43,15 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":336,
                  "y":64
                 }, 
                 {
                  "gid":1,
-                 "height":0,
-                 "name":"ToNorkos-5",
+                 "height":16,
+                 "id":2,
+                 "name":"ToNorkosDungeon-5",
                  "properties":
                     {
                      "destName":"Norkos Dungeon -5",
@@ -61,14 +63,15 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":96,
                  "y":384
                 }, 
                 {
                  "gid":1,
-                 "height":0,
-                 "name":"ToNorkos-5",
+                 "height":16,
+                 "id":3,
+                 "name":"ToNorkosDungeon-5",
                  "properties":
                     {
                      "destName":"Norkos Dungeon -5",
@@ -80,14 +83,15 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":32,
                  "y":48
                 }, 
                 {
                  "gid":1,
-                 "height":0,
-                 "name":"ToNorkos-5",
+                 "height":16,
+                 "id":4,
+                 "name":"ToNorkosDungeon-5",
                  "properties":
                     {
                      "destName":"Norkos Dungeon -5",
@@ -99,13 +103,14 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":608,
                  "y":512
                 }, 
                 {
                  "gid":32,
-                 "height":0,
+                 "height":16,
+                 "id":5,
                  "name":"ToNorkos",
                  "properties":
                     {
@@ -115,23 +120,24 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":752,
                  "y":192
                 }, 
                 {
                  "gid":15,
-                 "height":0,
+                 "height":16,
+                 "id":6,
                  "name":"Sandy Glass",
                  "properties":
                     {
-						"flavorText": "Someone must have wanted a private beach and oasis.",
-						"storyline": "Lore: Raburro"
+                     "flavorText":"Someone must have wanted a private beach and oasis.",
+                     "storyline":"Lore: Raburro"
                     },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":80,
                  "y":480
                 }],
@@ -142,6 +148,7 @@
          "x":0,
          "y":0
         }],
+ "nextobjectid":7,
  "orientation":"orthogonal",
  "properties":
     {
@@ -153,7 +160,7 @@
         {
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":80,
+         "imageheight":112,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
@@ -162,6 +169,7 @@
 
             },
          "spacing":0,
+         "tilecount":63,
          "tileheight":16,
          "tilewidth":16
         }],

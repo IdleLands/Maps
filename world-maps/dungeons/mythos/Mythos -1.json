@@ -23,13 +23,15 @@
          "y":0
         }, 
         {
+         "draworder":"topdown",
          "height":50,
          "name":"Interactables",
          "objects":[
                 {
                  "gid":35,
-                 "height":0,
-                 "name":"ToMythos",
+                 "height":16,
+                 "id":1,
+                 "name":"ToMythos-2",
                  "properties":
                     {
                      "destName":"Mythos Dungeon Deeper",
@@ -38,15 +40,17 @@
                      "map":"Mythos -2",
                      "movementType":"fall"
                     },
+                 "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1056,
                  "y":208
                 }, 
                 {
-                 "gid":38,
-                 "height":0,
+                 "gid":65,
+                 "height":16,
+                 "id":2,
                  "name":"ToVocalnus",
                  "properties":
                     {
@@ -56,15 +60,17 @@
                      "map":"Norkos",
                      "movementType":"ascend"
                     },
+                 "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1312,
                  "y":752
                 }, 
                 {
-                 "gid":38,
-                 "height":0,
+                 "gid":65,
+                 "height":16,
+                 "id":3,
                  "name":"ToVocalnus",
                  "properties":
                     {
@@ -73,39 +79,44 @@
                      "map":"Norkos Prison -2",
                      "movementType":"ascend"
                     },
+                 "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":32,
                  "y":224
                 }, 
                 {
                  "gid":15,
-                 "height":0,
+                 "height":16,
+                 "id":4,
                  "name":"Chunk of Debris",
                  "properties":
                     {
-						"flavorText": "Debris that appears to be from a foundation of a building. Maybe there once was a city down here.",
-						"storyline": "Lore: Vocalnus"
+                     "flavorText":"Debris that appears to be from a foundation of a building. Maybe there once was a city down here.",
+                     "storyline":"Lore: Vocalnus"
                     },
+                 "rotation":0,
                  "type":"Collectible",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":720,
                  "y":240
                 }, 
                 {
                  "gid":15,
-                 "height":0,
+                 "height":16,
+                 "id":5,
                  "name":"Scaly Feather",
                  "properties":
                     {
-						"flavorText": "A sharp but smooth feather from a mythical Roc, now extinct.",
-						"storyline": "Lore: Vocalnus"
+                     "flavorText":"A sharp but smooth feather from a mythical Roc, now extinct.",
+                     "storyline":"Lore: Vocalnus"
                     },
+                 "rotation":0,
                  "type":"Collectible",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":496,
                  "y":528
                 }],
@@ -116,17 +127,19 @@
          "x":0,
          "y":0
         }],
+ "nextobjectid":6,
  "orientation":"orthogonal",
  "properties":
     {
      "name":"norkos"
     },
+ "renderorder":"right-down",
  "tileheight":16,
  "tilesets":[
         {
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":64,
+         "imageheight":112,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
@@ -135,13 +148,14 @@
 
             },
          "spacing":0,
+         "tilecount":63,
          "tileheight":16,
          "tilewidth":16
         }, 
         {
-         "firstgid":37,
+         "firstgid":64,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":64,
+         "imageheight":112,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
@@ -150,6 +164,7 @@
 
             },
          "spacing":0,
+         "tilecount":63,
          "tileheight":16,
          "tilewidth":16
         }],
