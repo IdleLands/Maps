@@ -29,7 +29,7 @@
          "objects":[
                 {
                  "gid":2,
-                 "height":0,
+                 "height":16,
                  "id":1,
                  "name":"ToElemental-3",
                  "properties":
@@ -42,13 +42,13 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":736,
                  "y":64
                 }, 
                 {
                  "gid":2,
-                 "height":0,
+                 "height":16,
                  "id":2,
                  "name":"ToElemental-3",
                  "properties":
@@ -61,13 +61,13 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":16,
                  "y":144
                 }, 
                 {
                  "gid":51,
-                 "height":0,
+                 "height":16,
                  "id":3,
                  "name":"",
                  "properties":
@@ -77,13 +77,13 @@
                  "rotation":0,
                  "type":"Skeleton",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":352,
                  "y":80
                 }, 
                 {
                  "gid":51,
-                 "height":0,
+                 "height":16,
                  "id":4,
                  "name":"",
                  "properties":
@@ -93,13 +93,13 @@
                  "rotation":0,
                  "type":"Skeleton",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":432,
                  "y":128
                 }, 
                 {
                  "gid":51,
-                 "height":0,
+                 "height":16,
                  "id":5,
                  "name":"",
                  "properties":
@@ -109,13 +109,13 @@
                  "rotation":0,
                  "type":"Skeleton",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":352,
                  "y":144
                 }, 
                 {
                  "gid":51,
-                 "height":0,
+                 "height":16,
                  "id":6,
                  "name":"",
                  "properties":
@@ -125,13 +125,13 @@
                  "rotation":0,
                  "type":"Skeleton",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":304,
                  "y":128
                 }, 
                 {
                  "gid":51,
-                 "height":0,
+                 "height":16,
                  "id":7,
                  "name":"",
                  "properties":
@@ -141,13 +141,13 @@
                  "rotation":0,
                  "type":"Skeleton",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":256,
                  "y":176
                 }, 
                 {
                  "gid":51,
-                 "height":0,
+                 "height":16,
                  "id":8,
                  "name":"",
                  "properties":
@@ -157,13 +157,13 @@
                  "rotation":0,
                  "type":"Skeleton",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":224,
                  "y":96
                 }, 
                 {
                  "gid":48,
-                 "height":0,
+                 "height":16,
                  "id":9,
                  "name":"",
                  "properties":
@@ -173,23 +173,24 @@
                  "rotation":0,
                  "type":"Wooden grave marker",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":336,
                  "y":112
                 }, 
                 {
                  "gid":15,
-                 "height":0,
+                 "height":16,
                  "id":10,
                  "name":"Shovel of Raburro",
                  "properties":
                     {
-                     "flavorText":"Covered in the blood of giants, a brave Raburro fighter used his tool as his weapon."
+                     "flavorText":"Covered in the blood of giants, a brave Raburro fighter used his tool as his weapon.",
+                     "storyline":"Lore: Elemental Planes"
                     },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":432,
                  "y":48
                 }],
@@ -212,7 +213,7 @@
         {
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":112,
+         "imageheight":224,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
@@ -221,6 +222,7 @@
 
             },
          "spacing":0,
+         "tilecount":126,
          "tileheight":16,
          "tilewidth":16
         }],

@@ -29,7 +29,7 @@
          "objects":[
                 {
                  "gid":2,
-                 "height":0,
+                 "height":16,
                  "id":1,
                  "name":"ToElemental-3",
                  "properties":
@@ -42,13 +42,13 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":128,
                  "y":32
                 }, 
                 {
                  "gid":2,
-                 "height":0,
+                 "height":16,
                  "id":2,
                  "name":"ToElemental-3",
                  "properties":
@@ -61,23 +61,24 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":48,
                  "y":736
                 }, 
                 {
                  "gid":15,
-                 "height":0,
+                 "height":16,
                  "id":3,
                  "name":"Subterranean Flower",
                  "properties":
                     {
-                     "flavorText":"This species of flower has never been documented."
+                     "flavorText":"This species of flower has never been documented.",
+                     "storyline":"Lore: Elemental Planes"
                     },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":144,
                  "y":704
                 }],
@@ -100,7 +101,7 @@
         {
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":112,
+         "imageheight":224,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
@@ -109,6 +110,7 @@
 
             },
          "spacing":0,
+         "tilecount":126,
          "tileheight":16,
          "tilewidth":16
         }],

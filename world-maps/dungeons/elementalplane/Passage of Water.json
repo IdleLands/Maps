@@ -29,7 +29,7 @@
          "objects":[
                 {
                  "gid":2,
-                 "height":0,
+                 "height":16,
                  "id":1,
                  "name":"ToElemental-3",
                  "properties":
@@ -42,13 +42,13 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":48,
                  "y":32
                 }, 
                 {
                  "gid":2,
-                 "height":0,
+                 "height":16,
                  "id":3,
                  "name":"ToElemental-3",
                  "properties":
@@ -61,23 +61,24 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":128,
                  "y":1200
                 }, 
                 {
                  "gid":15,
-                 "height":0,
+                 "height":16,
                  "id":4,
                  "name":"Small Diamond",
                  "properties":
                     {
-                     "flavorText":"A gem that would typically fit in a ring."
+                     "flavorText":"A gem that would typically fit in a ring.",
+                     "storyline":"Lore: Elemental Planes"
                     },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":64,
                  "y":432
                 }],
@@ -100,7 +101,7 @@
         {
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":112,
+         "imageheight":224,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
@@ -109,6 +110,7 @@
 
             },
          "spacing":0,
+         "tilecount":126,
          "tileheight":16,
          "tilewidth":16
         }],
