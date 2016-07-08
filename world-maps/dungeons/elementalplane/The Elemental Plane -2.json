@@ -29,7 +29,7 @@
          "objects":[
                 {
                  "gid":2,
-                 "height":0,
+                 "height":16,
                  "id":1,
                  "name":"ToElemental-1",
                  "properties":
@@ -42,13 +42,13 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":48,
                  "y":464
                 }, 
                 {
                  "gid":1,
-                 "height":0,
+                 "height":16,
                  "id":2,
                  "name":"ToElemental-3",
                  "properties":
@@ -61,29 +61,30 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":320,
                  "y":272
                 }, 
                 {
                  "gid":15,
-                 "height":0,
+                 "height":16,
                  "id":3,
                  "name":"Elemental Rock",
                  "properties":
                     {
-                     "flavorText":"Energy from all the elements flows through this rock. Warm to the touch, it occasionally glows."
+                     "flavorText":"Energy from all the elements flows through this rock. Warm to the touch, it occasionally glows.",
+                     "storyline":"Lore: Elemental Planes"
                     },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":64,
                  "y":176
                 }, 
                 {
                  "gid":48,
-                 "height":0,
+                 "height":16,
                  "id":4,
                  "name":"",
                  "properties":
@@ -93,13 +94,13 @@
                  "rotation":0,
                  "type":"Sign",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":320,
                  "y":352
                 }, 
                 {
                  "gid":51,
-                 "height":0,
+                 "height":16,
                  "id":5,
                  "name":"",
                  "properties":
@@ -109,7 +110,7 @@
                  "rotation":0,
                  "type":"Skeleton",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":240,
                  "y":384
                 }],
@@ -132,7 +133,7 @@
         {
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":112,
+         "imageheight":224,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
@@ -141,6 +142,7 @@
 
             },
          "spacing":0,
+         "tilecount":126,
          "tileheight":16,
          "tilewidth":16
         }],

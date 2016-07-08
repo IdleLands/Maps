@@ -29,7 +29,7 @@
          "objects":[
                 {
                  "gid":1,
-                 "height":0,
+                 "height":16,
                  "id":2,
                  "name":"ToAir",
                  "properties":
@@ -42,13 +42,13 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":800,
                  "y":1264
                 }, 
                 {
                  "gid":48,
-                 "height":0,
+                 "height":16,
                  "id":3,
                  "name":"",
                  "properties":
@@ -58,13 +58,13 @@
                  "rotation":0,
                  "type":"Journal",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":800,
                  "y":752
                 }, 
                 {
                  "gid":2,
-                 "height":0,
+                 "height":16,
                  "id":4,
                  "name":"ToElemental-2",
                  "properties":
@@ -77,13 +77,13 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":784,
                  "y":1584
                 }, 
                 {
                  "gid":1,
-                 "height":0,
+                 "height":16,
                  "id":5,
                  "name":"ToAir",
                  "properties":
@@ -96,13 +96,13 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":80,
                  "y":1344
                 }, 
                 {
                  "gid":1,
-                 "height":0,
+                 "height":16,
                  "id":6,
                  "name":"ToWater",
                  "properties":
@@ -115,13 +115,13 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":400,
                  "y":1568
                 }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
                  "id":7,
                  "name":"",
                  "properties":
@@ -131,13 +131,13 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":144,
                  "y":1104
                 }, 
                 {
                  "gid":1,
-                 "height":0,
+                 "height":16,
                  "id":8,
                  "name":"ToWater",
                  "properties":
@@ -150,13 +150,13 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":320,
                  "y":400
                 }, 
                 {
                  "gid":1,
-                 "height":0,
+                 "height":16,
                  "id":10,
                  "name":"ToFire",
                  "properties":
@@ -169,13 +169,13 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":512,
                  "y":144
                 }, 
                 {
                  "gid":1,
-                 "height":0,
+                 "height":16,
                  "id":11,
                  "name":"ToFire",
                  "properties":
@@ -188,13 +188,13 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1200,
                  "y":64
                 }, 
                 {
                  "gid":1,
-                 "height":0,
+                 "height":16,
                  "id":12,
                  "name":"ToEarth",
                  "properties":
@@ -207,13 +207,13 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1568,
                  "y":512
                 }, 
                 {
                  "gid":1,
-                 "height":0,
+                 "height":16,
                  "id":13,
                  "name":"ToEarth",
                  "properties":
@@ -226,13 +226,13 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1488,
                  "y":1216
                 }, 
                 {
                  "gid":48,
-                 "height":0,
+                 "height":16,
                  "id":20,
                  "name":"",
                  "properties":
@@ -242,29 +242,30 @@
                  "rotation":0,
                  "type":"Overlook",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":800,
                  "y":1216
                 }, 
                 {
                  "gid":15,
-                 "height":0,
+                 "height":16,
                  "id":21,
                  "name":"Norkian Buckler",
                  "properties":
                     {
-                     "flavorText":"The shield of a fallen hero who helped seal access to these elemental planes."
+                     "flavorText":"The shield of a fallen hero who helped seal access to these elemental planes.",
+                     "storyline":"Lore: Norkian Reign"
                     },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":720,
                  "y":1472
                 }, 
                 {
                  "gid":51,
-                 "height":0,
+                 "height":16,
                  "id":22,
                  "name":"",
                  "properties":
@@ -274,93 +275,98 @@
                  "rotation":0,
                  "type":"Skeleton",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":704,
                  "y":1472
                 }, 
                 {
                  "gid":15,
-                 "height":0,
+                 "height":16,
                  "id":23,
                  "name":"Charged Crystal of Air",
                  "properties":
                     {
-                     "flavorText":"A small chip is missing from the side of this otherwise perfect crystal."
+                     "flavorText":"A small chip is missing from the side of this otherwise perfect crystal.",
+                     "storyline":"Lore: Elemental Planes"
                     },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":240,
                  "y":1536
                 }, 
                 {
                  "gid":15,
-                 "height":0,
+                 "height":16,
                  "id":24,
                  "name":"Halberd Head",
                  "properties":
                     {
-                     "flavorText":"This halberd head bears the mark of the cloud giants."
+                     "flavorText":"This halberd head bears the mark of the cloud giants.",
+                     "storyline":"Lore: Elemental Planes"
                     },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":160,
                  "y":1056
                 }, 
                 {
                  "gid":15,
-                 "height":0,
+                 "height":16,
                  "id":25,
                  "name":"Charged Crystal of Water",
                  "properties":
                     {
-                     "flavorText":"Cool to the touch, this crystal fills you with a sense of calm."
+                     "flavorText":"Cool to the touch, this crystal fills you with a sense of calm.",
+                     "storyline":"Lore: Elemental Planes"
                     },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":64,
                  "y":512
                 }, 
                 {
                  "gid":15,
-                 "height":0,
+                 "height":16,
                  "id":26,
                  "name":"Charged Crystal of Fire",
                  "properties":
                     {
-                     "flavorText":"Just looking at this crystal fills you with vigor."
+                     "flavorText":"Just looking at this crystal fills you with vigor.",
+                     "storyline":"Lore: Elemental Planes"
                     },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1360,
                  "y":144
                 }, 
                 {
                  "gid":15,
-                 "height":0,
+                 "height":16,
                  "id":27,
                  "name":"Charged Crystal of Earth",
                  "properties":
                     {
-                     "flavorText":"Half buried, this crystal seems to have been the life force of nearby vegetation."
+                     "flavorText":"Half buried, this crystal seems to have been the life force of nearby vegetation.",
+                     "storyline":"Lore: Elemental Planes"
                     },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1424,
                  "y":1504
                 }, 
                 {
                  "gid":51,
-                 "height":0,
+                 "height":16,
                  "id":28,
                  "name":"",
                  "properties":
@@ -370,13 +376,13 @@
                  "rotation":0,
                  "type":"Skeleton of a giant",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":240,
                  "y":1504
                 }, 
                 {
                  "gid":51,
-                 "height":0,
+                 "height":16,
                  "id":29,
                  "name":"",
                  "properties":
@@ -386,13 +392,13 @@
                  "rotation":0,
                  "type":"Skeleton of a giant",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":64,
                  "y":1488
                 }, 
                 {
                  "gid":51,
-                 "height":0,
+                 "height":16,
                  "id":30,
                  "name":"",
                  "properties":
@@ -402,45 +408,47 @@
                  "rotation":0,
                  "type":"Royal Skeleton of a Giant",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":64,
                  "y":1184
                 }, 
                 {
                  "gid":15,
-                 "height":0,
+                 "height":16,
                  "id":31,
                  "name":"Giant Journal",
                  "properties":
                     {
-                     "flavorText":"One excerpt reads: We've learned much from our time here. I would forget it all if I could."
+                     "flavorText":"One excerpt reads: We've learned much from our time here. I would forget it all if I could.",
+                     "storyline":"Lore: Elemental Planes"
                     },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":80,
                  "y":1216
                 }, 
                 {
                  "gid":15,
-                 "height":0,
+                 "height":16,
                  "id":32,
                  "name":"Astral Crystal",
                  "properties":
                     {
-                     "flavorText":"Wrapped in a silk cloth, this crystal fills you dark foreboding whenever you gaze upon it."
+                     "flavorText":"Wrapped in a silk cloth, this crystal fills you dark foreboding whenever you gaze upon it.",
+                     "storyline":"Era: Corruption"
                     },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":800,
                  "y":864
                 }, 
                 {
                  "gid":32,
-                 "height":0,
+                 "height":16,
                  "id":33,
                  "name":"ToNorkos",
                  "properties":
@@ -454,13 +462,13 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1104,
                  "y":240
                 }, 
                 {
                  "gid":32,
-                 "height":0,
+                 "height":16,
                  "id":34,
                  "name":"ToNorkos",
                  "properties":
@@ -473,13 +481,13 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1488,
                  "y":1040
                 }, 
                 {
                  "gid":51,
-                 "height":0,
+                 "height":16,
                  "id":35,
                  "name":"",
                  "properties":
@@ -489,29 +497,30 @@
                  "rotation":0,
                  "type":"Skeleton",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1488,
                  "y":1056
                 }, 
                 {
                  "gid":15,
-                 "height":0,
+                 "height":16,
                  "id":36,
                  "name":"Norkian Spellbook",
                  "properties":
                     {
-                     "flavorText":"Many of the pages are missing, but it is adorned with protection runes and a sigil of the Norkian Council."
+                     "flavorText":"Many of the pages are missing, but it is adorned with protection runes and a sigil of the Norkian Council.",
+                     "storyline":"Era: Norkian Reign"
                     },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1248,
                  "y":1104
                 }, 
                 {
                  "gid":51,
-                 "height":0,
+                 "height":16,
                  "id":37,
                  "name":"",
                  "properties":
@@ -521,13 +530,13 @@
                  "rotation":0,
                  "type":"Skeleton",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1056,
                  "y":912
                 }, 
                 {
                  "gid":51,
-                 "height":0,
+                 "height":16,
                  "id":38,
                  "name":"",
                  "properties":
@@ -537,13 +546,13 @@
                  "rotation":0,
                  "type":"Skeleton",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":864,
                  "y":1536
                 }, 
                 {
                  "gid":26,
-                 "height":0,
+                 "height":16,
                  "id":39,
                  "name":"Norkian Necromancer",
                  "properties":
@@ -553,13 +562,13 @@
                  "rotation":0,
                  "type":"Boss",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1216,
                  "y":1136
                 }, 
                 {
                  "gid":26,
-                 "height":0,
+                 "height":16,
                  "id":40,
                  "name":"Living Crystal",
                  "properties":
@@ -569,13 +578,13 @@
                  "rotation":0,
                  "type":"Boss",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":112,
                  "y":256
                 }, 
                 {
                  "gid":26,
-                 "height":0,
+                 "height":16,
                  "id":41,
                  "name":"Astral Beast",
                  "properties":
@@ -585,13 +594,13 @@
                  "rotation":0,
                  "type":"Boss",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":592,
                  "y":960
                 }, 
                 {
                  "gid":26,
-                 "height":0,
+                 "height":16,
                  "id":42,
                  "name":"Astral Guards",
                  "properties":
@@ -601,13 +610,13 @@
                  "rotation":0,
                  "type":"BossParty",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":576,
                  "y":832
                 }, 
                 {
                  "gid":32,
-                 "height":0,
+                 "height":16,
                  "id":43,
                  "name":"ToWaterPlains-1",
                  "properties":
@@ -620,13 +629,13 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":304,
                  "y":32
                 }, 
                 {
                  "gid":48,
-                 "height":0,
+                 "height":16,
                  "id":44,
                  "name":"",
                  "properties":
@@ -636,7 +645,7 @@
                  "rotation":0,
                  "type":"Waterfall",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":288,
                  "y":32
                 }],
@@ -729,7 +738,7 @@
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -746,7 +755,7 @@
         {
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":112,
+         "imageheight":224,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
@@ -755,6 +764,7 @@
 
             },
          "spacing":0,
+         "tilecount":126,
          "tileheight":16,
          "tilewidth":16
         }],

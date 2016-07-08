@@ -29,7 +29,8 @@
          "objects":[
                 {
                  "gid":26,
-                 "height":0,
+                 "height":16,
+                 "id":1,
                  "name":"Venerable Dwarven Lord",
                  "properties":
                     {
@@ -38,13 +39,14 @@
                  "rotation":0,
                  "type":"Boss",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":256,
                  "y":448
                 }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
+                 "id":2,
                  "name":"",
                  "properties":
                     {
@@ -53,13 +55,14 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":272,
                  "y":80
                 }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
+                 "id":3,
                  "name":"",
                  "properties":
                     {
@@ -68,13 +71,14 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":160,
                  "y":80
                 }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
+                 "id":4,
                  "name":"",
                  "properties":
                     {
@@ -83,13 +87,14 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":112,
                  "y":112
                 }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
+                 "id":5,
                  "name":"",
                  "properties":
                     {
@@ -98,13 +103,14 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":112,
                  "y":128
                 }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
+                 "id":6,
                  "name":"",
                  "properties":
                     {
@@ -113,13 +119,14 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":192,
                  "y":112
                 }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
+                 "id":7,
                  "name":"",
                  "properties":
                     {
@@ -128,13 +135,14 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":192,
                  "y":272
                 }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
+                 "id":8,
                  "name":"",
                  "properties":
                     {
@@ -143,13 +151,14 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":224,
                  "y":368
                 }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
+                 "id":9,
                  "name":"",
                  "properties":
                     {
@@ -158,13 +167,14 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":224,
                  "y":416
                 }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
+                 "id":10,
                  "name":"",
                  "properties":
                     {
@@ -173,13 +183,14 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":160,
                  "y":416
                 }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
+                 "id":11,
                  "name":"",
                  "properties":
                     {
@@ -188,13 +199,14 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":64,
                  "y":448
                 }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
+                 "id":12,
                  "name":"",
                  "properties":
                     {
@@ -203,13 +215,14 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":128,
                  "y":384
                 }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
+                 "id":13,
                  "name":"",
                  "properties":
                     {
@@ -218,13 +231,14 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":128,
                  "y":320
                 }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
+                 "id":14,
                  "name":"",
                  "properties":
                     {
@@ -233,43 +247,48 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":128,
                  "y":256
                 }, 
                 {
                  "gid":15,
-                 "height":0,
+                 "height":16,
+                 "id":15,
                  "name":"Axe Head",
                  "properties":
                     {
-
+                     "flavorText":"50% off.",
+                     "storyline":"Lore: Dwarves"
                     },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":96,
                  "y":448
                 }, 
                 {
                  "gid":15,
-                 "height":0,
+                 "height":16,
+                 "id":16,
                  "name":"Dwarven Protection Rune",
                  "properties":
                     {
-
+                     "flavorText":"This stone is engraved with a glowing blue symbol.",
+                     "storyline":"Lore: Dwarves"
                     },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":256,
                  "y":48
                 }, 
                 {
                  "gid":2,
-                 "height":0,
+                 "height":16,
+                 "id":17,
                  "name":"ToDwarf-1",
                  "properties":
                     {
@@ -281,13 +300,14 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":16,
                  "y":48
                 }, 
                 {
                  "gid":32,
-                 "height":0,
+                 "height":16,
+                 "id":18,
                  "name":"ToNorkos",
                  "properties":
                     {
@@ -299,7 +319,7 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":352,
                  "y":336
                 }],
@@ -322,6 +342,7 @@
          "x":0,
          "y":0
         }],
+ "nextobjectid":19,
  "orientation":"orthogonal",
  "properties":
     {
@@ -333,7 +354,7 @@
         {
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":64,
+         "imageheight":224,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
@@ -342,6 +363,7 @@
 
             },
          "spacing":0,
+         "tilecount":126,
          "tileheight":16,
          "tilewidth":16
         }],
