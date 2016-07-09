@@ -2291,7 +2291,8 @@
                  "name":"Prisoner Shackle",
                  "properties":
                     {
-
+                     "flavorText":"The key is still in the lock. The prisoner is long gone by now.",
+                     "storyline":"Lore: Norkos Prison"
                     },
                  "rotation":0,
                  "type":"Collectible",
@@ -2307,7 +2308,8 @@
                  "name":"Dangerous Stalactite",
                  "properties":
                     {
-
+                     "flavorText":"Doesn't this look dangerous to you? I should probably take this for safety reasons.",
+                     "storyline":"Lore: Dangerous Cave"
                     },
                  "rotation":0,
                  "type":"Collectible",
@@ -2323,7 +2325,8 @@
                  "name":"Obsidian Chunk",
                  "properties":
                     {
-
+                     "flavorText":"Could be crafted into a sharp weapon.",
+                     "storyline":"Lore: Vocalnus"
                     },
                  "rotation":0,
                  "type":"Collectible",
@@ -2339,7 +2342,8 @@
                  "name":"Piece o' Booty",
                  "properties":
                     {
-
+                     "flavorText":"A pile would have been nice, but a piece will do.",
+                     "storyline":"Memoir: Pirate"
                     },
                  "rotation":0,
                  "type":"Collectible",
@@ -2355,7 +2359,8 @@
                  "name":"Boat Figurehead",
                  "properties":
                     {
-
+                     "flavorText":"In the shape of a mermaid. One hand shades the eyes from the sun as she points forward.",
+                     "storyline":"Lore: Norkos Fisheries"
                     },
                  "rotation":0,
                  "type":"Collectible",
@@ -2371,7 +2376,8 @@
                  "name":"Small, Tasty Fish",
                  "properties":
                     {
-
+                     "flavorText":"Hard to prepare but oh, so tasty! This fish is a delicacy in Norkos.",
+                     "storyline":"Lore: Norkos Fisheries"
                     },
                  "rotation":0,
                  "type":"Collectible",
@@ -2387,7 +2393,8 @@
                  "name":"Maelian Branch",
                  "properties":
                     {
-
+                     "flavorText":"It has a pleasant aroma, but it's still just a stick.",
+                     "storyline":"Lore: Maeles"
                     },
                  "rotation":0,
                  "type":"Collectible",
@@ -2403,7 +2410,8 @@
                  "name":"Maelian Blade of Grass",
                  "properties":
                     {
-
+                     "flavorText":"If done just right, you can turn it into a whistle.",
+                     "storyline":"Lore: Maeles"
                     },
                  "rotation":0,
                  "type":"Collectible",
@@ -2419,7 +2427,8 @@
                  "name":"Drop of Volcanic Water",
                  "properties":
                     {
-
+                     "flavorText":"Surprisingly sweet, which is why there is only a drop left.",
+                     "storyline":"Lore: Vocalnus"
                     },
                  "rotation":0,
                  "type":"Collectible",
@@ -2435,7 +2444,8 @@
                  "name":"Guardian Fragment",
                  "properties":
                     {
-
+                     "flavorText":"A shoulder plate from an ancient guardian. Hopefully he does not come looking for it.",
+                     "storyline":"Lore: "
                     },
                  "rotation":0,
                  "type":"Collectible",
@@ -2451,7 +2461,8 @@
                  "name":"Dried Up, Not Tasty Fish",
                  "properties":
                     {
-
+                     "flavorText":"Why are you picking this up? It's gross!",
+                     "storyline":"Lore: Norkos Fisheries"
                     },
                  "rotation":0,
                  "type":"Collectible",
@@ -2484,7 +2495,8 @@
                  "name":"Old Minotaur Axe Shard",
                  "properties":
                     {
-
+                     "flavorText":"The shard is large enough that another smaller axe could be made from it.",
+                     "storyline":"Era: Corruption"
                     },
                  "rotation":0,
                  "type":"Collectible",
@@ -2500,7 +2512,8 @@
                  "name":"Bolt of Yellow Cloth",
                  "properties":
                     {
-
+                     "flavorText":"Yellow is in fashion this season in Maeles.",
+                     "storyline":"Lore: Maeles"
                     },
                  "rotation":0,
                  "type":"Collectible",
@@ -2516,7 +2529,8 @@
                  "name":"Deer Horn",
                  "properties":
                     {
-
+                     "flavorText":"A fine accessory to any helmet.",
+                     "storyline":"Lore: Frigri"
                     },
                  "rotation":0,
                  "type":"Collectible",
@@ -2532,7 +2546,8 @@
                  "name":"Timmy's Twig",
                  "properties":
                     {
-
+                     "flavorText":"You feel an almost magical connection with deer when you carry this twig.",
+                     "storyline":"Lore: Frigri"
                     },
                  "rotation":0,
                  "type":"Collectible",
@@ -2548,7 +2563,8 @@
                  "name":"Betty's Doll",
                  "properties":
                     {
-
+                     "flavorText":"This doll has seen better days, but Betty loves it all the same.",
+                     "storyline":"Lore: Frigri"
                     },
                  "rotation":0,
                  "type":"Collectible",
@@ -2564,7 +2580,8 @@
                  "name":"Small Mirror",
                  "properties":
                     {
-
+                     "flavorText":"A rather dashing adventurer lives inside this mirror. You see them every time you look.",
+                     "storyline":"Era: Corruption"
                     },
                  "rotation":0,
                  "type":"Collectible",
@@ -2580,7 +2597,8 @@
                  "name":"Odd Amulet",
                  "properties":
                     {
-
+                     "flavorText":"Looking into the amulet's gem fills you with a strong sense of dread.",
+                     "storyline":"Lore: Lich Brothers"
                     },
                  "rotation":0,
                  "type":"Collectible",
@@ -2596,7 +2614,8 @@
                  "name":"Random Piece of Earthy Earth",
                  "properties":
                     {
-
+                     "flavorText":"Of all of the soil samples ever taken, this has to be dirtiest of them all.",
+                     "storyline":"Lore: Homlet"
                     },
                  "rotation":0,
                  "type":"Collectible",
@@ -2612,7 +2631,8 @@
                  "name":"Slightly Newer Minotaur Axe Piece",
                  "properties":
                     {
-
+                     "flavorText":"The power of a minotaur's swing is enough to chip even the toughest of weapons.",
+                     "storyline":"Era: Corruption"
                     },
                  "rotation":0,
                  "type":"Collectible",
@@ -2628,7 +2648,8 @@
                  "name":"Spyglass",
                  "properties":
                     {
-
+                     "flavorText":"\"Property of Captain...\" The rest of the name is scratched out.",
+                     "storyline":"Lore: Frigri"
                     },
                  "rotation":0,
                  "type":"Collectible",
@@ -2644,7 +2665,8 @@
                  "name":"Turtle Egg",
                  "properties":
                     {
-
+                     "flavorText":"Even a small egg like this could one day become a colossal beast.",
+                     "storyline":"Era: Corruption"
                     },
                  "rotation":0,
                  "type":"Collectible",
@@ -2660,7 +2682,8 @@
                  "name":"Doctor's Floating Device",
                  "properties":
                     {
-
+                     "flavorText":"Why are there so many needles on this? Which button turns this off?",
+                     "storyline":"Lore: Norkos"
                     },
                  "rotation":0,
                  "type":"Collectible",
@@ -2676,7 +2699,8 @@
                  "name":"Medium Sized Bank Coin",
                  "properties":
                     {
-
+                     "flavorText":"From the Maeles Mint to your pocket.",
+                     "storyline":"Lore: Maeles"
                     },
                  "rotation":0,
                  "type":"Collectible",
@@ -2692,7 +2716,8 @@
                  "name":"Rather Large Bank Coin",
                  "properties":
                     {
-
+                     "flavorText":"You are sad this is not filled with chocolate.",
+                     "storyline":"Lore: Frigri"
                     },
                  "rotation":0,
                  "type":"Collectible",
@@ -2708,7 +2733,8 @@
                  "name":"Sextant",
                  "properties":
                     {
-
+                     "flavorText":"They measure angles!",
+                     "storyline":"Lore: Norkos Fisheries"
                     },
                  "rotation":0,
                  "type":"Collectible",
@@ -2724,7 +2750,8 @@
                  "name":"Minotaur Horn",
                  "properties":
                     {
-
+                     "flavorText":"Cleaved clean off a minotaur's head.",
+                     "storyline":"Era: Corruption"
                     },
                  "rotation":0,
                  "type":"Collectible",
@@ -2740,7 +2767,9 @@
                  "name":"King's Key",
                  "properties":
                     {
-                     "rarity":"godly"
+                     "flavorText":"This ornate key has the emblem of Frigri on one side, and a skull on the other.",
+                     "rarity":"godly",
+                     "storyline":"Lore: Frigri"
                     },
                  "rotation":0,
                  "type":"Collectible",
@@ -3459,7 +3488,8 @@
                  "name":"Wet Ice",
                  "properties":
                     {
-
+                     "flavorText":"Not as fun as dry ice. It is dripping everywhere.",
+                     "storyline":"Lore: Frigri"
                     },
                  "rotation":0,
                  "type":"Collectible",

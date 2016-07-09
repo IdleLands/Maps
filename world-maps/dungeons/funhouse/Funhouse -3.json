@@ -29,7 +29,7 @@
          "objects":[
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
                  "id":3,
                  "name":"",
                  "properties":
@@ -39,13 +39,13 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":208,
                  "y":96
                 }, 
                 {
                  "gid":48,
-                 "height":0,
+                 "height":16,
                  "id":5,
                  "name":"",
                  "properties":
@@ -55,13 +55,13 @@
                  "rotation":0,
                  "type":"Sign",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":208,
                  "y":80
                 }, 
                 {
                  "gid":51,
-                 "height":0,
+                 "height":16,
                  "id":8,
                  "name":"",
                  "properties":
@@ -71,29 +71,30 @@
                  "rotation":0,
                  "type":"Skeleton",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":240,
                  "y":144
                 }, 
                 {
                  "gid":15,
-                 "height":0,
+                 "height":16,
                  "id":15,
                  "name":"Wax Skull",
                  "properties":
                     {
-
+                     "flavorText":"Would make for a spooky candle.",
+                     "storyline":"Lore: Funhouse"
                     },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":240,
                  "y":48
                 }, 
                 {
                  "gid":12,
-                 "height":0,
+                 "height":16,
                  "id":16,
                  "name":"",
                  "properties":
@@ -104,13 +105,13 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":352,
                  "y":48
                 }, 
                 {
                  "gid":13,
-                 "height":0,
+                 "height":16,
                  "id":17,
                  "name":"",
                  "properties":
@@ -121,13 +122,13 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":288,
                  "y":144
                 }, 
                 {
                  "gid":14,
-                 "height":0,
+                 "height":16,
                  "id":19,
                  "name":"",
                  "properties":
@@ -138,13 +139,13 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":304,
                  "y":144
                 }, 
                 {
                  "gid":20,
-                 "height":0,
+                 "height":16,
                  "id":20,
                  "name":"",
                  "properties":
@@ -155,13 +156,13 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":288,
                  "y":48
                 }, 
                 {
                  "gid":22,
-                 "height":0,
+                 "height":16,
                  "id":21,
                  "name":"",
                  "properties":
@@ -172,13 +173,13 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":272,
                  "y":48
                 }, 
                 {
                  "gid":24,
-                 "height":0,
+                 "height":16,
                  "id":22,
                  "name":"",
                  "properties":
@@ -189,13 +190,13 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":352,
                  "y":112
                 }, 
                 {
                  "gid":25,
-                 "height":0,
+                 "height":16,
                  "id":23,
                  "name":"",
                  "properties":
@@ -206,13 +207,13 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":352,
                  "y":80
                 }, 
                 {
                  "gid":21,
-                 "height":0,
+                 "height":16,
                  "id":24,
                  "name":"",
                  "properties":
@@ -223,13 +224,13 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":352,
                  "y":144
                 }, 
                 {
                  "gid":23,
-                 "height":0,
+                 "height":16,
                  "id":25,
                  "name":"",
                  "properties":
@@ -240,13 +241,13 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":320,
                  "y":48
                 }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
                  "id":26,
                  "name":"",
                  "properties":
@@ -256,13 +257,13 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":384,
                  "y":96
                 }, 
                 {
                  "gid":26,
-                 "height":0,
+                 "height":16,
                  "id":27,
                  "name":"Lord Waxington",
                  "properties":
@@ -272,13 +273,13 @@
                  "rotation":0,
                  "type":"Boss",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":448,
                  "y":96
                 }, 
                 {
                  "gid":32,
-                 "height":0,
+                 "height":16,
                  "id":33,
                  "name":"ToFunhouse-5",
                  "properties":
@@ -291,13 +292,13 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":96,
                  "y":112
                 }, 
                 {
                  "gid":32,
-                 "height":0,
+                 "height":16,
                  "id":34,
                  "name":"ToFunhouse-2",
                  "properties":
@@ -310,13 +311,13 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":64,
                  "y":96
                 }, 
                 {
                  "gid":32,
-                 "height":0,
+                 "height":16,
                  "id":36,
                  "name":"ToFunhouse-2",
                  "properties":
@@ -329,13 +330,13 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":128,
                  "y":160
                 }, 
                 {
                  "gid":2,
-                 "height":0,
+                 "height":16,
                  "id":37,
                  "name":"ToFunhouse-2",
                  "properties":
@@ -348,13 +349,13 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":160,
                  "y":160
                 }, 
                 {
                  "gid":1,
-                 "height":0,
+                 "height":16,
                  "id":38,
                  "name":"ToFunhouse-4",
                  "properties":
@@ -367,13 +368,13 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":192,
                  "y":160
                 }, 
                 {
                  "gid":32,
-                 "height":0,
+                 "height":16,
                  "id":39,
                  "name":"ToFunhouse-2",
                  "properties":
@@ -386,13 +387,13 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":16,
                  "y":32
                 }, 
                 {
                  "gid":51,
-                 "height":0,
+                 "height":16,
                  "id":40,
                  "name":"",
                  "properties":
@@ -402,7 +403,7 @@
                  "rotation":0,
                  "type":"Skeleton",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":112,
                  "y":160
                 }],
@@ -452,7 +453,7 @@
         {
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":112,
+         "imageheight":224,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
@@ -461,6 +462,7 @@
 
             },
          "spacing":0,
+         "tilecount":126,
          "tileheight":16,
          "tilewidth":16
         }],

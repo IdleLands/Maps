@@ -29,7 +29,8 @@
          "objects":[
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
+                 "id":1,
                  "name":"",
                  "properties":
                     {
@@ -38,13 +39,14 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":160,
                  "y":64
                 }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
+                 "id":2,
                  "name":"",
                  "properties":
                     {
@@ -53,13 +55,14 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":80,
                  "y":96
                 }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
+                 "id":3,
                  "name":"",
                  "properties":
                     {
@@ -68,13 +71,14 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":160,
                  "y":128
                 }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
+                 "id":4,
                  "name":"",
                  "properties":
                     {
@@ -83,13 +87,14 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":112,
                  "y":160
                 }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
+                 "id":5,
                  "name":"",
                  "properties":
                     {
@@ -98,13 +103,14 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":128,
                  "y":208
                 }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
+                 "id":6,
                  "name":"",
                  "properties":
                     {
@@ -113,13 +119,14 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":288,
                  "y":128
                 }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
+                 "id":7,
                  "name":"",
                  "properties":
                     {
@@ -128,13 +135,14 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":240,
                  "y":128
                 }, 
                 {
                  "gid":32,
-                 "height":0,
+                 "height":16,
+                 "id":8,
                  "name":"ToNorkos",
                  "properties":
                     {
@@ -146,13 +154,14 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":288,
                  "y":160
                 }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
+                 "id":9,
                  "name":"",
                  "properties":
                     {
@@ -161,13 +170,14 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":368,
                  "y":160
                 }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
+                 "id":10,
                  "name":"",
                  "properties":
                     {
@@ -176,13 +186,14 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":432,
                  "y":96
                 }, 
                 {
                  "gid":26,
-                 "height":0,
+                 "height":16,
+                 "id":11,
                  "name":"Lich Brother of Anger",
                  "properties":
                     {
@@ -191,13 +202,14 @@
                  "rotation":0,
                  "type":"Boss",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":160,
                  "y":240
                 }, 
                 {
                  "gid":26,
-                 "height":0,
+                 "height":16,
+                 "id":12,
                  "name":"Lich Brother of Decay",
                  "properties":
                     {
@@ -206,13 +218,14 @@
                  "rotation":0,
                  "type":"Boss",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":352,
                  "y":192
                 }, 
                 {
                  "gid":26,
-                 "height":0,
+                 "height":16,
+                 "id":13,
                  "name":"Lich Brother of Insanity",
                  "properties":
                     {
@@ -221,13 +234,14 @@
                  "rotation":0,
                  "type":"Boss",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":448,
                  "y":256
                 }, 
                 {
                  "gid":26,
-                 "height":0,
+                 "height":16,
+                 "id":14,
                  "name":"Lich Brother of Death",
                  "properties":
                     {
@@ -236,13 +250,14 @@
                  "rotation":0,
                  "type":"Boss",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":528,
                  "y":224
                 }, 
                 {
                  "gid":26,
-                 "height":0,
+                 "height":16,
+                 "id":15,
                  "name":"The Lich Lord",
                  "properties":
                     {
@@ -251,13 +266,14 @@
                  "rotation":0,
                  "type":"Boss",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":544,
                  "y":144
                 }, 
                 {
                  "gid":26,
-                 "height":0,
+                 "height":16,
+                 "id":16,
                  "name":"Lich Brother of Fear",
                  "properties":
                     {
@@ -266,13 +282,14 @@
                  "rotation":0,
                  "type":"Boss",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":240,
                  "y":224
                 }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
+                 "id":17,
                  "name":"",
                  "properties":
                     {
@@ -281,13 +298,14 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":128,
                  "y":96
                 }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
+                 "id":18,
                  "name":"",
                  "properties":
                     {
@@ -296,43 +314,48 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":176,
                  "y":112
                 }, 
                 {
                  "gid":15,
-                 "height":0,
+                 "height":16,
+                 "id":19,
                  "name":"Lich Brothers T-Shirt",
                  "properties":
                     {
-
+                     "flavorText":"You were really hoping for a Lich Lord shirt, but all that was here was a Lich Brother of Decay shirt.",
+                     "storyline":"Lore: Lich Brothers"
                     },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":464,
                  "y":208
                 }, 
                 {
                  "gid":15,
-                 "height":0,
+                 "height":16,
+                 "id":20,
                  "name":"Lich Ritual Book",
                  "properties":
                     {
-
+                     "flavorText":"The seven easy steps to becoming a lich, all in one leather-bound tome.",
+                     "storyline":"Lore: Lich Brothers"
                     },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":640,
                  "y":80
                 }, 
                 {
                  "gid":1,
-                 "height":0,
+                 "height":16,
+                 "id":21,
                  "name":"ToNorkos",
                  "properties":
                     {
@@ -344,13 +367,14 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":288,
                  "y":432
                 }, 
                 {
                  "gid":32,
-                 "height":0,
+                 "height":16,
+                 "id":22,
                  "name":"ToNorkos",
                  "properties":
                     {
@@ -362,28 +386,31 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":544,
                  "y":80
                 }, 
                 {
                  "gid":15,
-                 "height":0,
+                 "height":16,
+                 "id":23,
                  "name":"Jar of Magic Dust",
                  "properties":
                     {
-
+                     "flavorText":"This jar has been sealed to maintain magical freshness.",
+                     "storyline":"Lore: Lich Brothers"
                     },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":400,
                  "y":160
                 }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
+                 "id":24,
                  "name":"",
                  "properties":
                     {
@@ -392,13 +419,14 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":192,
                  "y":240
                 }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
+                 "id":25,
                  "name":"",
                  "properties":
                     {
@@ -407,13 +435,14 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":288,
                  "y":240
                 }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
+                 "id":26,
                  "name":"",
                  "properties":
                     {
@@ -422,13 +451,14 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":400,
                  "y":240
                 }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
+                 "id":27,
                  "name":"",
                  "properties":
                     {
@@ -437,13 +467,14 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":480,
                  "y":240
                 }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
+                 "id":28,
                  "name":"",
                  "properties":
                     {
@@ -452,7 +483,7 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":576,
                  "y":240
                 }],
@@ -470,6 +501,7 @@
          "objects":[
                 {
                  "height":64,
+                 "id":29,
                  "name":"Anger's Room",
                  "properties":
                     {
@@ -484,6 +516,7 @@
                 }, 
                 {
                  "height":80,
+                 "id":30,
                  "name":"Fear's Room",
                  "properties":
                     {
@@ -498,6 +531,7 @@
                 }, 
                 {
                  "height":80,
+                 "id":31,
                  "name":"Decay's Room",
                  "properties":
                     {
@@ -512,6 +546,7 @@
                 }, 
                 {
                  "height":64,
+                 "id":32,
                  "name":"Insanity's Room",
                  "properties":
                     {
@@ -526,6 +561,7 @@
                 }, 
                 {
                  "height":64,
+                 "id":33,
                  "name":"Death's Room",
                  "properties":
                     {
@@ -540,6 +576,7 @@
                 }, 
                 {
                  "height":128,
+                 "id":34,
                  "name":"Hall of the Lich Lord",
                  "properties":
                     {
@@ -559,6 +596,7 @@
          "x":0,
          "y":0
         }],
+ "nextobjectid":35,
  "orientation":"orthogonal",
  "properties":
     {
@@ -570,7 +608,7 @@
         {
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":64,
+         "imageheight":224,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
@@ -579,6 +617,7 @@
 
             },
          "spacing":0,
+         "tilecount":126,
          "tileheight":16,
          "tilewidth":16
         }],
