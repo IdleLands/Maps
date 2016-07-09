@@ -23,12 +23,14 @@
          "y":0
         }, 
         {
+         "draworder":"topdown",
          "height":20,
          "name":"Interactables",
          "objects":[
                 {
                  "gid":2,
-                 "height":0,
+                 "height":16,
+                 "id":1,
                  "name":"ToNorkos",
                  "properties":
                     {
@@ -37,15 +39,17 @@
                      "map":"Norkos",
                      "movementType":"ascend"
                     },
+                 "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":96,
                  "y":272
                 }, 
                 {
                  "gid":1,
-                 "height":0,
+                 "height":16,
+                 "id":2,
                  "name":"ToShip-2",
                  "properties":
                     {
@@ -54,23 +58,27 @@
                      "map":"Haunted Ship -2",
                      "movementType":"descend"
                     },
+                 "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":96,
                  "y":96
                 }, 
                 {
                  "gid":15,
-                 "height":0,
+                 "height":16,
+                 "id":3,
                  "name":"Haunted Eye Patch",
                  "properties":
                     {
-
+                     "flavorText":"The spirit within occasionally flips the patch up, but only in bright light.",
+                     "storyline":"Lore: Idliathlia"
                     },
+                 "rotation":0,
                  "type":"Collectible",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":128,
                  "y":224
                 }],
@@ -82,16 +90,19 @@
          "y":0
         }, 
         {
+         "draworder":"topdown",
          "height":24,
          "name":"Regions",
          "objects":[
                 {
                  "height":352,
+                 "id":4,
                  "name":"Sunken Pearl Gun Deck",
                  "properties":
                     {
 
                     },
+                 "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":160,
@@ -105,17 +116,19 @@
          "x":0,
          "y":0
         }],
+ "nextobjectid":5,
  "orientation":"orthogonal",
  "properties":
     {
 
     },
+ "renderorder":"right-down",
  "tileheight":16,
  "tilesets":[
         {
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":64,
+         "imageheight":224,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
@@ -124,6 +137,7 @@
 
             },
          "spacing":0,
+         "tilecount":126,
          "tileheight":16,
          "tilewidth":16
         }],

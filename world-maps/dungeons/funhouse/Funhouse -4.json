@@ -29,7 +29,7 @@
          "objects":[
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
                  "id":6,
                  "name":"",
                  "properties":
@@ -39,13 +39,13 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":304,
                  "y":208
                 }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
                  "id":7,
                  "name":"",
                  "properties":
@@ -55,13 +55,13 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":288,
                  "y":208
                 }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
                  "id":8,
                  "name":"",
                  "properties":
@@ -71,13 +71,13 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":336,
                  "y":144
                 }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
                  "id":9,
                  "name":"",
                  "properties":
@@ -87,13 +87,13 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":304,
                  "y":128
                 }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
                  "id":10,
                  "name":"",
                  "properties":
@@ -103,13 +103,13 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":288,
                  "y":128
                 }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
                  "id":11,
                  "name":"",
                  "properties":
@@ -119,13 +119,13 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":224,
                  "y":80
                 }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
                  "id":12,
                  "name":"",
                  "properties":
@@ -135,13 +135,13 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":224,
                  "y":64
                 }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
                  "id":13,
                  "name":"",
                  "properties":
@@ -151,13 +151,13 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":112,
                  "y":48
                 }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
                  "id":14,
                  "name":"",
                  "properties":
@@ -167,13 +167,13 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":80,
                  "y":48
                 }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
                  "id":15,
                  "name":"",
                  "properties":
@@ -183,13 +183,13 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":48,
                  "y":48
                 }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
                  "id":16,
                  "name":"",
                  "properties":
@@ -199,13 +199,13 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":16,
                  "y":48
                 }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
                  "id":17,
                  "name":"",
                  "properties":
@@ -215,13 +215,13 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":48,
                  "y":96
                 }, 
                 {
                  "gid":26,
-                 "height":0,
+                 "height":16,
                  "id":18,
                  "name":"Spooky Scary Skeletons",
                  "properties":
@@ -231,13 +231,13 @@
                  "rotation":0,
                  "type":"BossParty",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":144,
                  "y":144
                 }, 
                 {
                  "gid":32,
-                 "height":0,
+                 "height":16,
                  "id":22,
                  "name":"ToFunhouse-5",
                  "properties":
@@ -250,13 +250,13 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":32,
                  "y":256
                 }, 
                 {
                  "gid":32,
-                 "height":0,
+                 "height":16,
                  "id":23,
                  "name":"ToFunhouse-2",
                  "properties":
@@ -269,13 +269,13 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":176,
                  "y":240
                 }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
                  "id":27,
                  "name":"",
                  "properties":
@@ -285,13 +285,13 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":208,
                  "y":320
                 }, 
                 {
                  "gid":48,
-                 "height":0,
+                 "height":16,
                  "id":28,
                  "name":"",
                  "properties":
@@ -301,29 +301,30 @@
                  "rotation":0,
                  "type":"Sign",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":208,
                  "y":304
                 }, 
                 {
                  "gid":15,
-                 "height":0,
+                 "height":16,
                  "id":29,
                  "name":"Chattering Teeth",
                  "properties":
                     {
-
+                     "flavorText":"Minutes of fun. These teeth are not very balanced and mostly just fall over.",
+                     "storyline":"Lore: Funhouse"
                     },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":96,
                  "y":112
                 }, 
                 {
                  "gid":51,
-                 "height":0,
+                 "height":16,
                  "id":31,
                  "name":"",
                  "properties":
@@ -333,13 +334,13 @@
                  "rotation":0,
                  "type":"Skeleton",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":368,
                  "y":336
                 }, 
                 {
                  "gid":2,
-                 "height":0,
+                 "height":16,
                  "id":32,
                  "name":"ToFunhouse-3",
                  "properties":
@@ -352,13 +353,13 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":16,
                  "y":336
                 }, 
                 {
                  "gid":32,
-                 "height":0,
+                 "height":16,
                  "id":33,
                  "name":"ToFunhouse-5",
                  "properties":
@@ -371,13 +372,13 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":224,
                  "y":160
                 }, 
                 {
                  "gid":32,
-                 "height":0,
+                 "height":16,
                  "id":34,
                  "name":"ToFunhouse-2",
                  "properties":
@@ -390,13 +391,13 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":32,
                  "y":224
                 }, 
                 {
                  "gid":32,
-                 "height":0,
+                 "height":16,
                  "id":35,
                  "name":"ToFunhouse-2",
                  "properties":
@@ -409,7 +410,7 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":192,
                  "y":240
                 }],
@@ -474,7 +475,7 @@
         {
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":112,
+         "imageheight":224,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
@@ -483,6 +484,7 @@
 
             },
          "spacing":0,
+         "tilecount":126,
          "tileheight":16,
          "tilewidth":16
         }],

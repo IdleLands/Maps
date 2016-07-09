@@ -29,22 +29,25 @@
          "objects":[
                 {
                  "gid":15,
-                 "height":0,
+                 "height":16,
+                 "id":1,
                  "name":"Magical Raft",
                  "properties":
                     {
-
+                     "flavorText":"Why swim when you can ride in style?",
+                     "storyline":"Lore: Idliathlia"
                     },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":144,
                  "y":352
                 }, 
                 {
                  "gid":51,
-                 "height":0,
+                 "height":16,
+                 "id":2,
                  "name":"",
                  "properties":
                     {
@@ -53,13 +56,14 @@
                  "rotation":0,
                  "type":"Skeleton",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":592,
                  "y":560
                 }, 
                 {
                  "gid":27,
-                 "height":0,
+                 "height":16,
+                 "id":3,
                  "name":"Sunken Treasure",
                  "properties":
                     {
@@ -68,13 +72,14 @@
                  "rotation":0,
                  "type":"Treasure",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":400,
                  "y":352
                 }, 
                 {
                  "gid":43,
-                 "height":0,
+                 "height":16,
+                 "id":4,
                  "name":"ToIdleCave",
                  "properties":
                     {
@@ -86,28 +91,31 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":336,
                  "y":320
                 }, 
                 {
                  "gid":15,
-                 "height":0,
+                 "height":16,
+                 "id":5,
                  "name":"Golden Artifact",
                  "properties":
                     {
-
+                     "flavorText":"Left behind by an ancient civilization that collapsed due to idle gaming.",
+                     "storyline":"Lore: Idliathlia"
                     },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":656,
                  "y":576
                 }, 
                 {
                  "gid":32,
-                 "height":0,
+                 "height":16,
+                 "id":6,
                  "name":"ToNorkos",
                  "properties":
                     {
@@ -119,13 +127,14 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":128,
                  "y":32
                 }, 
                 {
                  "gid":32,
-                 "height":0,
+                 "height":16,
+                 "id":7,
                  "name":"ToNorkos",
                  "properties":
                     {
@@ -137,13 +146,14 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":768,
                  "y":464
                 }, 
                 {
                  "gid":32,
-                 "height":0,
+                 "height":16,
+                 "id":8,
                  "name":"ToNorkos",
                  "properties":
                     {
@@ -155,7 +165,7 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":464,
                  "y":784
                 }],
@@ -166,6 +176,7 @@
          "x":0,
          "y":0
         }],
+ "nextobjectid":9,
  "orientation":"orthogonal",
  "properties":
     {
@@ -177,7 +188,7 @@
         {
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":112,
+         "imageheight":224,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
@@ -186,6 +197,7 @@
 
             },
          "spacing":0,
+         "tilecount":126,
          "tileheight":16,
          "tilewidth":16
         }],

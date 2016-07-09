@@ -29,7 +29,7 @@
          "objects":[
                 {
                  "gid":32,
-                 "height":0,
+                 "height":16,
                  "id":1,
                  "name":"ToNorkos",
                  "properties":
@@ -43,13 +43,13 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":336,
                  "y":208
                 }, 
                 {
                  "gid":32,
-                 "height":0,
+                 "height":16,
                  "id":2,
                  "name":"ToFrigri",
                  "properties":
@@ -63,13 +63,13 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":336,
                  "y":240
                 }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
                  "id":4,
                  "name":"",
                  "properties":
@@ -79,13 +79,13 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":416,
                  "y":256
                 }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
                  "id":5,
                  "name":"",
                  "properties":
@@ -95,13 +95,13 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":400,
                  "y":256
                 }, 
                 {
                  "gid":48,
-                 "height":0,
+                 "height":16,
                  "id":6,
                  "name":"",
                  "properties":
@@ -111,13 +111,13 @@
                  "rotation":0,
                  "type":"Sign",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":96,
                  "y":320
                 }, 
                 {
                  "gid":23,
-                 "height":0,
+                 "height":16,
                  "id":10,
                  "name":"Sprinkles the Clown",
                  "properties":
@@ -127,29 +127,30 @@
                  "rotation":0,
                  "type":"Shop Attendant",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":352,
                  "y":288
                 }, 
                 {
                  "gid":15,
-                 "height":0,
+                 "height":16,
                  "id":11,
                  "name":"Inscribed Clown Toy",
                  "properties":
                     {
-                     "flavorText":"I survived the Frigri Funhouse!"
+                     "flavorText":"I survived the Frigri Funhouse!",
+                     "storyline":"Lore: Funhouse"
                     },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":176,
                  "y":224
                 }, 
                 {
                  "gid":48,
-                 "height":0,
+                 "height":16,
                  "id":12,
                  "name":"",
                  "properties":
@@ -159,13 +160,13 @@
                  "rotation":0,
                  "type":"Sign",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":416,
                  "y":208
                 }, 
                 {
                  "gid":48,
-                 "height":0,
+                 "height":16,
                  "id":13,
                  "name":"",
                  "properties":
@@ -175,13 +176,13 @@
                  "rotation":0,
                  "type":"Sign",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":16,
                  "y":32
                 }, 
                 {
                  "gid":32,
-                 "height":0,
+                 "height":16,
                  "id":17,
                  "name":"ToFunhouse-2",
                  "properties":
@@ -194,13 +195,13 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":416,
                  "y":32
                 }, 
                 {
                  "gid":32,
-                 "height":0,
+                 "height":16,
                  "id":18,
                  "name":"ToFunhouse-3",
                  "properties":
@@ -213,13 +214,13 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":272,
                  "y":64
                 }, 
                 {
                  "gid":32,
-                 "height":0,
+                 "height":16,
                  "id":19,
                  "name":"ToFunhouse-4",
                  "properties":
@@ -232,13 +233,13 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":16,
                  "y":144
                 }, 
                 {
                  "gid":32,
-                 "height":0,
+                 "height":16,
                  "id":24,
                  "name":"ToFunhouse-2",
                  "properties":
@@ -251,13 +252,13 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":16,
                  "y":176
                 }, 
                 {
                  "gid":32,
-                 "height":0,
+                 "height":16,
                  "id":25,
                  "name":"ToFunhouse-2",
                  "properties":
@@ -270,13 +271,13 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":272,
                  "y":144
                 }, 
                 {
                  "gid":32,
-                 "height":0,
+                 "height":16,
                  "id":26,
                  "name":"ToFunhouse-2",
                  "properties":
@@ -289,13 +290,13 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":336,
                  "y":32
                 }, 
                 {
                  "gid":32,
-                 "height":0,
+                 "height":16,
                  "id":27,
                  "name":"ToFunhouse-2",
                  "properties":
@@ -308,13 +309,13 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":416,
                  "y":80
                 }, 
                 {
                  "gid":48,
-                 "height":0,
+                 "height":16,
                  "id":29,
                  "name":"",
                  "properties":
@@ -324,7 +325,7 @@
                  "rotation":0,
                  "type":"Sign",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":224,
                  "y":80
                 }],
@@ -357,7 +358,7 @@
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "width":28,
          "x":0,
          "y":0
@@ -374,7 +375,7 @@
         {
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":112,
+         "imageheight":224,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
@@ -383,6 +384,7 @@
 
             },
          "spacing":0,
+         "tilecount":126,
          "tileheight":16,
          "tilewidth":16
         }],

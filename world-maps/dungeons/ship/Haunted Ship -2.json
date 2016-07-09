@@ -29,7 +29,8 @@
          "objects":[
                 {
                  "gid":2,
-                 "height":0,
+                 "height":16,
+                 "id":1,
                  "name":"ToShip-1",
                  "properties":
                     {
@@ -41,13 +42,14 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":96,
                  "y":96
                 }, 
                 {
                  "gid":26,
-                 "height":0,
+                 "height":16,
+                 "id":2,
                  "name":"Ghostly Pirate Captain",
                  "properties":
                     {
@@ -56,22 +58,24 @@
                  "rotation":0,
                  "type":"Boss",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":96,
                  "y":288
                 }, 
                 {
                  "gid":15,
-                 "height":0,
+                 "height":16,
+                 "id":3,
                  "name":"Pristine Nautical Charts",
                  "properties":
                     {
-
+                     "flavorText":"They probably crashed because these were upside down.",
+                     "storyline":"Lore: Idliathlia"
                     },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":96,
                  "y":320
                 }],
@@ -89,6 +93,7 @@
          "objects":[
                 {
                  "height":352,
+                 "id":4,
                  "name":"Sunken Pearl Berth Deck",
                  "properties":
                     {
@@ -103,11 +108,12 @@
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "width":12,
          "x":0,
          "y":0
         }],
+ "nextobjectid":5,
  "orientation":"orthogonal",
  "properties":
     {
@@ -119,7 +125,7 @@
         {
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":64,
+         "imageheight":224,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
@@ -128,6 +134,7 @@
 
             },
          "spacing":0,
+         "tilecount":126,
          "tileheight":16,
          "tilewidth":16
         }],
