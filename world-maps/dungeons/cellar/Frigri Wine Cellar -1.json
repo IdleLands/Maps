@@ -12,7 +12,7 @@
          "y":0
         }, 
         {
-         "data":[3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 3, 0, 0, 0, 0, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 3, 0, 0, 0, 0, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 0, 0, 0, 0, 3, 3, 3, 3, 3, 3, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 3, 0, 0, 0, 0, 3, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 3, 0, 0, 0, 0, 3, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 3, 0, 0, 0, 0, 3, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 3, 0, 0, 0, 0, 3, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 3, 3, 3, 3, 3, 3, 17, 17, 17, 17, 17],
+         "data":[3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 46, 0, 0, 46, 3, 0, 0, 0, 46, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 3, 0, 0, 0, 0, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 46, 0, 0, 46, 3, 3, 3, 3, 3, 3, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 3, 0, 0, 0, 0, 3, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 3, 0, 0, 0, 0, 3, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 3, 46, 0, 0, 46, 3, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 3, 0, 0, 0, 0, 3, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 3, 3, 3, 3, 3, 3, 17, 17, 17, 17, 17],
          "height":10,
          "name":"Blocking",
          "opacity":1,
@@ -29,7 +29,8 @@
          "objects":[
                 {
                  "gid":2,
-                 "height":0,
+                 "height":16,
+                 "id":1,
                  "name":"ToNorkos",
                  "properties":
                     {
@@ -41,13 +42,14 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":208,
                  "y":128
                 }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
+                 "id":2,
                  "name":"",
                  "properties":
                     {
@@ -56,13 +58,14 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":240,
                  "y":48
                 }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
+                 "id":3,
                  "name":"",
                  "properties":
                     {
@@ -71,13 +74,14 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":160,
                  "y":48
                 }, 
                 {
                  "gid":35,
-                 "height":0,
+                 "height":16,
+                 "id":4,
                  "name":"ToCellar-2",
                  "properties":
                     {
@@ -89,13 +93,14 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":128,
                  "y":32
                 }, 
                 {
                  "gid":35,
-                 "height":0,
+                 "height":16,
+                 "id":5,
                  "name":"ToCellar-2",
                  "properties":
                     {
@@ -107,13 +112,14 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":128,
                  "y":64
                 }, 
                 {
                  "gid":35,
-                 "height":0,
+                 "height":16,
+                 "id":6,
                  "name":"ToCellar-2",
                  "properties":
                     {
@@ -125,13 +131,14 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":112,
                  "y":48
                 }, 
                 {
                  "gid":35,
-                 "height":0,
+                 "height":16,
+                 "id":7,
                  "name":"ToCellar-2",
                  "properties":
                     {
@@ -143,13 +150,14 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":96,
                  "y":64
                 }, 
                 {
                  "gid":35,
-                 "height":0,
+                 "height":16,
+                 "id":8,
                  "name":"ToCellar-2",
                  "properties":
                     {
@@ -161,13 +169,14 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":32,
                  "y":48
                 }, 
                 {
                  "gid":35,
-                 "height":0,
+                 "height":16,
+                 "id":9,
                  "name":"ToCellar-2",
                  "properties":
                     {
@@ -179,13 +188,14 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":64,
                  "y":48
                 }, 
                 {
                  "gid":35,
-                 "height":0,
+                 "height":16,
+                 "id":10,
                  "name":"ToCellar-2",
                  "properties":
                     {
@@ -197,7 +207,7 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":80,
                  "y":32
                 }],
@@ -208,6 +218,7 @@
          "x":0,
          "y":0
         }],
+ "nextobjectid":11,
  "orientation":"orthogonal",
  "properties":
     {
@@ -219,7 +230,7 @@
         {
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":64,
+         "imageheight":224,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
@@ -228,6 +239,7 @@
 
             },
          "spacing":0,
+         "tilecount":126,
          "tileheight":16,
          "tilewidth":16
         }],

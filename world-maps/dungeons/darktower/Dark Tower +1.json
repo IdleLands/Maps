@@ -12,7 +12,7 @@
          "y":0
         }, 
         {
-         "data":[33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 0, 33, 33, 33, 33, 33, 33, 33, 33, 33, 0, 33, 33, 33, 33, 33, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 33, 33, 33, 33, 0, 38, 0, 0, 0, 0, 0, 0, 0, 0, 0, 38, 0, 0, 33, 33, 33, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 33, 33, 33, 33, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 33, 33, 33, 33, 0, 38, 0, 0, 0, 0, 38, 0, 0, 0, 0, 38, 0, 33, 33, 33, 33, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 33, 33, 33, 33, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 33, 33, 33, 33, 0, 38, 0, 0, 0, 0, 0, 0, 0, 0, 0, 38, 0, 0, 33, 33, 33, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 33, 33, 33, 33, 33, 0, 33, 33, 33, 33, 33, 33, 33, 33, 33, 0, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33],
+         "data":[33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 0, 33, 33, 33, 33, 33, 33, 33, 33, 33, 0, 33, 33, 33, 33, 33, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 33, 33, 33, 33, 0, 57, 0, 0, 0, 0, 0, 0, 0, 0, 0, 57, 0, 0, 33, 33, 33, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 33, 33, 33, 33, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 33, 33, 33, 33, 0, 57, 0, 0, 0, 0, 57, 0, 0, 0, 0, 57, 0, 33, 33, 33, 33, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 33, 33, 33, 33, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 33, 33, 33, 33, 0, 57, 0, 0, 0, 0, 0, 0, 0, 0, 0, 57, 0, 0, 33, 33, 33, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 33, 33, 33, 33, 33, 0, 33, 33, 33, 33, 33, 33, 33, 33, 33, 0, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33],
          "height":13,
          "name":"Blocking",
          "opacity":1,
@@ -29,7 +29,8 @@
          "objects":[
                 {
                  "gid":1,
-                 "height":0,
+                 "height":16,
+                 "id":1,
                  "name":"ToNorkos",
                  "properties":
                     {
@@ -41,29 +42,31 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":64,
                  "y":144
                 }, 
                 {
                  "gid":15,
-                 "height":0,
+                 "height":16,
+                 "id":2,
                  "name":"Black Rose",
                  "properties":
                     {
-						"flavorText": "A small, black rose, which blooms only at night time in the moonlight of the evil that washes over this land.",
-						"storyline": "Lore: Dark Tower"
+                     "flavorText":"A small, black rose, which blooms only at night time in the moonlight of the evil that washes over this land.",
+                     "storyline":"Lore: Dark Tower"
                     },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":160,
                  "y":96
                 }, 
                 {
                  "gid":35,
-                 "height":0,
+                 "height":16,
+                 "id":3,
                  "name":"ToNorkos",
                  "properties":
                     {
@@ -75,13 +78,14 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":48,
                  "y":32
                 }, 
                 {
                  "gid":35,
-                 "height":0,
+                 "height":16,
+                 "id":4,
                  "name":"ToNorkos",
                  "properties":
                     {
@@ -93,13 +97,14 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":208,
                  "y":32
                 }, 
                 {
                  "gid":35,
-                 "height":0,
+                 "height":16,
+                 "id":5,
                  "name":"ToNorkos",
                  "properties":
                     {
@@ -111,13 +116,14 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":240,
                  "y":64
                 }, 
                 {
                  "gid":35,
-                 "height":0,
+                 "height":16,
+                 "id":6,
                  "name":"ToNorkos",
                  "properties":
                     {
@@ -129,13 +135,14 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":240,
                  "y":160
                 }, 
                 {
                  "gid":35,
-                 "height":0,
+                 "height":16,
+                 "id":7,
                  "name":"ToNorkos",
                  "properties":
                     {
@@ -147,13 +154,14 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":208,
                  "y":192
                 }, 
                 {
                  "gid":35,
-                 "height":0,
+                 "height":16,
+                 "id":8,
                  "name":"ToNorkos",
                  "properties":
                     {
@@ -165,7 +173,7 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":48,
                  "y":192
                 }],
@@ -176,6 +184,7 @@
          "x":0,
          "y":0
         }],
+ "nextobjectid":9,
  "orientation":"orthogonal",
  "properties":
     {
@@ -187,7 +196,7 @@
         {
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":112,
+         "imageheight":224,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
@@ -196,6 +205,7 @@
 
             },
          "spacing":0,
+         "tilecount":126,
          "tileheight":16,
          "tilewidth":16
         }],

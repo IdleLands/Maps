@@ -10,9 +10,9 @@
          "width":29,
          "x":0,
          "y":0
-        },
+        }, 
         {
-         "data":[3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 0, 0, 3, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 3, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 0, 0, 3, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 3, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 0, 0, 3, 0, 0, 0, 0, 0, 3, 3, 3, 3, 0, 0, 3, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 3, 3, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 3, 3, 3, 0, 3, 3, 0, 3, 3, 0, 0, 3, 0, 0, 3, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 0, 0, 0, 0, 3, 0, 0, 0, 3, 0, 0, 3, 3, 3, 3, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 0, 0, 0, 0, 3, 0, 0, 0, 3, 0, 0, 0, 0, 0, 3, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 0, 0, 3, 3, 3, 3, 3, 3, 3, 0, 0, 0, 0, 0, 3, 0, 0, 3, 3, 3, 3, 3, 0, 3, 3, 3, 3, 3, 3, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 3, 3, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3],
+         "data":[3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 0, 0, 3, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 3, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 0, 0, 3, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 3, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 0, 0, 3, 0, 0, 0, 0, 0, 3, 3, 3, 3, 0, 0, 3, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 3, 3, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 3, 3, 3, 0, 3, 3, 0, 3, 3, 0, 0, 3, 0, 0, 3, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 0, 0, 0, 0, 3, 0, 0, 0, 3, 0, 0, 3, 3, 3, 3, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 0, 0, 0, 0, 3, 0, 0, 47, 3, 0, 0, 0, 0, 46, 3, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 0, 0, 3, 3, 3, 3, 3, 3, 3, 0, 0, 0, 0, 0, 3, 0, 0, 3, 3, 3, 3, 3, 0, 3, 3, 3, 3, 3, 3, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 39, 0, 0, 0, 3, 0, 0, 0, 44, 0, 0, 0, 0, 0, 3, 0, 0, 3, 0, 57, 0, 0, 0, 0, 0, 57, 0, 3, 3, 3, 3, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 46, 0, 0, 0, 3, 44, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 44, 0, 0, 3, 0, 0, 3, 0, 57, 0, 0, 0, 0, 0, 57, 0, 3, 3, 46, 0, 0, 0, 3, 44, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3],
          "height":18,
          "name":"Blocking",
          "opacity":1,
@@ -21,7 +21,7 @@
          "width":29,
          "x":0,
          "y":0
-        },
+        }, 
         {
          "draworder":"topdown",
          "height":14,
@@ -29,7 +29,8 @@
          "objects":[
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
+                 "id":1,
                  "name":"",
                  "properties":
                     {
@@ -38,13 +39,14 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":32,
                  "y":64
-                },
+                }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
+                 "id":2,
                  "name":"",
                  "properties":
                     {
@@ -53,13 +55,14 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":16,
                  "y":64
-                },
+                }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
+                 "id":3,
                  "name":"",
                  "properties":
                     {
@@ -68,13 +71,14 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":48,
                  "y":96
-                },
+                }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
+                 "id":4,
                  "name":"",
                  "properties":
                     {
@@ -83,13 +87,14 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":48,
                  "y":112
-                },
+                }, 
                 {
                  "gid":2,
-                 "height":0,
+                 "height":16,
+                 "id":5,
                  "name":"ToNorkos",
                  "properties":
                     {
@@ -101,13 +106,14 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":368,
                  "y":240
-                },
+                }, 
                 {
                  "gid":1,
-                 "height":0,
+                 "height":16,
+                 "id":6,
                  "name":"ToFate-2",
                  "properties":
                     {
@@ -119,13 +125,14 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":16,
                  "y":32
-                },
+                }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
+                 "id":7,
                  "name":"",
                  "properties":
                     {
@@ -134,13 +141,14 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":240,
                  "y":224
-                },
+                }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
+                 "id":8,
                  "name":"",
                  "properties":
                     {
@@ -149,13 +157,14 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":240,
                  "y":240
-                },
+                }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
+                 "id":9,
                  "name":"",
                  "properties":
                     {
@@ -164,13 +173,14 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":176,
                  "y":144
-                },
+                }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
+                 "id":10,
                  "name":"",
                  "properties":
                     {
@@ -179,13 +189,14 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":160,
                  "y":144
-                },
+                }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
+                 "id":11,
                  "name":"",
                  "properties":
                     {
@@ -194,13 +205,14 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":112,
                  "y":128
-                },
+                }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
+                 "id":12,
                  "name":"",
                  "properties":
                     {
@@ -209,13 +221,14 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":192,
                  "y":80
-                },
+                }, 
                 {
                  "gid":18,
-                 "height":0,
+                 "height":16,
+                 "id":13,
                  "name":"",
                  "properties":
                     {
@@ -224,13 +237,14 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":64,
                  "y":128
-                },
+                }, 
                 {
                  "gid":30,
-                 "height":0,
+                 "height":16,
+                 "id":14,
                  "name":"",
                  "properties":
                     {
@@ -239,13 +253,14 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":368,
                  "y":112
-                },
+                }, 
                 {
                  "gid":30,
-                 "height":0,
+                 "height":16,
+                 "id":15,
                  "name":"",
                  "properties":
                     {
@@ -254,13 +269,14 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":384,
                  "y":96
-                },
+                }, 
                 {
                  "gid":30,
-                 "height":0,
+                 "height":16,
+                 "id":16,
                  "name":"",
                  "properties":
                     {
@@ -269,13 +285,14 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":352,
                  "y":96
-                },
+                }, 
                 {
                  "gid":30,
-                 "height":0,
+                 "height":16,
+                 "id":17,
                  "name":"",
                  "properties":
                     {
@@ -284,13 +301,14 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":368,
                  "y":80
-                },
+                }, 
                 {
                  "gid":35,
-                 "height":0,
+                 "height":16,
+                 "id":18,
                  "name":"ToRedDragon",
                  "properties":
                     {
@@ -302,13 +320,14 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":208,
                  "y":112
-                },
+                }, 
                 {
                  "gid":35,
-                 "height":0,
+                 "height":16,
+                 "id":19,
                  "name":"ToRedDragon",
                  "properties":
                     {
@@ -320,13 +339,14 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":224,
                  "y":128
-                },
+                }, 
                 {
                  "gid":35,
-                 "height":0,
+                 "height":16,
+                 "id":20,
                  "name":"ToRedDragon",
                  "properties":
                     {
@@ -338,13 +358,14 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":208,
                  "y":128
-                },
+                }, 
                 {
                  "gid":35,
-                 "height":0,
+                 "height":16,
+                 "id":21,
                  "name":"ToRedDragon",
                  "properties":
                     {
@@ -356,25 +377,362 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":224,
                  "y":112
-                },
+                }, 
                 {
                  "gid":15,
-                 "height":0,
+                 "height":16,
+                 "id":22,
                  "name":"Vial of Liquid Fate",
                  "properties":
                     {
-						"flavorText": "This swirly, smoky liquid looks like it would just jump out of the vial if you'd open it. When you look inside, you see Frigri in ruins.",
-						"storyline": "Memoir: Bitomancer"
+                     "flavorText":"This swirly, smoky liquid looks like it would just jump out of the vial if you'd open it. When you look inside, you see Frigri in ruins.",
+                     "storyline":"Memoir: Bitomancer"
                     },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":64,
                  "y":240
+                }, 
+                {
+                 "gid":59,
+                 "height":16,
+                 "id":24,
+                 "name":"",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":336,
+                 "y":48
+                }, 
+                {
+                 "gid":59,
+                 "height":16,
+                 "id":25,
+                 "name":"",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":368,
+                 "y":48
+                }, 
+                {
+                 "gid":59,
+                 "height":16,
+                 "id":26,
+                 "name":"",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":400,
+                 "y":48
+                }, 
+                {
+                 "gid":59,
+                 "height":16,
+                 "id":27,
+                 "name":"",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":432,
+                 "y":80
+                }, 
+                {
+                 "gid":59,
+                 "height":16,
+                 "id":28,
+                 "name":"",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":432,
+                 "y":96
+                }, 
+                {
+                 "gid":59,
+                 "height":16,
+                 "id":29,
+                 "name":"",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":432,
+                 "y":112
+                }, 
+                {
+                 "gid":59,
+                 "height":16,
+                 "id":30,
+                 "name":"",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":320,
+                 "y":160
+                }, 
+                {
+                 "gid":59,
+                 "height":16,
+                 "id":31,
+                 "name":"",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":304,
+                 "y":144
+                }, 
+                {
+                 "gid":59,
+                 "height":16,
+                 "id":32,
+                 "name":"",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":208,
+                 "y":256
+                }, 
+                {
+                 "gid":59,
+                 "height":16,
+                 "id":33,
+                 "name":"",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":192,
+                 "y":240
+                }, 
+                {
+                 "gid":59,
+                 "height":16,
+                 "id":34,
+                 "name":"",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":176,
+                 "y":256
+                }, 
+                {
+                 "gid":59,
+                 "height":16,
+                 "id":35,
+                 "name":"",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":192,
+                 "y":272
+                }, 
+                {
+                 "gid":59,
+                 "height":16,
+                 "id":36,
+                 "name":"",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":144,
+                 "y":192
+                }, 
+                {
+                 "gid":59,
+                 "height":16,
+                 "id":38,
+                 "name":"",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":160,
+                 "y":208
+                }, 
+                {
+                 "gid":59,
+                 "height":16,
+                 "id":39,
+                 "name":"",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":128,
+                 "y":208
+                }, 
+                {
+                 "gid":59,
+                 "height":16,
+                 "id":40,
+                 "name":"",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":144,
+                 "y":224
+                }, 
+                {
+                 "gid":59,
+                 "height":16,
+                 "id":41,
+                 "name":"",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":112,
+                 "y":272
+                }, 
+                {
+                 "gid":59,
+                 "height":16,
+                 "id":42,
+                 "name":"",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":112,
+                 "y":240
+                }, 
+                {
+                 "gid":59,
+                 "height":16,
+                 "id":43,
+                 "name":"",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":96,
+                 "y":224
+                }, 
+                {
+                 "gid":48,
+                 "height":16,
+                 "id":44,
+                 "name":"",
+                 "properties":
+                    {
+                     "flavorText":"Mind your step!"
+                    },
+                 "rotation":0,
+                 "type":"Sign",
+                 "visible":true,
+                 "width":16,
+                 "x":192,
+                 "y":112
+                }, 
+                {
+                 "gid":48,
+                 "height":16,
+                 "id":46,
+                 "name":"",
+                 "properties":
+                    {
+                     "flavorText":"Mind your step!"
+                    },
+                 "rotation":0,
+                 "type":"Sign",
+                 "visible":true,
+                 "width":16,
+                 "x":208,
+                 "y":96
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -383,6 +741,7 @@
          "x":0,
          "y":0
         }],
+ "nextobjectid":47,
  "orientation":"orthogonal",
  "properties":
     {
@@ -394,7 +753,7 @@
         {
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":64,
+         "imageheight":224,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
@@ -403,6 +762,7 @@
 
             },
          "spacing":0,
+         "tilecount":126,
          "tileheight":16,
          "tilewidth":16
         }],

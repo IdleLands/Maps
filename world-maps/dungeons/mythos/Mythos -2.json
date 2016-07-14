@@ -23,12 +23,14 @@
          "y":0
         }, 
         {
+         "draworder":"topdown",
          "height":50,
          "name":"Interactables",
          "objects":[
                 {
                  "gid":30,
-                 "height":0,
+                 "height":16,
+                 "id":1,
                  "name":"ToVocalnus",
                  "properties":
                     {
@@ -38,130 +40,147 @@
                      "map":"Norkos",
                      "movementType":"ascend"
                     },
+                 "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1040,
                  "y":368
                 }, 
                 {
-                 "gid":13,
-                 "height":0,
-                 "name":"Monster",
-                 "properties":
-                    {
-
-                    },
-                 "type":"Trainer",
-                 "visible":true,
-                 "width":0,
-                 "x":96,
-                 "y":320
-                }, 
-                {
-                 "gid":104,
-                 "height":0,
+                 "gid":284,
+                 "height":16,
+                 "id":3,
                  "name":"ToVocalnus",
                  "properties":
                     {
                      "movementType":"teleport",
                      "toLoc":"vocalnus"
                     },
+                 "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":32,
                  "y":512
                 }, 
                 {
-                 "gid":104,
-                 "height":0,
+                 "gid":284,
+                 "height":16,
+                 "id":4,
                  "name":"ToVocalnus",
                  "properties":
                     {
                      "movementType":"teleport",
                      "toLoc":"vocalnus"
                     },
+                 "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1232,
                  "y":112
                 }, 
                 {
-                 "gid":104,
-                 "height":0,
+                 "gid":284,
+                 "height":16,
+                 "id":5,
                  "name":"ToVocalnus",
                  "properties":
                     {
                      "movementType":"teleport",
                      "toLoc":"vocalnus"
                     },
+                 "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":736,
                  "y":672
                 }, 
                 {
                  "gid":26,
-                 "height":0,
+                 "height":16,
+                 "id":6,
                  "name":"Black Dragon King",
                  "properties":
                     {
 
                     },
+                 "rotation":0,
                  "type":"Boss",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1024,
                  "y":80
                 }, 
                 {
                  "gid":15,
-                 "height":0,
+                 "height":16,
+                 "id":7,
                  "name":"Black Draygon Scale",
                  "properties":
                     {
-						"flavorText": "A jet black scale that, if lost in the darkness, would never be found.",
-						"storyline": "Lore: Draygons"
+                     "flavorText":"A jet black scale that, if lost in the darkness, would never be found.",
+                     "storyline":"Lore: Draygons"
                     },
+                 "rotation":0,
                  "type":"Collectible",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":928,
                  "y":80
                 }, 
                 {
                  "gid":15,
-                 "height":0,
+                 "height":16,
+                 "id":8,
                  "name":"Mysterious Obsidian Block",
                  "properties":
                     {
-						"flavorText": "A perfect cube of obsidian. Archer must have had some spare time on his hands.",
-						"storyline": "Memoir: Archer"
+                     "flavorText":"A perfect cube of obsidian. Archer must have had some spare time on his hands.",
+                     "storyline":"Memoir: Archer"
                     },
+                 "rotation":0,
                  "type":"Collectible",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":736,
                  "y":560
                 }, 
                 {
                  "gid":15,
-                 "height":0,
+                 "height":16,
+                 "id":9,
                  "name":"Oddly Formed Granite",
                  "properties":
                     {
+                     "flavorText":"A small, scentless chunk of granite that appears to be a fossilized chunk of dragon stool.",
                      "rarity":"pro",
-					 "flavorText": "A small, scentless chunk of granite that appears to be a fossilized chunk of dragon stool.",
-					 "storyline": "Lore: Draygons"
+                     "storyline":"Lore: Draygons"
                     },
+                 "rotation":0,
                  "type":"Collectible",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":288,
                  "y":432
+                }, 
+                {
+                 "gid":67,
+                 "height":16,
+                 "id":10,
+                 "name":"Monster",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"Trainer",
+                 "visible":true,
+                 "width":16,
+                 "x":96,
+                 "y":320
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -170,17 +189,19 @@
          "x":0,
          "y":0
         }],
+ "nextobjectid":11,
  "orientation":"orthogonal",
  "properties":
     {
      "name":"norkos"
     },
+ "renderorder":"right-down",
  "tileheight":16,
  "tilesets":[
         {
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":64,
+         "imageheight":224,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
@@ -189,13 +210,14 @@
 
             },
          "spacing":0,
+         "tilecount":126,
          "tileheight":16,
          "tilewidth":16
         }, 
         {
-         "firstgid":37,
+         "firstgid":127,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":64,
+         "imageheight":224,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
@@ -204,13 +226,14 @@
 
             },
          "spacing":0,
+         "tilecount":126,
          "tileheight":16,
          "tilewidth":16
         }, 
         {
-         "firstgid":73,
+         "firstgid":253,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":64,
+         "imageheight":224,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
@@ -219,6 +242,7 @@
 
             },
          "spacing":0,
+         "tilecount":126,
          "tileheight":16,
          "tilewidth":16
         }],

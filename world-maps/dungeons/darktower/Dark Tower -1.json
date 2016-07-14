@@ -12,7 +12,7 @@
          "y":0
         }, 
         {
-         "data":[17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 0, 17, 17, 17, 17, 17, 3, 3, 0, 0, 3, 3, 0, 0, 0, 0, 3, 3, 3, 17, 17, 3, 3, 3, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 0, 0, 0, 0, 17, 17, 3, 0, 0, 0, 0, 3, 17, 16, 16, 17, 3, 0, 3, 3, 3, 3, 0, 3, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 0, 0, 0, 0, 0, 17, 3, 38, 0, 0, 38, 3, 17, 16, 16, 17, 3, 0, 0, 0, 0, 0, 0, 3, 17, 17, 17, 33, 33, 33, 33, 33, 33, 33, 33, 33, 0, 0, 0, 0, 0, 0, 0, 17, 3, 0, 0, 0, 0, 3, 3, 3, 3, 3, 3, 0, 0, 0, 0, 0, 0, 3, 3, 17, 17, 33, 3, 3, 3, 3, 3, 3, 3, 3, 0, 0, 0, 0, 0, 0, 16, 17, 3, 0, 0, 0, 0, 3, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 3, 0, 0, 3, 0, 0, 0, 3, 33, 17, 0, 0, 0, 0, 0, 17, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 3, 0, 0, 0, 3, 33, 17, 0, 16, 16, 16, 0, 17, 3, 0, 0, 0, 0, 3, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 3, 33, 17, 17, 17, 17, 17, 17, 17, 3, 0, 0, 0, 0, 3, 3, 3, 3, 3, 3, 0, 0, 0, 0, 0, 0, 3, 3, 17, 17, 33, 3, 3, 3, 3, 3, 3, 3, 3, 33, 17, 17, 17, 17, 17, 17, 17, 3, 38, 0, 0, 38, 3, 17, 17, 17, 17, 3, 0, 0, 0, 0, 0, 0, 3, 17, 17, 17, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 17, 17, 17, 17, 17, 17, 17, 3, 0, 0, 0, 0, 3, 17, 17, 17, 17, 3, 0, 3, 3, 3, 3, 0, 3, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 3, 3, 3, 3, 3, 3, 17, 17, 17, 17, 3, 3, 3, 17, 17, 3, 3, 3, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17],
+         "data":[17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 0, 17, 17, 17, 17, 17, 38, 38, 0, 0, 38, 38, 0, 0, 0, 0, 38, 38, 38, 17, 17, 38, 38, 38, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 0, 0, 0, 0, 17, 17, 38, 0, 0, 0, 0, 38, 17, 16, 16, 17, 38, 0, 38, 38, 38, 38, 0, 38, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 0, 0, 0, 0, 0, 17, 38, 57, 0, 0, 57, 38, 17, 16, 16, 17, 38, 0, 0, 0, 0, 0, 0, 38, 17, 17, 17, 33, 33, 33, 33, 33, 33, 33, 33, 33, 0, 0, 0, 0, 0, 0, 0, 17, 38, 0, 0, 0, 0, 38, 38, 38, 38, 38, 38, 0, 0, 0, 0, 0, 0, 38, 38, 17, 17, 33, 38, 38, 38, 38, 38, 38, 38, 38, 0, 0, 0, 0, 0, 0, 16, 17, 38, 0, 0, 0, 0, 38, 0, 0, 0, 0, 38, 0, 0, 0, 0, 0, 0, 0, 38, 0, 0, 0, 38, 0, 0, 38, 0, 0, 0, 38, 33, 17, 0, 0, 0, 0, 0, 17, 38, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 38, 0, 0, 38, 0, 0, 0, 38, 33, 17, 0, 16, 16, 16, 0, 17, 38, 0, 0, 0, 0, 38, 0, 0, 0, 0, 38, 0, 0, 0, 0, 0, 0, 0, 38, 0, 0, 0, 38, 0, 0, 0, 0, 0, 0, 38, 33, 17, 17, 17, 17, 17, 17, 17, 38, 0, 0, 0, 0, 38, 38, 38, 38, 38, 38, 0, 0, 0, 0, 0, 0, 38, 38, 17, 17, 33, 38, 38, 38, 38, 38, 38, 38, 38, 33, 17, 17, 17, 17, 17, 17, 17, 38, 57, 0, 0, 57, 38, 17, 17, 17, 17, 38, 0, 0, 0, 0, 0, 0, 38, 17, 17, 17, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 17, 17, 17, 17, 17, 17, 17, 38, 0, 0, 0, 0, 38, 17, 17, 17, 17, 38, 0, 38, 38, 38, 38, 0, 38, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 38, 38, 38, 38, 38, 38, 17, 17, 17, 17, 38, 38, 38, 17, 17, 38, 38, 38, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17],
          "height":14,
          "name":"Blocking",
          "opacity":1,
@@ -28,53 +28,9 @@
          "name":"Interactables",
          "objects":[
                 {
-                 "gid":18,
-                 "height":0,
-                 "name":"",
-                 "properties":
-                    {
-
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":0,
-                 "x":288,
-                 "y":144
-                }, 
-                {
-                 "gid":18,
-                 "height":0,
-                 "name":"",
-                 "properties":
-                    {
-
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":0,
-                 "x":160,
-                 "y":144
-                }, 
-                {
-                 "gid":18,
-                 "height":0,
-                 "name":"",
-                 "properties":
-                    {
-
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":0,
-                 "x":80,
-                 "y":144
-                }, 
-                {
                  "gid":26,
-                 "height":0,
+                 "height":16,
+                 "id":4,
                  "name":"Guardian Lord",
                  "properties":
                     {
@@ -83,13 +39,14 @@
                  "rotation":0,
                  "type":"Boss",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":16,
                  "y":160
                 }, 
                 {
                  "gid":26,
-                 "height":0,
+                 "height":16,
+                 "id":5,
                  "name":"Fighter Guardian",
                  "properties":
                     {
@@ -98,13 +55,14 @@
                  "rotation":0,
                  "type":"Boss",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":256,
                  "y":80
                 }, 
                 {
                  "gid":26,
-                 "height":0,
+                 "height":16,
+                 "id":6,
                  "name":"Cleric Guardian",
                  "properties":
                     {
@@ -113,13 +71,14 @@
                  "rotation":0,
                  "type":"Boss",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":176,
                  "y":80
                 }, 
                 {
                  "gid":26,
-                 "height":0,
+                 "height":16,
+                 "id":7,
                  "name":"Generalist Guardian",
                  "properties":
                     {
@@ -128,13 +87,14 @@
                  "rotation":0,
                  "type":"Boss",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":176,
                  "y":208
                 }, 
                 {
                  "gid":26,
-                 "height":0,
+                 "height":16,
+                 "id":8,
                  "name":"Mage Guardian",
                  "properties":
                     {
@@ -143,29 +103,31 @@
                  "rotation":0,
                  "type":"Boss",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":256,
                  "y":208
                 }, 
                 {
                  "gid":15,
-                 "height":0,
+                 "height":16,
+                 "id":9,
                  "name":"Guardian Sigil Ring",
                  "properties":
                     {
-						"flavorText": "This star-shaped sigil ring marks the carrier as a Guardian of the Dark Tower.",
-						"storyline": "Lore: Dark Tower"
+                     "flavorText":"This star-shaped sigil ring marks the carrier as a Guardian of the Dark Tower.",
+                     "storyline":"Lore: Dark Tower"
                     },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":144,
                  "y":128
                 }, 
                 {
                  "gid":2,
-                 "height":0,
+                 "height":16,
+                 "id":10,
                  "name":"ToNorkos",
                  "properties":
                     {
@@ -177,13 +139,14 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":368,
                  "y":128
                 }, 
                 {
                  "gid":1,
-                 "height":0,
+                 "height":16,
+                 "id":11,
                  "name":"ToDarkTower-2",
                  "properties":
                     {
@@ -195,13 +158,14 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":416,
                  "y":128
                 }, 
                 {
                  "gid":42,
-                 "height":0,
+                 "height":16,
+                 "id":12,
                  "name":"ToNorkos",
                  "properties":
                     {
@@ -213,13 +177,14 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":320,
                  "y":144
                 }, 
                 {
                  "gid":51,
-                 "height":0,
+                 "height":16,
+                 "id":13,
                  "name":"",
                  "properties":
                     {
@@ -228,43 +193,14 @@
                  "rotation":0,
                  "type":"Skeleton",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":272,
                  "y":144
                 }, 
                 {
-                 "gid":18,
-                 "height":0,
-                 "name":"",
-                 "properties":
-                    {
-
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":0,
-                 "x":48,
-                 "y":64
-                }, 
-                {
-                 "gid":18,
-                 "height":0,
-                 "name":"",
-                 "properties":
-                    {
-
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":0,
-                 "x":32,
-                 "y":64
-                }, 
-                {
                  "gid":35,
-                 "height":0,
+                 "height":16,
+                 "id":16,
                  "name":"ToDarkTower-3",
                  "properties":
                     {
@@ -276,13 +212,14 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":336,
                  "y":128
                 }, 
                 {
                  "gid":35,
-                 "height":0,
+                 "height":16,
+                 "id":17,
                  "name":"ToDarkTower-3",
                  "properties":
                     {
@@ -294,13 +231,14 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":336,
                  "y":144
                 }, 
                 {
                  "gid":35,
-                 "height":0,
+                 "height":16,
+                 "id":18,
                  "name":"ToDarkTower-3",
                  "properties":
                     {
@@ -312,28 +250,14 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":336,
                  "y":160
                 }, 
                 {
-                 "gid":21,
-                 "height":0,
-                 "name":"Necromancer",
-                 "properties":
-                    {
-
-                    },
-                 "rotation":0,
-                 "type":"Trainer",
-                 "visible":true,
-                 "width":0,
-                 "x":144,
-                 "y":48
-                }, 
-                {
                  "gid":2,
-                 "height":0,
+                 "height":16,
+                 "id":20,
                  "name":"ToENorkos",
                  "properties":
                     {
@@ -346,13 +270,14 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":512,
                  "y":48
                 }, 
                 {
                  "gid":35,
-                 "height":0,
+                 "height":16,
+                 "id":21,
                  "name":"ToDarkTower-3",
                  "properties":
                     {
@@ -364,13 +289,14 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":480,
                  "y":96
                 }, 
                 {
                  "gid":35,
-                 "height":0,
+                 "height":16,
+                 "id":22,
                  "name":"ToDarkTower-3",
                  "properties":
                     {
@@ -382,9 +308,137 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":480,
                  "y":112
+                }, 
+                {
+                 "gid":71,
+                 "height":16,
+                 "id":25,
+                 "name":"Necromancer",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"Trainer",
+                 "visible":true,
+                 "width":16,
+                 "x":144,
+                 "y":48
+                }, 
+                {
+                 "gid":58,
+                 "height":16,
+                 "id":26,
+                 "name":"",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":288,
+                 "y":144
+                }, 
+                {
+                 "gid":58,
+                 "height":16,
+                 "id":27,
+                 "name":"",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":160,
+                 "y":144
+                }, 
+                {
+                 "gid":58,
+                 "height":16,
+                 "id":28,
+                 "name":"",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":80,
+                 "y":144
+                }, 
+                {
+                 "gid":58,
+                 "height":16,
+                 "id":29,
+                 "name":"",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":48,
+                 "y":64
+                }, 
+                {
+                 "gid":58,
+                 "height":16,
+                 "id":30,
+                 "name":"",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":32,
+                 "y":64
+                }, 
+                {
+                 "gid":79,
+                 "height":16,
+                 "id":31,
+                 "name":"",
+                 "properties":
+                    {
+                     "flavorText":"This grave has been exhumed."
+                    },
+                 "rotation":0,
+                 "type":"Tombstone",
+                 "visible":true,
+                 "width":16,
+                 "x":112,
+                 "y":32
+                }, 
+                {
+                 "gid":79,
+                 "height":16,
+                 "id":32,
+                 "name":"",
+                 "properties":
+                    {
+                     "flavorText":"The grave has been dug up, and a closed casket is visible."
+                    },
+                 "rotation":0,
+                 "type":"Tombstone",
+                 "visible":true,
+                 "width":16,
+                 "x":80,
+                 "y":32
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -400,6 +454,7 @@
          "objects":[
                 {
                  "height":48,
+                 "id":23,
                  "name":"Dark Tower Area",
                  "properties":
                     {
@@ -414,6 +469,7 @@
                 }, 
                 {
                  "height":192,
+                 "id":24,
                  "name":"Guardian's Lair",
                  "properties":
                     {
@@ -433,6 +489,7 @@
          "x":0,
          "y":0
         }],
+ "nextobjectid":33,
  "orientation":"orthogonal",
  "properties":
     {
@@ -444,7 +501,7 @@
         {
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":112,
+         "imageheight":224,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
@@ -453,6 +510,7 @@
 
             },
          "spacing":0,
+         "tilecount":126,
          "tileheight":16,
          "tilewidth":16
         }],
