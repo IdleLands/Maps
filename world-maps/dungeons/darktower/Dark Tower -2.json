@@ -12,7 +12,7 @@
          "y":0
         }, 
         {
-         "data":[3, 3, 3, 3, 3, 3, 3, 3, 3, 0, 0, 3, 0, 0, 0, 3, 3, 0, 0, 3, 3, 0, 0, 3, 3, 0, 0, 0, 0, 0, 0, 3, 3, 3, 3, 3, 3, 3, 3, 3],
+         "data":[38, 38, 38, 38, 38, 38, 38, 38, 38, 0, 0, 38, 0, 0, 0, 38, 38, 0, 0, 38, 38, 0, 0, 38, 38, 0, 0, 0, 0, 0, 0, 38, 38, 38, 38, 38, 38, 38, 38, 38],
          "height":5,
          "name":"Blocking",
          "opacity":1,
@@ -28,23 +28,9 @@
          "name":"Interactables",
          "objects":[
                 {
-                 "gid":18,
-                 "height":0,
-                 "name":"",
-                 "properties":
-                    {
-
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":0,
-                 "x":48,
-                 "y":64
-                }, 
-                {
                  "gid":2,
-                 "height":0,
+                 "height":16,
+                 "id":2,
                  "name":"ToDarkTower-1",
                  "properties":
                     {
@@ -56,9 +42,25 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":64,
                  "y":32
+                }, 
+                {
+                 "gid":58,
+                 "height":16,
+                 "id":3,
+                 "name":"",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":48,
+                 "y":64
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -67,6 +69,7 @@
          "x":0,
          "y":0
         }],
+ "nextobjectid":4,
  "orientation":"orthogonal",
  "properties":
     {
@@ -78,7 +81,7 @@
         {
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":112,
+         "imageheight":224,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
@@ -87,6 +90,7 @@
 
             },
          "spacing":0,
+         "tilecount":126,
          "tileheight":16,
          "tilewidth":16
         }],
