@@ -154,7 +154,7 @@
                  "name":"",
                  "properties":
                     {
-                     "forceEvent":"FindItem"
+                     "forceEvent":"ItemBless"
                     },
                  "rotation":0,
                  "type":"",
