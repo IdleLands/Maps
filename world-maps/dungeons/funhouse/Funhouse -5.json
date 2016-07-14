@@ -336,7 +336,7 @@
                  "name":"",
                  "properties":
                     {
-                     "forceEvent":"BlessItem"
+                     "forceEvent":"FindItem"
                     },
                  "rotation":0,
                  "type":"",
@@ -352,7 +352,7 @@
                  "name":"",
                  "properties":
                     {
-                     "forceEvent":"BlessItem"
+                     "forceEvent":"FindItem"
                     },
                  "rotation":0,
                  "type":"",
@@ -368,7 +368,7 @@
                  "name":"",
                  "properties":
                     {
-                     "forceEvent":"BlessItem"
+                     "forceEvent":"FindItem"
                     },
                  "rotation":0,
                  "type":"",

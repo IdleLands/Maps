@@ -298,7 +298,7 @@
                  "name":"",
                  "properties":
                     {
-                     "forceEvent":"BlessGold"
+                     "forceEvent":"GoldBless"
                     },
                  "rotation":0,
                  "type":"",

@@ -319,7 +319,7 @@
                  "name":"",
                  "properties":
                     {
-                     "forceEvent":"Item"
+                     "forceEvent":"FindItem"
                     },
                  "rotation":0,
                  "type":"",

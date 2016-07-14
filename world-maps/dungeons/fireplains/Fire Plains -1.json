@@ -167,7 +167,7 @@
                  "name":"",
                  "properties":
                     {
-                     "forceEvent":"BlessGold"
+                     "forceEvent":"GoldBless"
                     },
                  "rotation":0,
                  "type":"",
@@ -183,7 +183,7 @@
                  "name":"",
                  "properties":
                     {
-                     "forceEvent":"BlessGold"
+                     "forceEvent":"GoldBless"
                     },
                  "rotation":0,
                  "type":"",
