@@ -78,6 +78,22 @@
                  "width":16,
                  "x":224,
                  "y":208
+                }, 
+                {
+                 "gid":77,
+                 "height":16,
+                 "id":4,
+                 "name":"",
+                 "properties":
+                    {
+                     "forceEvent":"ItemBless"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":144,
+                 "y":128
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -86,7 +102,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":4,
+ "nextobjectid":5,
  "orientation":"orthogonal",
  "properties":
     {

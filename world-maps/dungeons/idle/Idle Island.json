@@ -168,6 +168,22 @@
                  "width":16,
                  "x":464,
                  "y":784
+                }, 
+                {
+                 "gid":60,
+                 "height":16,
+                 "id":9,
+                 "name":"",
+                 "properties":
+                    {
+                     "forceEvent":"GoldBless"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":384,
+                 "y":352
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -176,7 +192,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":9,
+ "nextobjectid":10,
  "orientation":"orthogonal",
  "properties":
     {
