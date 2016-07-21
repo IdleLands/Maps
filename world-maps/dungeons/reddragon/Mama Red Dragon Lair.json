@@ -31,7 +31,7 @@
                  "gid":26,
                  "height":16,
                  "id":1,
-                 "name":"Mama Red Draygon",
+                 "name":"Mama Red Dragon",
                  "properties":
                     {
 
@@ -47,7 +47,7 @@
                  "gid":26,
                  "height":16,
                  "id":2,
-                 "name":"Baby Red Draygon",
+                 "name":"Baby Red Dragon",
                  "properties":
                     {
 
@@ -82,11 +82,11 @@
                  "gid":15,
                  "height":16,
                  "id":4,
-                 "name":"Mama Red Draygon Scale",
+                 "name":"Mama Red Dragon Scale",
                  "properties":
                     {
                      "flavorText":"A giant, blood-red scale of a dragon. Strangely, you can see the feminity in the scale.",
-                     "storyline":"Lore: Draygons"
+                     "storyline":"Lore: Dragons"
                     },
                  "rotation":0,
                  "type":"Collectible",
