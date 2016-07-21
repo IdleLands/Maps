@@ -796,7 +796,7 @@
                  "name":"ToDMountain",
                  "properties":
                     {
-                     "destName":"Draygon Mountain",
+                     "destName":"Dragon Mountain",
                      "destx":"48",
                      "desty":"3",
                      "map":"Vocalnus",
@@ -2927,7 +2927,7 @@
                     {
                      "destx":"19",
                      "desty":"3",
-                     "map":"Mama Red Draygon Lair",
+                     "map":"Mama Red Dragon Lair",
                      "movementType":"descend"
                     },
                  "rotation":0,
@@ -4895,7 +4895,7 @@
                 {
                  "height":80,
                  "id":317,
-                 "name":"Draygon Base Area",
+                 "name":"Dragon Base Area",
                  "properties":
                     {
 
