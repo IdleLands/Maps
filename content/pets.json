@@ -366,18 +366,18 @@
         },
         "requirements": {
             "collectibles": [
-                "Black Draygon Scale",
-                "Silver Draygon Scale",
-                "Red Draygon Scale",
-                "Green Draygon Scale",
-                "Mama Red Draygon Scale"
+                "Black Dragon Scale",
+                "Silver Dragon Scale",
+                "Red Dragon Scale",
+                "Green Dragon Scale",
+                "Mama Red Dragon Scale"
             ],
             "bosses": [
                 "Sky Dragon of Vocalnus",
                 "Black Dragon King",
-                "Green Draygon",
-                "Mama Red Draygon",
-                "Baby Red Draygon"
+                "Green Dragon",
+                "Mama Red Dragon",
+                "Baby Red Dragon"
             ]
         },
         "scale": {

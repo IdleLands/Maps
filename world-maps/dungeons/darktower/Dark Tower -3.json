@@ -50,11 +50,11 @@
                  "gid":15,
                  "height":16,
                  "id":2,
-                 "name":"Green Draygon Scale",
+                 "name":"Green Dragon Scale",
                  "properties":
                     {
                      "flavorText":"A small, hexagonal scale that resembles an emerald.",
-                     "storyline":"Lore: Draygons"
+                     "storyline":"Lore: Dragons"
                     },
                  "rotation":0,
                  "type":"Collectible",
@@ -67,7 +67,7 @@
                  "gid":26,
                  "height":16,
                  "id":3,
-                 "name":"Green Draygon",
+                 "name":"Green Dragon",
                  "properties":
                     {
 
@@ -102,11 +102,11 @@
                  "gid":15,
                  "height":16,
                  "id":5,
-                 "name":"Undead Draygon Scale",
+                 "name":"Undead Dragon Scale",
                  "properties":
                     {
                      "flavorText":"This scale feels very soft to the touch, and also has maggots visibly crawling all over it.",
-                     "storyline":"Lore: Draygons"
+                     "storyline":"Lore: Dragons"
                     },
                  "rotation":0,
                  "type":"Collectible",

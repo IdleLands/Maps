@@ -1,23 +1,23 @@
 {
-  "Draygon Armor": {
+  "Dragon Armor": {
     "type": "body",
     "str": 300,
     "agi": 300,
     "dex": 300
   },
-  "Draygon Helmet": {
+  "Dragon Helmet": {
     "type": "head",
     "str": 300,
     "agi": 300,
     "dex": 300
   },
-  "Draygon Gloves": {
+  "Dragon Gloves": {
     "type": "hands",
     "str": 300,
     "agi": 300,
     "dex": 300
   },
-  "Draygon Greaves": {
+  "Dragon Greaves": {
     "type": "legs",
     "str": 300,
     "agi": 300,
