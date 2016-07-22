@@ -3694,12 +3694,12 @@
                  "gid":35,
                  "height":16,
                  "id":273,
-                 "name":"ToWater-1",
+                 "name":"ToWaterPlane-1",
                  "properties":
                     {
                      "destx":"2",
                      "desty":"29",
-                     "map":"Water Plains -1",
+                     "map":"The Water Plane -1",
                      "movementType":"fall"
                     },
                  "rotation":0,

@@ -618,12 +618,12 @@
                  "gid":32,
                  "height":16,
                  "id":43,
-                 "name":"ToWaterPlains-1",
+                 "name":"ToWaterPlane-1",
                  "properties":
                     {
                      "destx":"30",
                      "desty":"1",
-                     "map":"Water Plains -1",
+                     "map":"The Water Plane -1",
                      "movementType":"teleport"
                     },
                  "rotation":0,
