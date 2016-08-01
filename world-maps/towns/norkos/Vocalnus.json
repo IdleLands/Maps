@@ -331,7 +331,7 @@
                  "name":"",
                  "properties":
                     {
-                     "forceEvent":"blessGold"
+                     "forceEvent":"BlessGold"
                     },
                  "rotation":0,
                  "type":"",
