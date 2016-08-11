@@ -5923,6 +5923,22 @@
                  "width":16,
                  "x":1392,
                  "y":2752
+                }, 
+                {
+                 "gid":26,
+                 "height":16,
+                 "id":484,
+                 "name":"Unspeakably Horrible Cave Creature",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"Boss",
+                 "visible":true,
+                 "width":16,
+                 "x":16,
+                 "y":1728
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -6573,7 +6589,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":484,
+ "nextobjectid":485,
  "orientation":"orthogonal",
  "properties":
     {
