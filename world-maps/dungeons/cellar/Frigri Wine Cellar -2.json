@@ -34,8 +34,9 @@
                  "name":"ToNorkos",
                  "properties":
                     {
-                     "destx":"116",
-                     "desty":"169",
+                     "customMessage":"%playerName does not remember how, but ends up on the streets of %destName.",
+                     "destx":"134",
+                     "desty":"160",
                      "map":"Norkos",
                      "movementType":"teleport"
                     },
