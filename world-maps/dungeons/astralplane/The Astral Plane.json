@@ -674,7 +674,8 @@
                  "name":"Twisted Turnip",
                  "properties":
                     {
-                     "flavorText":"Full of dark magic. But how does one harness the power of the turnip?"
+                     "flavorText":"Full of dark magic. But how does one harness the power of the turnip?",
+                     "storyline":"Lore: Astral Plane"
                     },
                  "rotation":0,
                  "type":"Collectible",
@@ -1221,10 +1222,10 @@
                  "properties":
                     {
                      "customMessage":"%playerName walks across a bridge of light to a mysterious floating island.",
-                     "destx":"75",
+                     "destx":"74",
                      "desty":"51",
                      "map":"The Astral Plane",
-                     "movementType":"ascend"
+                     "movementType":"teleport"
                     },
                  "rotation":0,
                  "type":"Teleport",
@@ -1241,7 +1242,7 @@
                  "properties":
                     {
                      "customMessage":"%playerName walks across a bridge of light to %destName.",
-                     "destx":"56",
+                     "destx":"57",
                      "desty":"51",
                      "map":"The Astral Plane",
                      "movementType":"descend"
