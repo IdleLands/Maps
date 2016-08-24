@@ -29,7 +29,8 @@
          "objects":[
                 {
                  "gid":32,
-                 "height":0,
+                 "height":16,
+                 "id":1,
                  "name":"ToNorkos",
                  "properties":
                     {
@@ -41,59 +42,78 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":96,
                  "y":160
                 }, 
                 {
                  "gid":15,
-                 "height":0,
+                 "height":16,
+                 "id":2,
                  "name":"Crystal of Water",
                  "properties":
                     {
-						"flavorText": "A crystal containing a single drop of water.",
-						"storyline": "Lore: Water Plains"
+                     "flavorText":"A crystal containing a single drop of water.",
+                     "storyline":"Lore: Water Plane"
                     },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":320,
                  "y":112
                 }, 
                 {
                  "gid":15,
-                 "height":0,
+                 "height":16,
+                 "id":3,
                  "name":"Shimmering Shell",
                  "properties":
                     {
-						"flavorText": "An iridescent shell that appears to be rainbow-colored in the proper lighting. Very shiny, very valuable.",
-						"storyline": "Memoir: Archer"
+                     "flavorText":"An iridescent shell that appears to be rainbow-colored in the proper lighting. Very shiny, very valuable.",
+                     "storyline":"Memoir: Archer"
                     },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":608,
                  "y":288
                 }, 
                 {
                  "gid":43,
-                 "height":0,
+                 "height":16,
+                 "id":4,
                  "name":"ToWater-2",
                  "properties":
                     {
                      "destx":"38",
                      "desty":"2",
-                     "map":"Water Plains -2",
+                     "map":"The Water Plane -2",
                      "movementType":"descend"
                     },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":64,
                  "y":352
+                }, 
+                {
+                 "gid":77,
+                 "height":16,
+                 "id":5,
+                 "name":"",
+                 "properties":
+                    {
+                     "forceEvent":"ItemBless"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":112,
+                 "y":336
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -102,6 +122,7 @@
          "x":0,
          "y":0
         }],
+ "nextobjectid":6,
  "orientation":"orthogonal",
  "properties":
     {
@@ -113,7 +134,7 @@
         {
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":112,
+         "imageheight":224,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
@@ -122,6 +143,7 @@
 
             },
          "spacing":0,
+         "tilecount":126,
          "tileheight":16,
          "tilewidth":16
         }],

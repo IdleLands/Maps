@@ -265,7 +265,7 @@
             { "name": "Incorporeal Cutlass", "dropPercent": 70 }
         ]
     },
-    "Baby Red Draygon": {
+    "Baby Red Dragon": {
         "respawn": 10800,
         "availableScore": 3000,
         "stats": {
@@ -283,10 +283,10 @@
             { "name": "Fire Infused Dragon Tooth", "dropPercent": 75 }
         ],
         "collectibles": [
-            { "name": "Red Draygon Scale", "dropPercent": 50, "storyline": "Lore: Draygons", "flavorText": "A gleaming ruby-like scale. It's warm to the touch." }
+            { "name": "Red Dragon Scale", "dropPercent": 50, "storyline": "Lore: Dragons", "flavorText": "A gleaming ruby-like scale. It's warm to the touch." }
         ]
     },
-    "Mama Red Draygon": {
+    "Mama Red Dragon": {
         "respawn": 10800,
         "availableScore": 5000,
         "stats": {
@@ -604,7 +604,7 @@
             "sturdy": 1
         }
     },
-    "Green Draygon": {
+    "Green Dragon": {
         "respawn": 10800,
         "availableScore": 5150,
         "stats": {
@@ -822,7 +822,7 @@
             { "name": "Flame Polished Gauntlets", "dropPercent": 75 }
         ],
         "collectibles": [
-            { "name": "Bottle of Ketchup", "dropPercent": 75, "flavorText": "Spot was always prepared for adventurers.", "storyline": "Lore: Draygons"}
+            { "name": "Bottle of Ketchup", "dropPercent": 75, "flavorText": "Spot was always prepared for adventurers.", "storyline": "Lore: Dragons"}
         ]
     },
     "Little Yeti": {
@@ -924,7 +924,7 @@
         },
         "collectibles": [
             { "name": "Gorgon Snake", "dropPercent": 5, "storyline": "Memoir: Necromancer", "flavorText": "The Necromancers of olde would oft use artifacts like this to summon powerful monsters." },
-	    { "name": "Basilisk Scale", "dropPercent": 95, "storyline": "Lore: Draygons", "flavorText": "This once jet black and red scale has now turned to stone." }
+	    { "name": "Basilisk Scale", "dropPercent": 95, "storyline": "Lore: Dragons", "flavorText": "This once jet black and red scale has now turned to stone." }
         ]
     },
     "Slicer": {

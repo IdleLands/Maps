@@ -12,7 +12,7 @@
          "y":0
         }, 
         {
-         "data":[17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 0, 0, 0, 0, 0, 0, 0, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 0, 0, 0, 17, 17, 17, 17, 17, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 0, 0, 0, 17, 17, 17, 17, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 0, 0, 0, 17, 17, 17, 17, 17, 17, 17, 17, 0, 0, 0, 0, 0, 0, 0, 17, 17, 17, 17, 17, 17, 17, 17, 0, 0, 17, 17, 17, 17, 17, 17, 17, 17, 0, 0, 0, 0, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 0, 0, 0, 17, 17, 17, 17, 17, 17, 17, 0, 0, 0, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 0, 0, 0, 17, 17, 17, 17, 17, 17, 0, 0, 0, 0, 0, 17, 0, 0, 17, 17, 17, 0, 17, 17, 17, 0, 0, 0, 0, 0, 17, 17, 17, 17, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 17, 17, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 17, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 17, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 17, 17, 17, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 17, 17, 17, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 17, 17, 17, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 17, 17, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 17, 17, 17, 17, 17, 17, 0, 0, 17, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17],
+         "data":[17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 0, 0, 0, 0, 0, 0, 0, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 0, 0, 0, 17, 17, 17, 17, 17, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 0, 0, 0, 17, 17, 17, 17, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 0, 0, 0, 17, 17, 17, 17, 17, 17, 17, 17, 0, 0, 0, 0, 0, 0, 0, 17, 17, 17, 17, 17, 17, 17, 17, 0, 0, 17, 17, 17, 17, 17, 17, 17, 17, 0, 0, 0, 0, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 0, 0, 0, 17, 17, 17, 17, 17, 17, 17, 0, 0, 0, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 0, 0, 0, 17, 17, 17, 17, 17, 17, 0, 0, 0, 0, 0, 17, 0, 0, 17, 17, 17, 0, 17, 17, 17, 0, 0, 0, 0, 0, 17, 17, 17, 17, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 17, 17, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 17, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 17, 0, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 17, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 17, 17, 17, 17, 0, 0, 0, 0, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 17, 17, 17, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 17, 17, 17, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 17, 17, 17, 0, 0, 0, 0, 0, 0, 0, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 17, 17, 17, 17, 17, 17, 0, 0, 17, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17],
          "height":20,
          "name":"Blocking",
          "opacity":1,
@@ -23,40 +23,46 @@
          "y":0
         }, 
         {
+         "draworder":"topdown",
          "height":20,
          "name":"Interactables",
          "objects":[
                 {
                  "gid":26,
-                 "height":0,
-                 "name":"Mama Red Draygon",
+                 "height":16,
+                 "id":1,
+                 "name":"Mama Red Dragon",
                  "properties":
                     {
 
                     },
+                 "rotation":0,
                  "type":"Boss",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":288,
                  "y":256
                 }, 
                 {
                  "gid":26,
-                 "height":0,
-                 "name":"Baby Red Draygon",
+                 "height":16,
+                 "id":2,
+                 "name":"Baby Red Dragon",
                  "properties":
                     {
 
                     },
+                 "rotation":0,
                  "type":"Boss",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":368,
                  "y":64
                 }, 
                 {
                  "gid":2,
-                 "height":0,
+                 "height":16,
+                 "id":3,
                  "name":"ToNorkos",
                  "properties":
                     {
@@ -65,55 +71,94 @@
                      "map":"Norkos",
                      "movementType":"ascend"
                     },
+                 "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":304,
                  "y":64
                 }, 
                 {
                  "gid":15,
-                 "height":0,
-                 "name":"Mama Red Draygon Scale",
+                 "height":16,
+                 "id":4,
+                 "name":"Mama Red Dragon Scale",
                  "properties":
                     {
-						"flavorText": "A giant, blood-red scale of a dragon. Strangely, you can see the feminity in the scale.",
-						"storyline": "Lore: Draygons"
+                     "flavorText":"A giant, blood-red scale of a dragon. Strangely, you can see the feminity in the scale.",
+                     "storyline":"Lore: Dragons"
                     },
+                 "rotation":0,
                  "type":"Collectible",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":208,
                  "y":144
                 }, 
                 {
                  "gid":15,
-                 "height":0,
+                 "height":16,
+                 "id":5,
                  "name":"Silver Compass",
                  "properties":
                     {
-						"flavorText": "A compass made entirely of silver. No wonder the adventurer got lost here, you can't even see which way is north.",
-						"storyline": "Lore: Frigri"
+                     "flavorText":"A compass made entirely of silver. No wonder the adventurer got lost here, you can't even see which way is north.",
+                     "storyline":"Lore: Frigri"
                     },
+                 "rotation":0,
                  "type":"Collectible",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":336,
                  "y":64
                 }, 
                 {
                  "gid":48,
-                 "height":0,
+                 "height":16,
+                 "id":6,
                  "name":"",
                  "properties":
                     {
                      "flavorText":"Beware, for you're crunchy and taste good with ketchup."
                     },
+                 "rotation":0,
                  "type":"Sign",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":272,
                  "y":80
+                }, 
+                {
+                 "gid":60,
+                 "height":16,
+                 "id":7,
+                 "name":"",
+                 "properties":
+                    {
+                     "forceEvent":"GoldBless"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":288,
+                 "y":304
+                }, 
+                {
+                 "gid":60,
+                 "height":16,
+                 "id":8,
+                 "name":"",
+                 "properties":
+                    {
+                     "forceEvent":"GoldBless"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":320,
+                 "y":288
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -122,17 +167,19 @@
          "x":0,
          "y":0
         }],
+ "nextobjectid":9,
  "orientation":"orthogonal",
  "properties":
     {
 
     },
+ "renderorder":"right-down",
  "tileheight":16,
  "tilesets":[
         {
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":112,
+         "imageheight":224,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
@@ -141,6 +188,7 @@
 
             },
          "spacing":0,
+         "tilecount":126,
          "tileheight":16,
          "tilewidth":16
         }],

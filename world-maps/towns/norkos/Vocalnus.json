@@ -51,10 +51,10 @@
                  "gid":1,
                  "height":16,
                  "id":2,
-                 "name":"ToDraygonLairBase",
+                 "name":"ToDragonLairBase",
                  "properties":
                     {
-                     "destName":"Draygon Mountain Base",
+                     "destName":"Dragon Mountain Base",
                      "destx":"197",
                      "desty":"1",
                      "map":"Norkos",
@@ -130,7 +130,7 @@
                  "gid":27,
                  "height":16,
                  "id":6,
-                 "name":"Draygon Gear",
+                 "name":"Dragon Gear",
                  "properties":
                     {
 
@@ -213,11 +213,11 @@
                  "gid":15,
                  "height":16,
                  "id":11,
-                 "name":"Silver Draygon Scale",
+                 "name":"Silver Dragon Scale",
                  "properties":
                     {
                      "flavorText":"A shiny, silver scale. It's not made of real silver, but it could probably pass if the market necessatitated it.",
-                     "storyline":"Lore: Draygons"
+                     "storyline":"Lore: Dragons"
                     },
                  "rotation":0,
                  "type":"Collectible",
@@ -331,7 +331,7 @@
                  "name":"",
                  "properties":
                     {
-                     "forceEvent":"blessGold"
+                     "forceEvent":"GoldBless"
                     },
                  "rotation":0,
                  "type":"",
@@ -400,7 +400,7 @@
                 {
                  "height":256,
                  "id":18,
-                 "name":"Draygon Mountain",
+                 "name":"Dragon Mountain",
                  "properties":
                     {
 
