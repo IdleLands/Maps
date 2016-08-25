@@ -289,6 +289,12 @@
     	    "formalName": "the Fate Pools",
     	    "x": 17,
     	    "y": 12
+    	},
+    	"impossible": {
+    	    "map": "Norkos Dungeon -9",
+    	    "formalName": "the Hax0r Place",
+    	    "x": 2,
+    	    "y": 2
     	}
     }
 }
