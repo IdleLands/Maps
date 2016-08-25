@@ -92,7 +92,7 @@ _.each(allTeleportsOnMaps, teleport => {
   if(!inBounds(teleport.destx, teleport.desty, teleMap.width, teleMap.height)) throw new Error(`Teleport [${teleName}] not in map bounds`);
   if(tileData.blocked) throw new Error(`Teleport [${teleName}] lands on a dense tile`);
 
-  if(!_.includes(['teleport', 'ascend', 'descend', 'fall'], teleport.movementType.toLowerCase())) throw new Error(`Teleport [${teleName}] does not have a valid teleport type`);
+  if(!_.includes(['teleport', 'ascend', 'descend', 'fall'], teleport.movementType)) throw new Error(`Teleport [${teleName}] does not have a valid teleport type (ascend, descend, fall, teleport)`);
 
   if(_.includes(['ascend', 'descend'], teleport.movementType) && _.get(tileData, 'object.type') !== 'Teleport') throw new Error(`Teleport [${teleName}] does not have a matching staircase`);
 
