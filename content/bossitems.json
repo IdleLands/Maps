@@ -429,9 +429,9 @@
   },
   "dSolver's Feather": {
     "type": "mainhand",
-    "str": -100,
-    "agi": -50,
-    "dex": -25,
+    "str": 50,
+    "agi": 50,
+    "dex": 25,
     "luk": 5,
     "prone": 1,
     "silver": 1,
