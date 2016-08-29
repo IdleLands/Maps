@@ -23,6 +23,7 @@ _.each(requiredCollectibles, (req) => {
 _.each(collectibleObjs, (collectible) => {
   if(!collectible.flavorText) console.warn(`${collectible.name} [${collectible.origin}] has no flavorText.`);
   if(!collectible.storyline)  console.warn(`${collectible.name} [${collectible.origin}] has no storyline.`);
+  if(collectible.rarity && !_.includes(['basic', 'pro', 'idle', 'godly'], collectible.rarity)) throw new Error(`Collectible ${collectible.name} has an invalid rarity.`);
 });
 
 console.log("All collectible data seems to be correct.");
