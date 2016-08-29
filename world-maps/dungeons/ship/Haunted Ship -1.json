@@ -73,6 +73,7 @@
                  "properties":
                     {
                      "flavorText":"The spirit within occasionally flips the patch up, but only in bright light.",
+                     "rarity":"idle",
                      "storyline":"Lore: Idliathlia"
                     },
                  "rotation":0,

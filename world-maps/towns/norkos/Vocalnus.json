@@ -217,6 +217,7 @@
                  "properties":
                     {
                      "flavorText":"A shiny, silver scale. It's not made of real silver, but it could probably pass if the market necessatitated it.",
+                     "rarity":"idle",
                      "storyline":"Lore: Dragons"
                     },
                  "rotation":0,
@@ -251,6 +252,7 @@
                  "properties":
                     {
                      "flavorText":"A small coin covered in ash. You can barely make out the King of Frigri's face upon it. A little polish would do this coin well.",
+                     "rarity":"idle",
                      "storyline":"Lore: Vocalnus"
                     },
                  "rotation":0,
