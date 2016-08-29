@@ -1089,6 +1089,7 @@
                  "properties":
                     {
                      "flavorText":"In a town of dwarves, this coin would look very strange.",
+                     "rarity":"idle",
                      "storyline":"Lore: Raburro"
                     },
                  "rotation":0,

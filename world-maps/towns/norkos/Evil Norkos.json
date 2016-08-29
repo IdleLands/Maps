@@ -769,6 +769,7 @@
                  "properties":
                     {
                      "flavorText":"A small tome, resembling Cleric's teachings book. Scratched hastily upon the cover is the word \"Forbidden\" but the overall contents of the book seem the same. There are occasional footnotes that read \"Evil!\"",
+                     "rarity":"pro",
                      "storyline":"Memoir: Necromancer"
                     },
                  "rotation":0,
