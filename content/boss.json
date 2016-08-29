@@ -283,7 +283,7 @@
             { "name": "Fire Infused Dragon Tooth", "dropPercent": 75 }
         ],
         "collectibles": [
-            { "name": "Red Dragon Scale", "dropPercent": 50, "storyline": "Lore: Dragons", "flavorText": "A gleaming ruby-like scale. It's warm to the touch." }
+            { "name": "Red Dragon Scale", "dropPercent": 50, "storyline": "Lore: Dragons", "flavorText": "A gleaming ruby-like scale. It's warm to the touch.", "rarity": "idle" }
         ]
     },
     "Mama Red Dragon": {
@@ -923,7 +923,7 @@
 	    "startle": 1
         },
         "collectibles": [
-            { "name": "Gorgon Snake", "dropPercent": 5, "storyline": "Memoir: Necromancer", "flavorText": "The Necromancers of olde would oft use artifacts like this to summon powerful monsters." },
+            { "name": "Gorgon Snake", "dropPercent": 5, "storyline": "Memoir: Necromancer", "flavorText": "The Necromancers of olde would oft use artifacts like this to summon powerful monsters.", "rarity": "pro" },
 	    { "name": "Basilisk Scale", "dropPercent": 95, "storyline": "Lore: Dragons", "flavorText": "This once jet black and red scale has now turned to stone." }
         ]
     },

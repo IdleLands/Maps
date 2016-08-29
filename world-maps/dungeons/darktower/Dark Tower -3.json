@@ -54,6 +54,7 @@
                  "properties":
                     {
                      "flavorText":"A small, hexagonal scale that resembles an emerald.",
+                     "rarity":"idle",
                      "storyline":"Lore: Dragons"
                     },
                  "rotation":0,
@@ -106,6 +107,7 @@
                  "properties":
                     {
                      "flavorText":"This scale feels very soft to the touch, and also has maggots visibly crawling all over it.",
+                     "rarity":"pro",
                      "storyline":"Lore: Dragons"
                     },
                  "rotation":0,

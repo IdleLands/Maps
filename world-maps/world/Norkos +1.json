@@ -23,12 +23,14 @@
          "y":0
         }, 
         {
+         "draworder":"topdown",
          "height":13,
          "name":"Interactables",
          "objects":[
                 {
                  "gid":1,
-                 "height":0,
+                 "height":16,
+                 "id":1,
                  "name":"NorkosAccess",
                  "properties":
                     {
@@ -38,15 +40,17 @@
                      "map":"Norkos",
                      "movementType":"descend"
                     },
+                 "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":96,
                  "y":192
                 }, 
                 {
                  "gid":1,
-                 "height":0,
+                 "height":16,
+                 "id":2,
                  "name":"NorkosSecretAccess",
                  "properties":
                     {
@@ -56,25 +60,27 @@
                      "map":"Norkos",
                      "movementType":"descend"
                     },
+                 "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":16,
                  "y":32
                 }, 
                 {
                  "gid":15,
-                 "height":0,
+                 "height":16,
+                 "id":3,
                  "name":"Thief's Locket",
                  "properties":
                     {
-                     "rarity":"pro",
-                      "flavorText": "A small, ornate gold locket that folds open to show two pictures: one of Rogue, and one of Norkos. The latter appears to be taken from above the town. How could that be possible?",
-                      "storyline": "Memoir: Rogue"
+                     "flavorText":"A small, ornate gold locket that folds open to show two pictures: one of Rogue, and one of Norkos. The latter appears to be taken from above the town. How could that be possible?",
+                     "storyline":"Memoir: Rogue"
                     },
+                 "rotation":0,
                  "type":"Collectible",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":32,
                  "y":176
                 }],
@@ -85,17 +91,19 @@
          "x":0,
          "y":0
         }],
+ "nextobjectid":4,
  "orientation":"orthogonal",
  "properties":
     {
      "name":"norkos"
     },
+ "renderorder":"right-down",
  "tileheight":16,
  "tilesets":[
         {
          "firstgid":1,
          "image":"..\/..\/img\/tiles.png",
-         "imageheight":64,
+         "imageheight":224,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
@@ -104,6 +112,7 @@
 
             },
          "spacing":0,
+         "tilecount":126,
          "tileheight":16,
          "tilewidth":16
         }],
