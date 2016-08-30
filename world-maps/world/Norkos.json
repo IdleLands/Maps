@@ -2833,7 +2833,7 @@
                  "name":"ToGiants",
                  "properties":
                     {
-                     "destx":"28",
+                     "destx":"48",
                      "desty":"5",
                      "map":"Leviathan Mountain",
                      "movementType":"ascend"
