@@ -389,6 +389,7 @@
                  "properties":
                     {
                      "flavorText":"This swirly, smoky liquid looks like it would just jump out of the vial if you'd open it. When you look inside, you see Frigri in ruins.",
+                     "rarity":"pro",
                      "storyline":"Memoir: Bitomancer"
                     },
                  "rotation":0,

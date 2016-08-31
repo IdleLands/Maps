@@ -92,6 +92,7 @@
                  "properties":
                     {
                      "flavorText":"A spat between Fighter and Barbarian resulted in this sad mess.",
+                     "rarity":"pro",
                      "storyline":"Memoir: Fighter"
                     },
                  "rotation":0,
@@ -109,6 +110,7 @@
                  "properties":
                     {
                      "flavorText":"You don't even have to taste it; it just looks unpleasant.",
+                     "rarity":"pro",
                      "storyline":"Lore: Maeles Dungeon"
                     },
                  "rotation":0,
