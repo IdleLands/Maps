@@ -1,1 +1,2 @@
 require('./collectible');
+require('./storylines');
