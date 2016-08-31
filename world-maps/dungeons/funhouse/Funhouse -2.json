@@ -102,6 +102,7 @@
                  "properties":
                     {
                      "flavorText":"You were supposed to win this in the archery game, but no one is here to stop you from grabbing it.",
+                     "rarity":"pro",
                      "storyline":"Lore: Funhouse"
                     },
                  "rotation":0,

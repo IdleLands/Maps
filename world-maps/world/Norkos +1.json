@@ -75,6 +75,7 @@
                  "properties":
                     {
                      "flavorText":"A small, ornate gold locket that folds open to show two pictures: one of Rogue, and one of Norkos. The latter appears to be taken from above the town. How could that be possible?",
+                     "rarity":"pro",
                      "storyline":"Memoir: Rogue"
                     },
                  "rotation":0,

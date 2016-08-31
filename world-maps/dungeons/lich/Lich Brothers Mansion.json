@@ -398,6 +398,7 @@
                  "properties":
                     {
                      "flavorText":"This jar has been sealed to maintain magical freshness.",
+                     "rarity":"pro",
                      "storyline":"Lore: Lich Brothers"
                     },
                  "rotation":0,
