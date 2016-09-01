@@ -304,7 +304,7 @@
                 {
                  "height":240,
                  "id":18,
-                 "name":"",
+                 "name":"The Playpen",
                  "properties":
                     {
 
@@ -318,7 +318,7 @@
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "width":21,
          "x":0,
          "y":0
