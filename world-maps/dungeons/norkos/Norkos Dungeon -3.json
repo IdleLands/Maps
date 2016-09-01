@@ -586,8 +586,35 @@
          "width":45,
          "x":0,
          "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "height":26,
+         "name":"Regions",
+         "objects":[
+                {
+                 "height":128,
+                 "id":39,
+                 "name":"Mummy Lord's Crypt",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":112,
+                 "x":336,
+                 "y":16
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "width":45,
+         "x":0,
+         "y":0
         }],
- "nextobjectid":39,
+ "nextobjectid":40,
  "orientation":"orthogonal",
  "properties":
     {

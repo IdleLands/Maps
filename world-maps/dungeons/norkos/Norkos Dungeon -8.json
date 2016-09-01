@@ -733,8 +733,65 @@
          "width":35,
          "x":0,
          "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "height":35,
+         "name":"Regions",
+         "objects":[
+                {
+                 "height":528,
+                 "id":57,
+                 "name":"Naga Lair",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":224,
+                 "x":560,
+                 "y":16
+                }, 
+                {
+                 "height":208,
+                 "id":59,
+                 "name":"Lava Lake",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":448,
+                 "x":112,
+                 "y":336
+                }, 
+                {
+                 "height":64,
+                 "id":60,
+                 "name":"Lava Lake",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":96,
+                 "x":16,
+                 "y":480
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "width":50,
+         "x":0,
+         "y":0
         }],
- "nextobjectid":57,
+ "nextobjectid":61,
  "orientation":"orthogonal",
  "properties":
     {

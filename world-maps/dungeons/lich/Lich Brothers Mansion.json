@@ -909,15 +909,30 @@
                  "width":128,
                  "x":528,
                  "y":64
+                }, 
+                {
+                 "height":64,
+                 "id":70,
+                 "name":"Hall of the Lich Lord",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":64,
+                 "x":592,
+                 "y":192
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "width":45,
          "x":0,
          "y":0
         }],
- "nextobjectid":70,
+ "nextobjectid":71,
  "orientation":"orthogonal",
  "properties":
     {
