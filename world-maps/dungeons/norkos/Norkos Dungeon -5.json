@@ -1428,15 +1428,30 @@
                  "width":352,
                  "x":192,
                  "y":624
+                }, 
+                {
+                 "height":320,
+                 "id":88,
+                 "name":"Lizard King's Chambers",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":112,
+                 "x":16,
+                 "y":16
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "width":70,
          "x":0,
          "y":0
         }],
- "nextobjectid":88,
+ "nextobjectid":89,
  "orientation":"orthogonal",
  "properties":
     {

@@ -795,8 +795,65 @@
          "width":35,
          "x":0,
          "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "height":40,
+         "name":"Regions",
+         "objects":[
+                {
+                 "height":144,
+                 "id":56,
+                 "name":"Slicer's Lair",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":112,
+                 "x":352,
+                 "y":288
+                }, 
+                {
+                 "height":80,
+                 "id":57,
+                 "name":"Smasher's Cave",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":96,
+                 "x":16,
+                 "y":368
+                }, 
+                {
+                 "height":96,
+                 "id":59,
+                 "name":"Old Dragon's Nest",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":144,
+                 "x":32,
+                 "y":240
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "width":35,
+         "x":0,
+         "y":0
         }],
- "nextobjectid":55,
+ "nextobjectid":60,
  "orientation":"orthogonal",
  "properties":
     {

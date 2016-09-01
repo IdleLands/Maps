@@ -639,15 +639,30 @@
                  "width":128,
                  "x":992,
                  "y":176
+                }, 
+                {
+                 "height":160,
+                 "id":49,
+                 "name":"Monster's Lair",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":160,
+                 "x":16,
+                 "y":224
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "width":90,
          "x":0,
          "y":0
         }],
- "nextobjectid":49,
+ "nextobjectid":50,
  "orientation":"orthogonal",
  "properties":
     {
