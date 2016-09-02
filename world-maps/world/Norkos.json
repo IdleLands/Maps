@@ -2095,7 +2095,7 @@
                  "properties":
                     {
                      "flavorText":"A brick from the player jail. You can only get this if you're bad!",
-                     "rarity":"idle",
+                     "rarity":"godly",
                      "storyline":"Lore: Norkos"
                     },
                  "rotation":0,
@@ -2476,6 +2476,7 @@
                  "properties":
                     {
                      "flavorText":"Looking into the amulet's gem fills you with a strong sense of dread.",
+                     "rarity":"pro",
                      "storyline":"Lore: Lich Brothers"
                     },
                  "rotation":0,
@@ -2562,6 +2563,7 @@
                  "properties":
                     {
                      "flavorText":"Why are there so many needles on this? Which button turns this off?",
+                     "rarity":"pro",
                      "storyline":"Lore: Norkos"
                     },
                  "rotation":0,

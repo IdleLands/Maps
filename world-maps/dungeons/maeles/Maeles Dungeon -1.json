@@ -109,6 +109,7 @@
                  "properties":
                     {
                      "flavorText":"This pungent bread is very dense.",
+                     "rarity":"pro",
                      "storyline":"Lore: Maeles"
                     },
                  "rotation":0,
