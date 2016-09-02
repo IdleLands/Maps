@@ -416,7 +416,7 @@
                  "gid":31,
                  "height":16,
                  "id":24,
-                 "name":"ToMageTrainer",
+                 "name":"ToNorkosMage",
                  "properties":
                     {
                      "fromName":"the Jesters Demense",
@@ -434,7 +434,7 @@
                  "gid":31,
                  "height":16,
                  "id":25,
-                 "name":"ToFighterTrainer",
+                 "name":"ToNorkosFighter",
                  "properties":
                     {
                      "fromName":"the Jesters Demense",
@@ -452,7 +452,7 @@
                  "gid":31,
                  "height":16,
                  "id":26,
-                 "name":"ToGeneralistTrainer",
+                 "name":"ToNorkosGeneralist",
                  "properties":
                     {
                      "fromName":"the Jesters Demense",
@@ -470,7 +470,7 @@
                  "gid":31,
                  "height":16,
                  "id":27,
-                 "name":"ToClericTrainer",
+                 "name":"ToNorkosCleric",
                  "properties":
                     {
                      "fromName":"the Jesters Demense",
