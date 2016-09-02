@@ -732,8 +732,35 @@
          "width":0,
          "x":0,
          "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "height":35,
+         "name":"Regions",
+         "objects":[
+                {
+                 "height":256,
+                 "id":59,
+                 "name":"Abandoned Norkian Stronghold",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":400,
+                 "x":224,
+                 "y":16
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":false,
+         "width":40,
+         "x":0,
+         "y":0
         }],
- "nextobjectid":59,
+ "nextobjectid":60,
  "orientation":"orthogonal",
  "properties":
     {

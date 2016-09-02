@@ -1789,8 +1789,140 @@
          "width":45,
          "x":0,
          "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "height":45,
+         "name":"Regions",
+         "objects":[
+                {
+                 "height":64,
+                 "id":136,
+                 "name":"Somewhere Outside of Time and Space",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":96,
+                 "x":16,
+                 "y":16
+                }, 
+                {
+                 "height":592,
+                 "id":137,
+                 "name":"The Resort",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":16,
+                 "y":112
+                }, 
+                {
+                 "height":80,
+                 "id":139,
+                 "name":"The Resort",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":560,
+                 "x":144,
+                 "y":624
+                }, 
+                {
+                 "height":608,
+                 "id":140,
+                 "name":"The Resort",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":576,
+                 "y":16
+                }, 
+                {
+                 "height":80,
+                 "id":141,
+                 "name":"The Resort",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":80,
+                 "x":144,
+                 "y":112
+                }, 
+                {
+                 "height":96,
+                 "id":142,
+                 "name":"The Resort",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":416,
+                 "x":160,
+                 "y":16
+                }, 
+                {
+                 "height":512,
+                 "id":143,
+                 "name":"The Gauntlet",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":352,
+                 "x":224,
+                 "y":112
+                }, 
+                {
+                 "height":400,
+                 "id":145,
+                 "name":"The Gauntlet",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":64,
+                 "x":160,
+                 "y":224
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "width":45,
+         "x":0,
+         "y":0
         }],
- "nextobjectid":136,
+ "nextobjectid":146,
  "orientation":"orthogonal",
  "properties":
     {
