@@ -280,7 +280,7 @@
         }
     },
 
-    "Minitaur": {
+    "Minotaur": {
         "cost": 50000,
         "category": "Combat",
         "description": "Unlocked by being a slayer of the ancients and a purveyor of their goods.",
