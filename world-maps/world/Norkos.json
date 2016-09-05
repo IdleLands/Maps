@@ -945,7 +945,7 @@
                  "name":"Lucifer the Flame-Born",
                  "properties":
                     {
-
+                     "flavorText":"An old, but still powerful dragon resting near his dwindling hoard of gold."
                     },
                  "rotation":0,
                  "type":"Boss",
@@ -3004,7 +3004,7 @@
                  "name":"Emeriss the Guardian",
                  "properties":
                     {
-
+                     "flavorText":"Still wanders the ruins, even though there is nothing of value remaining."
                     },
                  "rotation":0,
                  "type":"Boss",
@@ -3747,7 +3747,7 @@
                  "name":"Snowbeast",
                  "properties":
                     {
-
+                     "flavorText":"Wanted dead by the king of Frigri."
                     },
                  "rotation":0,
                  "type":"Boss",
@@ -3763,7 +3763,7 @@
                  "name":"Leviathan",
                  "properties":
                     {
-
+                     "flavorText":"Diligently watching over a large egg."
                     },
                  "rotation":0,
                  "type":"Boss",
@@ -3779,7 +3779,7 @@
                  "name":"Basilisk",
                  "properties":
                     {
-
+                     "flavorText":"Beware the stare!"
                     },
                  "rotation":0,
                  "type":"Boss",
@@ -5929,7 +5929,7 @@
                  "name":"Unspeakably Horrible Cave Creature",
                  "properties":
                     {
-
+                     "flavorText":"Why are there so many tentacles?"
                     },
                  "rotation":0,
                  "type":"Boss",
@@ -6005,6 +6005,22 @@
                  "width":16,
                  "x":16,
                  "y":3984
+                }, 
+                {
+                 "gid":60,
+                 "height":16,
+                 "id":489,
+                 "name":"",
+                 "properties":
+                    {
+                     "forceEvent":"GoldBless"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":3760,
+                 "y":768
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -6655,7 +6671,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":489,
+ "nextobjectid":490,
  "orientation":"orthogonal",
  "properties":
     {
