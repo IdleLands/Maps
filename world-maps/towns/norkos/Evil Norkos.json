@@ -701,7 +701,7 @@
                  "name":"Necromancer Guardian",
                  "properties":
                     {
-
+                     "flavorText":"Tasked with guarding Necromancer's important tomes and documents."
                     },
                  "rotation":0,
                  "type":"Boss",

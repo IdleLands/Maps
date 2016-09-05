@@ -53,8 +53,6 @@
   "Seajewel": {
     "type": "charm",
     "int": 450,
-    "water": 1000,
-    "thunder": 1000,
     "mp": 500
   },
   "Red Tunic": {
