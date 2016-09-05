@@ -165,7 +165,7 @@
                  "name":"Sky Dragon of Vocalnus",
                  "properties":
                     {
-
+                     "flavorText":"With a thunderous roar, the sky dragon lets out a breath of lightning."
                     },
                  "rotation":0,
                  "type":"Boss",

@@ -105,7 +105,6 @@
             "hp": 7370,
             "level": 20,
             "int": 400,
-            "wis": 450,
             "agi": 50
         },
         "items": [
@@ -183,7 +182,6 @@
             "hp": 12580,
             "level": 30,
             "int": 1100,
-            "wis": 990,
             "agi": 50
         },
         "items": [
@@ -218,7 +216,6 @@
             "dex": 1000,
             "con": 250,
             "agi": 1000,
-            "wis": 500,
             "int": 500,
             "vampire": 2
         },
@@ -299,9 +296,7 @@
             "con": 1300,
             "agi": 500,
             "str": 3900,
-            "wis": 999,
             "int": 2900,
-            "fire": 7777,
             "defense": 2,
             "fear": 1,
             "sturdy": 1
@@ -345,7 +340,6 @@
 	    "con": 1000,
 	    "agi": 1000,
 	    "str": 1000,
-	    "wis": 1000,
 	    "int": 1000,
 	    "defense": 2,
 	    "fear": 10,
@@ -367,11 +361,7 @@
             "luck": 33,
             "agi": 888,
 	    "con": 150,
-	    "wis": 1200,
 	    "int": 2200,
-	    "fire": 500,
-	    "ice": 500,
-	    "thunder": 500,
 	    "defense": 2,
 	    "shatter": 1,
 	    "poison": 2
@@ -393,7 +383,6 @@
 	    "con": 621,
 	    "agi": 1200,
 	    "str": 1000,
-	    "wis": 500,
 	    "int": 2500,
 	    "defense": 1,
 	    "fear": 1,
@@ -416,7 +405,6 @@
 	    "con": 1500,
 	    "agi": 1000,
 	    "str": 2000,
-	    "wis": 30,
 	    "int": 2000,
 	    "fear": 1,
 	    "vampire": 1
@@ -438,7 +426,6 @@
 	    "con": 1500,
 	    "agi": 975,
 	    "str": 2001,
-	    "wis": 899,
 	    "int": 2001,
 	    "shatter": 1,
 	    "lethal": 1,
@@ -467,7 +454,6 @@
 	    "con": 1120,
 	    "agi": 950,
 	    "str": 2300,
-	    "wis": 1100,
 	    "int": 1500
         },
         "items": [
@@ -506,7 +492,6 @@
             "luck": 25,
             "dex": 125,
 	    "con": 105,
-	    "wis": 175,
 	    "agi": 125,
 	    "str": 275,
 	    "int": 200
@@ -551,14 +536,11 @@
             "level": 40,
             "str": 2200,
 	    "int": 2300,
-	    "wis": 500,
 	    "luck": 25,
             "dex": 850,
             "con": 1200,
             "agi": 670,
-            "sturdy": 1,
-	    "ice": 10000,
-	    "icePercent": 10
+            "sturdy": 1
         },
         "items": [
             { "name": "Snow Covered Antlers", "dropPercent": 80 }
@@ -598,9 +580,7 @@
             "level": 40,
             "str": 1800,
             "int": 1750,
-            "wis": 1450,
             "con": 900,
-            "fire": 10000,
             "sturdy": 1
         }
     },
@@ -615,7 +595,6 @@
             "str": 230,
             "int": 3370,
 	    "agi": 570,
-            "wis": 1800,
             "con": 876,
             "venom": 2,
             "poison": 2
@@ -652,10 +631,7 @@
             "level": 44,
             "str": 400,
             "int": 2015,
-            "wis": 700,
             "con": 100,
-            "fire": 350,
-	    "earth": 350,
 	    "crit": 3,
 	    "lethal": 1,
 	    "glowing": 1
@@ -674,7 +650,6 @@
             "level": 48,
             "str": 1950,
             "int": 1000,
-            "wis": 1950,
 	    "dex": 600,
 	    "agi": 500,
             "con": 825,
@@ -698,7 +673,6 @@
             "int": 1800,
 	    "dex": 1500,
 	    "agi": 1200,
-            "wis": 900,
             "con": 900,
 	    "luck": 100,
 	    "parry": 1,
@@ -764,7 +738,7 @@
             "level": 90,
             "str": 2200,
 	    "dex": 2200,
-            "wis": 5000,
+            "int": 5000,
 	    "luck": -10,
             "power": 1,
 	    "punish": 1
@@ -785,7 +759,6 @@
 	    "dex": 2200,
 	    "agi": 1990,
             "con": 2700,
-	    "fire": 2000,
 	    "luck": 15,
             "prone": 1,
 	    "parry": 1,
@@ -810,8 +783,6 @@
 	    "dex": 1550,
 	    "agi": 1905,
 	    "int": 2000,
-	    "wis": 50,
-	    "fire": 2000,
 	    "mpregen": 100,
             "con": 400,
             "lethal": 1,
@@ -876,8 +847,6 @@
             "int": 1750,
 	    "dex": 1000,
             "agi": 1200,
-	    "wis": 1000,
-	    "ice": 4000,
 	    "deadeye": 1,
 	    "startle": 1
         },
@@ -963,7 +932,6 @@
 	    "con": 1400,
             "agi": 900,
 	    "int": -123,
-	    "wis": -456,
 	    "glowing": 1,
 	    "prone": 1,
 	    "power": 1,
@@ -987,7 +955,6 @@
 	    "con": 3000,
             "agi": 2100,
 	    "int": 6700,
-	    "wis": 1400,
 	    "aegis": 1,
 	    "crit": 5,
 	    "dance": 1,
@@ -1039,7 +1006,6 @@
 	    "agi": 255,
 	    "str": 500,
 	    "int": 300,
-	    "wis": 200,
 	    "offense": 1
         }
 		},
@@ -1057,7 +1023,6 @@
 	    "agi": 255,
 	    "str": 500,
 	    "int": 300,
-	    "wis": 200,
 	    "lethal": 1
         }
 		},
@@ -1076,7 +1041,6 @@
 	    "agi": 255,
 	    "str": 500,
 	    "int": 300,
-	    "wis": 200,
 	    "hpregen": 100
         }
 		},
@@ -1108,7 +1072,6 @@
             "dex": 7000,
             "agi": 7000,
 	    "int": 10000,
-	    "wis": 7000,
 	    "luck": 150,
             "poison": 4,
 	    "venom": 3,
@@ -1154,7 +1117,6 @@
             "con": 25000,
             "dex": 27000,
 	    "int": 60000,
-	    "wis": 40000,
             "agi": 30000,
 	    "luck": 2000,
             "crit": 9,
@@ -1182,8 +1144,7 @@
 	    "startle": 2,
 	    "sturdy": 1,
 	    "vampire": 1,
-	    "hpregen": 666,
-	    "holy": 1000	    
+	    "hpregen": 666	    
         },
         "items": [
             { "name": "Astral Stabilizer", "dropPercent": 75 }
@@ -1215,7 +1176,6 @@
             "mp": 28200,
             "level": 40,
             "str": 1800,
-            "wis": 1500,
             "int": 1400,
             "con": 1000
         },

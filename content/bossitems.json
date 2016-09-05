@@ -117,7 +117,6 @@
     "type": "body",
     "int": 1500,
     "luk": 3,
-    "fire": 1400,
     "intPercent": 5,
     "defense": 2
   },
@@ -140,9 +139,6 @@
   "Amulet of Decay": {
     "type": "neck",
     "int": 500,
-    "thunder": 333,
-    "fire": 333,
-    "ice": 333,
     "poison": 2
   },
   "Amulet of Insanity": {
@@ -217,11 +213,6 @@
   "Noxious Amulet": {
     "type": "neck",
     "int": 250,
-    "fire": 100,
-    "water": 100,
-    "thunder": 100,
-    "earth": 100,
-    "ice": 100,
     "venom": 1,
     "poison": 1
   },
@@ -287,28 +278,23 @@
     "dex": 250,
     "str": 1000,
     "con": 175,
-    "fire": 500,
     "glowing": 1,
     "enchantLevel": 6
   },
   "Flame Polished Gauntlets": {
     "type": "hands",
     "int": 350,
-    "con": 190,
-    "fire": 10000
+    "con": 190
   },
   "Yeti Sized Club": {
     "type": "mainhand",
     "str": 75,
-    "con": 10,
-    "ice": 25,
-    "icePercent": 10
+    "con": 10
   },
   "Leviathan Claw": {
     "type": "offhand",
     "str": 404,
     "con": 200,
-    "water": 300,
     "crit": 1,
     "poison": 1
   },
@@ -413,8 +399,7 @@
     "startle": 1,
     "sturdy": 1,
     "vampire": 1,
-    "hpregen": 555,
-    "holy": 500
+    "hpregen": 555
   },
   "Gryffyndor Sword": {
     "type": "mainhand",
@@ -469,17 +454,6 @@
   },
   "Transcendent Tourmaline": {
     "type": "trinket",
-    "fire": 1000,
-    "firePercent": 10,
-    "ice": 1000,
-    "icePercent": 10,
-    "water": 1000,
-    "waterPercent": 10,
-    "earth": 1000,
-    "earthPercent": 10,
-    "thunder": 1000,
-    "thunderPercent": 10,
-    "holy": 100,
     "int": 1000,
     "intPercent": 50,
     "str": -750,
