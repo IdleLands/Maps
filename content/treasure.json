@@ -43,7 +43,6 @@
     "dex": 25,
     "con": 25,
     "int": 25,
-    "wis": 25,
     "luk": 25
   },
   "Bag of Booty": {
@@ -53,7 +52,7 @@
   },
   "Seajewel": {
     "type": "charm",
-    "wis": 450,
+    "int": 450,
     "water": 1000,
     "thunder": 1000,
     "mp": 500
@@ -75,7 +74,6 @@
   "Decorative Red Pants": {
     "type": "legs",
     "int": 300,
-    "wis": 300,
     "dex": 300,
     "luk": 25,
     "royal": 1
@@ -90,7 +88,6 @@
   "Magical Snowball": {
     "type": "offhand",
     "int": 300,
-    "wis": 300,
     "luk": 25
   },
   "Basilisk Shield": {
@@ -111,7 +108,6 @@
   "Royal Scaled Robe": {
     "type": "body",
     "int": 800,
-    "wis": 300,
     "con": 100,
     "defense": 2,
     "royal": 2
