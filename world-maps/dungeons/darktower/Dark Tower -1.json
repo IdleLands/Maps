@@ -82,6 +82,7 @@
                  "name":"Generalist Guardian",
                  "properties":
                     {
+                     "flavorText":"Protects the manual on how to create other Guardians."
                     },
                  "rotation":0,
                  "type":"Boss",

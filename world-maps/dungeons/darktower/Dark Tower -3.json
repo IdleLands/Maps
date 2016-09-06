@@ -71,6 +71,7 @@
                  "name":"Green Dragon",
                  "properties":
                     {
+                     "flavorText":"An ancient beast, siphoning power away from the Dark Tower."
                     },
                  "rotation":0,
                  "type":"Boss",
