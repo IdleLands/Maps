@@ -34,7 +34,7 @@
                  "name":"Guardian Lord",
                  "properties":
                     {
-
+                     "flavorText":"Radiating with heat, this powerful Guardian is capable of controlling any other Guardian."
                     },
                  "rotation":0,
                  "type":"Boss",
@@ -50,7 +50,7 @@
                  "name":"Fighter Guardian",
                  "properties":
                     {
-
+                     "flavorText":"The limbs and head of this Guardian can rotate, giving it a nimbleness few other Guardians have."
                     },
                  "rotation":0,
                  "type":"Boss",
@@ -66,7 +66,7 @@
                  "name":"Cleric Guardian",
                  "properties":
                     {
-
+                     "flavorText":"Holding a Cleric's Text written in binary."
                     },
                  "rotation":0,
                  "type":"Boss",
@@ -82,7 +82,7 @@
                  "name":"Generalist Guardian",
                  "properties":
                     {
-
+                     "flavorText":"Protects the manual on how to create other Guardians."
                     },
                  "rotation":0,
                  "type":"Boss",
@@ -98,7 +98,7 @@
                  "name":"Mage Guardian",
                  "properties":
                     {
-
+                     "flavorText":"Rapidly turning material components into spells."
                     },
                  "rotation":0,
                  "type":"Boss",

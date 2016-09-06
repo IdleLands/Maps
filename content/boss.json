@@ -612,7 +612,8 @@
             "level": 40,
             "str": 2000,
             "con": 1120,
-	    "dex": 400,
+	    "dex": 450,
+	    "agi": 300,
             "defense": 1,
             "offense": 1,
 	    "glowing": 1
