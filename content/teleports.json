@@ -29,14 +29,14 @@
             "formalName": "Homlet Caves",
             "x": 60,
             "y": 7,
-            "cost": 450000,
+            "cost": 550000,
             "requiredRegionVisit": "Homlet Town"
         },
         "vocalnus": {
             "map": "Vocalnus",
             "formalName": "Vocalnus",
-            "x": 51,
-            "y": 35,
+            "x": 31,
+            "y": 41,
             "cost": 350000,
             "requiredRegionVisit": "Vocalnus Town"
         },
@@ -47,6 +47,14 @@
             "y": 39,
             "cost": 750000,
             "requiredRegionVisit": "Raburro Town"
+        },
+        "raburro": {
+            "map": "The Astral Plane",
+            "formalName": "Astral",
+            "x": 13,
+            "y": 60,
+            "cost": 5000000,
+            "requiredRegionVisit": "Astral Town"
         }
     },
     "bosses": {
