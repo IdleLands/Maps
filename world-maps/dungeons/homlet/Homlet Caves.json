@@ -169,7 +169,7 @@
                  "name":"Mushroom Beast",
                  "properties":
                     {
-
+                     "flavorText":"Magic from the Crystal of Earth has brought this humongous fungus to life."
                     },
                  "rotation":0,
                  "type":"Boss",

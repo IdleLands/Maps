@@ -491,7 +491,7 @@
                  "name":"Sibling Minotaur",
                  "properties":
                     {
-
+                     "flavorText":"Sibling Minotaur hates it when people enter her room without knocking. "
                     },
                  "rotation":0,
                  "type":"Boss",
