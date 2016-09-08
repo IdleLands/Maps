@@ -74,7 +74,7 @@
                  "name":"Mummy Lord",
                  "properties":
                     {
-
+                     "flavorText":"His dungeon fortress in ruins, the Mummy Lord now waits in his crypt protecting what little treasure remains."
                     },
                  "rotation":0,
                  "type":"Boss",
@@ -609,7 +609,7 @@
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "width":45,
          "x":0,
          "y":0
