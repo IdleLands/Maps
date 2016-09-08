@@ -298,7 +298,7 @@
                  "name":"Wardens",
                  "properties":
                     {
-
+                     "flavorText":"The last threat to adventurers seeking treasure from the dungeon. Protect some of the most valuable items in Idliathlia."
                     },
                  "rotation":0,
                  "type":"BossParty",
@@ -851,7 +851,7 @@
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "width":31,
          "x":0,
          "y":0

@@ -491,7 +491,7 @@
                  "name":"Lizard King",
                  "properties":
                     {
-
+                     "flavorText":"Self-proclaimed king of Norkos Dungeon. Used dark magic to freeze Raburro Town's water source."
                     },
                  "rotation":0,
                  "type":"Boss",
@@ -1402,7 +1402,7 @@
                 {
                  "height":304,
                  "id":67,
-                 "name":"",
+                 "name":"Raburro Town",
                  "properties":
                     {
 
@@ -1446,7 +1446,7 @@
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "width":70,
          "x":0,
          "y":0

@@ -74,7 +74,7 @@
                  "name":"Goblin Lord",
                  "properties":
                     {
-
+                     "flavorText":"The biggest, baddest, smelliest goblin of them all."
                     },
                  "rotation":0,
                  "type":"Boss",
