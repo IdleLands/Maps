@@ -29,7 +29,8 @@
          "objects":[
                 {
                  "gid":1,
-                 "height":0,
+                 "height":16,
+                 "id":1,
                  "name":"ToNorkos",
                  "properties":
                     {
@@ -41,13 +42,14 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":32,
                  "y":48
                 }, 
                 {
                  "gid":1,
-                 "height":0,
+                 "height":16,
+                 "id":2,
                  "name":"ToNorkos",
                  "properties":
                     {
@@ -59,13 +61,14 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":144,
                  "y":48
                 }, 
                 {
                  "gid":1,
-                 "height":0,
+                 "height":16,
+                 "id":3,
                  "name":"ToNorkos",
                  "properties":
                     {
@@ -77,13 +80,14 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":32,
                  "y":112
                 }, 
                 {
                  "gid":1,
-                 "height":0,
+                 "height":16,
+                 "id":4,
                  "name":"ToNorkos",
                  "properties":
                     {
@@ -95,22 +99,23 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":144,
                  "y":112
                 }, 
                 {
                  "gid":26,
-                 "height":0,
+                 "height":16,
+                 "id":5,
                  "name":"Vampire Lord",
                  "properties":
                     {
-
+                     "flavorText":"For generations has plagued the town of Maeles. Frequent kidnapper of helpless townsfolk."
                     },
                  "rotation":0,
                  "type":"Boss",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":96,
                  "y":80
                 }],
@@ -121,6 +126,7 @@
          "x":0,
          "y":0
         }],
+ "nextobjectid":6,
  "orientation":"orthogonal",
  "properties":
     {
@@ -132,7 +138,7 @@
         {
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":64,
+         "imageheight":224,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
@@ -141,6 +147,7 @@
 
             },
          "spacing":0,
+         "tilecount":126,
          "tileheight":16,
          "tilewidth":16
         }],
