@@ -53,7 +53,7 @@
                  "name":"Ghostly Pirate Captain",
                  "properties":
                     {
-
+                     "flavorText":"The captain is ordering people around, but the crew died long ago."
                     },
                  "rotation":0,
                  "type":"Boss",

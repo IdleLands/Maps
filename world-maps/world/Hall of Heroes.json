@@ -304,6 +304,86 @@
                  "width":16,
                  "x":64,
                  "y":208
+                }, 
+                {
+                 "gid":37,
+                 "height":16,
+                 "id":30,
+                 "name":"Yngvildr",
+                 "properties":
+                    {
+                     "flavorText":"The fastest way is to do nothing at all."
+                    },
+                 "rotation":0,
+                 "type":"Hero (Developer)",
+                 "visible":true,
+                 "width":16,
+                 "x":400,
+                 "y":48
+                }, 
+                {
+                 "gid":65,
+                 "height":16,
+                 "id":31,
+                 "name":"OnionKnight",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":64,
+                 "y":240
+                }, 
+                {
+                 "gid":79,
+                 "height":16,
+                 "id":32,
+                 "name":"Avion",
+                 "properties":
+                    {
+                     "flavorText":"Always pray to the RNG-God"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":64,
+                 "y":272
+                }, 
+                {
+                 "gid":65,
+                 "height":16,
+                 "id":33,
+                 "name":"Jomie",
+                 "properties":
+                    {
+                     "flavorText":"Believe in the furious dream"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":64,
+                 "y":304
+                }, 
+                {
+                 "gid":67,
+                 "height":16,
+                 "id":34,
+                 "name":"Deriol",
+                 "properties":
+                    {
+                     "flavorText":"Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn."
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":64,
+                 "y":336
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -399,7 +479,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":30,
+ "nextobjectid":35,
  "orientation":"orthogonal",
  "properties":
     {
