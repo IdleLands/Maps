@@ -19,6 +19,7 @@
         "availableScore": 1500,
         "stats": {
             "class": "Fighter",
+            "gender": "male",
             "hp": 3000,
             "level": 1,
             "con": 100,
@@ -49,6 +50,7 @@
         "availableScore": 2500,
         "stats": {
             "class": "Mage",
+            "gender": "male",
             "hp": 5000,
             "mp": 10000,
             "level": 20,
@@ -80,7 +82,7 @@
             { "name": "Subtle Sapphire", "dropPercent": 25 }
         ]
     },
-    "Super Ninja Gaiden": {
+    "Maelian Ninja Master": {
         "respawn": 10800,
         "availableScore": 2400,
         "stats": {
@@ -102,6 +104,7 @@
         "availableScore": 2400,
         "stats": {
             "class": "Mage",
+            "gender": "not a bear",
             "hp": 7370,
             "level": 20,
             "int": 400,
@@ -132,6 +135,7 @@
         "availableScore": 2400,
         "stats": {
             "class": "Monster",
+            "gender": "male",
             "hp": 21200,
             "level": 40,
             "str": 1800,
@@ -163,6 +167,7 @@
         "availableScore": 4000,
         "stats": {
             "class": "Fighter",
+            "gender": "female",
             "hp": 13745,
             "level": 25,
             "str": 575,
@@ -179,6 +184,7 @@
         "availableScore": 6000,
         "stats": {
             "class": "Mage",
+            "gender": "male",
             "hp": 12580,
             "level": 30,
             "int": 1100,
@@ -193,6 +199,7 @@
         "availableScore": 11400,
         "stats": {
             "class": "Barbarian",
+            "gender": "male",
             "hp": 21000,
             "level": 40,
             "str": 2100,
@@ -231,6 +238,7 @@
         "availableScore": 11400,
         "stats": {
             "class": "Fighter",
+            "gender": "male",
             "hp": 14777,
             "level": 45,
             "str": 2000,
@@ -288,6 +296,7 @@
         "availableScore": 5000,
         "stats": {
             "class": "Mage",
+            "gender": "female",
             "hp": 39212,
             "mp": 77777,
             "level": 55,
@@ -310,6 +319,7 @@
         "availableScore": 1000,
         "stats": {
             "class": "Fighter",
+            "gender": "male",
             "hp": 12999,
 	    "mp": 3000,
             "level": 35,
@@ -332,6 +342,7 @@
         "availableScore": 2000,
         "stats": {
             "class": "Monster",
+            "gender": "male",
             "hp": 14999,
 	    "mp": 15000,
             "level": 40,
@@ -355,6 +366,7 @@
         "availableScore": 3000,
         "stats": {
             "class": "Mage",
+            "gender": "male",
             "hp": 16221,
 	    "mp": 53000,
             "level": 45,
@@ -375,6 +387,7 @@
         "availableScore": 4000,
         "stats": {
             "class": "Random",
+            "gender": "male",
             "hp": 19381,
 	    "mp": 55555,
             "level": 50,
@@ -398,6 +411,7 @@
         "availableScore": 5000,
         "stats": {
             "class": "Lich",
+            "gender": "male",
             "hp": 23090,
 	    "mp": 75000,
             "level": 55,
@@ -446,6 +460,7 @@
         "availableScore": 5000,
         "stats": {
             "class": "Random",
+            "gender": "male",
             "hp": 17580,
 	    "mp": 75000,
             "level": 50,
@@ -465,6 +480,7 @@
         "availableScore": 5000,
         "stats": {
             "class": "Archer",
+            "gender": "not a bear",
             "hp": 13790,
 	    "mp": 10000,
             "level": 38,
@@ -575,6 +591,7 @@
         "availableScore": 2400,
         "stats": {
             "class": "Mage",
+            "gender": "male",
             "hp": 23200,
             "mp": 28200,
             "level": 40,
@@ -608,6 +625,7 @@
         "availableScore": 3700,
         "stats": {
             "class": "Fighter",
+            "gender": "not a bear",
             "hp": 23200,
             "level": 40,
             "str": 2000,
@@ -627,6 +645,7 @@
         "availableScore": 2400,
         "stats": {
             "class": "Mage",
+            "gender": "not a bear",
             "hp": 26705,
             "mp": 44000,
             "level": 44,
@@ -646,6 +665,7 @@
         "availableScore": 2400,
         "stats": {
             "class": "Cleric",
+            "gender": "not a bear",
             "hp": 35000,
             "mp": 48000,
             "level": 48,
@@ -667,6 +687,7 @@
         "availableScore": 2400,
         "stats": {
             "class": "Generalist",
+            "gender": "not a bear",
             "hp": 35000,
             "mp": 15000,
             "level": 52,
@@ -689,6 +710,7 @@
         "availableScore": 5150,
         "stats": {
             "class": "Fighter",
+            "gender": "not a bear",
             "hp": 73000,
             "level": 60,
             "str": 2500,
@@ -712,6 +734,7 @@
         "availableScore": 5150,
         "stats": {
             "class": "Fighter",
+            "gender": "male",
             "hp": 22500,
 	    "mp": 3700,
             "level": 51,
@@ -734,6 +757,7 @@
         "availableScore": 6700,
         "stats": {
             "class": "Necromancer",
+            "gender": "not a bear",
             "hp": 70000,
 	    "mp": 54320,
             "level": 90,
@@ -818,6 +842,7 @@
         "availableScore": 2000,
         "stats": {
             "class": "Random",
+            "gender": "female",
             "hp": 13652,
             "mp": 20000,
             "level": 34,
@@ -860,6 +885,7 @@
         "availableScore": 666,
         "stats": {
             "class": "Monster",
+            "gender": "not a bear",
             "hp": 17666,
             "mp": 333,
             "level": 25,
@@ -980,6 +1006,7 @@
         "availableScore": 1500,
         "stats": {
             "class": "Rogue",
+            "gender": "male",
             "hp": 4995,
             "level": 20,
             "str": 250,
@@ -999,6 +1026,7 @@
         "availableScore": 0,
         "stats": {
             "class": "Monster",
+            "gender": "male",
             "hp": 2500,
             "level": 23,
             "luk": 30,
@@ -1015,6 +1043,7 @@
         "availableScore": 0,
         "stats": {
             "class": "MagicalMonster",
+            "gender": "female",
             "hp": 2500,
 	    "mp": 2500,
             "level": 23,
@@ -1066,6 +1095,7 @@
         "availableScore": 9000,
         "stats": {
             "class": "Random",
+            "gender": "not a bear",
             "hp": 200000,
             "level": 125,
             "str": 10000,

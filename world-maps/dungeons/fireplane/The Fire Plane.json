@@ -82,7 +82,7 @@
                  "name":"Fire Giant",
                  "properties":
                     {
-
+                     "flavorText":"Tempermental from the heat."
                     },
                  "rotation":0,
                  "type":"Boss",
@@ -98,7 +98,7 @@
                  "name":"Spot, the Dragon",
                  "properties":
                     {
-
+                     "flavorText":"See Spot? See Spot, run!"
                     },
                  "rotation":0,
                  "type":"Boss",

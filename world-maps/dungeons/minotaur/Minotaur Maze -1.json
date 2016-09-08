@@ -280,7 +280,7 @@
                  "name":"Child Minotaur",
                  "properties":
                     {
-
+                     "flavorText":"Growing a new labyrinth to rule when it comes of age."
                     },
                  "rotation":0,
                  "type":"Boss",
@@ -318,7 +318,7 @@
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "width":21,
          "x":0,
          "y":0

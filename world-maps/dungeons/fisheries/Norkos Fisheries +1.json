@@ -29,7 +29,7 @@
          "objects":[
                 {
                  "gid":1,
-                 "height":0,
+                 "height":16,
                  "id":1,
                  "name":"ToNorkosDungeon2",
                  "properties":
@@ -43,13 +43,13 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":32,
                  "y":240
                 }, 
                 {
                  "gid":1,
-                 "height":0,
+                 "height":16,
                  "id":2,
                  "name":"ToCaveOutsideFisheries",
                  "properties":
@@ -63,13 +63,13 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":624,
                  "y":80
                 }, 
                 {
                  "gid":1,
-                 "height":0,
+                 "height":16,
                  "id":3,
                  "name":"ToCaveInsideFisheries",
                  "properties":
@@ -83,58 +83,57 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":304,
                  "y":176
                 }, 
                 {
                  "gid":15,
-                 "height":0,
+                 "height":16,
                  "id":4,
                  "name":"Fishing Line",
                  "properties":
                     {
-						"flavorText": "A strand of fishing line, invisible in the right light. Mage was looking for this.",
-						"storyline": "Memoir: Mage"
+                     "flavorText":"A strand of fishing line, invisible in the right light. Mage was looking for this.",
+                     "storyline":"Memoir: Mage"
                     },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":144,
                  "y":128
                 }, 
                 {
                  "gid":15,
-                 "height":0,
+                 "height":16,
                  "id":5,
                  "name":"Bobber",
                  "properties":
                     {
-						"flavorText": "A small, orange bobber. It looks like it originates from Norkos, but floated to the Fisheries by chance.",
-						"storyline": "Lore: Norkos Fisheries"
+                     "flavorText":"A small, orange bobber. It looks like it originates from Norkos, but floated to the Fisheries by chance.",
+                     "storyline":"Lore: Norkos Fisheries"
                     },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":608,
                  "y":240
                 }, 
                 {
                  "gid":26,
-                 "height":0,
+                 "height":16,
                  "id":6,
                  "name":"Little Yeti",
                  "properties":
                     {
-						"flavorText": "A cute little yeti doll. A Maelian favorite!",
-						"storyline": "Lore: Norkos Fisheries"
+                     "flavorText":"A cute little yeti doll. A Maelian favorite!"
                     },
                  "rotation":0,
                  "type":"Boss",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":512,
                  "y":80
                 }],
@@ -157,7 +156,7 @@
         {
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":112,
+         "imageheight":224,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
@@ -166,6 +165,7 @@
 
             },
          "spacing":0,
+         "tilecount":126,
          "tileheight":16,
          "tilewidth":16
         }],

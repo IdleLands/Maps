@@ -226,7 +226,7 @@
                  "name":"Spooky Scary Skeletons",
                  "properties":
                     {
-
+                     "flavorText":"A chill run downs your spine as you approach."
                     },
                  "rotation":0,
                  "type":"BossParty",

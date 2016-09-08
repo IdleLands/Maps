@@ -197,7 +197,7 @@
                  "name":"Lich Brother of Anger",
                  "properties":
                     {
-
+                     "flavorText":"Enjoys the thrill of battle, so his older brothers gave him the room near the entrance."
                     },
                  "rotation":0,
                  "type":"Boss",
@@ -213,7 +213,7 @@
                  "name":"Lich Brother of Decay",
                  "properties":
                     {
-
+                     "flavorText":"Everything he has ever loved has withered before his eyes. Decay feels no remorse for the adventurers he consumes."
                     },
                  "rotation":0,
                  "type":"Boss",
@@ -229,7 +229,7 @@
                  "name":"Lich Brother of Insanity",
                  "properties":
                     {
-
+                     "flavorText":"Screaming about keeping the wall wet with blood."
                     },
                  "rotation":0,
                  "type":"Boss",
@@ -245,7 +245,7 @@
                  "name":"Lich Brother of Death",
                  "properties":
                     {
-
+                     "flavorText":"Eldest of the brothers, all that remains of Death is a thin layer of skin wrapped around an ancient skeleton."
                     },
                  "rotation":0,
                  "type":"Boss",
@@ -261,7 +261,7 @@
                  "name":"The Lich Lord",
                  "properties":
                     {
-
+                     "flavorText":"Once a powerful Norkian mage. Achieved Lichdom after siphoning souls from the Astral Plane."
                     },
                  "rotation":0,
                  "type":"Boss",
@@ -277,7 +277,7 @@
                  "name":"Lich Brother of Fear",
                  "properties":
                     {
-
+                     "flavorText":"Fear has fed on the souls of many monstrous creatures, and has become a monster himself."
                     },
                  "rotation":0,
                  "type":"Boss",
@@ -807,6 +807,54 @@
                  "width":16,
                  "x":208,
                  "y":80
+                }, 
+                {
+                 "gid":61,
+                 "height":16,
+                 "id":71,
+                 "name":"",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":448,
+                 "y":208
+                }, 
+                {
+                 "gid":61,
+                 "height":16,
+                 "id":92,
+                 "name":"",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":448,
+                 "y":192
+                }, 
+                {
+                 "gid":61,
+                 "height":16,
+                 "id":93,
+                 "name":"",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":432,
+                 "y":192
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -927,12 +975,12 @@
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "width":45,
          "x":0,
          "y":0
         }],
- "nextobjectid":71,
+ "nextobjectid":94,
  "orientation":"orthogonal",
  "properties":
     {

@@ -427,7 +427,7 @@
                  "name":"Elder Minotaur",
                  "properties":
                     {
-
+                     "flavorText":"Takes great pride in killing adventurers who don't wipe their feet before entering his lair."
                     },
                  "rotation":0,
                  "type":"Boss",

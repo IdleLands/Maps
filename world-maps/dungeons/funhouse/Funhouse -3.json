@@ -268,7 +268,7 @@
                  "name":"Lord Waxington",
                  "properties":
                     {
-
+                     "flavorText":"Locked away from the rest of the wax statues for being dangerously dapper."
                     },
                  "rotation":0,
                  "type":"Boss",

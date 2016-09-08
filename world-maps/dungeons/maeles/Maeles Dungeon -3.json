@@ -50,10 +50,10 @@
                  "gid":26,
                  "height":16,
                  "id":74,
-                 "name":"Super Ninja Gaiden",
+                 "name":"Maelian Ninja Master",
                  "properties":
                     {
-
+                     "flavorText":"Plotting revenge on Fighter for years."
                     },
                  "rotation":0,
                  "type":"Boss",
