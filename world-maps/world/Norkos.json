@@ -2967,7 +2967,7 @@
                     {
                      "destx":"20",
                      "desty":"68",
-                     "holiday":"winter",
+                     "requireHoliday":"winter",
                      "map":"North Pole",
                      "movementType":"ascend"
                     },
