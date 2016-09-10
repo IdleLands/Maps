@@ -34,7 +34,7 @@
                  "name":"Venerable Dwarven Lord",
                  "properties":
                     {
-
+                     "flavorText":"Legend says this mad dwarf is the last of his kind."
                     },
                  "rotation":0,
                  "type":"Boss",

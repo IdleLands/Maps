@@ -427,7 +427,7 @@
                  "name":"Elder Minotaur",
                  "properties":
                     {
-
+                     "flavorText":"Takes great pride in killing adventurers who don't wipe their feet before entering his lair."
                     },
                  "rotation":0,
                  "type":"Boss",
@@ -577,8 +577,35 @@
          "width":0,
          "x":0,
          "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "height":35,
+         "name":"Regions",
+         "objects":[
+                {
+                 "height":400,
+                 "id":43,
+                 "name":"Magical Monster Lair",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":368,
+                 "x":176,
+                 "y":16
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":false,
+         "width":45,
+         "x":0,
+         "y":0
         }],
- "nextobjectid":43,
+ "nextobjectid":44,
  "orientation":"orthogonal",
  "properties":
     {

@@ -1,52 +1,60 @@
 {
     "towns": {
+    	 "astral": {
+            "map": "The Astral Plane",
+            "formalName": "Astral Town",
+            "x": 13,
+            "y": 60,
+            "cost": 5000000,
+            "requiredRegionVisit": "Astral Town"
+        },
         "frigri": {
             "map": "Norkos",
-            "formalName": "Frigri",
+            "formalName": "Frigri Town",
             "x": 133,
             "y": 160,
             "cost": 500000,
             "requiredRegionVisit": "Frigri Town"
         },
-        "norkos": {
-            "map": "Norkos",
-            "formalName": "Norkos",
-            "x": 34,
-            "y": 14,
-            "cost": 50000,
-            "requiredRegionVisit": "Norkos Town"
+        "homlet": {
+            "map": "Homlet Caves",
+            "formalName": "Homlet Town",
+            "x": 60,
+            "y": 7,
+            "cost": 550000,
+            "requiredRegionVisit": "Homlet Town"
         },
         "maeles": {
             "map": "Norkos",
-            "formalName": "Maeles",
+            "formalName": "Maeles Town",
             "x": 51,
             "y": 115,
             "cost": 250000,
             "requiredRegionVisit": "Maeles Town"
         },
-        "homlet": {
-            "map": "Homlet Caves",
-            "formalName": "Homlet Caves",
-            "x": 60,
-            "y": 7,
-            "cost": 450000,
-            "requiredRegionVisit": "Homlet Town"
-        },
-        "vocalnus": {
-            "map": "Vocalnus",
-            "formalName": "Vocalnus",
-            "x": 51,
-            "y": 35,
-            "cost": 350000,
-            "requiredRegionVisit": "Vocalnus Town"
+        "norkos": {
+            "map": "Norkos",
+            "formalName": "Norkos Town",
+            "x": 34,
+            "y": 14,
+            "cost": 50000,
+            "requiredRegionVisit": "Norkos Town"
         },
         "raburro": {
             "map": "Norkos Dungeon -5",
-            "formalName": "Raburro",
+            "formalName": "Raburro Town",
             "x": 37,
             "y": 39,
             "cost": 750000,
             "requiredRegionVisit": "Raburro Town"
+        },
+        "vocalnus": {
+            "map": "Vocalnus",
+            "formalName": "Vocalnus Town",
+            "x": 31,
+            "y": 41,
+            "cost": 350000,
+            "requiredRegionVisit": "Vocalnus Town"
         }
     },
     "bosses": {
@@ -59,8 +67,8 @@
         "mummylord": {
             "map": "Norkos Dungeon -3",
             "formalName": "the Mummy Lord",
-            "x": 40,
-            "y": 13
+            "x": 24,
+            "y": 1
         },
         "lizardking": {
             "map": "Norkos Dungeon -5",
@@ -72,13 +80,13 @@
             "map": "Norkos",
             "formalName": "Lucifer the Flame-Born",
             "x": 236,
-            "y": 41
+            "y": 40
         },
         "blackdragon": {
             "map": "Mythos -2",
             "formalName": "the Black Dragon King",
-            "x": 46,
-            "y": 41
+            "x": 64,
+            "y": 4
         },
         "trustee": {
             "map": "Norkos Prison -2",
@@ -90,13 +98,13 @@
             "map": "Norkos Dungeon -10",
             "formalName": "the Warden of Norkos",
             "x": 27,
-            "y": 17
+            "y": 16
 		},
         "griffin": {
             "map": "Vocalnus",
             "formalName": "the Gryffyndor House Representative",
             "x": 93,
-            "y": 36
+            "y": 35
 		},
         "skydragon": {
             "map": "Vocalnus",
@@ -106,21 +114,21 @@
 		},
         "gaiden": {
             "map": "Maeles Dungeon -3",
-            "formalName": "Super Ninja Gaiden",
+            "formalName": "Maelian Ninja Master",
             "x": 25,
-            "y": 2
+            "y": 1
 		},
         "childminotaur": {
             "map": "Minotaur Maze -1",
             "formalName": "the Child Minotaur",
             "x": 10,
-            "y": 42
+            "y": 41
 		},
         "siblingminotaur": {
             "map": "Minotaur Maze -2",
             "formalName": "the Sibling Minotaur",
             "x": 2,
-            "y": 33
+            "y": 32
 		},
         "elderminotaur": {
             "map": "Minotaur Maze -3",
@@ -132,7 +140,7 @@
             "map": "Minotaur Maze -4",
             "formalName": "the King Minotaur",
             "x": 23,
-            "y": 25
+            "y": 24
 		}		
     },
     "dungeons": {
@@ -169,8 +177,8 @@
         "norkosprison": {
             "map": "Norkos",
             "formalName": "the Norkos Prison entrance",
-            "x": 92,
-            "y": 11
+            "x": 96,
+            "y": 13
         },
         "minotaurmaze": {
             "map": "Norkos",
@@ -181,10 +189,10 @@
     },
     "trainers": {
         "archer": {
-            "map": "Norkos",
+            "map": "Leviathan Mountain",
             "formalName": "the Archer Trainer",
-            "x": 141,
-            "y": 146
+            "x": 40,
+            "y": 39
         },
         "barbarian": {
             "map": "Norkos",
@@ -214,7 +222,7 @@
             "map": "Norkos Dungeon -5",
             "formalName": "the Jester Trainer",
             "x": 39,
-            "y": 43
+            "y": 44
         },
         "mage": {
             "map": "Norkos",
@@ -267,8 +275,8 @@
         "sandwichartist": {
             "map": "Norkos",
             "formalName": "the Sandwich Artist Trainer",
-            "x": 54,
-            "y": 122
+            "x": 56,
+            "y": 11
         }
     },
     "other": {

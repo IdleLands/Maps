@@ -298,7 +298,7 @@
                  "name":"Wardens",
                  "properties":
                     {
-
+                     "flavorText":"The last threat to adventurers seeking treasure from the dungeon. Protect some of the most valuable items in Idliathlia."
                     },
                  "rotation":0,
                  "type":"BossParty",
@@ -783,8 +783,80 @@
          "width":31,
          "x":0,
          "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "height":34,
+         "name":"Regions",
+         "objects":[
+                {
+                 "height":112,
+                 "id":50,
+                 "name":"Dark Ritual Chamber",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":80,
+                 "x":256,
+                 "y":16
+                }, 
+                {
+                 "height":160,
+                 "id":51,
+                 "name":"Jester's Vault",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":80,
+                 "x":16,
+                 "y":368
+                }, 
+                {
+                 "height":160,
+                 "id":52,
+                 "name":"Warden's Vault",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":80,
+                 "x":400,
+                 "y":368
+                }, 
+                {
+                 "height":48,
+                 "id":53,
+                 "name":"Ancient Halls",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":208,
+                 "x":272,
+                 "y":144
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":false,
+         "width":31,
+         "x":0,
+         "y":0
         }],
- "nextobjectid":50,
+ "nextobjectid":54,
  "orientation":"orthogonal",
  "properties":
     {

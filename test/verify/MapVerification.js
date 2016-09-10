@@ -51,6 +51,11 @@ _.each(maps, (mapData, mapName) => {
   });
 
   allTeleportsOnMaps.push(...teleports);
+
+  _.each(mapData.map.layers[2].objects, obj => {
+    if(obj.type) return;
+    console.log(`WARNING: Object @ ${obj.x/16},${obj.y/16} on ${mapName} has no type!`);
+  });
 });
 
 const allBossesInParties = [];

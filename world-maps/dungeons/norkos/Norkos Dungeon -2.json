@@ -121,8 +121,50 @@
          "width":45,
          "x":0,
          "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "height":30,
+         "name":"Regions",
+         "objects":[
+                {
+                 "height":384,
+                 "id":10,
+                 "name":"Collapsed Tunnel",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":144,
+                 "x":16,
+                 "y":64
+                }, 
+                {
+                 "height":80,
+                 "id":11,
+                 "name":"Collapsed Tunnel",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":272,
+                 "x":160,
+                 "y":352
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":false,
+         "width":45,
+         "x":0,
+         "y":0
         }],
- "nextobjectid":10,
+ "nextobjectid":12,
  "orientation":"orthogonal",
  "properties":
     {

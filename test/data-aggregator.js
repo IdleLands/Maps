@@ -12,6 +12,7 @@ const walk = (dir) => {
   const list = fs.readdirSync(dir);
 
   list.forEach((baseFileName) => {
+    if(baseFileName[0] === '.') return;
     file = dir + '/' + baseFileName
     stat = fs.statSync(file);
     if(stat && stat.isDirectory()) results = results.concat(walk(file));

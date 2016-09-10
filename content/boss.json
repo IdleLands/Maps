@@ -19,6 +19,7 @@
         "availableScore": 1500,
         "stats": {
             "class": "Fighter",
+            "gender": "male",
             "hp": 3000,
             "level": 1,
             "con": 100,
@@ -49,6 +50,7 @@
         "availableScore": 2500,
         "stats": {
             "class": "Mage",
+            "gender": "male",
             "hp": 5000,
             "mp": 10000,
             "level": 20,
@@ -71,7 +73,7 @@
             "con": 1000,
             "str": 3900,
             "int": 100,
-            "luck": 800,
+            "luk": 800,
             "thunder": 2000,
             "mindwipe": 1
         },
@@ -80,7 +82,7 @@
             { "name": "Subtle Sapphire", "dropPercent": 25 }
         ]
     },
-    "Super Ninja Gaiden": {
+    "Maelian Ninja Master": {
         "respawn": 10800,
         "availableScore": 2400,
         "stats": {
@@ -102,10 +104,10 @@
         "availableScore": 2400,
         "stats": {
             "class": "Mage",
+            "gender": "not a bear",
             "hp": 7370,
             "level": 20,
             "int": 400,
-            "wis": 450,
             "agi": 50
         },
         "items": [
@@ -133,6 +135,7 @@
         "availableScore": 2400,
         "stats": {
             "class": "Monster",
+            "gender": "male",
             "hp": 21200,
             "level": 40,
             "str": 1800,
@@ -164,6 +167,7 @@
         "availableScore": 4000,
         "stats": {
             "class": "Fighter",
+            "gender": "female",
             "hp": 13745,
             "level": 25,
             "str": 575,
@@ -180,10 +184,10 @@
         "availableScore": 6000,
         "stats": {
             "class": "Mage",
+            "gender": "male",
             "hp": 12580,
             "level": 30,
             "int": 1100,
-            "wis": 990,
             "agi": 50
         },
         "items": [
@@ -195,6 +199,7 @@
         "availableScore": 11400,
         "stats": {
             "class": "Barbarian",
+            "gender": "male",
             "hp": 21000,
             "level": 40,
             "str": 2100,
@@ -218,7 +223,6 @@
             "dex": 1000,
             "con": 250,
             "agi": 1000,
-            "wis": 500,
             "int": 500,
             "vampire": 2
         },
@@ -234,6 +238,7 @@
         "availableScore": 11400,
         "stats": {
             "class": "Fighter",
+            "gender": "male",
             "hp": 14777,
             "level": 45,
             "str": 2000,
@@ -256,7 +261,7 @@
             "class": "Pirate",
             "hp": 1750,
             "level": 15,
-            "luck": 33,
+            "luk": 33,
             "dex": 200,
             "agi": 200,
             "parry": 10
@@ -272,7 +277,7 @@
             "class": "Barbarian",
             "hp": 16999,
             "level": 30,
-            "luck": 33,
+            "luk": 33,
             "dex": 600,
             "agi": 900,
             "str": 2000,
@@ -291,17 +296,16 @@
         "availableScore": 5000,
         "stats": {
             "class": "Mage",
+            "gender": "female",
             "hp": 39212,
             "mp": 77777,
             "level": 55,
-            "luck": 77,
+            "luk": 77,
             "dex": 1600,
             "con": 1300,
             "agi": 500,
             "str": 3900,
-            "wis": 999,
             "int": 2900,
-            "fire": 7777,
             "defense": 2,
             "fear": 1,
             "sturdy": 1
@@ -315,10 +319,11 @@
         "availableScore": 1000,
         "stats": {
             "class": "Fighter",
+            "gender": "male",
             "hp": 12999,
 	    "mp": 3000,
             "level": 35,
-            "luck": 30,
+            "luk": 30,
             "dex": 1300,
 	    "con": 888,
 	    "agi": 750,
@@ -337,15 +342,15 @@
         "availableScore": 2000,
         "stats": {
             "class": "Monster",
+            "gender": "male",
             "hp": 14999,
 	    "mp": 15000,
             "level": 40,
-            "luck": 10,
+            "luk": 10,
             "dex": 1000,
 	    "con": 1000,
 	    "agi": 1000,
 	    "str": 1000,
-	    "wis": 1000,
 	    "int": 1000,
 	    "defense": 2,
 	    "fear": 10,
@@ -361,17 +366,14 @@
         "availableScore": 3000,
         "stats": {
             "class": "Mage",
+            "gender": "male",
             "hp": 16221,
 	    "mp": 53000,
             "level": 45,
-            "luck": 33,
+            "luk": 33,
             "agi": 888,
 	    "con": 150,
-	    "wis": 1200,
 	    "int": 2200,
-	    "fire": 500,
-	    "ice": 500,
-	    "thunder": 500,
 	    "defense": 2,
 	    "shatter": 1,
 	    "poison": 2
@@ -385,15 +387,15 @@
         "availableScore": 4000,
         "stats": {
             "class": "Random",
+            "gender": "male",
             "hp": 19381,
 	    "mp": 55555,
             "level": 50,
-            "luck": 200,
+            "luk": 200,
             "dex": 700,
 	    "con": 621,
 	    "agi": 1200,
 	    "str": 1000,
-	    "wis": 500,
 	    "int": 2500,
 	    "defense": 1,
 	    "fear": 1,
@@ -409,6 +411,7 @@
         "availableScore": 5000,
         "stats": {
             "class": "Lich",
+            "gender": "male",
             "hp": 23090,
 	    "mp": 75000,
             "level": 55,
@@ -416,7 +419,6 @@
 	    "con": 1500,
 	    "agi": 1000,
 	    "str": 2000,
-	    "wis": 30,
 	    "int": 2000,
 	    "fear": 1,
 	    "vampire": 1
@@ -433,12 +435,11 @@
             "hp": 26930,
 	    "mp": 100000,
             "level": 65,
-            "luck": 1,
+            "luk": 1,
             "dex": 1025,
 	    "con": 1500,
 	    "agi": 975,
 	    "str": 2001,
-	    "wis": 899,
 	    "int": 2001,
 	    "shatter": 1,
 	    "lethal": 1,
@@ -459,15 +460,15 @@
         "availableScore": 5000,
         "stats": {
             "class": "Random",
+            "gender": "male",
             "hp": 17580,
 	    "mp": 75000,
             "level": 50,
-            "luck": 12,
+            "luk": 12,
             "dex": 900,
 	    "con": 1120,
 	    "agi": 950,
 	    "str": 2300,
-	    "wis": 1100,
 	    "int": 1500
         },
         "items": [
@@ -479,10 +480,11 @@
         "availableScore": 5000,
         "stats": {
             "class": "Archer",
+            "gender": "not a bear",
             "hp": 13790,
 	    "mp": 10000,
             "level": 38,
-            "luck": 20,
+            "luk": 20,
             "dex": 1800,
 	    "con": 900,
 	    "agi": 1001,
@@ -503,10 +505,9 @@
             "hp": 1600,
 	    "mp": 1500,
             "level": 15,
-            "luck": 25,
+            "luk": 25,
             "dex": 125,
 	    "con": 105,
-	    "wis": 175,
 	    "agi": 125,
 	    "str": 275,
 	    "int": 200
@@ -522,7 +523,7 @@
             "class": "Barbarian",
             "hp": 1600,
             "level": 12,
-            "luck": 25,
+            "luk": 25,
             "dex": 120,
 	    "con": 175,
 	    "agi": 75,
@@ -538,7 +539,7 @@
             "hp": 1225,
 	    "mp": 1500,
             "level": 12,
-            "luck": 200
+            "luk": 200
         }
         	},
     "Reindeer Warden": {
@@ -551,14 +552,11 @@
             "level": 40,
             "str": 2200,
 	    "int": 2300,
-	    "wis": 500,
-	    "luck": 25,
+	    "luk": 25,
             "dex": 850,
             "con": 1200,
             "agi": 670,
-            "sturdy": 1,
-	    "ice": 10000,
-	    "icePercent": 10
+            "sturdy": 1
         },
         "items": [
             { "name": "Snow Covered Antlers", "dropPercent": 80 }
@@ -573,7 +571,7 @@
             "hp": 75800,
 	    "mp": 10000,
             "level": 80,
-            "luck": 25,
+            "luk": 25,
             "dex": 2300,
 	    "con": 3500,
 	    "agi": 1701,
@@ -593,14 +591,13 @@
         "availableScore": 2400,
         "stats": {
             "class": "Mage",
+            "gender": "male",
             "hp": 23200,
             "mp": 28200,
             "level": 40,
             "str": 1800,
             "int": 1750,
-            "wis": 1450,
             "con": 900,
-            "fire": 10000,
             "sturdy": 1
         }
     },
@@ -615,7 +612,6 @@
             "str": 230,
             "int": 3370,
 	    "agi": 570,
-            "wis": 1800,
             "con": 876,
             "venom": 2,
             "poison": 2
@@ -629,11 +625,13 @@
         "availableScore": 3700,
         "stats": {
             "class": "Fighter",
+            "gender": "not a bear",
             "hp": 23200,
             "level": 40,
             "str": 2000,
             "con": 1120,
-	    "dex": 400,
+	    "dex": 450,
+	    "agi": 300,
             "defense": 1,
             "offense": 1,
 	    "glowing": 1
@@ -647,15 +645,13 @@
         "availableScore": 2400,
         "stats": {
             "class": "Mage",
+            "gender": "not a bear",
             "hp": 26705,
             "mp": 44000,
             "level": 44,
             "str": 400,
             "int": 2015,
-            "wis": 700,
             "con": 100,
-            "fire": 350,
-	    "earth": 350,
 	    "crit": 3,
 	    "lethal": 1,
 	    "glowing": 1
@@ -669,12 +665,12 @@
         "availableScore": 2400,
         "stats": {
             "class": "Cleric",
+            "gender": "not a bear",
             "hp": 35000,
             "mp": 48000,
             "level": 48,
             "str": 1950,
             "int": 1000,
-            "wis": 1950,
 	    "dex": 600,
 	    "agi": 500,
             "con": 825,
@@ -691,6 +687,7 @@
         "availableScore": 2400,
         "stats": {
             "class": "Generalist",
+            "gender": "not a bear",
             "hp": 35000,
             "mp": 15000,
             "level": 52,
@@ -698,9 +695,8 @@
             "int": 1800,
 	    "dex": 1500,
 	    "agi": 1200,
-            "wis": 900,
             "con": 900,
-	    "luck": 100,
+	    "luk": 100,
 	    "parry": 1,
 	    "crit": 1,
 	    "glowing": 1
@@ -714,13 +710,14 @@
         "availableScore": 5150,
         "stats": {
             "class": "Fighter",
+            "gender": "not a bear",
             "hp": 73000,
             "level": 60,
             "str": 2500,
 	    "dex": 1500,
 	    "agi": 1500,
             "con": 2000,
-	    "luck": 100,
+	    "luk": 100,
             "sturdy": 1,
 	    "defense": 1,
 	    "offense": 1,
@@ -737,6 +734,7 @@
         "availableScore": 5150,
         "stats": {
             "class": "Fighter",
+            "gender": "male",
             "hp": 22500,
 	    "mp": 3700,
             "level": 51,
@@ -744,7 +742,7 @@
 	    "dex": 1285,
 	    "agi": 1285,
             "con": 481,
-	    "luck": 26,
+	    "luk": 26,
             "prone": 1,
 	    "parry": 1,
 	    "poison": 1,
@@ -759,13 +757,14 @@
         "availableScore": 6700,
         "stats": {
             "class": "Necromancer",
+            "gender": "not a bear",
             "hp": 70000,
 	    "mp": 54320,
             "level": 90,
             "str": 2200,
 	    "dex": 2200,
-            "wis": 5000,
-	    "luck": -10,
+            "int": 5000,
+	    "luk": -10,
             "power": 1,
 	    "punish": 1
         },
@@ -785,8 +784,7 @@
 	    "dex": 2200,
 	    "agi": 1990,
             "con": 2700,
-	    "fire": 2000,
-	    "luck": 15,
+	    "luk": 15,
             "prone": 1,
 	    "parry": 1,
 	    "defense": 1,
@@ -810,8 +808,6 @@
 	    "dex": 1550,
 	    "agi": 1905,
 	    "int": 2000,
-	    "wis": 50,
-	    "fire": 2000,
 	    "mpregen": 100,
             "con": 400,
             "lethal": 1,
@@ -846,6 +842,7 @@
         "availableScore": 2000,
         "stats": {
             "class": "Random",
+            "gender": "female",
             "hp": 13652,
             "mp": 20000,
             "level": 34,
@@ -876,8 +873,6 @@
             "int": 1750,
 	    "dex": 1000,
             "agi": 1200,
-	    "wis": 1000,
-	    "ice": 4000,
 	    "deadeye": 1,
 	    "startle": 1
         },
@@ -890,6 +885,7 @@
         "availableScore": 666,
         "stats": {
             "class": "Monster",
+            "gender": "not a bear",
             "hp": 17666,
             "mp": 333,
             "level": 25,
@@ -963,7 +959,6 @@
 	    "con": 1400,
             "agi": 900,
 	    "int": -123,
-	    "wis": -456,
 	    "glowing": 1,
 	    "prone": 1,
 	    "power": 1,
@@ -987,7 +982,6 @@
 	    "con": 3000,
             "agi": 2100,
 	    "int": 6700,
-	    "wis": 1400,
 	    "aegis": 1,
 	    "crit": 5,
 	    "dance": 1,
@@ -1012,13 +1006,14 @@
         "availableScore": 1500,
         "stats": {
             "class": "Rogue",
+            "gender": "male",
             "hp": 4995,
             "level": 20,
             "str": 250,
             "con": 130,
             "dex": 600,
             "agi": 250,
-	    "luck": 15,
+	    "luk": 15,
             "crit": 10,
 	    "sturdy": 1
         },
@@ -1031,15 +1026,15 @@
         "availableScore": 0,
         "stats": {
             "class": "Monster",
+            "gender": "male",
             "hp": 2500,
             "level": 23,
-            "luck": 30,
+            "luk": 30,
             "dex": 225,
 	    "con": 175,
 	    "agi": 255,
 	    "str": 500,
 	    "int": 300,
-	    "wis": 200,
 	    "offense": 1
         }
 		},
@@ -1048,16 +1043,16 @@
         "availableScore": 0,
         "stats": {
             "class": "MagicalMonster",
+            "gender": "female",
             "hp": 2500,
 	    "mp": 2500,
             "level": 23,
-            "luck": 30,
+            "luk": 30,
             "dex": 225,
 	    "con": 175,
 	    "agi": 255,
 	    "str": 500,
 	    "int": 300,
-	    "wis": 200,
 	    "lethal": 1
         }
 		},
@@ -1070,13 +1065,12 @@
             "hp": 2500,
 	    "mp": 2500,
             "level": 23,
-            "luck": 30,
+            "luk": 30,
             "dex": 225,
 	    "con": 175,
 	    "agi": 255,
 	    "str": 500,
 	    "int": 300,
-	    "wis": 200,
 	    "hpregen": 100
         }
 		},
@@ -1101,6 +1095,7 @@
         "availableScore": 9000,
         "stats": {
             "class": "Random",
+            "gender": "not a bear",
             "hp": 200000,
             "level": 125,
             "str": 10000,
@@ -1108,8 +1103,7 @@
             "dex": 7000,
             "agi": 7000,
 	    "int": 10000,
-	    "wis": 7000,
-	    "luck": 150,
+	    "luk": 150,
             "poison": 4,
 	    "venom": 3,
 	    "glowing": 1,
@@ -1130,7 +1124,7 @@
             "con": 15000,
             "dex": 9000,
             "agi": 9000,
-	    "luck": 200,
+	    "luk": 200,
             "crit": 2,
 	    "aegis": 1,
 	    "prone": 1,
@@ -1154,9 +1148,8 @@
             "con": 25000,
             "dex": 27000,
 	    "int": 60000,
-	    "wis": 40000,
             "agi": 30000,
-	    "luck": 2000,
+	    "luk": 2000,
             "crit": 9,
 	    "aegis": 1,
 	    "prone": 1,
@@ -1182,8 +1175,7 @@
 	    "startle": 2,
 	    "sturdy": 1,
 	    "vampire": 1,
-	    "hpregen": 666,
-	    "holy": 1000	    
+	    "hpregen": 666	    
         },
         "items": [
             { "name": "Astral Stabilizer", "dropPercent": 75 }
@@ -1215,7 +1207,6 @@
             "mp": 28200,
             "level": 40,
             "str": 1800,
-            "wis": 1500,
             "int": 1400,
             "con": 1000
         },

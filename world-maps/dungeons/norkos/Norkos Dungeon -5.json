@@ -416,7 +416,7 @@
                  "gid":31,
                  "height":16,
                  "id":24,
-                 "name":"ToMageTrainer",
+                 "name":"ToNorkosMage",
                  "properties":
                     {
                      "fromName":"the Jesters Demense",
@@ -434,7 +434,7 @@
                  "gid":31,
                  "height":16,
                  "id":25,
-                 "name":"ToFighterTrainer",
+                 "name":"ToNorkosFighter",
                  "properties":
                     {
                      "fromName":"the Jesters Demense",
@@ -452,7 +452,7 @@
                  "gid":31,
                  "height":16,
                  "id":26,
-                 "name":"ToGeneralistTrainer",
+                 "name":"ToNorkosGeneralist",
                  "properties":
                     {
                      "fromName":"the Jesters Demense",
@@ -470,7 +470,7 @@
                  "gid":31,
                  "height":16,
                  "id":27,
-                 "name":"ToClericTrainer",
+                 "name":"ToNorkosCleric",
                  "properties":
                     {
                      "fromName":"the Jesters Demense",
@@ -491,7 +491,7 @@
                  "name":"Lizard King",
                  "properties":
                     {
-
+                     "flavorText":"Self-proclaimed king of Norkos Dungeon. Used dark magic to freeze Raburro Town's water source."
                     },
                  "rotation":0,
                  "type":"Boss",
@@ -1402,7 +1402,7 @@
                 {
                  "height":304,
                  "id":67,
-                 "name":"",
+                 "name":"Raburro Town",
                  "properties":
                     {
 
@@ -1428,6 +1428,21 @@
                  "width":352,
                  "x":192,
                  "y":624
+                }, 
+                {
+                 "height":320,
+                 "id":88,
+                 "name":"Lizard King's Chambers",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":112,
+                 "x":16,
+                 "y":16
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1436,7 +1451,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":88,
+ "nextobjectid":89,
  "orientation":"orthogonal",
  "properties":
     {

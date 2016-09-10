@@ -34,7 +34,7 @@
                  "name":"Mama Red Dragon",
                  "properties":
                     {
-
+                     "flavorText":"Bathes in a pool of lava, launching fire at intruders from afar."
                     },
                  "rotation":0,
                  "type":"Boss",
@@ -50,7 +50,7 @@
                  "name":"Baby Red Dragon",
                  "properties":
                     {
-
+                     "flavorText":"Just found a silver compass, the first piece of treasure for its hoard."
                     },
                  "rotation":0,
                  "type":"Boss",
@@ -85,7 +85,7 @@
                  "name":"Mama Red Dragon Scale",
                  "properties":
                     {
-                     "flavorText":"A giant, blood-red scale of a dragon. Strangely, you can see the feminity in the scale.",
+                     "flavorText":"A giant, blood-red scale of a dragon. Strangely, you can see the femininity in the scale.",
                      "rarity":"idle",
                      "storyline":"Lore: Dragons"
                     },

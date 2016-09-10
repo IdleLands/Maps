@@ -109,6 +109,7 @@
                  "properties":
                     {
                      "flavorText":"This pungent bread is very dense.",
+                     "rarity":"pro",
                      "storyline":"Lore: Maeles"
                     },
                  "rotation":0,
@@ -604,8 +605,65 @@
          "width":50,
          "x":0,
          "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "height":33,
+         "name":"Regions",
+         "objects":[
+                {
+                 "height":144,
+                 "id":65,
+                 "name":"Zen Garden",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":208,
+                 "x":576,
+                 "y":16
+                }, 
+                {
+                 "height":80,
+                 "id":66,
+                 "name":"Mushroom Farm",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":336,
+                 "x":16,
+                 "y":432
+                }, 
+                {
+                 "height":32,
+                 "id":67,
+                 "name":"Mushroom Farm",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":224,
+                 "y":400
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "width":50,
+         "x":0,
+         "y":0
         }],
- "nextobjectid":65,
+ "nextobjectid":68,
  "orientation":"orthogonal",
  "properties":
     {

@@ -159,7 +159,7 @@
                  "name":"Christmas Elves",
                  "properties":
                     {
-
+                     "flavorText":"These merry elves make toys as well as slaughter adventurers who trespass in Santa's domain."
                     },
                  "rotation":0,
                  "type":"BossParty",
@@ -175,7 +175,7 @@
                  "name":"Reindeer Warden",
                  "properties":
                     {
-
+                     "flavorText":"Pulls Santa's Sleigh of Slaughter."
                     },
                  "rotation":0,
                  "type":"Boss",
@@ -191,7 +191,7 @@
                  "name":"Santa, Lord of Presents",
                  "properties":
                     {
-
+                     "flavorText":"Hearing your name read off The Naughty List gives you a startle."
                     },
                  "rotation":0,
                  "type":"Boss",
