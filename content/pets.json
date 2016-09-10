@@ -13,7 +13,7 @@
         },
         "requirements": {
             "statistics": {
-                "calculated class changes": 1
+                "Character.Professions": 1
             }
         },
         "scale": {
@@ -52,12 +52,11 @@
             "head": 1
         },
         "specialStats": {
-            "fear": 1,
-            "offense": 1
+            "offense": 2
         },
         "requirements": {
             "achievements": [
-                "Collector I"
+                { "name": "Collector", "tier": 2 }
             ]
         },
         "scale": {
@@ -97,16 +96,15 @@
         "specialStats": {
             "dance": 1,
             "offense": 1,
-            "startle": 1,
             "vorpal": 1,
-            "crit": 2
+            "crit": 5
         },
         "requirements": {
             "collectibles": [
                 "Timmy's Twig"
             ],
             "statistics": {
-                "explore walk grass": 100000
+                "Character.Terrains.Grass": 100000
             }
         },
         "scale": {
@@ -159,7 +157,7 @@
                 "Ashen Bank Coin"
             ],
             "achievements": [
-                "Golden I"
+                { "name": "Golden", "tier": 3 }
             ]
         },
         "scale": {
@@ -198,8 +196,6 @@
             "legs": 1
         },
         "specialStats": {
-            "startle": 1,
-            "drunk": 1,
             "crit": 5
         },
         "requirements": {
@@ -246,7 +242,7 @@
         },
         "requirements": {
             "statistics": {
-                "explore walk water": 25000
+                "Character.Terrains.Water": 150000
             },
             "collectibles": [
                 "Dried Up, Not Tasty Fish",
@@ -299,7 +295,6 @@
             "power": 1,
             "silver": 1,
             "shatter": 1,
-            "sturdy": 1,
             "str": 200,
             "dex": 200
         },
@@ -355,15 +350,9 @@
         },
         "specialStats": {
             "prone": 1,
-            "defense": 2,
-            "offense": 2,
-            "punish": 1,
-            "int": 200,
-            "ice": 400,
-            "fire": 400,
-            "earth": 400,
-            "water": 400,
-            "thunder": 400
+            "defense": 5,
+            "offense": 5,
+            "int": 1000
         },
         "requirements": {
             "collectibles": [
@@ -417,18 +406,15 @@
             "offhand": 4
         },
         "specialStats": {
-            "water": 800,
             "int": 800,
             "str": 800,
-            "con": 800,
-            "fear": 1,
-            "sturdy": 1,
-            "drunk": 1,
-            "parry": 4
+            "con": 800
         },
         "requirements": {
             "statistics": {
-                "explore walk water": 260000
+                "Character.Terrains.Water": 300000,
+                "Character.Terrains.Swamp": 5000,
+                "Character.Terrains.Acid": 100
             }
         },
         "scale": {
