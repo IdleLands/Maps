@@ -204,7 +204,10 @@
             ],
             "bosses": [
                 "Ghostly Pirate Captain"
-            ]
+            ],
+            "statistics": {
+                "Character.Movement.Drunk": 50000
+            }
         },
         "scale": {
             "maxLevel": [25, 50, 75],
