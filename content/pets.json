@@ -8,7 +8,7 @@
         },
         "specialStats": {
             "prone": 1,
-            "sturdy": 1,
+            "aegis": 1,
             "defense": 3
         },
         "requirements": {
@@ -144,7 +144,7 @@
         },
         "specialStats": {
             "deadeye": 1,
-            "darkside": 1,
+            "venom": 1,
             "poison": 1
         },
         "requirements": {
