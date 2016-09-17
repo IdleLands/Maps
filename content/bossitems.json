@@ -349,7 +349,7 @@
   "Astral Stabilizer": {
     "type": "finger",
     "str": 500,
-    "con": 500
+    "con": 500,
     "int": 500,
     "agi": 500,
     "dex": 500,
