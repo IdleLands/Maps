@@ -33,7 +33,7 @@
   "Pirate Hook": {
     "type": "offhand",
     "agi": 450,
-    "dex": 500,
+    "dex": 500
   },
   "Star Amulet": {
     "type": "neck",
@@ -70,7 +70,7 @@
   },
   "Decorative Red Pants": {
     "type": "legs",
-    "con": 100
+    "con": 100,
     "int": 400,
     "dex": 300,
     "luk": 25
