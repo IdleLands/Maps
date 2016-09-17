@@ -91,9 +91,8 @@
   },
   "Halberd of the Giants": {
     "type": "mainhand",
-    "str": 1000,
-    "con": 225,
-    "sturdy": 1,
+    "str": 1250,
+    "con": 500,
     "enchantLevel": 6
   },
   "Incorporeal Cutlass": {
