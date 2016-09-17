@@ -26,8 +26,7 @@
     "type": "mainhand",
     "str": 1200,
     "con": 400,
-    "agi": 200,
-    "haste": 2
+    "agi": 600
   },
   "Super Shuriken": {
     "type": "mainhand",
@@ -38,10 +37,10 @@
   },
   "Staff of the Prophet": {
     "type": "mainhand",
+    "con": 50,
     "agi": 180,
     "dex": 200,
-    "int": 100,
-    "sacred": 1
+    "int": 200
   },
   "Moonlight Signet": {
     "type": "finger",
@@ -92,17 +91,15 @@
   },
   "Halberd of the Giants": {
     "type": "mainhand",
-    "str": 1000,
-    "con": 225,
-    "sturdy": 1,
+    "str": 1250,
+    "con": 500,
     "enchantLevel": 6
   },
   "Incorporeal Cutlass": {
     "type": "mainhand",
-    "dex": 150,
+    "dex": 250,
     "luk": 11,
-    "agi": 150,
-    "parry": 1
+    "agi": 250
   },
   "Fire Infused Dragon Tooth": {
     "type": "offhand",
@@ -115,9 +112,8 @@
   },
   "Breastplate of Wrath": {
     "type": "body",
-    "int": 1500,
+    "int": 1600,
     "luk": 3,
-    "intPercent": 5,
     "defense": 2
   },
   "Amulet of Anger": {
@@ -132,9 +128,9 @@
     "int": 300,
     "str": 300,
     "dex": 300,
+    "agi": 300,
     "con": 300,
-    "lukPercent": 5,
-    "startle": 1
+    "luk": 25
   },
   "Amulet of Decay": {
     "type": "neck",
@@ -151,16 +147,15 @@
   },
   "Amulet of Death": {
     "type": "neck",
+    "str": 200,
+    "con": 200,
     "int": 1100,
-    "fear": 1,
-    "darkside": 1,
     "deadeye": 1
   },
   "Lich Lord's Phylactery": {
     "type": "finger",
-    "int": 1150,
+    "int": 1300,
     "con": 800,
-    "intPercent": 10,
     "lethal": 1
   },
   "Jewel-Encrusted Pick Axe": {
@@ -170,7 +165,7 @@
     "agi": 250,
     "con": 500,
     "int": 250,
-    "royal": 2
+    "luk": 50
   },
   "Mushroom Shaped Charm": {
     "type": "charm",
@@ -181,34 +176,26 @@
   },
   "The Nice List": {
     "type": "offhand",
-    "int": 250,
-    "con": 50,
+    "int": 300,
+    "con": 100,
     "silver": 1,
-    "goldPercent": 5,
-    "sacred": 1
+    "gold": 25
   },
   "Snow Covered Antlers": {
     "type": "head",
-    "agi": 100,
-    "agiPercent": 10,
-    "dex": 100,
-    "dexPercent": 10,
-    "int": 100,
-    "intPercent": 10,
-    "ice": 1225,
-    "icePercent": 10
+    "agi": 300,
+    "dex": 300,
+    "int": 600
   },
   "The Naughty List": {
     "type": "mainhand",
     "str": 1500,
     "con": 1000,
+    "dex": 500,
     "luk": 25,
     "silver": 1,
-    "haste": 1,
-    "royal": 1,
-    "sacred": 1,
-    "shatter": 1,
-    "punish": 1
+    "offense": 2,
+    "shatter": 1
   },
   "Noxious Amulet": {
     "type": "neck",
@@ -250,8 +237,7 @@
   "Guardian Tower Shield": {
     "type": "offhand",
     "str": 1000,
-    "con": 1000,
-    "conPercent": 5,
+    "con": 1200,
     "defense": 2,
     "glowing": 1
   },
@@ -269,7 +255,7 @@
     "type": "charm",
     "int": 1400,
     "prone": 1,
-    "parry": 1,
+    "vampire": 1,
     "poison": 4,
     "venom": 2
   },
@@ -301,11 +287,9 @@
   "Slime Covered Jerkin": {
     "type": "body",
     "str": 255,
-    "con": -10,
+    "con": -20,
     "dex": 155,
     "agi": 100,
-    "conPercent": -1,
-    "sticky": 1,
     "poison": 2
   },
   "Slicer's Sabre": {
@@ -313,8 +297,7 @@
     "str": 800,
     "con": 75,
     "dex": 75,
-    "agi": 75,
-    "agiPercent": 3,
+    "agi": 100,
     "silver": 1,
     "glowing": 1,
     "power": 1,
@@ -323,25 +306,22 @@
   "Smasher's Smashin' Club": {
     "type": "mainhand",
     "str": 1100,
-    "con": 150,
+    "con": 200,
     "int": -123,
     "glowing": 1,
     "prone": 1,
-    "power": 1,
-    "parry": 1
+    "power": 1
   },
   "Naga Resurrection Trident": {
     "type": "mainhand",
     "str": 1500,
-    "conPercent": 10,
+    "con": 500,
+    "agi": 500,
     "int": 1000,
     "glowing": 1,
     "silver": 1,
-    "parry": 1,
     "poison": 1,
-    "sturdy": 1,
-    "luk": -50,
-    "lukPercent": -2,
+    "luk": -75,
     "hpregen": 525
   },
   "Lord Waxington's Top Hat": {
@@ -353,58 +333,50 @@
   "Crystal Crown": {
     "type": "head",
     "agi": 7500,
+    "con": 1500,
     "int": 1500,
     "glowing": 1,
-    "conPercent": 5,
     "hpregen": 500
   },
   "Astral Boots": {
     "type": "feet",
-    "str": 1000,
-    "agi": 7500,
-    "con": 3000,
+    "str": 1200,
+    "agi": 8500,
+    "con": 3200,
     "dex": 7000,
-    "haste": 2,
-    "crit": 2,
-    "royal": 1
+    "crit": 2
   },
   "Astral Stabilizer": {
     "type": "finger",
-    "str": 50,
-    "int": 50,
-    "agi": 50,
-    "dex": 50,
+    "str": 500,
+    "con": 500,
+    "int": 500,
+    "agi": 500,
+    "dex": 500,
     "luk": 2000,
     "crit": 5,
     "aegis": 1,
     "prone": 1,
     "vorpal": 2,
-    "absolute": 100,
     "offense": 3,
     "defense": 4,
     "damageReduction": 150,
     "dance": 2,
     "deadeye": 2,
-    "fear": 10,
     "glowing": 1,
-    "haste": 5,
     "lethal": 2,
-    "parry": 2,
     "poison": 3,
     "venom": 3,
     "power": 1,
-    "punish": 1,
     "shatter": 1,
     "silver": 1,
-    "startle": 1,
-    "sturdy": 1,
     "vampire": 1,
     "hpregen": 555
   },
   "Gryffyndor Sword": {
     "type": "mainhand",
-    "int": 350,
-    "forsaken": 1
+    "int": 600,
+    "con": 200
   },
   "Nimbus Cloud Mace": {
     "type": "mainhand",
@@ -431,7 +403,7 @@
     "type": "trinket",
     "str": 400,
     "con": 400,
-    "haste": -10
+    "agi": -500
   },
   "Energetic Emerald": {
     "type": "trinket",
@@ -443,8 +415,7 @@
   },
   "Timeless Topaz": {
     "type": "trinket",
-    "haste": 10,
-    "agi": 250
+    "agi": 750
   },
   "Transcendent Tourmaline": {
     "type": "trinket",
@@ -456,7 +427,7 @@
   },
   "Subtle Sapphire": {
     "type": "trinket",
-    "stealth": 10,
+    "dex": 1000,
     "agi": 1000
   }
 }

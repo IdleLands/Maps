@@ -33,8 +33,7 @@
   "Pirate Hook": {
     "type": "offhand",
     "agi": 450,
-    "dex": 150,
-    "punish": 1
+    "dex": 500
   },
   "Star Amulet": {
     "type": "neck",
@@ -71,10 +70,10 @@
   },
   "Decorative Red Pants": {
     "type": "legs",
-    "int": 300,
+    "con": 100,
+    "int": 400,
     "dex": 300,
-    "luk": 25,
-    "royal": 1
+    "luk": 25
   },
   "Heavy Winter Boots": {
     "type": "feet",
@@ -97,37 +96,34 @@
   },
   "Royal Coif": {
     "type": "head",
+    "str": 200,
     "agi": 600,
     "dex": 600,
-    "con": 250,
-    "deadeye": 2,
-    "royal": 2
+    "con": 500,
+    "deadeye": 2
   },
   "Royal Scaled Robe": {
     "type": "body",
-    "int": 800,
-    "con": 100,
-    "defense": 2,
-    "royal": 2
+    "int": 1000,
+    "con": 250,
+    "defense": 2
   },
   "Royal Dragonskin Boots": {
     "type": "feet",
     "agi": 1000,
     "dex": 1100,
-    "str": 400,
-    "hp": 500,
-    "defense": 1,
-    "royal": 2
+    "str": 800,
+    "hp": 1500,
+    "defense": 1
   },
   "Royal Sword of the Fallen Hero": {
     "type": "mainhand",
-    "str": 1500,
+    "str": 2000,
     "dex": 500,
-    "int": 150,
+    "int": 500,
     "con": -50,
     "luk": -25,
     "offense": 2,
-    "vorpal": 1,
-    "royal": 2
+    "vorpal": 1
   }
 }
