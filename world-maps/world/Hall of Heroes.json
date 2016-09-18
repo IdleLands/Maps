@@ -384,6 +384,22 @@
                  "width":16,
                  "x":64,
                  "y":336
+                }, 
+                {
+                 "gid":46,
+                 "height":16,
+                 "id":35,
+                 "name":"Cerleen",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":64,
+                 "y":368
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -479,7 +495,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":35,
+ "nextobjectid":36,
  "orientation":"orthogonal",
  "properties":
     {
