@@ -259,9 +259,9 @@
             "inventory": [5, 15, 25, 35],
             "goldStorage": [10000, 100000, 250000],
             "battleJoinPercent": [0],
-            "itemFindTimeDuration": [0, 21600, 10800, 3600, 1800],
+            "itemFindTimeDuration": [0, 10800, 3600, 1800, 900],
             "itemSellMultiplier": [0.18, 0.27, 0.36],
-            "itemFindBonus": [0, 5, 10, 15, 20, 25, 30],
+            "itemFindBonus": [0, 15, 20, 25, 30, 35, 40],
             "itemFindRangeMultiplier": [0],
             "xpPerGold": [10, 25, 50]
         },
