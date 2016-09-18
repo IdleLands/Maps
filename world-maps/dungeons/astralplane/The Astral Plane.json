@@ -1493,6 +1493,14 @@
         }],
  "nextobjectid":124,
  "orientation":"orthogonal",
+ "properties":
+    {
+     "name":"The Astral Plane"
+    },
+ "propertytypes":
+    {
+     "name":"string"
+    },
  "renderorder":"right-down",
  "tileheight":16,
  "tilesets":[
