@@ -758,7 +758,7 @@
         "stats": {
             "class": "Necromancer",
             "gender": "not a bear",
-            "hp": 70000,
+            "hp": 185000,
 	    "mp": 54320,
             "level": 90,
             "str": 2200,
@@ -974,7 +974,7 @@
         "stats": {
             "class": "Necromancer",
 	    "gender": "female",
-            "hp": 185000,
+            "hp": 230000,
 	    "mp": 200000,
             "level": 100,
             "str": 6900,
@@ -1096,7 +1096,7 @@
         "stats": {
             "class": "Random",
             "gender": "not a bear",
-            "hp": 200000,
+            "hp": 265000,
             "level": 125,
             "str": 10000,
             "con": 7000,
@@ -1118,7 +1118,7 @@
         "availableScore": 1500,
         "stats": {
             "class": "Fighter",
-            "hp": 200000,
+            "hp": 500000,
             "level": 150,
             "str": 15000,
             "con": 15000,
