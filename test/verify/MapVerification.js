@@ -54,7 +54,7 @@ _.each(maps, (mapData, mapName) => {
 
   _.each(mapData.map.layers[2].objects, obj => {
     if(obj.type) return;
-    console.log(`WARNING: Object @ ${obj.x/16},${obj.y/16} on ${mapName} has no type!`);
+    // console.log(`WARNING: Object @ ${obj.x/16},${obj.y/16} on ${mapName} has no type!`);
     if(obj.properties && obj.properties.movementType) {
       throw new Error('Object does not have a type set, but appears to be a teleport.');
     }
