@@ -1419,13 +1419,13 @@
                  "gid":27,
                  "height":16,
                  "id":138,
-                 "name":"",
+                 "name":"Merchant Gear",
                  "properties":
                     {
 
                     },
                  "rotation":0,
-                 "type":"",
+                 "type":"Treasure",
                  "visible":true,
                  "width":16,
                  "x":400,
