@@ -1395,7 +1395,8 @@
                  "name":"Astral Tuning Fork",
                  "properties":
                     {
-                     "flavorText":"Used by astral merchants to access the Merchant's Guild."
+                     "flavorText":"Used by astral merchants to access the Merchant's Guild.",
+                     "storyline":"Lore: Merchant's Guild"
                     },
                  "rotation":0,
                  "type":"Collectible",
