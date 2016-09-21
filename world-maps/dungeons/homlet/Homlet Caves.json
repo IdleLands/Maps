@@ -426,6 +426,27 @@
                  "width":16,
                  "x":880,
                  "y":144
+                }, 
+                {
+                 "gid":32,
+                 "height":16,
+                 "id":37,
+                 "name":"ToMerchants",
+                 "properties":
+                    {
+                     "destx":"46",
+                     "desty":"20",
+                     "fromName":"Homlet Town",
+                     "map":"Merchant's Guild",
+                     "movementType":"teleport",
+                     "requireCollectible":"Jewel-Encrusted Cup"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":864,
+                 "y":128
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -596,7 +617,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":36,
+ "nextobjectid":38,
  "orientation":"orthogonal",
  "properties":
     {

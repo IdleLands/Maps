@@ -735,6 +735,7 @@
                  "properties":
                     {
                      "flavorText":"A small golden coin, upon which is the King of Frigri with a moustache hastily drawn on it. It must be a form of currency in these parts.",
+                     "rarity":"idle",
                      "storyline":"Lore: Evil Norkos"
                     },
                  "rotation":0,
@@ -778,6 +779,27 @@
                  "width":16,
                  "x":528,
                  "y":416
+                }, 
+                {
+                 "gid":32,
+                 "height":16,
+                 "id":56,
+                 "name":"ToMerchants",
+                 "properties":
+                    {
+                     "destx":"30",
+                     "desty":"2",
+                     "fromName":"Evil Norkos Town",
+                     "map":"Merchant's Guild",
+                     "movementType":"teleport",
+                     "requireCollectible":"Merchant's Ledger"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":272,
+                 "y":336
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -933,7 +955,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":56,
+ "nextobjectid":57,
  "orientation":"orthogonal",
  "properties":
     {

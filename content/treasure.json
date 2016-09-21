@@ -125,5 +125,56 @@
     "luk": -25,
     "offense": 2,
     "vorpal": 1
+  },
+  "Clerical Assistant": {
+    "type": "offhand",
+    "agi": 350,
+    "hp": 250,
+    "luk": 35
+    "xp": 5,
+    "gold": 750,
+    "damageReduction": 300
+  },
+  "Coin Purse": {
+    "type": "charm",
+    "agi": 350,
+    "luk": 35,
+    "hp": 500,
+    "xp": 5,
+    "gold": 750,
+    "aegis": 1,
+    "glowing": 1
+  },
+  "Dagger of Discounts": {
+    "type": "mainhand",
+    "agi": 500,
+    "luk": 35,
+    "hp": 500,
+    "gold": 750,
+    "vampire": 1
+  },
+  "Mule": {
+    "type": "legs",
+    "agi": 500,
+    "str": 20,
+    "luk": 35,
+    "hp": 500,
+    "xp": 10,
+    "gold": 750,
+    "dance": 1,
+    "prone": 1,
+    "sentimentality": 70
+  },
+  "Reading Spectacles": {
+    "type": "head",
+    "agi": 350,
+    "int": 20,
+    "luk": 35,
+    "hp": 500,
+    "xp": 5,
+    "gold": 750,
+    "dance": 1,
+    "hpregen": 100,
+    "mpregen": 50
   }
 }
