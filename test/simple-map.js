@@ -18,6 +18,7 @@ module.exports.SimpleMap = class Map {
 
     this.loadRegions();
 
+    this.isNotCSV = !_.isArray(this.map.layers[0].data);
     this.isCompressed = this.map.layers[0].compression;
   }
 

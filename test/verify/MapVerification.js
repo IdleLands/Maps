@@ -19,6 +19,7 @@ const maps = require("../data-aggregator").maps;
 
 _.each(maps, (map, mapName) => {
   if(map.isCompressed) throw new Error(`Map layer compression should be turned off for ${mapName}!`);
+  if(map.isNotCSV) throw new Error(`Map layer data should be CSV on ${mapName}!`);
 });
 
 inBounds = (x1, y1, x2, y2) => {
