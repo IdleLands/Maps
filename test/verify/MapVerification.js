@@ -17,6 +17,10 @@ const teleLocs = _.extend({},
 
 const maps = require("../data-aggregator").maps;
 
+_.each(maps, (map, mapName) => {
+  if(map.isCompressed) throw new Error(`Map layer compression should be turned off for ${mapName}!`);
+});
+
 inBounds = (x1, y1, x2, y2) => {
   if(x1 < 0 || y1 < 0) return false;
   if(x1 < x2 && y1 < y2) return true;

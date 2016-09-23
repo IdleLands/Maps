@@ -17,6 +17,8 @@ module.exports.SimpleMap = class Map {
     this.name = this.map.properties.name;
 
     this.loadRegions();
+
+    this.isCompressed = this.map.layers[0].compression;
   }
 
   getTile(x, y) {
