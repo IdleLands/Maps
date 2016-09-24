@@ -461,7 +461,8 @@
                  "name":"Pleh the Goblin",
                  "properties":
                     {
-
+                     "forceEvent":"Merchant",
+                     "merchantBonus":"200"
                     },
                  "rotation":0,
                  "type":"Merchant",
