@@ -237,7 +237,8 @@
                  "name":"Astral Merchant",
                  "properties":
                     {
-
+                     "forceEvent":"Merchant",
+                     "merchantBonus":"500"
                     },
                  "rotation":0,
                  "type":"Merchant",
@@ -509,7 +510,8 @@
                  "name":"Norkian Merchant",
                  "properties":
                     {
-                     "flavorText":"Left behind many years ago, when the astral portal was last closed."
+                     "flavorText":"Left behind many years ago, when the astral portal was last closed.",
+                     "forceEvent":"Merchant"
                     },
                  "rotation":0,
                  "type":"Merchant",

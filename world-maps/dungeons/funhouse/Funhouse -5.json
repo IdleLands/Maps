@@ -320,7 +320,8 @@
                  "name":"Sprinkles the Clown",
                  "properties":
                     {
-                     "forceEvent":"Merchant"
+                     "forceEvent":"Merchant",
+                     "merchantBonus":"350"
                     },
                  "rotation":0,
                  "type":"Merchant",

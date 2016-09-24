@@ -49,107 +49,11 @@
                 {
                  "gid":86,
                  "height":16,
-                 "id":2,
-                 "name":"Merchant",
-                 "properties":
-                    {
-
-                    },
-                 "rotation":0,
-                 "type":"Merchant",
-                 "visible":true,
-                 "width":16,
-                 "x":736,
-                 "y":704
-                }, 
-                {
-                 "gid":86,
-                 "height":16,
-                 "id":6,
-                 "name":"Merchant",
-                 "properties":
-                    {
-
-                    },
-                 "rotation":0,
-                 "type":"Merchant",
-                 "visible":true,
-                 "width":16,
-                 "x":736,
-                 "y":640
-                }, 
-                {
-                 "gid":86,
-                 "height":16,
-                 "id":7,
-                 "name":"Merchant",
-                 "properties":
-                    {
-
-                    },
-                 "rotation":0,
-                 "type":"Merchant",
-                 "visible":true,
-                 "width":16,
-                 "x":624,
-                 "y":704
-                }, 
-                {
-                 "gid":86,
-                 "height":16,
-                 "id":8,
-                 "name":"Merchant",
-                 "properties":
-                    {
-
-                    },
-                 "rotation":0,
-                 "type":"Merchant",
-                 "visible":true,
-                 "width":16,
-                 "x":624,
-                 "y":656
-                }, 
-                {
-                 "gid":86,
-                 "height":16,
-                 "id":9,
-                 "name":"Merchant",
-                 "properties":
-                    {
-
-                    },
-                 "rotation":0,
-                 "type":"Merchant",
-                 "visible":true,
-                 "width":16,
-                 "x":624,
-                 "y":608
-                }, 
-                {
-                 "gid":86,
-                 "height":16,
-                 "id":10,
-                 "name":"Merchant",
-                 "properties":
-                    {
-
-                    },
-                 "rotation":0,
-                 "type":"Merchant",
-                 "visible":true,
-                 "width":16,
-                 "x":736,
-                 "y":576
-                }, 
-                {
-                 "gid":86,
-                 "height":16,
                  "id":14,
                  "name":"Evil Merchant",
                  "properties":
                     {
-
+                     "forceEvent":"Merchant"
                     },
                  "rotation":0,
                  "type":"Merchant",
@@ -165,7 +69,7 @@
                  "name":"Evil Merchant",
                  "properties":
                     {
-
+                     "forceEvent":"Merchant"
                     },
                  "rotation":0,
                  "type":"Merchant",
@@ -181,7 +85,7 @@
                  "name":"Evil Merchant",
                  "properties":
                     {
-
+                     "forceEvent":"Merchant"
                     },
                  "rotation":0,
                  "type":"Merchant",
@@ -197,7 +101,7 @@
                  "name":"Evil Merchant",
                  "properties":
                     {
-
+                     "forceEvent":"Merchant"
                     },
                  "rotation":0,
                  "type":"Merchant",
@@ -213,7 +117,7 @@
                  "name":"Evil Merchant",
                  "properties":
                     {
-
+                     "forceEvent":"Merchant"
                     },
                  "rotation":0,
                  "type":"Merchant",
@@ -229,7 +133,7 @@
                  "name":"Evil Merchant",
                  "properties":
                     {
-
+                     "forceEvent":"Merchant"
                     },
                  "rotation":0,
                  "type":"Merchant",
@@ -245,7 +149,8 @@
                  "name":"Merchant",
                  "properties":
                     {
-
+                     "forceEvent":"Merchant",
+                     "merchantBonus":"100"
                     },
                  "rotation":0,
                  "type":"Merchant",
@@ -261,7 +166,7 @@
                  "name":"Merchant",
                  "properties":
                     {
-
+                     "forceEvent":"Merchant"
                     },
                  "rotation":0,
                  "type":"Merchant",
@@ -277,7 +182,7 @@
                  "name":"Merchant",
                  "properties":
                     {
-
+                     "forceEvent":"Merchant"
                     },
                  "rotation":0,
                  "type":"Merchant",
@@ -293,7 +198,7 @@
                  "name":"Merchant",
                  "properties":
                     {
-
+                     "forceEvent":"Merchant"
                     },
                  "rotation":0,
                  "type":"Merchant",
@@ -309,7 +214,7 @@
                  "name":"Merchant",
                  "properties":
                     {
-
+                     "forceEvent":"Merchant"
                     },
                  "rotation":0,
                  "type":"Merchant",
@@ -317,22 +222,6 @@
                  "width":16,
                  "x":32,
                  "y":144
-                }, 
-                {
-                 "gid":86,
-                 "height":16,
-                 "id":26,
-                 "name":"Merchant",
-                 "properties":
-                    {
-
-                    },
-                 "rotation":0,
-                 "type":"Merchant",
-                 "visible":true,
-                 "width":16,
-                 "x":112,
-                 "y":32
                 }, 
                 {
                  "gid":18,
@@ -518,27 +407,11 @@
                 {
                  "gid":86,
                  "height":16,
-                 "id":48,
-                 "name":"Merchant",
-                 "properties":
-                    {
-
-                    },
-                 "rotation":0,
-                 "type":"Merchant",
-                 "visible":true,
-                 "width":16,
-                 "x":96,
-                 "y":320
-                }, 
-                {
-                 "gid":86,
-                 "height":16,
                  "id":49,
                  "name":"Merchant",
                  "properties":
                     {
-
+                     "forceEvent":"Merchant"
                     },
                  "rotation":0,
                  "type":"Merchant",
@@ -550,27 +423,11 @@
                 {
                  "gid":86,
                  "height":16,
-                 "id":50,
-                 "name":"Merchant",
-                 "properties":
-                    {
-
-                    },
-                 "rotation":0,
-                 "type":"Merchant",
-                 "visible":true,
-                 "width":16,
-                 "x":96,
-                 "y":384
-                }, 
-                {
-                 "gid":86,
-                 "height":16,
                  "id":51,
                  "name":"Merchant",
                  "properties":
                     {
-
+                     "forceEvent":"Merchant"
                     },
                  "rotation":0,
                  "type":"Merchant",
@@ -602,7 +459,7 @@
                  "name":"Merchant",
                  "properties":
                     {
-
+                     "forceEvent":"Merchant"
                     },
                  "rotation":0,
                  "type":"Merchant",
@@ -618,7 +475,7 @@
                  "name":"Merchant",
                  "properties":
                     {
-
+                     "forceEvent":"Merchant"
                     },
                  "rotation":0,
                  "type":"Merchant",
@@ -673,22 +530,6 @@
                  "visible":true,
                  "width":16,
                  "x":160,
-                 "y":576
-                }, 
-                {
-                 "gid":86,
-                 "height":16,
-                 "id":65,
-                 "name":"Merchant",
-                 "properties":
-                    {
-
-                    },
-                 "rotation":0,
-                 "type":"Merchant",
-                 "visible":true,
-                 "width":16,
-                 "x":128,
                  "y":576
                 }, 
                 {
@@ -762,7 +603,7 @@
                  "name":"Merchant",
                  "properties":
                     {
-
+                     "forceEvent":"Merchant"
                     },
                  "rotation":0,
                  "type":"Merchant",
@@ -778,7 +619,7 @@
                  "name":"Merchant",
                  "properties":
                     {
-
+                     "forceEvent":"Merchant"
                     },
                  "rotation":0,
                  "type":"Merchant",
@@ -790,27 +631,11 @@
                 {
                  "gid":86,
                  "height":16,
-                 "id":72,
-                 "name":"Merchant",
-                 "properties":
-                    {
-
-                    },
-                 "rotation":0,
-                 "type":"Merchant",
-                 "visible":true,
-                 "width":16,
-                 "x":80,
-                 "y":560
-                }, 
-                {
-                 "gid":86,
-                 "height":16,
                  "id":73,
                  "name":"Merchant",
                  "properties":
                     {
-
+                     "forceEvent":"Merchant"
                     },
                  "rotation":0,
                  "type":"Merchant",
@@ -826,7 +651,7 @@
                  "name":"Merchant",
                  "properties":
                     {
-
+                     "forceEvent":"Merchant"
                     },
                  "rotation":0,
                  "type":"Merchant",
@@ -842,7 +667,7 @@
                  "name":"Merchant",
                  "properties":
                     {
-
+                     "forceEvent":"Merchant"
                     },
                  "rotation":0,
                  "type":"Merchant",
@@ -858,7 +683,7 @@
                  "name":"Merchant",
                  "properties":
                     {
-
+                     "forceEvent":"Merchant"
                     },
                  "rotation":0,
                  "type":"Merchant",
@@ -874,7 +699,7 @@
                  "name":"Merchant",
                  "properties":
                     {
-
+                     "forceEvent":"Merchant"
                     },
                  "rotation":0,
                  "type":"Merchant",
@@ -890,7 +715,7 @@
                  "name":"Merchant",
                  "properties":
                     {
-
+                     "forceEvent":"Merchant"
                     },
                  "rotation":0,
                  "type":"Merchant",
@@ -906,7 +731,7 @@
                  "name":"Merchant",
                  "properties":
                     {
-
+                     "forceEvent":"Merchant"
                     },
                  "rotation":0,
                  "type":"Merchant",
@@ -922,7 +747,7 @@
                  "name":"Merchant",
                  "properties":
                     {
-
+                     "forceEvent":"Merchant"
                     },
                  "rotation":0,
                  "type":"Merchant",
@@ -938,7 +763,7 @@
                  "name":"Merchant",
                  "properties":
                     {
-
+                     "forceEvent":"Merchant"
                     },
                  "rotation":0,
                  "type":"Merchant",
@@ -954,7 +779,7 @@
                  "name":"Merchant",
                  "properties":
                     {
-
+                     "forceEvent":"Merchant"
                     },
                  "rotation":0,
                  "type":"Merchant",
@@ -970,7 +795,7 @@
                  "name":"Merchant",
                  "properties":
                     {
-
+                     "forceEvent":"Merchant"
                     },
                  "rotation":0,
                  "type":"Merchant",
@@ -982,43 +807,11 @@
                 {
                  "gid":86,
                  "height":16,
-                 "id":96,
-                 "name":"Merchant",
-                 "properties":
-                    {
-
-                    },
-                 "rotation":0,
-                 "type":"Merchant",
-                 "visible":true,
-                 "width":16,
-                 "x":544,
-                 "y":448
-                }, 
-                {
-                 "gid":86,
-                 "height":16,
-                 "id":97,
-                 "name":"Merchant",
-                 "properties":
-                    {
-
-                    },
-                 "rotation":0,
-                 "type":"Merchant",
-                 "visible":true,
-                 "width":16,
-                 "x":608,
-                 "y":480
-                }, 
-                {
-                 "gid":86,
-                 "height":16,
                  "id":98,
                  "name":"Merchant",
                  "properties":
                     {
-
+                     "forceEvent":"Merchant"
                     },
                  "rotation":0,
                  "type":"Merchant",
@@ -1220,54 +1013,6 @@
                  "y":160
                 }, 
                 {
-                 "gid":86,
-                 "height":16,
-                 "id":112,
-                 "name":"Merchant",
-                 "properties":
-                    {
-
-                    },
-                 "rotation":0,
-                 "type":"Merchant",
-                 "visible":true,
-                 "width":16,
-                 "x":384,
-                 "y":320
-                }, 
-                {
-                 "gid":86,
-                 "height":16,
-                 "id":113,
-                 "name":"Merchant",
-                 "properties":
-                    {
-
-                    },
-                 "rotation":0,
-                 "type":"Merchant",
-                 "visible":true,
-                 "width":16,
-                 "x":416,
-                 "y":480
-                }, 
-                {
-                 "gid":86,
-                 "height":16,
-                 "id":114,
-                 "name":"Merchant",
-                 "properties":
-                    {
-
-                    },
-                 "rotation":0,
-                 "type":"Merchant",
-                 "visible":true,
-                 "width":16,
-                 "x":304,
-                 "y":624
-                }, 
-                {
                  "gid":18,
                  "height":16,
                  "id":120,
@@ -1290,7 +1035,7 @@
                  "name":"Merchant",
                  "properties":
                     {
-
+                     "forceEvent":"Merchant"
                     },
                  "rotation":0,
                  "type":"Merchant",
@@ -1306,7 +1051,7 @@
                  "name":"Merchant",
                  "properties":
                     {
-
+                     "forceEvent":"Merchant"
                     },
                  "rotation":0,
                  "type":"Merchant",
@@ -1322,7 +1067,7 @@
                  "name":"Merchant",
                  "properties":
                     {
-
+                     "forceEvent":"Merchant"
                     },
                  "rotation":0,
                  "type":"Merchant",
@@ -1334,49 +1079,17 @@
                 {
                  "gid":86,
                  "height":16,
-                 "id":131,
-                 "name":"Merchant",
-                 "properties":
-                    {
-
-                    },
-                 "rotation":0,
-                 "type":"Merchant",
-                 "visible":true,
-                 "width":16,
-                 "x":512,
-                 "y":1120
-                }, 
-                {
-                 "gid":86,
-                 "height":16,
                  "id":132,
                  "name":"Merchant",
                  "properties":
                     {
-
+                     "forceEvent":"Merchant"
                     },
                  "rotation":0,
                  "type":"Merchant",
                  "visible":true,
                  "width":16,
                  "x":496,
-                 "y":928
-                }, 
-                {
-                 "gid":86,
-                 "height":16,
-                 "id":133,
-                 "name":"Merchant",
-                 "properties":
-                    {
-
-                    },
-                 "rotation":0,
-                 "type":"Merchant",
-                 "visible":true,
-                 "width":16,
-                 "x":272,
                  "y":928
                 }, 
                 {
@@ -3778,22 +3491,6 @@
                  "y":400
                 }, 
                 {
-                 "gid":86,
-                 "height":16,
-                 "id":368,
-                 "name":"Merchant",
-                 "properties":
-                    {
-
-                    },
-                 "rotation":0,
-                 "type":"Merchant",
-                 "visible":true,
-                 "width":16,
-                 "x":464,
-                 "y":512
-                }, 
-                {
                  "gid":2,
                  "height":16,
                  "id":369,
@@ -4039,6 +3736,329 @@
                  "width":16,
                  "x":272,
                  "y":640
+                }, 
+                {
+                 "gid":86,
+                 "height":16,
+                 "id":389,
+                 "name":"Merchant",
+                 "properties":
+                    {
+                     "forceEvent":"Merchant",
+                     "merchantBonus":"100"
+                    },
+                 "rotation":0,
+                 "type":"Merchant",
+                 "visible":true,
+                 "width":16,
+                 "x":112,
+                 "y":32
+                }, 
+                {
+                 "gid":86,
+                 "height":16,
+                 "id":390,
+                 "name":"Merchant",
+                 "properties":
+                    {
+                     "forceEvent":"Merchant",
+                     "merchantBonus":"100"
+                    },
+                 "rotation":0,
+                 "type":"Merchant",
+                 "visible":true,
+                 "width":16,
+                 "x":96,
+                 "y":320
+                }, 
+                {
+                 "gid":86,
+                 "height":16,
+                 "id":391,
+                 "name":"Merchant",
+                 "properties":
+                    {
+                     "forceEvent":"Merchant",
+                     "merchantBonus":"100"
+                    },
+                 "rotation":0,
+                 "type":"Merchant",
+                 "visible":true,
+                 "width":16,
+                 "x":96,
+                 "y":384
+                }, 
+                {
+                 "gid":86,
+                 "height":16,
+                 "id":392,
+                 "name":"Merchant",
+                 "properties":
+                    {
+                     "forceEvent":"Merchant",
+                     "merchantBonus":"250"
+                    },
+                 "rotation":0,
+                 "type":"Merchant",
+                 "visible":true,
+                 "width":16,
+                 "x":128,
+                 "y":576
+                }, 
+                {
+                 "gid":86,
+                 "height":16,
+                 "id":393,
+                 "name":"Merchant",
+                 "properties":
+                    {
+                     "forceEvent":"Merchant",
+                     "merchantBonus":"100"
+                    },
+                 "rotation":0,
+                 "type":"Merchant",
+                 "visible":true,
+                 "width":16,
+                 "x":80,
+                 "y":560
+                }, 
+                {
+                 "gid":86,
+                 "height":16,
+                 "id":394,
+                 "name":"Merchant",
+                 "properties":
+                    {
+                     "forceEvent":"Merchant",
+                     "merchantBonus":"175"
+                    },
+                 "rotation":0,
+                 "type":"Merchant",
+                 "visible":true,
+                 "width":16,
+                 "x":608,
+                 "y":480
+                }, 
+                {
+                 "gid":86,
+                 "height":16,
+                 "id":395,
+                 "name":"Merchant",
+                 "properties":
+                    {
+                     "forceEvent":"Merchant",
+                     "merchantBonus":"175"
+                    },
+                 "rotation":0,
+                 "type":"Merchant",
+                 "visible":true,
+                 "width":16,
+                 "x":544,
+                 "y":448
+                }, 
+                {
+                 "gid":86,
+                 "height":16,
+                 "id":396,
+                 "name":"Merchant",
+                 "properties":
+                    {
+                     "forceEvent":"Merchant",
+                     "merchantBonus":"100"
+                    },
+                 "rotation":0,
+                 "type":"Merchant",
+                 "visible":true,
+                 "width":16,
+                 "x":736,
+                 "y":704
+                }, 
+                {
+                 "gid":86,
+                 "height":16,
+                 "id":398,
+                 "name":"Merchant",
+                 "properties":
+                    {
+                     "forceEvent":"Merchant",
+                     "merchantBonus":"100"
+                    },
+                 "rotation":0,
+                 "type":"Merchant",
+                 "visible":true,
+                 "width":16,
+                 "x":736,
+                 "y":640
+                }, 
+                {
+                 "gid":86,
+                 "height":16,
+                 "id":399,
+                 "name":"Merchant",
+                 "properties":
+                    {
+                     "forceEvent":"Merchant",
+                     "merchantBonus":"100"
+                    },
+                 "rotation":0,
+                 "type":"Merchant",
+                 "visible":true,
+                 "width":16,
+                 "x":736,
+                 "y":576
+                }, 
+                {
+                 "gid":86,
+                 "height":16,
+                 "id":400,
+                 "name":"Merchant",
+                 "properties":
+                    {
+                     "forceEvent":"Merchant",
+                     "merchantBonus":"100"
+                    },
+                 "rotation":0,
+                 "type":"Merchant",
+                 "visible":true,
+                 "width":16,
+                 "x":624,
+                 "y":704
+                }, 
+                {
+                 "gid":86,
+                 "height":16,
+                 "id":401,
+                 "name":"Merchant",
+                 "properties":
+                    {
+                     "forceEvent":"Merchant",
+                     "merchantBonus":"100"
+                    },
+                 "rotation":0,
+                 "type":"Merchant",
+                 "visible":true,
+                 "width":16,
+                 "x":624,
+                 "y":656
+                }, 
+                {
+                 "gid":86,
+                 "height":16,
+                 "id":402,
+                 "name":"Merchant",
+                 "properties":
+                    {
+                     "forceEvent":"Merchant",
+                     "merchantBonus":"100"
+                    },
+                 "rotation":0,
+                 "type":"Merchant",
+                 "visible":true,
+                 "width":16,
+                 "x":624,
+                 "y":608
+                }, 
+                {
+                 "gid":86,
+                 "height":16,
+                 "id":403,
+                 "name":"Merchant",
+                 "properties":
+                    {
+                     "forceEvent":"Merchant",
+                     "merchantBonus":"225"
+                    },
+                 "rotation":0,
+                 "type":"Merchant",
+                 "visible":true,
+                 "width":16,
+                 "x":272,
+                 "y":928
+                }, 
+                {
+                 "gid":86,
+                 "height":16,
+                 "id":404,
+                 "name":"Merchant",
+                 "properties":
+                    {
+                     "forceEvent":"Merchant",
+                     "merchantBonus":"100"
+                    },
+                 "rotation":0,
+                 "type":"Merchant",
+                 "visible":true,
+                 "width":16,
+                 "x":512,
+                 "y":1120
+                }, 
+                {
+                 "gid":86,
+                 "height":16,
+                 "id":405,
+                 "name":"Merchant",
+                 "properties":
+                    {
+                     "forceEvent":"Merchant",
+                     "merchantBonus":"50"
+                    },
+                 "rotation":0,
+                 "type":"Merchant",
+                 "visible":true,
+                 "width":16,
+                 "x":464,
+                 "y":512
+                }, 
+                {
+                 "gid":86,
+                 "height":16,
+                 "id":406,
+                 "name":"Merchant",
+                 "properties":
+                    {
+                     "forceEvent":"Merchant",
+                     "merchantBonus":"50"
+                    },
+                 "rotation":0,
+                 "type":"Merchant",
+                 "visible":true,
+                 "width":16,
+                 "x":304,
+                 "y":624
+                }, 
+                {
+                 "gid":86,
+                 "height":16,
+                 "id":407,
+                 "name":"Merchant",
+                 "properties":
+                    {
+                     "forceEvent":"Merchant",
+                     "merchantBonus":"50"
+                    },
+                 "rotation":0,
+                 "type":"Merchant",
+                 "visible":true,
+                 "width":16,
+                 "x":416,
+                 "y":480
+                }, 
+                {
+                 "gid":86,
+                 "height":16,
+                 "id":408,
+                 "name":"Merchant",
+                 "properties":
+                    {
+                     "forceEvent":"Merchant",
+                     "merchantBonus":"50"
+                    },
+                 "rotation":0,
+                 "type":"Merchant",
+                 "visible":true,
+                 "width":16,
+                 "x":384,
+                 "y":320
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -4209,7 +4229,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":389,
+ "nextobjectid":409,
  "orientation":"orthogonal",
  "properties":
     {

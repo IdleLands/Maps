@@ -1234,7 +1234,8 @@
                  "name":"Merchant",
                  "properties":
                     {
-
+                     "forceEvent":"Merchant",
+                     "merchantBonus":"50"
                     },
                  "rotation":0,
                  "type":"Merchant",

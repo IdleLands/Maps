@@ -370,7 +370,8 @@
                  "name":"Merchant",
                  "properties":
                     {
-                     "forceEvent":"Merchant"
+                     "forceEvent":"Merchant",
+                     "merchantBonus":"150"
                     },
                  "rotation":0,
                  "type":"Merchant",
