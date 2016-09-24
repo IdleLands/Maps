@@ -720,5 +720,5 @@
             "itemFindRangeMultiplier": [0, 50000000],
             "xpPerGold": [0, 1000000]
         }
-    },
+    }
 }
