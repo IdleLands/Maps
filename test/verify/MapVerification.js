@@ -17,6 +17,11 @@ const teleLocs = _.extend({},
 
 const maps = require("../data-aggregator").maps;
 
+_.each(maps, (map, mapName) => {
+  if(map.isCompressed) throw new Error(`Map layer compression should be turned off for ${mapName}!`);
+  if(map.isNotCSV) throw new Error(`Map layer data should be CSV on ${mapName}!`);
+});
+
 inBounds = (x1, y1, x2, y2) => {
   if(x1 < 0 || y1 < 0) return false;
   if(x1 < x2 && y1 < y2) return true;
@@ -54,7 +59,7 @@ _.each(maps, (mapData, mapName) => {
 
   _.each(mapData.map.layers[2].objects, obj => {
     if(obj.type) return;
-    console.log(`WARNING: Object @ ${obj.x/16},${obj.y/16} on ${mapName} has no type!`);
+    // console.log(`WARNING: Object @ ${obj.x/16},${obj.y/16} on ${mapName} has no type!`);
     if(obj.properties && obj.properties.movementType) {
       throw new Error('Object does not have a type set, but appears to be a teleport.');
     }

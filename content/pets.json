@@ -52,7 +52,10 @@
             "head": 1
         },
         "specialStats": {
-            "offense": 2
+            "offense": 2,
+            "str": 200,
+            "dex": 200,
+            "int": 200
         },
         "requirements": {
             "achievements": [
@@ -65,7 +68,7 @@
             "inventory": [5, 7, 9, 11, 13, 15],
             "goldStorage": [2000, 20000, 100000],
             "battleJoinPercent": [0, 15, 30, 45, 60, 75],
-            "itemFindTimeDuration": [0, 43200, 21600, 10800, 3600, 1800, 450, 275],
+            "itemFindTimeDuration": [0, 86400, 43200, 21600, 10800, 3600, 1800, 450],
             "itemSellMultiplier": [0.07, 0.13],
             "itemFindBonus": [0, 5, 10, 15, 20, 25],
             "itemFindRangeMultiplier": [0.05, 0.1, 0.15],
@@ -97,7 +100,9 @@
             "dance": 1,
             "offense": 1,
             "vorpal": 1,
-            "crit": 5
+            "crit": 5,
+            "str": 400,
+            "con": 400
         },
         "requirements": {
             "collectibles": [
@@ -145,7 +150,12 @@
         "specialStats": {
             "deadeye": 1,
             "venom": 1,
+<<<<<<< HEAD
             "poison": 1
+=======
+            "poison": 1,
+            "int": 500
+>>>>>>> upstream/master
         },
         "requirements": {
             "collectibles": [
@@ -196,7 +206,11 @@
             "legs": 1
         },
         "specialStats": {
-            "crit": 5
+            "crit": 5,
+            "int": 500,
+            "str": 100,
+            "dex": 100,
+            "luk": 50
         },
         "requirements": {
             "collectibles": [
@@ -259,9 +273,9 @@
             "inventory": [5, 15, 25, 35],
             "goldStorage": [10000, 100000, 250000],
             "battleJoinPercent": [0],
-            "itemFindTimeDuration": [0, 21600, 10800, 3600, 1800],
+            "itemFindTimeDuration": [0, 10800, 3600, 1800, 900],
             "itemSellMultiplier": [0.18, 0.27, 0.36],
-            "itemFindBonus": [0, 5, 10, 15, 20, 25, 30],
+            "itemFindBonus": [0, 15, 20, 25, 30, 35, 40],
             "itemFindRangeMultiplier": [0],
             "xpPerGold": [10, 25, 50]
         },
@@ -298,8 +312,9 @@
             "power": 1,
             "silver": 1,
             "shatter": 1,
-            "str": 200,
-            "dex": 200
+            "str": 700,
+            "dex": 700,
+            "con": 700
         },
         "requirements": {
             "collectibles": [
@@ -352,10 +367,9 @@
             "head": 3
         },
         "specialStats": {
-            "prone": 1,
             "defense": 5,
             "offense": 5,
-            "int": 1000
+            "int": 1500
         },
         "requirements": {
             "collectibles": [
@@ -409,9 +423,11 @@
             "offhand": 4
         },
         "specialStats": {
-            "int": 800,
-            "str": 800,
-            "con": 800
+            "int": 1200,
+            "str": 1200,
+            "con": 1200,
+            "dex": 600,
+            "agi": -1200
         },
         "requirements": {
             "statistics": {
@@ -443,6 +459,270 @@
             "itemFindBonus": [0, 20000, 30000, 40000, 50000, 60000, 70000, 100000],
             "itemFindRangeMultiplier": [0, 20000, 30000, 40000, 50000, 60000, 70000, 100000],
             "xpPerGold": [0, 5000, 10000, 20000, 40000, 80000, 160000, 320000]
+        }
+    },
+
+    "Spellbook": {
+        "cost": 150000,
+        "category": "Combat",
+        "description": "Unlocked by pursuing the magical arts.",
+        "slots": {
+            "charm": 3
+        },
+        "specialStats": {
+            "int": 3000,
+            "mpregen": 1000,
+            "glowing": 3
+        },
+        "requirements": {
+            "statistics": {
+                "Combat.Give.CombatEffect.Poison": 100,
+                "Combat.Give.CombatEffect.Vampire": 100,
+                "Combat.Give.CombatEffect.Shatter": 100,
+                "Combat.Give.CombatEffect.Venom": 100,
+                "Combat.Give.CombatEffect.Prone": 100,
+                "Combat.Utilize.Fire": 100,
+                "Combat.Utilize.Ice": 100,
+                "Combat.Utilize.Thunder": 100,
+                "Combat.Utilize.Energy": 100
+            },
+            "collectibles": [
+              "Norkian Spellbook",
+              "Jar of Magic Dust"
+            ],
+            "bosses": [
+              "Lich Brother of Anger",
+              "Lich Brother of Death",
+              "Lich Brother of Fear",
+              "Lich Brother of Decay",
+              "Lich Brother of Insanity",
+              "The Lich Lord"
+            ]
+        },
+        "scale": {
+            "maxLevel": [50, 100, 150],
+            "maxItemScore": [2000, 3000, 4000],
+            "inventory": [3],
+            "goldStorage": [0],
+            "battleJoinPercent": [10, 20, 30, 40, 50, 60, 70, 80, 90, 100],
+            "itemFindTimeDuration": [0],
+            "itemSellMultiplier": [0],
+            "itemFindBonus": [0],
+            "itemFindRangeMultiplier": [0],
+            "xpPerGold": [0]
+        },
+        "scaleCost": {
+            "maxLevel": [0, 1000000, 1500000],
+            "maxItemScore": [0, 200000, 300000],
+            "inventory": [0],
+            "goldStorage": [0],
+            "battleJoinPercent": [0, 20000, 30000, 40000, 50000, 60000, 70000, 80000, 90000, 100000],
+            "itemFindTimeDuration": [0],
+            "itemSellMultiplier": [0],
+            "itemFindBonus": [0],
+            "itemFindRangeMultiplier": [0],
+            "xpPerGold": [0]
+        }
+    },
+
+    "Ghostly Sword": {
+        "cost": 200000,
+        "category": "Combat",
+        "description": "Unlocked by pursuing the physical arts.",
+        "slots": {
+            "mainhand": 3
+        },
+        "specialStats": {
+            "str": 3000,
+            "offense": 3,
+            "vorpal": 1,
+            "crit": 5,
+            "silver": 1,
+            "power": 1,
+            "lethal": 1,
+            "deadeye": 1
+        },
+        "requirements": {
+            "statistics": {
+                "Combat.Give.CriticalHit": 50,
+                "Combat.Utilize.Physical": 3000,
+                "Combat.Kills.Monster": 300
+            },
+            "collectibles": [
+              "Orcish Blade",
+              "Pretty Cool Looking Dagger",
+              "Shattered Shortsword",
+              "Smashed Mace"
+            ],
+            "bosses": [
+              "Cloud Giant",
+              "Ghostly Pirate Captain",
+              "Goblin Lord",
+              "King Minotaur",
+              "Lord Waxington",
+              "Warden of Norkos",
+              "Maelian Ninja Master",
+              "Smasher",
+              "Slicer",
+              "Fire Giant"
+            ],
+            "achievements": [
+              { "name": "Unstoppable", "tier": 6 }
+            ]
+        },
+        "scale": {
+            "maxLevel": [50, 100, 150],
+            "maxItemScore": [2000, 3000, 4000],
+            "inventory": [3],
+            "goldStorage": [0],
+            "battleJoinPercent": [10, 20, 30, 40, 50, 60, 70, 80, 90, 100],
+            "itemFindTimeDuration": [0],
+            "itemSellMultiplier": [0],
+            "itemFindBonus": [0],
+            "itemFindRangeMultiplier": [0],
+            "xpPerGold": [0]
+        },
+        "scaleCost": {
+            "maxLevel": [0, 1000000, 1500000],
+            "maxItemScore": [0, 200000, 300000],
+            "inventory": [0],
+            "goldStorage": [0],
+            "battleJoinPercent": [0, 20000, 30000, 40000, 50000, 60000, 70000, 80000, 90000, 100000],
+            "itemFindTimeDuration": [0],
+            "itemSellMultiplier": [0],
+            "itemFindBonus": [0],
+            "itemFindRangeMultiplier": [0],
+            "xpPerGold": [0]
+        }
+    },
+
+    "Ghostly Shield": {
+        "cost": 200000,
+        "category": "Combat",
+        "description": "Unlocked by pursuing the defensive arts.",
+        "slots": {
+            "offhand": 3
+        },
+        "specialStats": {
+            "con": 5000,
+            "defense": 10,
+            "damageReduction": 5000,
+            "dance": 1,
+            "aegis": 1
+        },
+        "requirements": {
+            "statistics": {
+                "Combat.Receive.CriticalHit": 50,
+                "Combat.Receive.Dodge": 500,
+                "Combat.Receive.Miss": 500,
+                "Combat.Utilize.Physical": 3000
+            },
+            "collectibles": [
+              "Black Shroud",
+              "Guardian Fragment",
+              "Norkian Buckler"
+            ],
+            "bosses": [
+              "Basilisk",
+              "Necromancer Guardian",
+              "Mage Guardian",
+              "Fighter Guardian",
+              "Generalist Guardian",
+              "Cleric Guardian",
+              "Guardian Lord"
+            ],
+            "achievements": [
+              { "name": "Sponge", "tier": 6 }
+            ]
+        },
+        "scale": {
+            "maxLevel": [50, 100, 150],
+            "maxItemScore": [2000, 3000, 4000],
+            "inventory": [3],
+            "goldStorage": [0],
+            "battleJoinPercent": [10, 20, 30, 40, 50, 60, 70, 80, 90, 100],
+            "itemFindTimeDuration": [0],
+            "itemSellMultiplier": [0],
+            "itemFindBonus": [0],
+            "itemFindRangeMultiplier": [0],
+            "xpPerGold": [0]
+        },
+        "scaleCost": {
+            "maxLevel": [0, 1000000, 1500000],
+            "maxItemScore": [0, 200000, 300000],
+            "inventory": [0],
+            "goldStorage": [0],
+            "battleJoinPercent": [0, 20000, 30000, 40000, 50000, 60000, 70000, 80000, 90000, 100000],
+            "itemFindTimeDuration": [0],
+            "itemSellMultiplier": [0],
+            "itemFindBonus": [0],
+            "itemFindRangeMultiplier": [0],
+            "xpPerGold": [0]
+        }
+    },
+
+    "Digipet": {
+        "cost": 1500000,
+        "category": "Hybrid",
+        "description": "Unlocked by doing the digital dance.",
+        "slots": {
+            "body": 1,
+            "charm": 1,
+            "feet": 1,
+            "finger": 1,
+            "legs": 1,
+            "hands": 1,
+            "head": 1,
+            "mainhand": 1,
+            "neck": 1,
+            "offhand": 1
+        },
+        "specialStats": {
+            "dance": 1,
+            "deadeye": 1,
+            "lethal": 1,
+            "sentimentality": 100000,
+            "str": 200,
+            "dex": 200,
+            "con": 200,
+            "agi": 200,
+            "luk": 200,
+            "int": 200
+        },
+        "requirements": {
+            "collectibles": [
+              "Giant Sized Flask",
+              "Vial of Liquid Fate"
+            ],
+            "achievements": [
+              { "name": "Digital Magician", "tier": 1 },
+              { "name": "Fateful", "tier": 1 },
+              { "name": "Classfluid", "tier": 1 }
+            ]
+        },
+        "scale": {
+            "maxLevel": [50, 200],
+            "maxItemScore": [0, 5000],
+            "inventory": [1, 20],
+            "goldStorage": [0, 150000],
+            "battleJoinPercent": [0, 50],
+            "itemFindTimeDuration": [0, 1800],
+            "itemSellMultiplier": [0.01, 0.3],
+            "itemFindBonus": [0, 100],
+            "itemFindRangeMultiplier": [0, 0.5],
+            "xpPerGold": [1, 100]
+        },
+        "scaleCost": {
+            "maxLevel": [0, 20000000],
+            "maxItemScore": [0, 10000000],
+            "inventory": [0, 15000000],
+            "goldStorage": [0, 15000000],
+            "battleJoinPercent": [0, 10000000],
+            "itemFindTimeDuration": [0, 5000000],
+            "itemSellMultiplier": [0, 5000000],
+            "itemFindBonus": [0, 10000000],
+            "itemFindRangeMultiplier": [0, 50000000],
+            "xpPerGold": [0, 1000000]
         }
     }
 }

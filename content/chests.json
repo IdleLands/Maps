@@ -49,5 +49,14 @@
         "items": [
             "Royal Sword of the Fallen Hero"
         ]
+    },
+    "Merchant Gear": {
+        "items": [
+            "Clerical Assistant",
+            "Coin Purse",
+            "Dagger of Discounts",
+            "Mule",
+            "Reading Spectacles"
+        ]
     }
 }

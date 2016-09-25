@@ -1234,7 +1234,8 @@
                  "name":"Merchant",
                  "properties":
                     {
-
+                     "forceEvent":"Merchant",
+                     "merchantBonus":"50"
                     },
                  "rotation":0,
                  "type":"Merchant",
@@ -1386,6 +1387,27 @@
                  "width":16,
                  "x":640,
                  "y":256
+                }, 
+                {
+                 "gid":32,
+                 "height":16,
+                 "id":89,
+                 "name":"ToMerchants",
+                 "properties":
+                    {
+                     "destx":"16",
+                     "desty":"22",
+                     "fromName":"Raburro Town",
+                     "map":"Merchant's Guild",
+                     "movementType":"teleport",
+                     "requireCollectible":"Large Decorative Key"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":224,
+                 "y":752
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1451,7 +1473,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":89,
+ "nextobjectid":90,
  "orientation":"orthogonal",
  "properties":
     {

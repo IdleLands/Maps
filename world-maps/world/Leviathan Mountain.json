@@ -32,6 +32,10 @@
                  "height":16,
                  "id":1,
                  "name":"",
+                 "properties":
+                    {
+
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -44,6 +48,10 @@
                  "height":16,
                  "id":2,
                  "name":"",
+                 "properties":
+                    {
+
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -56,6 +64,10 @@
                  "height":16,
                  "id":3,
                  "name":"",
+                 "properties":
+                    {
+
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -68,6 +80,10 @@
                  "height":16,
                  "id":4,
                  "name":"",
+                 "properties":
+                    {
+
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -80,6 +96,10 @@
                  "height":16,
                  "id":5,
                  "name":"",
+                 "properties":
+                    {
+
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -92,6 +112,10 @@
                  "height":16,
                  "id":6,
                  "name":"",
+                 "properties":
+                    {
+
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -104,6 +128,10 @@
                  "height":16,
                  "id":7,
                  "name":"",
+                 "properties":
+                    {
+
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -116,6 +144,10 @@
                  "height":16,
                  "id":8,
                  "name":"",
+                 "properties":
+                    {
+
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -133,12 +165,6 @@
                      "flavorText":"A gigantic flask, fit for a dwarf. It is a popular object for the citizens of Frigri, especially Bitomancer.",
                      "rarity":"pro",
                      "storyline":"Lore: Bitomancer"
-                    },
-                 "propertytypes":
-                    {
-                     "flavorText":"string",
-                     "rarity":"string",
-                     "storyline":"string"
                     },
                  "rotation":0,
                  "type":"Collectible",
@@ -159,13 +185,6 @@
                      "map":"Norkos",
                      "movementType":"descend"
                     },
-                 "propertytypes":
-                    {
-                     "destx":"string",
-                     "desty":"string",
-                     "map":"string",
-                     "movementType":"string"
-                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -181,10 +200,6 @@
                  "properties":
                     {
                      "flavorText":"Guarding the Crystal of Air and his massive pile of treasure. "
-                    },
-                 "propertytypes":
-                    {
-                     "flavorText":"string"
                     },
                  "rotation":0,
                  "type":"Boss",
@@ -202,10 +217,6 @@
                     {
                      "flavorText":"i keel joo"
                     },
-                 "propertytypes":
-                    {
-                     "flavorText":"string"
-                    },
                  "rotation":0,
                  "type":"Sign",
                  "visible":true,
@@ -218,6 +229,10 @@
                  "height":16,
                  "id":15,
                  "name":"",
+                 "properties":
+                    {
+
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -230,6 +245,10 @@
                  "height":16,
                  "id":16,
                  "name":"",
+                 "properties":
+                    {
+
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -242,6 +261,10 @@
                  "height":16,
                  "id":17,
                  "name":"",
+                 "properties":
+                    {
+
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -254,6 +277,10 @@
                  "height":16,
                  "id":18,
                  "name":"",
+                 "properties":
+                    {
+
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -269,10 +296,6 @@
                  "properties":
                     {
                      "requireCollectible":"Crystal of Air"
-                    },
-                 "propertytypes":
-                    {
-                     "requireCollectible":"string"
                     },
                  "rotation":0,
                  "type":"",
@@ -290,10 +313,6 @@
                     {
                      "forceEvent":"GoldBless"
                     },
-                 "propertytypes":
-                    {
-                     "forceEvent":"string"
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -309,10 +328,6 @@
                  "properties":
                     {
                      "forceEvent":"GoldBless"
-                    },
-                 "propertytypes":
-                    {
-                     "forceEvent":"string"
                     },
                  "rotation":0,
                  "type":"",
@@ -330,10 +345,6 @@
                     {
                      "forceEvent":"GoldBless"
                     },
-                 "propertytypes":
-                    {
-                     "forceEvent":"string"
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -350,10 +361,6 @@
                     {
                      "forceEvent":"GoldBless"
                     },
-                 "propertytypes":
-                    {
-                     "forceEvent":"string"
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -369,10 +376,6 @@
                  "properties":
                     {
                      "forceEvent":"ItemBless"
-                    },
-                 "propertytypes":
-                    {
-                     "forceEvent":"string"
                     },
                  "rotation":0,
                  "type":"",
@@ -393,31 +396,12 @@
                      "map":"Norkos",
                      "movementType":"descend"
                     },
-                 "propertytypes":
-                    {
-                     "destx":"string",
-                     "desty":"string",
-                     "map":"string",
-                     "movementType":"string"
-                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
                  "width":16,
                  "x":112,
                  "y":432
-                }, 
-                {
-                 "gid":64,
-                 "height":16,
-                 "id":27,
-                 "name":"Archer",
-                 "rotation":0,
-                 "type":"Trainer",
-                 "visible":true,
-                 "width":16,
-                 "x":640,
-                 "y":640
                 }, 
                 {
                  "gid":35,
@@ -430,13 +414,6 @@
                      "desty":"242",
                      "map":"Norkos",
                      "movementType":"fall"
-                    },
-                 "propertytypes":
-                    {
-                     "destx":"string",
-                     "desty":"string",
-                     "map":"string",
-                     "movementType":"string"
                     },
                  "rotation":0,
                  "type":"Teleport",
@@ -457,13 +434,6 @@
                      "map":"Norkos",
                      "movementType":"fall"
                     },
-                 "propertytypes":
-                    {
-                     "destx":"string",
-                     "desty":"string",
-                     "map":"string",
-                     "movementType":"string"
-                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -482,13 +452,6 @@
                      "desty":"243",
                      "map":"Norkos",
                      "movementType":"fall"
-                    },
-                 "propertytypes":
-                    {
-                     "destx":"string",
-                     "desty":"string",
-                     "map":"string",
-                     "movementType":"string"
                     },
                  "rotation":0,
                  "type":"Teleport",
@@ -509,13 +472,6 @@
                      "map":"Norkos",
                      "movementType":"fall"
                     },
-                 "propertytypes":
-                    {
-                     "destx":"string",
-                     "desty":"string",
-                     "map":"string",
-                     "movementType":"string"
-                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -535,19 +491,28 @@
                      "map":"Norkos",
                      "movementType":"fall"
                     },
-                 "propertytypes":
-                    {
-                     "destx":"string",
-                     "desty":"string",
-                     "map":"string",
-                     "movementType":"string"
-                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
                  "width":16,
                  "x":688,
                  "y":576
+                }, 
+                {
+                 "gid":64,
+                 "height":16,
+                 "id":41,
+                 "name":"Archer",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"Trainer",
+                 "visible":true,
+                 "width":16,
+                 "x":640,
+                 "y":640
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -565,6 +530,10 @@
                  "height":400,
                  "id":28,
                  "name":"Archer's Forest",
+                 "properties":
+                    {
+
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -576,6 +545,10 @@
                  "height":256,
                  "id":29,
                  "name":"Giant's Tower",
+                 "properties":
+                    {
+
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -590,27 +563,26 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":41,
+ "nextobjectid":42,
  "orientation":"orthogonal",
  "properties":
     {
      "name":"Leviathan Mountain"
     },
- "propertytypes":
-    {
-     "name":"string"
-    },
  "renderorder":"right-down",
  "tileheight":16,
  "tilesets":[
         {
-         "columns":9,
          "firstgid":1,
          "image":"..\/..\/img\/tiles.png",
          "imageheight":224,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
+         "properties":
+            {
+
+            },
          "spacing":0,
          "tilecount":126,
          "tileheight":16,
