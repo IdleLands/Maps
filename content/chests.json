@@ -58,5 +58,19 @@
             "Mule",
             "Reading Spectacles"
         ]
+    },
+    "Fate Gear": {
+        "items": [
+            "Little Loom",
+            "Ring of Uncontrolled Anger Issues",
+            "Fate-Tinted Vision",
+            "Fate-Strung Shortbow",
+            "Precision Piccolo",
+            "Kirierath's Favor",
+            "Fate-Trimmed Full Plate",
+            "Quarterstaff of Good Tidings",
+            "Source of Fate",
+            "Fate-Hardened Scales"
+        ]
     }
 }

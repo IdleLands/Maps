@@ -29,7 +29,8 @@
          "objects":[
                 {
                  "gid":35,
-                 "height":0,
+                 "height":16,
+                 "id":1,
                  "name":"ToDopple-2",
                  "properties":
                     {
@@ -41,23 +42,24 @@
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":176,
                  "y":272
                 }, 
                 {
                  "gid":15,
-                 "height":0,
+                 "height":16,
+                 "id":2,
                  "name":"Bejeweled Mask",
                  "properties":
                     {
-						"flavorText": "An ornate mask, encrusted with rubies and black diamonds. Traditionally used to obscure your face by drawing attention to your wealth.",
-						"storyline": "Lore: Jester"
+                     "flavorText":"An ornate mask, encrusted with rubies and black diamonds. Traditionally used to obscure your face by drawing attention to your wealth.",
+                     "storyline":"Memoir: Jester"
                     },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":208,
                  "y":176
                 }],
@@ -68,6 +70,7 @@
          "x":0,
          "y":0
         }],
+ "nextobjectid":3,
  "orientation":"orthogonal",
  "properties":
     {
@@ -79,7 +82,7 @@
         {
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":112,
+         "imageheight":224,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
@@ -88,6 +91,7 @@
 
             },
          "spacing":0,
+         "tilecount":126,
          "tileheight":16,
          "tilewidth":16
         }],
