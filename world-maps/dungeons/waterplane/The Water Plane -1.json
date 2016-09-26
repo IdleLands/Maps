@@ -54,6 +54,7 @@
                  "properties":
                     {
                      "flavorText":"A crystal containing a single drop of water.",
+                     "rarity":"godly",
                      "storyline":"Lore: Water Plane"
                     },
                  "rotation":0,
@@ -144,7 +145,7 @@
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "width":40,
          "x":0,
          "y":0
