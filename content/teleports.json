@@ -292,7 +292,7 @@
             "x": 13,
             "y": 44
         },
-    	"fate": {
+    	"fatepools": {
     	    "map": "Fate Pools -2",
     	    "formalName": "the Fate Pools",
     	    "x": 17,
@@ -303,6 +303,12 @@
     	    "formalName": "the Hax0r Place",
     	    "x": 2,
     	    "y": 2
+    	},
+    	"fatelake": {
+    	    "map": "Fate Lake",
+    	    "formalName": "Fate Lake",
+    	    "x": 20,
+    	    "y": 25
     	}
     }
 }
