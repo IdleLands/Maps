@@ -1236,7 +1236,7 @@
         "respawn": 7200,
         "availableScore": 2400,
         "stats": {
-            "class": "random",
+            "class": "Random",
             "hp": 150000,
             "mp": 100000,
             "level": 81,
