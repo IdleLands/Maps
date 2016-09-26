@@ -31,7 +31,7 @@
                  "gid":35,
                  "height":16,
                  "id":4,
-                 "name":"",
+                 "name":"ToNorkos",
                  "properties":
                     {
                      "destx":"1",
@@ -40,7 +40,7 @@
                      "movementType":"fall"
                     },
                  "rotation":0,
-                 "type":"",
+                 "type":"Teleport",
                  "visible":true,
                  "width":16,
                  "x":96,
@@ -8788,7 +8788,7 @@
                  "gid":35,
                  "height":16,
                  "id":603,
-                 "name":"",
+                 "name":"ToNorkos",
                  "properties":
                     {
                      "destx":"134",
@@ -8797,7 +8797,7 @@
                      "movementType":"fall"
                     },
                  "rotation":0,
-                 "type":"",
+                 "type":"Teleport",
                  "visible":true,
                  "width":16,
                  "x":240,
@@ -8807,7 +8807,7 @@
                  "gid":35,
                  "height":16,
                  "id":604,
-                 "name":"",
+                 "name":"ToNorkos",
                  "properties":
                     {
                      "destx":"248",
@@ -8816,7 +8816,7 @@
                      "movementType":"fall"
                     },
                  "rotation":0,
-                 "type":"",
+                 "type":"Teleport",
                  "visible":true,
                  "width":16,
                  "x":528,
@@ -8826,7 +8826,7 @@
                  "gid":35,
                  "height":16,
                  "id":605,
-                 "name":"",
+                 "name":"ToNorkos",
                  "properties":
                     {
                      "destx":"182",
@@ -8835,7 +8835,7 @@
                      "movementType":"fall"
                     },
                  "rotation":0,
-                 "type":"",
+                 "type":"Teleport",
                  "visible":true,
                  "width":16,
                  "x":320,
