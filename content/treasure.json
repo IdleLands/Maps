@@ -176,5 +176,95 @@
     "dance": 1,
     "hpregen": 100,
     "mpregen": 50
+  },
+  "Little Loom": {
+    "type": "hands",
+    "dex": 600,
+    "int": 2000,
+    "luk": 500,
+    "damageReduction": 350,
+    "mpregen": 50,
+    "sentimentality": 100
+  },
+  "Ring of Uncontrolled Anger Issues": {
+    "type": "finger",
+    "str": 2000,
+    "con": 1000,
+    "luk": 500
+  },
+  "Fate-Tinted Vision": {
+    "type": "head",
+    "int": 2500,
+    "luk": 500,
+    "deadeye": 1,
+    "hp": 800
+  },
+  "Fate-Strung Shortbow": {
+    "type": "mainhand",
+    "con": 40,
+    "dex": 2500,
+    "agi": 2000,
+    "luk": 500,
+    "crit": 5,
+    "deadeye": 1,
+    "glowing": 1
+  },
+  "Precision Piccolo": {
+    "type": "hands",
+    "agi": 1800,
+    "int": 1800,
+    "luk": 500,
+    "dance": 1,
+    "deadeye": 1,
+    "silver": 1
+  },
+  "Kirierath's Favor": {
+    "type": "charm",
+    "str": 100,
+    "con": 600,
+    "dex": 20,
+    "int": 1800,
+    "luk": 500,
+    "gold": 777
+  },
+  "Fate-Trimmed Full Plate": {
+    "type": "body",
+    "str": 1500,
+    "con": 800,
+    "dex": 900,
+    "agi": 250,
+    "luk": 500,
+    "defense": 1
+  },
+  "Quarterstaff of Good Tidings": {
+    "type": "mainhand",
+    "str": 350,
+    "con": 900,
+    "dex": 350,
+    "agi": 200,
+    "int": 1000,
+    "luk": 500,
+    "gold": 150,
+    "silver": 1
+  },
+  "Source of Fate": {
+    "type": "offhand",
+    "luk": 1500,
+    "glowing": 1,
+    "lethal": 1
+  },
+  "Fate-Hardened Scales": {
+    "type": "body",
+    "str": 300,
+    "con": 700,
+    "dex": 350,
+    "agi": 200,
+    "int": 850,
+    "luk": 500,
+    "aegis": 1,
+    "dance": 1,
+    "defense": 1,
+    "glowing": 1,
+    "sentimentality": 500
   }
 }
