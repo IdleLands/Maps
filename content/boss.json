@@ -260,7 +260,7 @@
             { "name": "Halberd of the Giants", "dropPercent": 80 }
         ],
         "collectibles": [
-            { "name": "Crystal of Air", "dropPercent": 30, "storyline": "Era: Corruption", "flavorText": "It's hard to tell, but there are pockets of air in this crystal." }
+            { "name": "Crystal of Air", "dropPercent": 30, "storyline": "Era: Corruption", "flavorText": "It's hard to tell, but there are pockets of air in this crystal.", "rarity": "godly" }
         ]
     },
     "Ghostly Pirate Captain": {
@@ -1230,6 +1230,33 @@
         ],
  "collectibles": [
             { "name": "Ancient Tablet", "dropPercent": 20, "storyline": "Lore: Merchant's Guild", "flavorText": "The tablet comes from a lost civilization deep beneath Vocalnus. Artifacts of this nature are prized by merchants.", "rarity": "godly" }
+        ]
+    },
+    "Fate-Twisted Lake Monstrosity": {
+        "respawn": 7200,
+        "availableScore": 2400,
+        "stats": {
+            "class": "Random",
+            "hp": 150000,
+            "mp": 100000,
+            "level": 81,
+            "str": 13000,
+            "int": 10000,
+            "con": 4000,
+            "dex": 4000,
+            "agi": 4000,
+            "luk": 4000,
+            "crit": 6,
+            "deadeye": 1,
+            "defense": 2,
+            "poison": 2,
+            "shatter": 1
+        },
+        "items": [
+            { "name": "Fate-Fueled Flame Breath", "dropPercent": 80 }
+        ],
+ "collectibles": [
+            { "name": "Twisted Appendage", "dropPercent": 80, "storyline": "Lore: Fate Lake", "flavorText": "One of many lost limbs from your battle with the Fate-Twisted Lake Monstrosity." }
         ]
     }
 }
