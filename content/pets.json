@@ -150,12 +150,8 @@
         "specialStats": {
             "deadeye": 1,
             "venom": 1,
-<<<<<<< HEAD
-            "poison": 1
-=======
             "poison": 1,
             "int": 500
->>>>>>> upstream/master
         },
         "requirements": {
             "collectibles": [
