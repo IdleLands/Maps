@@ -141,6 +141,12 @@
             "formalName": "the King Minotaur",
             "x": 23,
             "y": 24
+		},
+        "greendragon": {
+            "map": "Dark Tower -3",
+            "formalName": "the Green Dragon",
+            "x": 26,
+            "y": 30
 		}		
     },
     "dungeons": {
