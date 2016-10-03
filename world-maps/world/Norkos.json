@@ -6183,6 +6183,7 @@
                  "properties":
                     {
                      "flavorText":"An offer for a lucky adventurer to see the Frigri Merchant's Hall, pending some contractual obligations.",
+                     "rarity":"godly",
                      "storyline":"Lore: Merchant's Guild"
                     },
                  "rotation":0,
