@@ -36,6 +36,10 @@
                     {
                      "flavorText":"Math.random(), take the wheel!"
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"Hero (Content Creator)",
                  "visible":true,
@@ -51,6 +55,10 @@
                  "properties":
                     {
                      "flavorText":"hey seiyria, I found a bug"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
                     },
                  "rotation":0,
                  "type":"Hero (Server Supporter)",
@@ -68,6 +76,10 @@
                     {
                      "flavorText":"\u0183u\u1d09op \u026f,I \u0287\u0250\u0265\u028d \u01ddnl\u0254 ou \u01dd\u028c\u0250\u0265 I"
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"Hero (Content Creator)",
                  "visible":true,
@@ -83,6 +95,10 @@
                  "properties":
                     {
                      "flavorText":"\u79d8\u5bc6\u3060\u3088"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
                     },
                  "rotation":0,
                  "type":"Hero (Content Creator)",
@@ -100,6 +116,10 @@
                     {
                      "flavorText":"tt"
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"Hero (Artist)",
                  "visible":true,
@@ -115,6 +135,10 @@
                  "properties":
                     {
                      "flavorText":"If there's anything ogres are good at doing, it's nothing at all."
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
                     },
                  "rotation":0,
                  "type":"Hero (Server Supporter)",
@@ -132,6 +156,10 @@
                     {
                      "flavorText":"Come visit us!"
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"Hero (Server Supporter)",
                  "visible":true,
@@ -147,6 +175,10 @@
                  "properties":
                     {
                      "flavorText":"Oh, I'm a lumberjack, and I'm okay, I sleep all night and I work all day."
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
                     },
                  "rotation":0,
                  "type":"Hero (Developer)",
@@ -164,6 +196,10 @@
                     {
                      "flavorText":":<"
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"Hero (Developer)",
                  "visible":true,
@@ -179,6 +215,10 @@
                  "properties":
                     {
                      "flavorText":"For best results, idle daily."
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
                     },
                  "rotation":0,
                  "type":"Hero (Content Creator)",
@@ -199,6 +239,13 @@
                      "map":"Norkos",
                      "movementType":"ascend"
                     },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -218,6 +265,13 @@
                      "map":"Norkos",
                      "movementType":"ascend"
                     },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -233,6 +287,10 @@
                  "properties":
                     {
                      "flavorText":"tt"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
                     },
                  "rotation":0,
                  "type":"Hero (Artist)",
@@ -250,6 +308,10 @@
                     {
                      "flavorText":"Ask me about maps."
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"Hero (Content Creator)",
                  "visible":true,
@@ -265,6 +327,10 @@
                  "properties":
                     {
                      "flavorText":"huh?"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
                     },
                  "rotation":0,
                  "type":"Hero (Donator)",
@@ -282,6 +348,10 @@
                     {
                      "flavorText":"Jet Fuel can't melt Steel Memes. 69"
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"Hero (Donator)",
                  "visible":true,
@@ -297,6 +367,10 @@
                  "properties":
                     {
                      "flavorText":"Idly Drunk"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
                     },
                  "rotation":0,
                  "type":"Hero (Donator)",
@@ -314,6 +388,10 @@
                     {
                      "flavorText":"The fastest way is to do nothing at all."
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"Hero (Developer)",
                  "visible":true,
@@ -326,10 +404,6 @@
                  "height":16,
                  "id":31,
                  "name":"OnionKnight",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"Hero (Donator)",
                  "visible":true,
@@ -345,6 +419,10 @@
                  "properties":
                     {
                      "flavorText":"Always pray to the RNG-God"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
                     },
                  "rotation":0,
                  "type":"Hero (Donator)",
@@ -362,6 +440,10 @@
                     {
                      "flavorText":"Believe in the furious dream"
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"Hero (Donator)",
                  "visible":true,
@@ -378,6 +460,10 @@
                     {
                      "flavorText":"Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn."
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"Hero (Donator)",
                  "visible":true,
@@ -390,16 +476,32 @@
                  "height":16,
                  "id":35,
                  "name":"Cerleen",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"Hero (Donator)",
                  "visible":true,
                  "width":16,
                  "x":64,
                  "y":368
+                }, 
+                {
+                 "gid":46,
+                 "height":16,
+                 "id":36,
+                 "name":"yaMMer",
+                 "properties":
+                    {
+                     "flavorText":"What does this button do?"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":64,
+                 "y":400
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -417,10 +519,6 @@
                  "height":80,
                  "id":17,
                  "name":"Chamber of Contributors",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -432,10 +530,6 @@
                  "height":304,
                  "id":19,
                  "name":"Altar of Ancients",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -447,10 +541,6 @@
                  "height":432,
                  "id":20,
                  "name":"Donator's Demense",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -462,10 +552,6 @@
                  "height":432,
                  "id":21,
                  "name":"Donator's Demense",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -477,10 +563,6 @@
                  "height":144,
                  "id":23,
                  "name":"Donator's Demense",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -495,26 +577,27 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":36,
+ "nextobjectid":37,
  "orientation":"orthogonal",
  "properties":
     {
      "name":"norkos"
     },
+ "propertytypes":
+    {
+     "name":"string"
+    },
  "renderorder":"right-down",
  "tileheight":16,
  "tilesets":[
         {
+         "columns":9,
          "firstgid":1,
          "image":"..\/..\/img\/tiles.png",
          "imageheight":224,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
-         "properties":
-            {
-
-            },
          "spacing":0,
          "tilecount":126,
          "tileheight":16,
