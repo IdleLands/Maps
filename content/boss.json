@@ -79,9 +79,7 @@
             "con": 1000,
             "str": 3900,
             "int": 100,
-            "luk": 800,
-            "thunder": 2000,
-            "mindwipe": 1
+            "luk": 800
         },
         "items": [
             { "name": "Wardens Gavel", "dropPercent": 95 },
@@ -132,8 +130,7 @@
             "level": 10,
             "agi": 50,
             "dex": 75,
-            "str": 100,
-            "mindwipe": 1
+            "str": 100
         },
         "items": [
             { "name": "Moonlight Signet", "dropPercent": 80 }
@@ -149,8 +146,7 @@
             "level": 40,
             "str": 1800,
             "dex": 1750,
-            "con": 1000,
-            "sturdy": 1
+            "con": 1000
         },
         "items": [
             { "name": "Ward of the Black Dragon King", "dropPercent": 60 }
@@ -214,8 +210,7 @@
             "str": 2100,
             "dex": 750,
             "con": 1200,
-            "agi": 100,
-            "sturdy": 1
+            "agi": 100
         },
         "items": [
             { "name": "King Minotaur's Axe", "dropPercent": 85 }
@@ -253,8 +248,7 @@
             "str": 2000,
             "dex": 500,
             "con": 1200,
-            "agi": 100,
-            "sturdy": 1
+            "agi": 100
         },
         "items": [
             { "name": "Halberd of the Giants", "dropPercent": 80 }
@@ -272,8 +266,7 @@
             "level": 15,
             "luk": 33,
             "dex": 200,
-            "agi": 200,
-            "parry": 10
+            "agi": 200
         },
         "items": [
             { "name": "Incorporeal Cutlass", "dropPercent": 70 }
@@ -315,9 +308,7 @@
             "agi": 500,
             "str": 3900,
             "int": 2900,
-            "defense": 2,
-            "fear": 1,
-            "sturdy": 1
+            "defense": 2
         },
         "items": [
             { "name": "Breastplate of Wrath", "dropPercent": 80 }
@@ -330,17 +321,16 @@
             "class": "Fighter",
             "gender": "male",
             "hp": 12999,
-	    "mp": 3000,
+            "mp": 3000,
             "level": 35,
             "luk": 30,
             "dex": 1300,
-	    "con": 888,
-	    "agi": 750,
-	    "int": 1000,
-	    "str": 2000,
-	    "offense": 2,
-	    "sturdy": 1,
-	    "lethal": 1
+            "con": 888,
+            "agi": 750,
+            "int": 1000,
+            "str": 2000,
+            "offense": 2,
+            "lethal": 1
         },
         "items": [
             { "name": "Amulet of Anger", "dropPercent": 80 }
@@ -353,18 +343,15 @@
             "class": "Monster",
             "gender": "male",
             "hp": 14999,
-	    "mp": 15000,
+            "mp": 15000,
             "level": 40,
             "luk": 10,
             "dex": 1000,
-	    "con": 1000,
-	    "agi": 1000,
-	    "str": 1000,
-	    "int": 1000,
-	    "defense": 2,
-	    "fear": 10,
-	    "sturdy": 1,
-	    "startle": 1
+            "con": 1000,
+            "agi": 1000,
+            "str": 1000,
+            "int": 1000,
+            "defense": 2
         },
         "items": [
             { "name": "Amulet of Fear", "dropPercent": 80 }
@@ -377,15 +364,15 @@
             "class": "Mage",
             "gender": "male",
             "hp": 16221,
-	    "mp": 53000,
+            "mp": 53000,
             "level": 45,
             "luk": 33,
             "agi": 888,
-	    "con": 150,
-	    "int": 2200,
-	    "defense": 2,
-	    "shatter": 1,
-	    "poison": 2
+            "con": 150,
+            "int": 2200,
+            "defense": 2,
+            "shatter": 1,
+            "poison": 2
         },
         "items": [
             { "name": "Amulet of Decay", "dropPercent": 80 }
@@ -398,18 +385,16 @@
             "class": "Random",
             "gender": "male",
             "hp": 19381,
-	    "mp": 55555,
+            "mp": 55555,
             "level": 50,
             "luk": 200,
             "dex": 700,
-	    "con": 621,
-	    "agi": 1200,
-	    "str": 1000,
-	    "int": 2500,
-	    "defense": 1,
-	    "fear": 1,
-	    "sturdy": 1,
-	    "Dance": 1
+            "con": 621,
+            "agi": 1200,
+            "str": 1000,
+            "int": 2500,
+            "defense": 1,
+            "dance": 1
         },
         "items": [
             { "name": "Amulet of Insanity", "dropPercent": 80 }
@@ -422,15 +407,14 @@
             "class": "Lich",
             "gender": "male",
             "hp": 23090,
-	    "mp": 75000,
+            "mp": 75000,
             "level": 55,
             "dex": 1500,
-	    "con": 1500,
-	    "agi": 1000,
-	    "str": 2000,
-	    "int": 2000,
-	    "fear": 1,
-	    "vampire": 1
+            "con": 1500,
+            "agi": 1000,
+            "str": 2000,
+            "int": 2000,
+            "vampire": 1
         },
         "items": [
             { "name": "Amulet of Death", "dropPercent": 80 }
@@ -442,20 +426,17 @@
         "stats": {
             "class": "Lich",
             "hp": 26930,
-	    "mp": 100000,
+            "mp": 100000,
             "level": 65,
             "luk": 1,
             "dex": 1025,
-	    "con": 1500,
-	    "agi": 975,
-	    "str": 2001,
-	    "int": 2001,
-	    "shatter": 1,
-	    "lethal": 1,
-	    "fear": 5,
-	    "glowing": 1,
-	    "startle": 1
-	    
+            "con": 1500,
+            "agi": 975,
+            "str": 2001,
+            "int": 2001,
+            "shatter": 1,
+            "lethal": 1,
+            "glowing": 1
         },
         "items": [
             { "name": "Lich Lord's Phylactery", "dropPercent": 80 }
@@ -471,14 +452,14 @@
             "class": "Random",
             "gender": "male",
             "hp": 17580,
-	    "mp": 75000,
+            "mp": 75000,
             "level": 50,
             "luk": 12,
             "dex": 900,
-	    "con": 1120,
-	    "agi": 950,
-	    "str": 2300,
-	    "int": 1500
+            "con": 1120,
+            "agi": 950,
+            "str": 2300,
+            "int": 1500
         },
         "items": [
             { "name": "Jewel-Encrusted Pick Axe", "dropPercent": 80 }
@@ -494,16 +475,16 @@
             "class": "Archer",
             "gender": "not a bear",
             "hp": 13790,
-	    "mp": 10000,
+            "mp": 10000,
             "level": 38,
             "luk": 20,
             "dex": 1800,
-	    "con": 900,
-	    "agi": 1001,
-	    "str": 1000,
-	    "int": 150,
-	    "glowing": 1,
-	    "venom": 1
+            "con": 900,
+            "agi": 1001,
+            "str": 1000,
+            "int": 150,
+            "glowing": 1,
+            "venom": 1
         },
         "items": [
             { "name": "Mushroom Shaped Charm", "dropPercent": 80 }
@@ -515,14 +496,14 @@
         "stats": {
             "class": "Generalist",
             "hp": 1600,
-	    "mp": 1500,
+            "mp": 1500,
             "level": 15,
             "luk": 25,
             "dex": 125,
-	    "con": 105,
-	    "agi": 125,
-	    "str": 275,
-	    "int": 200
+            "con": 105,
+            "agi": 125,
+            "str": 275,
+            "int": 200
         },
         "items": [
             { "name": "The Nice List", "dropPercent": 80 }
@@ -537,10 +518,10 @@
             "level": 12,
             "luk": 25,
             "dex": 120,
-	    "con": 175,
-	    "agi": 75,
-	    "str": 375,
-	    "offense": 1
+            "con": 175,
+            "agi": 75,
+            "str": 375,
+            "offense": 1
         }
 		},
     "Toy Maker Elf": {
@@ -549,7 +530,7 @@
         "stats": {
             "class": "Jester",
             "hp": 1225,
-	    "mp": 1500,
+            "mp": 1500,
             "level": 12,
             "luk": 200
         }
@@ -560,15 +541,14 @@
         "stats": {
             "class": "Mage",
             "hp": 21005,
-	    "mp": 36000,
+            "mp": 36000,
             "level": 40,
             "str": 2200,
-	    "int": 2300,
-	    "luk": 25,
+            "int": 2300,
+            "luk": 25,
             "dex": 850,
             "con": 1200,
-            "agi": 670,
-            "sturdy": 1
+            "agi": 670
         },
         "items": [
             { "name": "Snow Covered Antlers", "dropPercent": 80 }
@@ -581,18 +561,16 @@
             "class": "Fighter",
             "gender": "male",
             "hp": 75800,
-	    "mp": 10000,
+            "mp": 10000,
             "level": 80,
             "luk": 25,
             "dex": 2300,
-	    "con": 3500,
-	    "agi": 1701,
-	    "str": 4400,
-	    "int": 900,
-	    "glowing": 1,
-	    "silver": 1,
-	    "sturdy": 1,
-	    "startle": 1
+            "con": 3500,
+            "agi": 1701,
+            "str": 4400,
+            "int": 900,
+            "glowing": 1,
+            "silver": 1
         },
         "items": [
             { "name": "The Naughty List", "dropPercent": 80 }
@@ -609,8 +587,7 @@
             "level": 40,
             "str": 1800,
             "int": 1750,
-            "con": 900,
-            "sturdy": 1
+            "con": 900
         }
     },
     "Green Dragon": {
@@ -623,7 +600,7 @@
             "level": 53,
             "str": 230,
             "int": 3370,
-	    "agi": 570,
+            "agi": 570,
             "con": 876,
             "venom": 2,
             "poison": 2
@@ -642,11 +619,11 @@
             "level": 40,
             "str": 2000,
             "con": 1120,
-	    "dex": 450,
-	    "agi": 300,
+            "dex": 450,
+            "agi": 300,
             "defense": 1,
             "offense": 1,
-	    "glowing": 1
+            "glowing": 1
         },
         "items": [
             { "name": "Guardian Longsword", "dropPercent": 80 }
@@ -664,9 +641,9 @@
             "str": 400,
             "int": 2015,
             "con": 100,
-	    "crit": 3,
-	    "lethal": 1,
-	    "glowing": 1
+            "crit": 3,
+            "lethal": 1,
+            "glowing": 1
         },
         "items": [
             { "name": "Guardian Staff", "dropPercent": 80 }
@@ -683,12 +660,11 @@
             "level": 48,
             "str": 1950,
             "int": 1000,
-	    "dex": 600,
-	    "agi": 500,
+            "dex": 600,
+            "agi": 500,
             "con": 825,
-	    "defense": 2, 
-            "sturdy": 1,
-	    "glowing": 1
+            "defense": 2,
+            "glowing": 1
         },
         "items": [
             { "name": "Guardian Mace", "dropPercent": 80 }
@@ -705,13 +681,12 @@
             "level": 52,
             "str": 1800,
             "int": 1800,
-	    "dex": 1500,
-	    "agi": 1200,
+            "dex": 1500,
+            "agi": 1200,
             "con": 900,
-	    "luk": 100,
-	    "parry": 1,
-	    "crit": 1,
-	    "glowing": 1
+            "luk": 100,
+            "crit": 1,
+            "glowing": 1
         },
         "items": [
             { "name": "Guardian Guidebook", "dropPercent": 80 }
@@ -726,16 +701,14 @@
             "hp": 73000,
             "level": 60,
             "str": 2500,
-	    "dex": 1500,
-	    "agi": 1500,
+            "dex": 1500,
+            "agi": 1500,
             "con": 2000,
-	    "luk": 100,
-            "sturdy": 1,
-	    "defense": 1,
-	    "offense": 1,
-	    "parry": 1,
-	    "crit": 2,
-	    "glowing": 2
+            "luk": 100,
+            "defense": 1,
+            "offense": 1,
+            "crit": 2,
+            "glowing": 2
         },
         "items": [
             { "name": "Guardian Tower Shield", "dropPercent": 80 }
@@ -748,17 +721,16 @@
             "class": "Fighter",
             "gender": "male",
             "hp": 22500,
-	    "mp": 3700,
+            "mp": 3700,
             "level": 51,
             "str": 1666,
-	    "dex": 1285,
-	    "agi": 1285,
+            "dex": 1285,
+            "agi": 1285,
             "con": 481,
-	    "luk": 26,
+            "luk": 26,
             "prone": 1,
-	    "parry": 1,
-	    "poison": 1,
-	    "venom": 1
+            "poison": 1,
+            "venom": 1
         },
         "items": [
             { "name": "Acid Amulet Shard", "dropPercent": 75 }
@@ -771,14 +743,13 @@
             "class": "Necromancer",
             "gender": "not a bear",
             "hp": 185000,
-	    "mp": 54320,
+            "mp": 54320,
             "level": 90,
             "str": 2200,
-	    "dex": 2200,
+            "dex": 2200,
             "int": 5000,
-	    "luk": -10,
-            "power": 1,
-	    "punish": 1
+            "luk": -10,
+            "power": 1
         },
         "items": [
             { "name": "Necromantic Essence", "dropPercent": 75 }
@@ -793,19 +764,17 @@
         "stats": {
             "class": "Fighter",
             "hp": 80000,
-	    "mp": 600,
+            "mp": 600,
             "level": 75,
             "str": 3400,
-	    "dex": 2200,
-	    "agi": 1990,
+            "dex": 2200,
+            "agi": 1990,
             "con": 2700,
-	    "luk": 15,
+            "luk": 15,
             "prone": 1,
-	    "parry": 1,
-	    "defense": 1,
-	    "offense": 1,
-	    "sturdy": 1,
-	    "vorpal": 1
+            "defense": 1,
+            "offense": 1,
+            "vorpal": 1
         },
         "items": [
             { "name": "Halberd of the Fire Giants", "dropPercent": 75 }
@@ -817,17 +786,16 @@
         "stats": {
             "class": "Mage",
             "hp": 39000,
-	    "mp": 27000,
+            "mp": 27000,
             "level": 65,
             "str": 1500,
-	    "dex": 1550,
-	    "agi": 1905,
-	    "int": 2000,
-	    "mpregen": 100,
+            "dex": 1550,
+            "agi": 1905,
+            "int": 2000,
+            "mpregen": 100,
             "con": 400,
             "lethal": 1,
-	    "offense": 2,
-	    "fear": 1
+            "offense": 2
         },
         "items": [
             { "name": "Flame Polished Gauntlets", "dropPercent": 75 }
@@ -864,10 +832,9 @@
             "str": 1200,
             "int": 1000,
             "dex": 805,
-	    "agi": 620,
-	    "poison": 4,
-	    "prone": 1,
-	    "sturdy": 1
+            "agi": 620,
+            "poison": 4,
+            "prone": 1
         },
         "items": [
             { "name": "Leviathan Claw", "dropPercent": 80 }
@@ -886,10 +853,9 @@
             "level": 45,
             "str": 1500,
             "int": 1750,
-	    "dex": 1000,
+            "dex": 1000,
             "agi": 1200,
-	    "deadeye": 1,
-	    "startle": 1
+            "deadeye": 1
         },
         "collectibles": [
             { "name": "Snowbeast Skull", "dropPercent": 90, "flavorText": "What are you, the Bone Collector?", "storyline": "Lore: Frigri" }
@@ -907,11 +873,11 @@
             "str": 730,
             "dex": 400,
             "agi": 400,
-	    "int": 100,
-	    "poison": 1,
-	    "vampire": 1,
-	    "lethal": 1,
-	    "hpregen": 50
+            "int": 100,
+            "poison": 1,
+            "vampire": 1,
+            "lethal": 1,
+            "hpregen": 50
         },
         "items": [
             { "name": "Slime Covered Jerkin", "dropPercent": 80 }
@@ -928,14 +894,13 @@
             "str": 475,
             "dex": 300,
             "agi": 210,
-	    "prone": 3,
-	    "defense": 1,
-	    "venom": 1,
-	    "startle": 1
+            "prone": 3,
+            "defense": 1,
+            "venom": 1
         },
         "collectibles": [
             { "name": "Gorgon Snake", "dropPercent": 5, "storyline": "Memoir: Necromancer", "flavorText": "The Necromancers of olde would oft use artifacts like this to summon powerful monsters.", "rarity": "pro" },
-	    { "name": "Basilisk Scale", "dropPercent": 95, "storyline": "Lore: Dragons", "flavorText": "This once jet black and red scale has now turned to stone." }
+            { "name": "Basilisk Scale", "dropPercent": 95, "storyline": "Lore: Dragons", "flavorText": "This once jet black and red scale has now turned to stone." }
         ]
     },
     "Slicer": {
@@ -944,18 +909,18 @@
         "stats": {
             "class": "Fighter",
             "gender": "male",
-	    "hp": 39000,
+            "hp": 39000,
             "level": 55,
             "str": 2400,
             "dex": 1000,
-	    "con": 800,
+            "con": 800,
             "agi": 1000,
-	    "int": 250,
-	    "glowing": 1,
-	    "silver": 1,
-	    "power": 1,
-	    "defense": 1,
-	    "vorpal": 1
+            "int": 250,
+            "glowing": 1,
+            "silver": 1,
+            "power": 1,
+            "defense": 1,
+            "vorpal": 1
         },
         "items": [
             { "name": "Slicer's Sabre", "dropPercent": 80 }
@@ -971,13 +936,13 @@
             "level": 55,
             "str": 2670,
             "dex": 900,
-	    "con": 1400,
+            "con": 1400,
             "agi": 900,
-	    "int": -123,
-	    "glowing": 1,
-	    "prone": 1,
-	    "power": 1,
-	    "defense": 2
+            "int": -123,
+            "glowing": 1,
+            "prone": 1,
+            "power": 1,
+            "defense": 2
         },
         "items": [
             { "name": "Smasher's Smashin' Club", "dropPercent": 75 }
@@ -988,29 +953,25 @@
         "availableScore": 10000,
         "stats": {
             "class": "Necromancer",
-	    "gender": "female",
+            "gender": "female",
             "hp": 230000,
-	    "mp": 200000,
+            "mp": 200000,
             "level": 100,
             "str": 6900,
             "dex": 4000,
-	    "con": 3000,
+            "con": 3000,
             "agi": 2100,
-	    "int": 6700,
-	    "aegis": 1,
-	    "crit": 5,
-	    "dance": 1,
-	    "deadeye": 1,
-	    "fear": 1,
-	    "lethal": 1,
-	    "offense": 1,
-	    "parry": 2,
-	    "poison": 4,
-	    "prone": 1,
-	    "punish": 1,
-	    "silver": 1,
-	    "startle": 1,
-	    "vorpal": 2
+            "int": 6700,
+            "aegis": 1,
+            "crit": 5,
+            "dance": 1,
+            "deadeye": 1,
+            "lethal": 1,
+            "offense": 1,
+            "poison": 4,
+            "prone": 1,
+            "silver": 1,
+            "vorpal": 1
         },
         "items": [
             { "name": "Naga Resurrection Trident", "dropPercent": 60 }
@@ -1028,9 +989,8 @@
             "con": 130,
             "dex": 600,
             "agi": 250,
-	    "luk": 15,
-            "crit": 10,
-	    "sturdy": 1
+            "luk": 15,
+            "crit": 10
         },
         "items": [
             { "name": "Lord Waxington's Top Hat", "dropPercent": 80 }
@@ -1046,11 +1006,11 @@
             "level": 23,
             "luk": 30,
             "dex": 225,
-	    "con": 175,
-	    "agi": 255,
-	    "str": 500,
-	    "int": 300,
-	    "offense": 1
+            "con": 175,
+            "agi": 255,
+            "str": 500,
+            "int": 300,
+            "offense": 1
         }
 		},
     "Goldy the Skeleton": {
@@ -1060,15 +1020,15 @@
             "class": "MagicalMonster",
             "gender": "female",
             "hp": 2500,
-	    "mp": 2500,
+            "mp": 2500,
             "level": 23,
             "luk": 30,
             "dex": 225,
-	    "con": 175,
-	    "agi": 255,
-	    "str": 500,
-	    "int": 300,
-	    "lethal": 1
+            "con": 175,
+            "agi": 255,
+            "str": 500,
+            "int": 300,
+            "lethal": 1
         }
 		},
     "Mr Bones": {
@@ -1076,17 +1036,17 @@
         "availableScore": 0,
         "stats": {
             "class": "Bard",
-	    "gender": "Male",
+            "gender": "Male",
             "hp": 2500,
-	    "mp": 2500,
+            "mp": 2500,
             "level": 23,
             "luk": 30,
             "dex": 225,
-	    "con": 175,
-	    "agi": 255,
-	    "str": 500,
-	    "int": 300,
-	    "hpregen": 100
+            "con": 175,
+            "agi": 255,
+            "str": 500,
+            "int": 300,
+            "hpregen": 100
         }
 		},
     "Norkian Necromancer": {
@@ -1100,9 +1060,8 @@
             "con": 60,
             "dex": 500,
             "agi": 300,
-	    "int": 1500,
-            "lethal": 3,
-	    "sturdy": 1
+            "int": 1500,
+            "lethal": 1
         } 
     },
     "Living Crystal": {
@@ -1117,12 +1076,12 @@
             "con": 7000,
             "dex": 7000,
             "agi": 7000,
-	    "int": 10000,
-	    "luk": 150,
+            "int": 10000,
+            "luk": 150,
             "poison": 4,
-	    "venom": 3,
-	    "glowing": 1,
-	    "hpregen": 500
+            "venom": 3,
+            "glowing": 1,
+            "hpregen": 500
         },
         "items": [
             { "name": "Crystal Crown", "dropPercent": 75 }
@@ -1139,14 +1098,13 @@
             "con": 15000,
             "dex": 9000,
             "agi": 9000,
-	    "luk": 200,
+            "luk": 200,
             "crit": 2,
-	    "aegis": 1,
-	    "prone": 1,
-	    "vorpal": 1,
-	    "absolute": 100,
-	    "offense": 2,
-	    "defense": 2
+            "aegis": 1,
+            "prone": 1,
+            "vorpal": 1,
+            "offense": 2,
+            "defense": 2
         },
         "items": [
             { "name": "Astral Boots", "dropPercent": 20 }
@@ -1162,35 +1120,27 @@
             "str": 80000,
             "con": 25000,
             "dex": 27000,
-	    "int": 60000,
+            "int": 60000,
             "agi": 30000,
-	    "luk": 2000,
+            "luk": 2000,
             "crit": 9,
-	    "aegis": 1,
-	    "prone": 1,
-	    "vorpal": 2,
-	    "absolute": 100,
-	    "offense": 3,
-	    "defense": 4,
-	    "damageReduction": 300,
-	    "dance": 2,
-	    "mindwipe": 1,
-	    "deadeye": 2,
-	    "fear": 10,
-	    "glowing": 1,
-	    "haste": 10,
-	    "lethal": 2,
-	    "parry": 2,
-	    "poison": 5,
-	    "venom": 5,
-	    "power": 1,
-	    "punish": 1,
-	    "shatter": 1,
-	    "silver": 1,
-	    "startle": 2,
-	    "sturdy": 1,
-	    "vampire": 1,
-	    "hpregen": 666	    
+            "aegis": 1,
+            "prone": 1,
+            "vorpal": 1,
+            "offense": 3,
+            "defense": 4,
+            "damageReduction": 300,
+            "dance": 1,
+            "deadeye": 1,
+            "glowing": 1,
+            "lethal": 1,
+            "poison": 5,
+            "venom": 5,
+            "power": 1,
+            "shatter": 1,
+            "silver": 1,
+            "vampire": 1,
+            "hpregen": 666
         },
         "items": [
             { "name": "Astral Stabilizer", "dropPercent": 75 }
@@ -1228,7 +1178,7 @@
         "items": [
             { "name": "Nimbus Cloud Mace", "dropPercent": 80 }
         ],
- "collectibles": [
+        "collectibles": [
             { "name": "Ancient Tablet", "dropPercent": 20, "storyline": "Lore: Merchant's Guild", "flavorText": "The tablet comes from a lost civilization deep beneath Vocalnus. Artifacts of this nature are prized by merchants.", "rarity": "godly" }
         ]
     },
@@ -1255,7 +1205,7 @@
         "items": [
             { "name": "Fate-Fueled Flame Breath", "dropPercent": 80 }
         ],
- "collectibles": [
+        "collectibles": [
             { "name": "Twisted Appendage", "dropPercent": 80, "storyline": "Lore: Fate Lake", "flavorText": "One of many lost limbs from your battle with the Fate-Twisted Lake Monstrosity." }
         ]
     }
