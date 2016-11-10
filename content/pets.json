@@ -720,5 +720,52 @@
             "itemFindRangeMultiplier": [0, 50000000],
             "xpPerGold": [0, 1000000]
         }
+    },
+
+
+    "Golden Floating Broom": {
+        "cost": 1000000,
+        "category": "Combat",
+        "description": "Unlocked by helping out.",
+        "slots": {
+            "charm": 1,
+            "offhand": 1,
+            "mainhand": 1
+        },
+        "specialStats": {
+            "int": 1000,
+            "str": 1000,
+            "con": 1000,
+            "glowing": 10
+        },
+        "requirements": {
+              "statistics": {
+                  "Game.PremiumTier": 1
+              }
+        },
+        "scale": {
+            "maxLevel": [50, 100, 150, 200],
+            "maxItemScore": [2000, 3000, 4000],
+            "inventory": [5, 10, 15, 20, 25],
+            "goldStorage": [10000, 100000, 1000000],
+            "battleJoinPercent": [0, 25, 50, 75, 100],
+            "itemFindTimeDuration": [0, 86400, 43200, 21600],
+            "itemSellMultiplier": [0.1, 0.2],
+            "itemFindBonus": [0, 25, 50],
+            "itemFindRangeMultiplier": [0, 0.05, 0.1, 0.2, 0.35],
+            "xpPerGold": [25, 50, 75, 100]
+        },
+        "scaleCost": {
+            "maxLevel": [0, 1000000, 1500000, 20000000],
+            "maxItemScore": [0, 300000, 400000],
+            "inventory": [0, 100000, 150000, 200000, 250000],
+            "goldStorage": [0, 50000, 100000, 500000],
+            "battleJoinPercent": [0, 250000, 500000, 750000, 1000000],
+            "itemFindTimeDuration": [0, 500000, 1000000, 1500000],
+            "itemSellMultiplier": [0, 60000],
+            "itemFindBonus": [0, 250000, 500000],
+            "itemFindRangeMultiplier": [0, 50000, 100000, 200000, 350000],
+            "xpPerGold": [0, 500000, 750000, 1000000]
+        }
     }
 }
