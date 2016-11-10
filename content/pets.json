@@ -759,7 +759,7 @@
             "maxLevel": [0, 1000000, 1500000, 20000000],
             "maxItemScore": [0, 300000, 400000],
             "inventory": [0, 100000, 150000, 200000, 250000],
-            "goldStorage": [0, 50000, 100000, 500000],
+            "goldStorage": [0, 1000000, 10000000],
             "battleJoinPercent": [0, 250000, 500000, 750000, 1000000],
             "itemFindTimeDuration": [0, 500000, 1000000, 1500000],
             "itemSellMultiplier": [0, 60000],
