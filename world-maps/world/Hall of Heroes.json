@@ -476,6 +476,14 @@
                  "height":16,
                  "id":35,
                  "name":"Cerleen",
+                 "properties":
+                    {
+                     "flavorText":"If you enjoy doing nothing this game is a hell lot of fun"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"Hero (Donator)",
                  "visible":true,
