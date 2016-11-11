@@ -582,6 +582,26 @@
                  "width":16,
                  "x":64,
                  "y":528
+                }, 
+                {
+                 "gid":61,
+                 "height":16,
+                 "id":48,
+                 "name":"PursuantAunt",
+                 "properties":
+                    {
+                     "flavorText":"hoping to get the things"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":720,
+                 "y":144
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -657,7 +677,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":48,
+ "nextobjectid":50,
  "orientation":"orthogonal",
  "properties":
     {
