@@ -602,6 +602,26 @@
                  "width":16,
                  "x":720,
                  "y":144
+                }, 
+                {
+                 "gid":73,
+                 "height":16,
+                 "id":50,
+                 "name":"Bodo",
+                 "properties":
+                    {
+                     "flavorText":"Nice butt. Not very smart."
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":720,
+                 "y":176
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -677,7 +697,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":50,
+ "nextobjectid":52,
  "orientation":"orthogonal",
  "properties":
     {
