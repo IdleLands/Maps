@@ -622,6 +622,26 @@
                  "width":16,
                  "x":720,
                  "y":176
+                }, 
+                {
+                 "gid":15,
+                 "height":16,
+                 "id":52,
+                 "name":"Anonymous Donator",
+                 "properties":
+                    {
+                     "flavorText":"Thank you for your contribution!"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":720,
+                 "y":208
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -697,7 +717,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":52,
+ "nextobjectid":53,
  "orientation":"orthogonal",
  "properties":
     {
