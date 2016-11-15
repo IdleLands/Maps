@@ -642,6 +642,18 @@
                  "width":16,
                  "x":720,
                  "y":208
+                }, 
+                {
+                 "gid":79,
+                 "height":16,
+                 "id":53,
+                 "name":"deaditslife",
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":720,
+                 "y":240
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -717,7 +729,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":53,
+ "nextobjectid":54,
  "orientation":"orthogonal",
  "properties":
     {
