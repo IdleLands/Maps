@@ -674,6 +674,26 @@
                  "width":16,
                  "x":720,
                  "y":272
+                }, 
+                {
+                 "gid":71,
+                 "height":16,
+                 "id":55,
+                 "name":"Nas",
+                 "properties":
+                    {
+                     "flavorText":"Habits begin as cobwebs and end up as chains."
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":720,
+                 "y":304
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -749,7 +769,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":55,
+ "nextobjectid":56,
  "orientation":"orthogonal",
  "properties":
     {
