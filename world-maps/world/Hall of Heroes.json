@@ -654,6 +654,26 @@
                  "width":16,
                  "x":720,
                  "y":240
+                }, 
+                {
+                 "gid":63,
+                 "height":16,
+                 "id":54,
+                 "name":"Kain",
+                 "properties":
+                    {
+                     "flavorText":"\u00abIdleLands\u00bb found a gold ingot with a lemon peel wrapped around it, and it was worth 2 gold!"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":720,
+                 "y":272
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -729,7 +749,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":54,
+ "nextobjectid":55,
  "orientation":"orthogonal",
  "properties":
     {
