@@ -694,6 +694,26 @@
                  "width":16,
                  "x":720,
                  "y":304
+                }, 
+                {
+                 "gid":16,
+                 "height":16,
+                 "id":56,
+                 "name":"Xiezhi",
+                 "properties":
+                    {
+                     "flavorText":"When I start my new job my power level will be over 9000!"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":720,
+                 "y":336
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -769,7 +789,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":56,
+ "nextobjectid":57,
  "orientation":"orthogonal",
  "properties":
     {
