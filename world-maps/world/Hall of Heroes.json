@@ -726,6 +726,50 @@
                  "width":16,
                  "x":720,
                  "y":368
+                }, 
+                {
+                 "gid":15,
+                 "height":16,
+                 "id":58,
+                 "name":"Spely",
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":720,
+                 "y":400
+                }, 
+                {
+                 "gid":73,
+                 "height":16,
+                 "id":59,
+                 "name":"Juicy",
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":720,
+                 "y":432
+                }, 
+                {
+                 "gid":21,
+                 "height":16,
+                 "id":60,
+                 "name":"Kalvarus",
+                 "properties":
+                    {
+                     "flavorText":"Always have FUN!"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":720,
+                 "y":464
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -801,7 +845,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":58,
+ "nextobjectid":61,
  "orientation":"orthogonal",
  "properties":
     {
