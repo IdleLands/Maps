@@ -770,6 +770,18 @@
                  "width":16,
                  "x":720,
                  "y":464
+                }, 
+                {
+                 "gid":73,
+                 "height":16,
+                 "id":61,
+                 "name":"DiCE1904",
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":720,
+                 "y":496
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -845,7 +857,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":61,
+ "nextobjectid":62,
  "orientation":"orthogonal",
  "properties":
     {
