@@ -782,6 +782,26 @@
                  "width":16,
                  "x":720,
                  "y":496
+                }, 
+                {
+                 "gid":67,
+                 "height":16,
+                 "id":62,
+                 "name":"Irwin",
+                 "properties":
+                    {
+                     "flavorText":"Don't let your dreams be dreams."
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":720,
+                 "y":528
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -857,7 +877,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":62,
+ "nextobjectid":63,
  "orientation":"orthogonal",
  "properties":
     {
