@@ -14,7 +14,9 @@ module.exports.SimpleMap = class Map {
     this.height = this.map.height;
     this.width = this.map.width;
 
-    this.name = this.map.properties.name;
+    if(this.map && this.map.properties) {
+      this.name = this.map.properties.name;
+    }
 
     this.loadRegions();
 
