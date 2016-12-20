@@ -6442,8 +6442,8 @@
                  "name":"ToLove-1",
                  "properties":
                     {
-                     "destx":"2",
-                     "desty":"9",
+                     "destx":"3",
+                     "desty":"10",
                      "map":"Dungeon of Love -1",
                      "movementType":"descend",
                      "requireHoliday":"valentine"
