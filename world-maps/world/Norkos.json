@@ -6439,14 +6439,14 @@
                  "gid":1,
                  "height":16,
                  "id":506,
-                 "name":"ToLove",
+                 "name":"ToLove-1",
                  "properties":
                     {
                      "destx":"2",
                      "desty":"9",
                      "map":"Dungeon of Love -1",
                      "movementType":"descend",
-                     "requireHoliday":"Valentine"
+                     "requireHoliday":"valentine"
                     },
                  "propertytypes":
                     {
