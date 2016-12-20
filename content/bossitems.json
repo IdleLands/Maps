@@ -397,6 +397,42 @@
     "lethal": 1,
     "shatter": 1
   },
+  "Acid Wash Pantaloons": {
+    "type": "legs",
+    "agi": 100,
+    "int": 50,
+    "hpregen": 50,
+    "poison": 1,
+    "venom": 1
+  },
+  "Dripping Kris": {
+    "type": "mainhand",
+    "str": 250,
+    "con": 2500,
+    "dex": 1000,
+    "agi": 1500,
+    "int": 1000,
+    "luk": -250,
+    "hpregen": 500,
+    "power": 1,
+    "shatter": 1,
+    "vampire": 1
+  },
+  "Bloodkeeper's Bloodsneakers": {
+    "type": "feet",
+    "str": 350,
+    "con": 1500,
+    "dex": 250,
+    "agi": 550,
+    "int": 900,
+    "luk": -250,
+    "damageReduction": 150,
+    "defense": 2,
+    "glowing": 1,
+    "hpregen": 700,
+    "offense": 2,
+    "xp": 2
+  },
   "dSolver's Feather": {
     "type": "mainhand",
     "str": 50,

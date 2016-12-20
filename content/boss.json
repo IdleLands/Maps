@@ -1208,5 +1208,58 @@
         "collectibles": [
             { "name": "Twisted Appendage", "dropPercent": 80, "storyline": "Lore: Fate Lake", "flavorText": "One of many lost limbs from your battle with the Fate-Twisted Lake Monstrosity." }
         ]
+    },
+    "Blood Ooze": {
+        "respawn": 10800,
+        "availableScore": 2400,
+        "stats": {
+            "class": "Monster",
+            "gender": "not a bear",
+            "hp": 21995,
+            "mp": 1000,
+            "level": 25,
+            "str": 720,
+            "dex": 405,
+            "agi": 450,
+            "int": 500,
+            "poison": 2,
+            "venom": 1,
+            "damageReduction": 350,
+            "defense": 1,
+            "hpregen": 350
+        },
+        "items": [
+            { "name": "Acid Wash Pantaloons", "dropPercent": 90 }
+        ]
+    },
+    "The Bloodkeeper": {
+        "respawn": 10800,
+        "availableScore": 6000,
+        "stats": {
+            "class": "Necromancer",
+            "hp": 1100000,
+            "level": 150,
+            "str": 15000,
+            "con": 15000,
+            "dex": 9000,
+            "agi": 9000,
+            "int": 30000,
+            "luk": 150,
+            "aegis": 1,
+            "dance": 1,
+            "prone": 1,
+            "deadeye": 1,
+            "shatter": 2,
+            "silver": 1,
+            "glowing": 1,
+            "vorpal": 1,
+            "offense": 2,
+            "defense": 2,
+            "hpregen": 4000
+        },
+        "items": [
+            { "name": "Dripping Kris", "dropPercent": 80 },
+            { "name": "Bloodkeeper's Bloodsneakers", "dropPercent": 90 }
+        ]
     }
 }

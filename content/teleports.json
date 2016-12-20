@@ -315,6 +315,18 @@
     	    "formalName": "Fate Lake",
     	    "x": 20,
     	    "y": 25
-    	}
+    	},
+        "christmas": {
+            "map": "Norkos",
+            "formalName": "the North Pole",
+            "x": 115,
+            "y": 1
+        },
+        "valentines": {
+            "map": "Norkos",
+            "formalName": "the Dungeon of Love",
+            "x": 213,
+            "y": 223
+        }
     }
 }

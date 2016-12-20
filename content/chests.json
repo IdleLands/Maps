@@ -72,5 +72,12 @@
             "Source of Fate",
             "Fate-Hardened Scales"
         ]
+    },
+    "Valentine Gear": {
+        "items": [
+            "Lovely Quiver",
+            "Tiny Wings",
+            "Mibru, Javelin of the Loveseeker"
+        ]
     }
 }
