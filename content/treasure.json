@@ -266,5 +266,40 @@
     "defense": 1,
     "glowing": 1,
     "sentimentality": 500
+  },
+  "Lovely Quiver": {
+    "type": "body",
+    "str": 143,
+    "con": 143,
+    "dex": 143,
+    "agi": 1443,
+    "int": 143,
+    "luk": 143,
+    "gold": 20,
+    "power": 1,
+    "silver": 1
+  },
+  "Tiny Wings": {
+    "type": "body",
+    "str": 143,
+    "con": 1443,
+    "dex": 1443,
+    "agi": 1443,
+    "int": 143,
+    "luk": 143,
+    "dance": 1,
+    "xp": 3
+  },
+  "Mibru, Javelin of the Loveseeker": {
+    "type": "offhand",
+    "str": 1443,
+    "con": 1443,
+    "dex": 143,
+    "agi": 143,
+    "int": 143,
+    "luk": 143,
+    "deadeye": 1,
+    "lethal": 1,
+    "prone": 1
   }
 }
