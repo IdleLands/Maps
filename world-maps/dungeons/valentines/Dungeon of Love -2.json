@@ -404,6 +404,14 @@
         }],
  "nextobjectid":31,
  "orientation":"orthogonal",
+ "properties":
+    {
+     "name":"dungeon of love -2"
+    },
+ "propertytypes":
+    {
+     "name":"string"
+    },
  "renderorder":"right-down",
  "tileheight":16,
  "tilesets":[
