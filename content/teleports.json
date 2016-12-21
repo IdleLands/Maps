@@ -57,11 +57,183 @@
             "requiredRegionVisit": "Vocalnus Town"
         }
     },
+    "trainers": {
+        "archer": {
+            "map": "Leviathan Mountain",
+            "formalName": "the Archer Trainer",
+            "x": 40,
+            "y": 39
+        },
+        "barbarian": {
+            "map": "Norkos",
+            "formalName": "the Barbarian Trainer",
+            "x": 112,
+            "y": 14
+        },
+        "bard": {
+            "map": "Bard Island -1",
+            "formalName": "the Bard Trainer",
+            "x": 4,
+            "y": 4
+        },
+        "bitomancer": {
+            "map": "Norkos",
+            "formalName": "the Bitomancer Trainer",
+            "x": 165,
+            "y": 154
+        },
+        "cleric": {
+            "map": "Norkos",
+            "formalName": "the Cleric Trainer",
+            "x": 38,
+            "y": 23
+        },
+        "fighter": {
+            "map": "Norkos",
+            "formalName": "the Fighter Trainer",
+            "x": 43,
+            "y": 23
+        },
+        "generalist": {
+            "map": "Norkos",
+            "formalName": "the Generalist Trainer",
+            "x": 10,
+            "y": 14
+        },
+        "jester": {
+            "map": "Norkos Dungeon -5",
+            "formalName": "the Jester Trainer",
+            "x": 39,
+            "y": 44
+        },
+        "mage": {
+            "map": "Norkos",
+            "formalName": "the Mage Trainer",
+            "x": 47,
+            "y": 23
+        },
+        "magicalmonster": {
+            "map": "Minotaur Maze -3",
+            "formalName": "the MagicalMonster Trainer",
+            "x": 22,
+            "y": 2
+        },
+        "monster": {
+            "map": "Mythos -2",
+            "formalName": "the Monster Trainer",
+            "x": 6,
+            "y": 19
+        },
+        "necromancer": {
+            "map": "Dark Tower -1",
+            "formalName": "the Necromancer Trainer",
+            "x": 9,
+            "y": 2
+        },
+        "pirate": {
+            "map": "Norkos",
+            "formalName": "the Pirate Trainer",
+            "x": 219,
+            "y": 49
+        },
+        "rogue": {
+            "map": "Norkos Prison -1",
+            "formalName": "the Rogue Trainer",
+            "x": 34,
+            "y": 1
+        },
+        "sandwichartist": {
+            "map": "Norkos",
+            "formalName": "the Sandwich Artist Trainer",
+            "x": 56,
+            "y": 11
+        }
+    },
+    "other": {
+        "start": {
+            "map": "Norkos",
+            "formalName": "the Start Location",
+            "x": 10,
+            "y": 10
+        },
+        "itsatrap!": {
+            "map": "Norkos",
+            "formalName": "the Jail",
+            "x": 13,
+            "y": 44
+        },
+    	"fatepools": {
+    	    "map": "Fate Pools -2",
+    	    "formalName": "the Fate Pools",
+    	    "x": 17,
+    	    "y": 12
+    	},
+    	"impossible": {
+    	    "map": "Norkos Dungeon -9",
+    	    "formalName": "the Hax0r Place",
+    	    "x": 2,
+    	    "y": 2
+    	},
+    	"fatelake": {
+    	    "map": "Fate Lake",
+    	    "formalName": "Fate Lake",
+    	    "x": 20,
+    	    "y": 25
+    	},
+    	"Hi 2 U": {
+    	    "map": "Norkos Dungeon -4",
+    	    "formalName": "the Hi 2 U Monument",
+    	    "x": 2,
+    	    "y": 2
+    	},
+    	"BDKhoard": {
+    	    "map": "Mythos -2",
+    	    "formalName": "the Black Dragon King's Treasure Hoard",
+    	    "x": 80,
+    	    "y": 3
+    	},
+    	"merchantguildlvault": {
+    	    "map": "Merchant's Guild",
+    	    "formalName": "the Merchant's Guild Locked Vault",
+    	    "x": 8,
+    	    "y": 64
+    	},
+    	"merchantguildrvault": {
+    	    "map": "Merchant's Guild",
+    	    "formalName": "the Merchant's Guild Locked Vault",
+    	    "x": 41,
+    	    "y": 64
+    	},
+        "hallofheroes": {
+            "map": "Hall of Heroes",
+            "formalName": "the Hall of Heroes",
+            "x": 23,
+            "y": 15
+        },
+        "christmas": {
+            "map": "Norkos",
+            "formalName": "the North Pole",
+            "x": 115,
+            "y": 1
+        },
+        "valentines": {
+            "map": "Norkos",
+            "formalName": "the Dungeon of Love",
+            "x": 213,
+            "y": 223
+        }
+    },
     "bosses": {
         "goblinlord": {
             "map": "Norkos Dungeon -1",
             "formalName": "the Goblin Lord",
             "x": 41,
+            "y": 14
+        },
+        "dChickenproblemsolver": {
+            "map": "Norkos",
+            "formalName": "dChicken Problem Solver",
+            "x": 23,
             "y": 14
         },
         "mummylord": {
@@ -76,78 +248,336 @@
             "x": 4,
             "y": 4
         },
-        "lucifer": {
+        "warden": {
+            "map": "Norkos Dungeon -10",
+            "formalName": "the Warden of Norkos",
+            "x": 27,
+            "y": 16
+	},
+        "maelianninja": {
+            "map": "Maeles Dungeon -3",
+            "formalName": "the Maelian Ninja Master",
+            "x": 25,
+            "y": 1
+	},
+        "emerisstheguardian": {
             "map": "Norkos",
-            "formalName": "Lucifer the Flame-Born",
-            "x": 236,
-            "y": 40
-        },
+            "formalName": "Emeriss the Guardian",
+            "x": 103,
+            "y": 48
+	},
+        "trustee": {
+            "map": "Norkos Prison -2",
+            "formalName": "the Trustee Rakshasha",
+            "x": 18,
+            "y": 9
+	},
         "blackdragon": {
             "map": "Mythos -2",
             "formalName": "the Black Dragon King",
             "x": 64,
             "y": 4
         },
-        "trustee": {
-            "map": "Norkos Prison -2",
-            "formalName": "the Trustee Rakshasha",
-            "x": 18,
-            "y": 9
-		},
-        "warden": {
-            "map": "Norkos Dungeon -10",
-            "formalName": "the Warden of Norkos",
-            "x": 27,
-            "y": 16
-		},
-        "griffin": {
-            "map": "Vocalnus",
-            "formalName": "the Gryffyndor House Representative",
-            "x": 93,
-            "y": 35
-		},
-        "skydragon": {
-            "map": "Vocalnus",
-            "formalName": "the Sky Dragon of Vocalnus",
-            "x": 12,
-            "y": 3
-		},
-        "gaiden": {
-            "map": "Maeles Dungeon -3",
-            "formalName": "Maelian Ninja Master",
-            "x": 25,
-            "y": 1
-		},
         "childminotaur": {
             "map": "Minotaur Maze -1",
             "formalName": "the Child Minotaur",
             "x": 10,
             "y": 41
-		},
+	},
         "siblingminotaur": {
             "map": "Minotaur Maze -2",
             "formalName": "the Sibling Minotaur",
             "x": 2,
             "y": 32
-		},
+	},
         "elderminotaur": {
             "map": "Minotaur Maze -3",
             "formalName": "the Elder Minotaur",
             "x": 5,
             "y": 28
-		},
+	},
         "kingminotaur": {
             "map": "Minotaur Maze -4",
             "formalName": "the King Minotaur",
             "x": 23,
             "y": 24
-		},
+	},
+        "vampirelord": {
+            "map": "Vampire Lair +1",
+            "formalName": "the Vampire Lord",
+            "x": 6,
+            "y": 4
+	},
+        "cloudgiant": {
+            "map": "Leviathan Mountain",
+            "formalName": "the Cloud Giant",
+            "x": 24,
+            "y": 9
+	},
+        "piratecaptain": {
+            "map": "Haunted Ship -2",
+            "formalName": "the Ghostly Pirate Captain",
+            "x": 6,
+            "y": 17
+	},
+        "babyred": {
+            "map": "Mama Red Dragon Lair",
+            "formalName": "the Baby Red Dragon",
+            "x": 23,
+            "y": 3
+	},
+        "mamared": {
+            "map": "Mama Red Dragon Lair",
+            "formalName": "the Mama Red Dragon",
+            "x": 18,
+            "y": 15
+	},
+        "lichanger": {
+            "map": "Lich Brothers Mansion",
+            "formalName": "the Lich Brother of Anger",
+            "x": 10,
+            "y": 14
+	},
+        "lichfear": {
+            "map": "Lich Brothers Mansion",
+            "formalName": "the Lich Brother of Fear",
+            "x": 15,
+            "y": 13
+	},
+        "lichdecay": {
+            "map": "Lich Brothers Mansion",
+            "formalName": "the Lich Brother of Decay",
+            "x": 22,
+            "y": 11
+	},
+        "lichinsanity": {
+            "map": "Lich Brothers Mansion",
+            "formalName": "the Lich Brother of Insanity",
+            "x": 28,
+            "y": 15
+	},
+        "lichdeath": {
+            "map": "Lich Brothers Mansion",
+            "formalName": "the Lich Brother of Death",
+            "x": 33,
+            "y": 13
+	},
+        "lichlord": {
+            "map": "Lich Brothers Mansion",
+            "formalName": "the Lich Lord",
+            "x": 34,
+            "y": 8
+	},
+        "dwarflord": {
+            "map": "Ancient Dwarven Ruins -2",
+            "formalName": "the Venerable Dwarven Lord",
+            "x": 16,
+            "y": 27
+        },
+        "mushroombeast": {
+            "map": "Homlet Caves",
+            "formalName": "the Mushroom Beast",
+            "x": 73,
+            "y": 63
+        },
+        "christmaselves": {
+            "map": "North Pole",
+            "formalName": "the Christmas Elves",
+            "x": 31,
+            "y": 58
+        },
+        "reindeerwarden": {
+            "map": "North Pole",
+            "formalName": "the Reindeer Warden",
+            "x": 10,
+            "y": 12
+        },
+        "santa": {
+            "map": "North Pole",
+            "formalName": "Santa, Lord of Presents",
+            "x": 33,
+            "y": 4
+        },
+        "lucifer": {
+            "map": "Norkos",
+            "formalName": "Lucifer the Flame-Born",
+            "x": 236,
+            "y": 40
+        },
         "greendragon": {
             "map": "Dark Tower -3",
             "formalName": "the Green Dragon",
             "x": 26,
             "y": 30
-		}		
+	},
+        "fighterguardian": {
+            "map": "Dark Tower -1",
+            "formalName": "the Fighter Guardian",
+            "x": 16,
+            "y": 4
+	},
+        "mageguardian": {
+            "map": "Dark Tower -1",
+            "formalName": "the Mage Guardian",
+            "x": 16,
+            "y": 12
+	},
+        "clericguardian": {
+            "map": "Dark Tower -1",
+            "formalName": "the Cleric Guardian",
+            "x": 11,
+            "y": 4
+	},
+        "generalistguardian": {
+            "map": "Dark Tower -1",
+            "formalName": "the Generalist Guardian",
+            "x": 11,
+            "y": 12
+	},
+        "guardianlord": {
+            "map": "Dark Tower -1",
+            "formalName": "the Guardian Lord",
+            "x": 1,
+            "y": 9
+	},
+        "barney": {
+            "map": "Evil Norkos",
+            "formalName": "Barney",
+            "x": 46,
+            "y": 66
+	},
+        "necromancerguardian": {
+            "map": "Evil Norkos",
+            "formalName": "the Necromancer Guardian",
+            "x": 34,
+            "y": 25
+	},
+        "firegiant": {
+            "map": "The Fire Plane",
+            "formalName": "the Fire Giant",
+            "x": 34,
+            "y": 32
+	},
+        "spotthedragon": {
+            "map": "The Fire Plane",
+            "formalName": "Spot, the Dragon",
+            "x": 23,
+            "y": 32
+	},
+        "littleyeti": {
+            "map": "Norkos Fisheries +1",
+            "formalName": "the Little Yeti",
+            "x": 32,
+            "y": 4
+	},
+        "leviathan": {
+            "map": "Norkos",
+            "formalName": "the Leviathan",
+            "x": 9,
+            "y": 241
+	},
+        "snowbeast": {
+            "map": "Norkos",
+            "formalName": "the Snowbeast",
+            "x": 202,
+            "y": 118
+	},
+        "cavecreature": {
+            "map": "Norkos",
+            "formalName": "the Unspeakably Horrible Cave Creature",
+            "x": 1,
+            "y": 107
+	},
+        "basilisk": {
+            "map": "Norkos",
+            "formalName": "the Basilisk",
+            "x": 131,
+            "y": 3
+	},
+        "slicer": {
+            "map": "Norkos Dungeon -7",
+            "formalName": "Slicer",
+            "x": 25,
+            "y": 26
+	},
+        "smasher": {
+            "map": "Norkos Dungeon -7",
+            "formalName": "Smasher",
+            "x": 1,
+            "y": 23
+	},
+        "naganecromancer": {
+            "map": "Norkos Dungeon -8",
+            "formalName": "the Naga Necromancer",
+            "x": 47,
+            "y": 32
+	},
+        "lordwaxington": {
+            "map": "Funhouse -3",
+            "formalName": "Lord Waxington",
+            "x": 28,
+            "y": 5
+	},
+        "skeletonparty": {
+            "map": "Funhouse -4",
+            "formalName": "the Spooky Skeletons",
+            "x": 9,
+            "y": 8
+	},
+        "norkiannecromancer": {
+            "map": "The Elemental Plane -3",
+            "formalName": "the Norkian Necromancer",
+            "x": 76,
+            "y": 70
+	},
+        "livingcrystal": {
+            "map": "The Elemental Plane -3",
+            "formalName": "the Living Crystal",
+            "x": 7,
+            "y": 15
+	},
+        "astralguards": {
+            "map": "The Elemental Plane -3",
+            "formalName": "the Astral Guards",
+            "x": 36,
+            "y": 51
+	},
+        "astralbeast": {
+            "map": "The Elemental Plane -3",
+            "formalName": "the Astral Beast",
+            "x": 37,
+            "y": 59
+	},
+        "griffin": {
+            "map": "Vocalnus",
+            "formalName": "the Gryffyndor House Representative",
+            "x": 93,
+            "y": 35
+	},
+        "skydragon": {
+            "map": "Vocalnus",
+            "formalName": "the Sky Dragon of Vocalnus",
+            "x": 12,
+            "y": 3
+	},
+        "fatemonster": {
+            "map": "Fate Lake",
+            "formalName": "the Fate-Twisted Lake Monstrosity",
+            "x": 21,
+            "y": 57
+	},
+        "bloodooze": {
+            "map": "Dungeon of Love -1",
+            "formalName": "the Blood Ooze",
+            "x": 18,
+            "y": 39
+	},
+        "bloodkeeper": {
+            "map": "Dungeon of Love -1",
+            "formalName": "the Bloodkeeper",
+            "x": 25,
+            "y": 38
+	}
     },
     "dungeons": {
         "norkosdungeon": {
@@ -191,142 +621,60 @@
             "formalName": "the Minotaur Maze entrance",
             "x": 238,
             "y": 188
-        }
-    },
-    "trainers": {
-        "archer": {
-            "map": "Leviathan Mountain",
-            "formalName": "the Archer Trainer",
-            "x": 40,
-            "y": 39
         },
-        "barbarian": {
+        "funhouse": {
             "map": "Norkos",
-            "formalName": "the Barbarian Trainer",
+            "formalName": "the Funhouse entrance",
+            "x": 216,
+            "y": 162
+        },
+        "dwarfruins": {
+            "map": "Homlet Caves",
+            "formalName": "the Ancient Dwarven Ruins entrance",
+            "x": 26,
+            "y": 14
+        },
+        "lichmansion": {
+            "map": "Norkos",
+            "formalName": "the Lich Brothers Mansion entrance",
+            "x": 184,
+            "y": 209
+        },
+        "waterplane": {
+            "map": "Norkos",
+            "formalName": "the Water Plane entrance",
+            "x": 154,
+            "y": 124
+        },
+        "elementalplane": {
+            "map": "Norkos",
+            "formalName": "the Elemental Plane entrance",
             "x": 112,
-            "y": 14
+            "y": 183
         },
-        "bard": {
-            "map": "Bard Island -1",
-            "formalName": "the Bard Trainer",
-            "x": 4,
-            "y": 4
-        },
-        "cleric": {
+        "hauntedship": {
             "map": "Norkos",
-            "formalName": "the Cleric Trainer",
-            "x": 38,
-            "y": 23
+            "formalName": "the Haunted Ship entrance",
+            "x": 17,
+            "y": 103
         },
-        "fighter": {
+        "evilnorkos": {
             "map": "Norkos",
-            "formalName": "the Fighter Trainer",
-            "x": 43,
-            "y": 23
+            "formalName": "Evil Norkos entrance",
+            "x": 17,
+            "y": 103
         },
-        "jester": {
-            "map": "Norkos Dungeon -5",
-            "formalName": "the Jester Trainer",
-            "x": 39,
-            "y": 44
-        },
-        "mage": {
+        "dopplegangerlair": {
             "map": "Norkos",
-            "formalName": "the Mage Trainer",
-            "x": 47,
-            "y": 23
+            "formalName": "the Doppleganger Lair",
+            "x": 51,
+            "y": 217
         },
-        "generalist": {
+        "idleisland": {
             "map": "Norkos",
-            "formalName": "the Generalist Trainer",
-            "x": 10,
-            "y": 14
-        },
-        "bitomancer": {
-            "map": "Norkos",
-            "formalName": "the Bitomancer Trainer",
-            "x": 165,
-            "y": 154
-        },
-        "monster": {
-            "map": "Mythos -2",
-            "formalName": "the Monster Trainer",
-            "x": 6,
-            "y": 19
-        },
-        "magicalmonster": {
-            "map": "Minotaur Maze -3",
-            "formalName": "the MagicalMonster Trainer",
-            "x": 22,
-            "y": 2
-        },
-        "necromancer": {
-            "map": "Dark Tower -1",
-            "formalName": "the Necromancer Trainer",
-            "x": 9,
-            "y": 2
-        },
-        "pirate": {
-            "map": "Norkos",
-            "formalName": "the Pirate Trainer",
-            "x": 219,
-            "y": 49
-        },
-        "rogue": {
-            "map": "Norkos Prison -1",
-            "formalName": "the Rogue Trainer",
-            "x": 34,
-            "y": 1
-        },
-        "sandwichartist": {
-            "map": "Norkos",
-            "formalName": "the Sandwich Artist Trainer",
-            "x": 56,
-            "y": 11
-        }
-    },
-    "other": {
-        "start": {
-            "map": "Norkos",
-            "formalName": "the Start Location",
-            "x": 10,
-            "y": 10
-        },
-        "jail": {
-            "map": "Norkos",
-            "formalName": "the Jail",
-            "x": 13,
-            "y": 44
-        },
-    	"fatepools": {
-    	    "map": "Fate Pools -2",
-    	    "formalName": "the Fate Pools",
-    	    "x": 17,
-    	    "y": 12
-    	},
-    	"impossible": {
-    	    "map": "Norkos Dungeon -9",
-    	    "formalName": "the Hax0r Place",
-    	    "x": 2,
-    	    "y": 2
-    	},
-    	"fatelake": {
-    	    "map": "Fate Lake",
-    	    "formalName": "Fate Lake",
-    	    "x": 20,
-    	    "y": 25
-    	},
-        "christmas": {
-            "map": "Norkos",
-            "formalName": "the North Pole",
-            "x": 115,
-            "y": 1
-        },
-        "valentines": {
-            "map": "Norkos",
-            "formalName": "the Dungeon of Love",
-            "x": 213,
-            "y": 223
+            "formalName": "the Idle Island entrance",
+            "x": 87,
+            "y": 242
         }
     }
 }
