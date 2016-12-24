@@ -802,6 +802,18 @@
                  "width":16,
                  "x":720,
                  "y":528
+                }, 
+                {
+                 "gid":73,
+                 "height":16,
+                 "id":63,
+                 "name":"Simplicity",
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":160,
+                 "y":144
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -877,7 +889,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":63,
+ "nextobjectid":65,
  "orientation":"orthogonal",
  "properties":
     {
