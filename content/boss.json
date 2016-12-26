@@ -1261,5 +1261,29 @@
             { "name": "Dripping Kris", "dropPercent": 80 },
             { "name": "Bloodkeeper's Bloodsneakers", "dropPercent": 90 }
         ]
-    }
+    },
+    "Doppleganger": {
+        "respawn": 10800,
+        "availableScore": 2400,
+        "stats": {
+            "class": "random",
+            "hp": 21995,
+            "mp": 1000,
+            "level": 37,
+            "str": 500,
+            "dex": 800,
+            "agi": 750,
+            "int": 405,
+            "luk": 60,
+            "con": 600,
+            "poison": 2,
+            "mirror": 1,
+            "dance": 1,
+            "defense": 1,
+            "prone": 1
+        },
+        "items": [
+            { "name": "Doppleganger Skin", "dropPercent": 70 }
+        ]
+    },
 }

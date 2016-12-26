@@ -28,23 +28,9 @@
          "name":"Interactables",
          "objects":[
                 {
-                 "gid":48,
-                 "height":0,
-                 "name":"",
-                 "properties":
-                    {
-                     "flavorText":"The sign has \"Out to lunch\" painted on it in what appears to be blood."
-                    },
-                 "rotation":0,
-                 "type":"Sign",
-                 "visible":true,
-                 "width":0,
-                 "x":96,
-                 "y":224
-                }, 
-                {
                  "gid":32,
-                 "height":0,
+                 "height":16,
+                 "id":2,
                  "name":"ToNorkos",
                  "properties":
                     {
@@ -53,12 +39,59 @@
                      "map":"Norkos",
                      "movementType":"teleport"
                     },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":16,
                  "y":240
+                }, 
+                {
+                 "gid":26,
+                 "height":16,
+                 "id":3,
+                 "name":"Doppleganger",
+                 "properties":
+                    {
+                     "flavorText":"The Doppleganger's skin remains in flux until it chooses a victim."
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Boss",
+                 "visible":true,
+                 "width":16,
+                 "x":96,
+                 "y":224
+                }, 
+                {
+                 "gid":48,
+                 "height":16,
+                 "id":4,
+                 "name":"",
+                 "properties":
+                    {
+                     "flavorText":"Covered in blood and splintered on the nearby rocks."
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Broken Sign",
+                 "visible":true,
+                 "width":16,
+                 "x":96,
+                 "y":192
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -67,26 +100,21 @@
          "x":0,
          "y":0
         }],
+ "nextobjectid":5,
  "orientation":"orthogonal",
- "properties":
-    {
-
-    },
  "renderorder":"right-down",
  "tileheight":16,
  "tilesets":[
         {
+         "columns":9,
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":112,
+         "imageheight":224,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
-         "properties":
-            {
-
-            },
          "spacing":0,
+         "tilecount":126,
          "tileheight":16,
          "tilewidth":16
         }],
