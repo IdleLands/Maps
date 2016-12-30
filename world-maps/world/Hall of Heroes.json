@@ -826,6 +826,26 @@
                  "width":16,
                  "x":160,
                  "y":176
+                }, 
+                {
+                 "gid":5,
+                 "height":16,
+                 "id":66,
+                 "name":"Fish",
+                 "properties":
+                    {
+                     "flavorText":"The oceans are mine!"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":160,
+                 "y":208
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -901,7 +921,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":66,
+ "nextobjectid":67,
  "orientation":"orthogonal",
  "properties":
     {
