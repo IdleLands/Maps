@@ -846,6 +846,18 @@
                  "width":16,
                  "x":160,
                  "y":208
+                }, 
+                {
+                 "gid":67,
+                 "height":16,
+                 "id":67,
+                 "name":"TheDrug",
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":160,
+                 "y":240
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -921,7 +933,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":67,
+ "nextobjectid":68,
  "orientation":"orthogonal",
  "properties":
     {
