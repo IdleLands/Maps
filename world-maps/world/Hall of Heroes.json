@@ -404,6 +404,14 @@
                  "height":16,
                  "id":31,
                  "name":"OnionKnight",
+                 "properties":
+                    {
+                     "flavorText":" "
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"Hero (Donator)",
                  "visible":true,
@@ -556,6 +564,14 @@
                  "height":16,
                  "id":43,
                  "name":"XazR",
+                 "properties":
+                    {
+                     "flavorText":" "
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"Hero (Donator)",
                  "visible":true,
@@ -648,6 +664,14 @@
                  "height":16,
                  "id":53,
                  "name":"deaditslife",
+                 "properties":
+                    {
+                     "flavorText":" "
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"Hero (Donator)",
                  "visible":true,
@@ -720,6 +744,14 @@
                  "height":16,
                  "id":57,
                  "name":"Plutia",
+                 "properties":
+                    {
+                     "flavorText":" "
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"Hero (Donator)",
                  "visible":true,
@@ -732,6 +764,14 @@
                  "height":16,
                  "id":58,
                  "name":"Spely",
+                 "properties":
+                    {
+                     "flavorText":" "
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"Hero (Donator)",
                  "visible":true,
@@ -744,6 +784,14 @@
                  "height":16,
                  "id":59,
                  "name":"Juicy",
+                 "properties":
+                    {
+                     "flavorText":" "
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"Hero (Donator)",
                  "visible":true,
@@ -776,6 +824,14 @@
                  "height":16,
                  "id":61,
                  "name":"DiCE1904",
+                 "properties":
+                    {
+                     "flavorText":" "
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"Hero (Donator)",
                  "visible":true,
@@ -808,6 +864,14 @@
                  "height":16,
                  "id":63,
                  "name":"Simplicity",
+                 "properties":
+                    {
+                     "flavorText":" "
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"Hero (Donator)",
                  "visible":true,
@@ -820,6 +884,14 @@
                  "height":16,
                  "id":65,
                  "name":"Marmar",
+                 "properties":
+                    {
+                     "flavorText":" "
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"Hero (Donator)",
                  "visible":true,
@@ -852,6 +924,14 @@
                  "height":16,
                  "id":67,
                  "name":"TheDrug",
+                 "properties":
+                    {
+                     "flavorText":" "
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"Hero (Donator)",
                  "visible":true,
