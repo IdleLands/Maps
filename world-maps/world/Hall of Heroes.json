@@ -878,6 +878,26 @@
                  "width":16,
                  "x":160,
                  "y":272
+                }, 
+                {
+                 "gid":24,
+                 "height":16,
+                 "id":69,
+                 "name":"Firesale",
+                 "properties":
+                    {
+                     "flavorText":"The fire rises, come buy some!"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":160,
+                 "y":304
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -953,7 +973,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":69,
+ "nextobjectid":70,
  "orientation":"orthogonal",
  "properties":
     {
