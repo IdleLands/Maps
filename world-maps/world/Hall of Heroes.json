@@ -858,6 +858,26 @@
                  "width":16,
                  "x":160,
                  "y":240
+                }, 
+                {
+                 "gid":71,
+                 "height":16,
+                 "id":68,
+                 "name":"Azure",
+                 "properties":
+                    {
+                     "flavorText":"What is this 'money' you speak'th of?"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":160,
+                 "y":272
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -933,7 +953,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":68,
+ "nextobjectid":69,
  "orientation":"orthogonal",
  "properties":
     {
