@@ -978,6 +978,66 @@
                  "width":16,
                  "x":160,
                  "y":304
+                }, 
+                {
+                 "gid":15,
+                 "height":16,
+                 "id":70,
+                 "name":"Jorgen Von Strangle",
+                 "properties":
+                    {
+                     "flavorText":" "
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":160,
+                 "y":336
+                }, 
+                {
+                 "gid":15,
+                 "height":16,
+                 "id":71,
+                 "name":"Spely",
+                 "properties":
+                    {
+                     "flavorText":" "
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":160,
+                 "y":368
+                }, 
+                {
+                 "gid":15,
+                 "height":16,
+                 "id":72,
+                 "name":"BlackHeart",
+                 "properties":
+                    {
+                     "flavorText":" "
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":160,
+                 "y":400
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1053,7 +1113,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":70,
+ "nextobjectid":73,
  "orientation":"orthogonal",
  "properties":
     {
