@@ -1020,13 +1020,13 @@
                  "y":368
                 }, 
                 {
-                 "gid":15,
+                 "gid":51,
                  "height":16,
-                 "id":72,
+                 "id":73,
                  "name":"BlackHeart",
                  "properties":
                     {
-                     "flavorText":" "
+                     "flavorText":"STAY ANGRY!!!"
                     },
                  "propertytypes":
                     {
@@ -1113,7 +1113,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":73,
+ "nextobjectid":74,
  "orientation":"orthogonal",
  "properties":
     {
