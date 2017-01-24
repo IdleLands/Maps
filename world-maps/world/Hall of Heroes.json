@@ -1038,6 +1038,26 @@
                  "width":16,
                  "x":160,
                  "y":400
+                }, 
+                {
+                 "gid":22,
+                 "height":16,
+                 "id":74,
+                 "name":"Gex87",
+                 "properties":
+                    {
+                     "flavorText":"For the Emperor"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":160,
+                 "y":432
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1113,7 +1133,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":74,
+ "nextobjectid":75,
  "orientation":"orthogonal",
  "properties":
     {
