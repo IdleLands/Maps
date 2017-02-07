@@ -1058,6 +1058,26 @@
                  "width":16,
                  "x":160,
                  "y":432
+                }, 
+                {
+                 "gid":67,
+                 "height":16,
+                 "id":75,
+                 "name":"Tonka",
+                 "properties":
+                    {
+                     "flavorText":"Don't forget to breathe."
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":160,
+                 "y":464
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1133,7 +1153,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":75,
+ "nextobjectid":76,
  "orientation":"orthogonal",
  "properties":
     {
