@@ -455,38 +455,61 @@
   },
   "Radiant Ruby": {
     "type": "trinket",
-    "str": 250,
-    "int": 250
+    "vector": 2,
+    "str": 1000,
+    "int": 1000,
+    "dex": 1000,
+    "glowing": 2,
+    "defense": -2
   },
   "Divine Diamond": {
     "type": "trinket",
-    "str": 400,
-    "con": 400,
-    "agi": -500
+    "vector": 3,
+    "str": 500,
+    "con": 500,
+    "agi": -1000,
+    "int": 5,
+    "dex": 500,
+    "xp": -10,
+    "gold": 200
   },
   "Energetic Emerald": {
     "type": "trinket",
+    "vector": 3,
+    "agi": 1000,
+    "str": 750,
+    "hp": -750,
+    "mp": 750,
     "damageReduction": 500
   },
   "Precious Peridot": {
     "type": "trinket",
-    "luk": 250
+    "vector": 1,
+    "luk": 1500,
+    "crit": 2,
+    "aegis": 1
   },
   "Timeless Topaz": {
     "type": "trinket",
-    "agi": 750
+    "vector": 1,
+    "con": 1000,
+    "int":400,
+    "xp": 10
   },
   "Transcendent Tourmaline": {
     "type": "trinket",
-    "int": 1000,
-    "str": -250,
-    "con": -250,
-    "agi": -250,
-    "dex": -250
+    "vector": 2,
+    "int": 1500,
+    "str": -200,
+    "con": -200,
+    "aegis": 1
   },
   "Subtle Sapphire": {
     "type": "trinket",
+    "vector": 2,
     "dex": 1000,
-    "agi": 1000
+    "agi": 1000,
+    "luk": 500,
+    "dance": 1
   }
 }
