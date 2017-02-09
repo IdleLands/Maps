@@ -443,6 +443,16 @@
     "defense": 1,
     "xp": 1
   },
+  "Guardian Core": {
+    "type": "finger",
+    "str": 8000,
+    "con": 4000,
+    "int": 1500,
+    "deadeye": 1,
+    "hp": 10000,
+    "power": 1,
+    "xp": 3
+  },
   "dSolver's Feather": {
     "type": "mainhand",
     "str": 50,
@@ -488,13 +498,6 @@
     "luk": 1500,
     "crit": 2,
     "aegis": 1
-  },
-  "Timeless Topaz": {
-    "type": "trinket",
-    "vector": 1,
-    "con": 1000,
-    "int":400,
-    "xp": 10
   },
   "Transcendent Tourmaline": {
     "type": "trinket",

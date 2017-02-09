@@ -302,4 +302,11 @@
     "lethal": 1,
     "prone": 1
   }
-}
+},
+  "Timeless Topaz": {
+    "type": "trinket",
+    "vector": 1,
+    "con": 1000,
+    "int":400,
+    "xp": 10
+  }
