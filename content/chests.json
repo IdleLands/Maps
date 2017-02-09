@@ -79,5 +79,10 @@
             "Tiny Wings",
             "Mibru, Javelin of the Loveseeker"
         ]
+    },
+    "Misplaced Treasure": {
+        "items": [
+            "Timeless Topaz"
+        ]
     }
 }

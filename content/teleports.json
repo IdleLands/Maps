@@ -195,14 +195,14 @@
     	"merchantguildlvault": {
     	    "map": "Merchant's Guild",
     	    "formalName": "the Merchant's Guild Locked Vault",
-    	    "x": 8,
-    	    "y": 64
+    	    "x": 1,
+    	    "y": 56
     	},
     	"merchantguildrvault": {
     	    "map": "Merchant's Guild",
     	    "formalName": "the Merchant's Guild Locked Vault",
     	    "x": 41,
-    	    "y": 64
+    	    "y": 66
     	},
         "hallofheroes": {
             "map": "Hall of Heroes",

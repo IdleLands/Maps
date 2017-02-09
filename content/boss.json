@@ -439,7 +439,8 @@
             "glowing": 1
         },
         "items": [
-            { "name": "Lich Lord's Phylactery", "dropPercent": 80 }
+            { "name": "Lich Lord's Phylactery", "dropPercent": 80 },
+            { "name": "Transcendent Tourmaline", "dropPercent": 25 }
         ],
         "collectibles": [
             { "name": "Cursed Orb", "dropPercent": 75, "flavorText": "Every crack looks like it opens to a void.", "storyline": "Era: Corruption"}
@@ -1284,6 +1285,34 @@
         },
         "items": [
             { "name": "Doppleganger Skin", "dropPercent": 70 }
+        ]
+    },
+    "Vault Guardian": {
+        "respawn": 10800,
+        "availableScore": 10000,
+        "stats": {
+            "class": "Fighter",
+            "gender": "not a bear",
+            "hp": 5000000,
+            "level": 235,
+            "str": 100000,
+            "con": 38000,
+            "dex": 48000,
+            "int": 1200,
+            "agi": 22980,
+            "luk": 1000,
+            "crit": 6,
+            "prone": 1,
+            "offense": 4,
+            "defense": 1,
+            "deadeye": 1,
+            "lethal": 1,
+            "power": 1,
+            "shatter": 1
+        },
+        "items": [
+            { "name": "Radiant Ruby", "dropPercent": 25 },
+            { "name": "Guardian Core", "dropPercent": 80 }
         ]
     }
 }
