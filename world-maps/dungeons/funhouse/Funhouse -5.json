@@ -12,7 +12,7 @@
          "y":0
         }, 
         {
-         "data":[3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 0, 0, 46, 3, 0, 0, 0, 0, 3, 16, 0, 0, 0, 0, 0, 0, 0, 0, 16, 3, 0, 0, 0, 0, 0, 0, 3, 3, 0, 0, 0, 3, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 3, 3, 44, 0, 0, 3, 0, 0, 0, 0, 3, 0, 0, 0, 3, 3, 3, 3, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 3, 3, 44, 0, 0, 3, 0, 0, 0, 0, 3, 0, 0, 0, 3, 0, 39, 3, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 3, 3, 44, 0, 47, 3, 0, 0, 0, 0, 3, 0, 0, 0, 3, 0, 46, 3, 0, 0, 0, 3, 3, 0, 0, 0, 0, 3, 3, 3, 44, 0, 47, 3, 0, 0, 0, 0, 3, 0, 0, 0, 3, 0, 0, 3, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 3, 3, 3, 3, 3, 3, 0, 0, 0, 0, 3, 0, 0, 0, 3, 45, 45, 3, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 3, 3, 3, 3, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 3, 0, 0, 0, 0, 0, 0, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 46, 0, 37, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 16, 46, 46, 0, 3, 0, 0, 0, 0, 0, 0, 3, 3, 44, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 44, 3, 3, 0, 0, 0, 0, 0, 3, 3, 44, 0, 0, 0, 0, 0, 0, 0, 3, 3, 3, 3, 45, 0, 0, 0, 0, 0, 46, 3, 0, 0, 0, 0, 0, 0, 3, 3, 44, 0, 0, 0, 0, 0, 0, 0, 44, 44, 0, 3, 0, 0, 0, 0, 0, 0, 44, 3, 3, 3, 3, 3, 0, 0, 3, 3, 0, 44, 45, 44, 39, 0, 0, 0, 0, 0, 44, 3, 39, 0, 0, 0, 0, 0, 0, 3, 0, 0, 45, 44, 0, 0, 3, 3, 3, 3, 3, 3, 3, 3, 0, 0, 0, 0, 55, 3, 0, 0, 0, 0, 0, 0, 0, 44, 0, 0, 0, 44, 0, 0, 3, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 44, 3, 0, 0, 0, 0, 0, 0, 0, 44, 44, 0, 0, 44, 0, 0, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 55, 3, 37, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 44, 3, 0, 39, 39, 45, 37, 46, 0, 0, 0, 0, 0, 0, 0, 45, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3],
+         "data":[3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 0, 0, 46, 3, 0, 0, 0, 0, 3, 16, 0, 0, 0, 0, 0, 0, 0, 0, 16, 3, 0, 0, 0, 0, 0, 0, 3, 3, 0, 0, 0, 3, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 3, 3, 44, 0, 0, 3, 0, 0, 0, 0, 3, 0, 0, 0, 3, 3, 3, 3, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 3, 3, 44, 0, 0, 3, 0, 0, 0, 0, 3, 0, 0, 0, 3, 0, 39, 3, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 3, 3, 44, 0, 47, 3, 0, 0, 0, 0, 3, 0, 0, 0, 3, 0, 46, 3, 0, 0, 0, 3, 3, 0, 0, 0, 0, 3, 3, 3, 44, 0, 47, 3, 0, 0, 0, 0, 3, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 3, 3, 3, 3, 3, 3, 0, 0, 0, 0, 3, 0, 0, 0, 3, 45, 45, 3, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 3, 3, 3, 3, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 3, 0, 0, 0, 0, 0, 0, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 46, 0, 37, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 16, 46, 46, 0, 3, 0, 0, 0, 0, 0, 0, 3, 3, 44, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 44, 3, 3, 0, 0, 0, 0, 0, 3, 3, 44, 0, 0, 0, 0, 0, 0, 0, 3, 3, 3, 3, 45, 0, 0, 0, 0, 0, 46, 3, 0, 0, 0, 0, 0, 0, 3, 3, 44, 0, 0, 0, 0, 0, 0, 0, 44, 44, 0, 3, 0, 0, 0, 0, 0, 0, 44, 3, 3, 3, 3, 3, 0, 0, 3, 3, 0, 44, 45, 44, 39, 0, 0, 0, 0, 0, 44, 3, 39, 0, 0, 0, 0, 0, 0, 3, 0, 0, 45, 44, 0, 0, 3, 3, 3, 3, 3, 3, 3, 3, 0, 0, 0, 0, 55, 3, 0, 0, 0, 0, 0, 0, 0, 44, 0, 0, 0, 44, 0, 0, 3, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 44, 3, 0, 0, 0, 0, 0, 0, 0, 44, 44, 0, 0, 44, 0, 0, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 55, 3, 37, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 44, 3, 0, 39, 39, 45, 37, 46, 0, 0, 0, 0, 0, 0, 0, 45, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3],
          "height":22,
          "name":"Blocking",
          "opacity":1,
@@ -40,6 +40,14 @@
                      "movementType":"teleport",
                      "requireCollectible":""
                     },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string",
+                     "requireCollectible":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -60,6 +68,14 @@
                      "movementType":"teleport",
                      "requireCollectible":""
                     },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string",
+                     "requireCollectible":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -72,10 +88,6 @@
                  "height":16,
                  "id":4,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -88,10 +100,6 @@
                  "height":16,
                  "id":5,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -107,6 +115,10 @@
                  "properties":
                     {
                      "flavorText":"Buy something, will ya!"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
                     },
                  "rotation":0,
                  "type":"Sign",
@@ -125,6 +137,11 @@
                      "flavorText":"I survived the Frigri Funhouse!",
                      "storyline":"Lore: Funhouse"
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "storyline":"string"
+                    },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
@@ -141,6 +158,10 @@
                     {
                      "flavorText":"Thanks for attending the Funhouse! Come Again!"
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"Sign",
                  "visible":true,
@@ -156,6 +177,10 @@
                  "properties":
                     {
                      "flavorText":"Funhouse Employee Break Room: Now mandated by the Norkos Council"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
                     },
                  "rotation":0,
                  "type":"Sign",
@@ -176,6 +201,13 @@
                      "map":"Funhouse -2",
                      "movementType":"teleport"
                     },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -194,6 +226,13 @@
                      "desty":"4",
                      "map":"Funhouse -3",
                      "movementType":"teleport"
+                    },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
                     },
                  "rotation":0,
                  "type":"Teleport",
@@ -214,6 +253,13 @@
                      "map":"Funhouse -4",
                      "movementType":"teleport"
                     },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -232,6 +278,13 @@
                      "desty":"3",
                      "map":"Funhouse -2",
                      "movementType":"teleport"
+                    },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
                     },
                  "rotation":0,
                  "type":"Teleport",
@@ -252,6 +305,13 @@
                      "map":"Funhouse -2",
                      "movementType":"teleport"
                     },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -270,6 +330,13 @@
                      "desty":"3",
                      "map":"Funhouse -2",
                      "movementType":"teleport"
+                    },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
                     },
                  "rotation":0,
                  "type":"Teleport",
@@ -290,6 +357,13 @@
                      "map":"Funhouse -2",
                      "movementType":"teleport"
                     },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -305,6 +379,10 @@
                  "properties":
                     {
                      "flavorText":"Funhouse Supply Closet: Employees only!"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
                     },
                  "rotation":0,
                  "type":"Sign",
@@ -323,6 +401,11 @@
                      "forceEvent":"Merchant",
                      "merchantBonus":"350"
                     },
+                 "propertytypes":
+                    {
+                     "forceEvent":"string",
+                     "merchantBonus":"string"
+                    },
                  "rotation":0,
                  "type":"Merchant",
                  "visible":true,
@@ -338,6 +421,10 @@
                  "properties":
                     {
                      "forceEvent":"ItemBless"
+                    },
+                 "propertytypes":
+                    {
+                     "forceEvent":"string"
                     },
                  "rotation":0,
                  "type":"",
@@ -355,6 +442,10 @@
                     {
                      "forceEvent":"ItemBless"
                     },
+                 "propertytypes":
+                    {
+                     "forceEvent":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -370,6 +461,10 @@
                  "properties":
                     {
                      "forceEvent":"ItemBless"
+                    },
+                 "propertytypes":
+                    {
+                     "forceEvent":"string"
                     },
                  "rotation":0,
                  "type":"",
@@ -387,12 +482,40 @@
                     {
                      "flavorText":"I'm not paying that much for an inflatable tombstone!"
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"Tombstone",
                  "visible":true,
                  "width":16,
                  "x":224,
                  "y":208
+                }, 
+                {
+                 "gid":27,
+                 "height":16,
+                 "id":37,
+                 "name":"Misplaced Treasure",
+                 "rotation":0,
+                 "type":"Treasure",
+                 "visible":true,
+                 "width":16,
+                 "x":224,
+                 "y":112
+                }, 
+                {
+                 "gid":18,
+                 "height":16,
+                 "id":38,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":256,
+                 "y":112
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -410,16 +533,23 @@
                  "height":144,
                  "id":7,
                  "name":"Funhouse Gift Shop",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":416,
                  "x":16,
                  "y":192
+                }, 
+                {
+                 "height":48,
+                 "id":39,
+                 "name":"Funhouse Supply Closet",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":48,
+                 "x":224,
+                 "y":64
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -428,26 +558,19 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":37,
+ "nextobjectid":41,
  "orientation":"orthogonal",
- "properties":
-    {
-
-    },
  "renderorder":"right-down",
  "tileheight":16,
  "tilesets":[
         {
+         "columns":9,
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
          "imageheight":224,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
-         "properties":
-            {
-
-            },
          "spacing":0,
          "tilecount":126,
          "tileheight":16,
