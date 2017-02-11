@@ -1078,6 +1078,26 @@
                  "width":16,
                  "x":160,
                  "y":464
+                }, 
+                {
+                 "gid":51,
+                 "height":16,
+                 "id":76,
+                 "name":"baram",
+                 "properties":
+                    {
+                     "flavorText":"smooth."
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":592,
+                 "y":464
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1153,7 +1173,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":76,
+ "nextobjectid":77,
  "orientation":"orthogonal",
  "properties":
     {
