@@ -1098,6 +1098,26 @@
                  "width":16,
                  "x":592,
                  "y":464
+                }, 
+                {
+                 "gid":79,
+                 "height":16,
+                 "id":77,
+                 "name":"Therealtahu",
+                 "properties":
+                    {
+                     "flavorText":"Resident Game Breaker"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Developer)",
+                 "visible":true,
+                 "width":16,
+                 "x":432,
+                 "y":48
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1173,7 +1193,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":77,
+ "nextobjectid":78,
  "orientation":"orthogonal",
  "properties":
     {
