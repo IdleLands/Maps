@@ -1138,6 +1138,26 @@
                  "width":16,
                  "x":592,
                  "y":432
+                }, 
+                {
+                 "gid":20,
+                 "height":16,
+                 "id":79,
+                 "name":"Krondor",
+                 "properties":
+                    {
+                     "flavorText":"Gotta get them all!"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":592,
+                 "y":400
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1213,7 +1233,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":79,
+ "nextobjectid":80,
  "orientation":"orthogonal",
  "properties":
     {
