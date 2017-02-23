@@ -1158,6 +1158,90 @@
                  "width":16,
                  "x":592,
                  "y":400
+                }, 
+                {
+                 "gid":15,
+                 "height":16,
+                 "id":80,
+                 "name":"JuliusSeizure",
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":592,
+                 "y":368
+                }, 
+                {
+                 "gid":15,
+                 "height":16,
+                 "id":81,
+                 "name":"Anonymous Donator",
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":592,
+                 "y":336
+                }, 
+                {
+                 "gid":67,
+                 "height":16,
+                 "id":82,
+                 "name":"xSkazix",
+                 "properties":
+                    {
+                     "flavorText":"Every little helps"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":592,
+                 "y":304
+                }, 
+                {
+                 "gid":25,
+                 "height":16,
+                 "id":83,
+                 "name":"McCloude",
+                 "properties":
+                    {
+                     "flavorText":"Semper Fi"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":592,
+                 "y":272
+                }, 
+                {
+                 "gid":46,
+                 "height":16,
+                 "id":84,
+                 "name":"EvoGeek",
+                 "properties":
+                    {
+                     "flavorText":"I have no idea what I'm doing"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":592,
+                 "y":240
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1233,7 +1317,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":80,
+ "nextobjectid":85,
  "orientation":"orthogonal",
  "properties":
     {
