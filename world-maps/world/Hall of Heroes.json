@@ -1242,6 +1242,26 @@
                  "width":16,
                  "x":592,
                  "y":240
+                }, 
+                {
+                 "gid":73,
+                 "height":16,
+                 "id":85,
+                 "name":"Hemlock",
+                 "properties":
+                    {
+                     "flavorText":"In the most Dire circumstances, in the most Grizzly of times, even when the world seems to be your Polar opposite, just remember to keep the Bear necessities close to your heart"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":592,
+                 "y":208
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1317,7 +1337,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":85,
+ "nextobjectid":86,
  "orientation":"orthogonal",
  "properties":
     {
