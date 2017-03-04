@@ -404,14 +404,6 @@
                  "height":16,
                  "id":31,
                  "name":"OnionKnight",
-                 "properties":
-                    {
-                     "flavorText":" "
-                    },
-                 "propertytypes":
-                    {
-                     "flavorText":"string"
-                    },
                  "rotation":0,
                  "type":"Hero (Donator)",
                  "visible":true,
@@ -564,14 +556,6 @@
                  "height":16,
                  "id":43,
                  "name":"XazR",
-                 "properties":
-                    {
-                     "flavorText":" "
-                    },
-                 "propertytypes":
-                    {
-                     "flavorText":"string"
-                    },
                  "rotation":0,
                  "type":"Hero (Donator)",
                  "visible":true,
@@ -664,14 +648,6 @@
                  "height":16,
                  "id":53,
                  "name":"deaditslife",
-                 "properties":
-                    {
-                     "flavorText":" "
-                    },
-                 "propertytypes":
-                    {
-                     "flavorText":"string"
-                    },
                  "rotation":0,
                  "type":"Hero (Donator)",
                  "visible":true,
@@ -744,14 +720,6 @@
                  "height":16,
                  "id":57,
                  "name":"Plutia",
-                 "properties":
-                    {
-                     "flavorText":" "
-                    },
-                 "propertytypes":
-                    {
-                     "flavorText":"string"
-                    },
                  "rotation":0,
                  "type":"Hero (Donator)",
                  "visible":true,
@@ -764,14 +732,6 @@
                  "height":16,
                  "id":58,
                  "name":"Spely",
-                 "properties":
-                    {
-                     "flavorText":" "
-                    },
-                 "propertytypes":
-                    {
-                     "flavorText":"string"
-                    },
                  "rotation":0,
                  "type":"Hero (Donator)",
                  "visible":true,
@@ -784,14 +744,6 @@
                  "height":16,
                  "id":59,
                  "name":"Juicy",
-                 "properties":
-                    {
-                     "flavorText":" "
-                    },
-                 "propertytypes":
-                    {
-                     "flavorText":"string"
-                    },
                  "rotation":0,
                  "type":"Hero (Donator)",
                  "visible":true,
@@ -824,14 +776,6 @@
                  "height":16,
                  "id":61,
                  "name":"DiCE1904",
-                 "properties":
-                    {
-                     "flavorText":" "
-                    },
-                 "propertytypes":
-                    {
-                     "flavorText":"string"
-                    },
                  "rotation":0,
                  "type":"Hero (Donator)",
                  "visible":true,
@@ -864,14 +808,6 @@
                  "height":16,
                  "id":63,
                  "name":"Simplicity",
-                 "properties":
-                    {
-                     "flavorText":" "
-                    },
-                 "propertytypes":
-                    {
-                     "flavorText":"string"
-                    },
                  "rotation":0,
                  "type":"Hero (Donator)",
                  "visible":true,
@@ -884,14 +820,6 @@
                  "height":16,
                  "id":65,
                  "name":"Marmar",
-                 "properties":
-                    {
-                     "flavorText":" "
-                    },
-                 "propertytypes":
-                    {
-                     "flavorText":"string"
-                    },
                  "rotation":0,
                  "type":"Hero (Donator)",
                  "visible":true,
@@ -924,14 +852,6 @@
                  "height":16,
                  "id":67,
                  "name":"TheDrug",
-                 "properties":
-                    {
-                     "flavorText":" "
-                    },
-                 "propertytypes":
-                    {
-                     "flavorText":"string"
-                    },
                  "rotation":0,
                  "type":"Hero (Donator)",
                  "visible":true,
@@ -984,14 +904,6 @@
                  "height":16,
                  "id":70,
                  "name":"Jorgen Von Strangle",
-                 "properties":
-                    {
-                     "flavorText":" "
-                    },
-                 "propertytypes":
-                    {
-                     "flavorText":"string"
-                    },
                  "rotation":0,
                  "type":"Hero (Donator)",
                  "visible":true,
@@ -1004,14 +916,6 @@
                  "height":16,
                  "id":71,
                  "name":"Spely",
-                 "properties":
-                    {
-                     "flavorText":" "
-                    },
-                 "propertytypes":
-                    {
-                     "flavorText":"string"
-                    },
                  "rotation":0,
                  "type":"Hero (Donator)",
                  "visible":true,
@@ -1124,14 +1028,6 @@
                  "height":16,
                  "id":78,
                  "name":"Lucker",
-                 "properties":
-                    {
-                     "flavorText":" "
-                    },
-                 "propertytypes":
-                    {
-                     "flavorText":"string"
-                    },
                  "rotation":0,
                  "type":"Hero (Donator)",
                  "visible":true,
@@ -1262,6 +1158,38 @@
                  "width":16,
                  "x":592,
                  "y":208
+                }, 
+                {
+                 "gid":22,
+                 "height":16,
+                 "id":86,
+                 "name":"Seli Taiken",
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":592,
+                 "y":176
+                }, 
+                {
+                 "gid":26,
+                 "height":16,
+                 "id":87,
+                 "name":"Palion",
+                 "properties":
+                    {
+                     "flavorText":"Love is Love"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":592,
+                 "y":144
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1337,7 +1265,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":86,
+ "nextobjectid":88,
  "orientation":"orthogonal",
  "properties":
     {
