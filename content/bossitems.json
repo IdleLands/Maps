@@ -453,6 +453,65 @@
     "power": 1,
     "xp": 3
   },
+  "Mercy Walkers": {
+    "type": "feet",
+    "int": 9200,
+    "luk": 500,
+    "aegis": 1,
+    "crit": 5,
+    "mp": 2000,
+    "xp": 1
+  },
+  "Unwieldy Claymore of Malice": {
+    "type": "offhand",
+    "str": 7500,
+    "con": 3000,
+    "dex": 200,
+    "agi": 150,
+    "offense": 3,
+    "power": 1,
+    "vorpal": 1
+  },
+  "Blue Dragon Head": {
+    "type": "offhand",
+    "str": 3000,
+    "con": 3000,
+    "dex": -200,
+    "agi": 150,
+    "int": 2500,
+    "luk": 350,
+    "damageReduction": 150,
+    "glowing": 1,
+    "gold": 350,
+    "mp": 1000,
+    "vampire": 1
+  },
+  "Rune of Imprisonment": {
+    "type": "hands",
+    "str": 400,
+    "con": -1000,
+    "dex": 15000,
+    "agi": 3000,
+    "luk": 800,
+    "dance": 1,
+    "glowing": 2,
+    "shatter": 1
+  },
+  "Branor's Claws": {
+    "type": "mainhand",
+    "str": 2000,
+    "con": 2000,
+    "dex": 2000,
+    "agi": 1500,
+    "int": 150,
+    "luk": 2500,
+    "glowing": 1,
+    "gold": 250,
+    "offense": 3,
+    "power": 1,
+    "shatter": 1,
+    "vorpal": 1
+  },
   "dSolver's Feather": {
     "type": "mainhand",
     "str": 50,

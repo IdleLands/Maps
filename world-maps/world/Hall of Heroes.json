@@ -1190,6 +1190,58 @@
                  "width":16,
                  "x":592,
                  "y":144
+                }, 
+                {
+                 "gid":67,
+                 "height":16,
+                 "id":88,
+                 "name":"xFlyingMurloc",
+                 "properties":
+                    {
+                     "flavorText":"Keep Moving Forward - Anyfin can happen!"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":688,
+                 "y":528
+                }, 
+                {
+                 "gid":21,
+                 "height":16,
+                 "id":89,
+                 "name":"Aeternalis",
+                 "properties":
+                    {
+                     "flavorText":"Luna nos custodiunt"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":688,
+                 "y":496
+                }, 
+                {
+                 "gid":68,
+                 "height":16,
+                 "id":90,
+                 "name":"Guts",
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":688,
+                 "y":464
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1265,7 +1317,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":88,
+ "nextobjectid":91,
  "orientation":"orthogonal",
  "properties":
     {

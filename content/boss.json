@@ -45,7 +45,7 @@
             { "name": "Mummy Lord Greatsword", "dropPercent": 85 }
         ],
         "collectibles": [
-            { "name": "Solid Gold Amulet", "dropPercent": 20, "storyline": "Lore: Merchant's Guild", "flavorText": "A valuable piece of jewelery stolen centuries ago from the Merchant's Guild.", "rarity": "godly" }
+            { "name": "Solid Gold Amulet", "dropPercent": 20, "storyline": "Lore: Merchant's Guild", "flavorText": "A valuable piece of jewelery stolen centuries ago from the Merchant's Guild." }
         ]
     },
     "Lizard King": {
@@ -65,7 +65,7 @@
             { "name": "Lizard King Staff", "dropPercent": 80 }
         ],
        "collectibles": [
-            { "name": "Large Decorative Key", "dropPercent": 20, "storyline": "Lore: Merchant's Guild", "flavorText": "A solid gold key. Carved in the plaque is the name of a merchant from Raburro.", "rarity": "godly" }
+            { "name": "Large Decorative Key", "dropPercent": 20, "storyline": "Lore: Merchant's Guild", "flavorText": "A solid gold key. Carved in the plaque is the name of a merchant from Raburro." }
         ]
     },
     "Warden of Norkos": {
@@ -103,7 +103,7 @@
             { "name": "Super Shuriken", "dropPercent": 80 }
         ],
        "collectibles": [
-            { "name": "Valuable Spices", "dropPercent": 20, "storyline": "Lore: Merchant's Guild", "flavorText": "Elemental magic gives this spice some extra heat. Very popular in Maeles Town.", "rarity": "godly" }
+            { "name": "Valuable Spices", "dropPercent": 20, "storyline": "Lore: Merchant's Guild", "flavorText": "Elemental magic gives this spice some extra heat. Very popular in Maeles Town." }
         ]
     },
     "Emeriss the Guardian": {
@@ -254,7 +254,7 @@
             { "name": "Halberd of the Giants", "dropPercent": 80 }
         ],
         "collectibles": [
-            { "name": "Crystal of Air", "dropPercent": 30, "storyline": "Era: Corruption", "flavorText": "It's hard to tell, but there are pockets of air in this crystal.", "rarity": "godly" }
+            { "name": "Crystal of Air", "dropPercent": 30, "storyline": "Era: Corruption", "flavorText": "It's hard to tell, but there are pockets of air in this crystal." }
         ]
     },
     "Ghostly Pirate Captain": {
@@ -290,7 +290,7 @@
             { "name": "Fire Infused Dragon Tooth", "dropPercent": 75 }
         ],
         "collectibles": [
-            { "name": "Red Dragon Scale", "dropPercent": 50, "storyline": "Lore: Dragons", "flavorText": "A gleaming ruby-like scale. It's warm to the touch.", "rarity": "idle" }
+            { "name": "Red Dragon Scale", "dropPercent": 50, "storyline": "Lore: Dragons", "flavorText": "A gleaming ruby-like scale. It's warm to the touch." }
         ]
     },
     "Mama Red Dragon": {
@@ -466,7 +466,7 @@
             { "name": "Jewel-Encrusted Pick Axe", "dropPercent": 80 }
         ],
        "collectibles": [
-            { "name": "Jewel-Encrusted Cup", "dropPercent": 20, "storyline": "Lore: Merchant's Guild", "flavorText": "A very expensive looking cup. I wonder what the merchant in Raburro would pay for this?", "rarity": "godly" }
+            { "name": "Jewel-Encrusted Cup", "dropPercent": 20, "storyline": "Lore: Merchant's Guild", "flavorText": "A very expensive looking cup. I wonder what the merchant in Raburro would pay for this?" }
         ]
 		},
     "Mushroom Beast": {
@@ -756,7 +756,7 @@
             { "name": "Necromantic Essence", "dropPercent": 75 }
         ],
         "collectibles": [
-            { "name": "Merchant's Ledger", "dropPercent": 20, "storyline": "Lore: Merchant's Guild", "flavorText": "A long list of many valuable transactions.", "rarity": "godly" }
+            { "name": "Merchant's Ledger", "dropPercent": 20, "storyline": "Lore: Merchant's Guild", "flavorText": "A long list of many valuable transactions." }
         ]
     },
     "Fire Giant": {
@@ -900,7 +900,7 @@
             "venom": 1
         },
         "collectibles": [
-            { "name": "Gorgon Snake", "dropPercent": 5, "storyline": "Memoir: Necromancer", "flavorText": "The Necromancers of olde would oft use artifacts like this to summon powerful monsters.", "rarity": "pro" },
+            { "name": "Gorgon Snake", "dropPercent": 5, "storyline": "Memoir: Necromancer", "flavorText": "The Necromancers of olde would oft use artifacts like this to summon powerful monsters." },
             { "name": "Basilisk Scale", "dropPercent": 95, "storyline": "Lore: Dragons", "flavorText": "This once jet black and red scale has now turned to stone." }
         ]
     },
@@ -1180,7 +1180,7 @@
             { "name": "Nimbus Cloud Mace", "dropPercent": 80 }
         ],
         "collectibles": [
-            { "name": "Ancient Tablet", "dropPercent": 20, "storyline": "Lore: Merchant's Guild", "flavorText": "The tablet comes from a lost civilization deep beneath Vocalnus. Artifacts of this nature are prized by merchants.", "rarity": "godly" }
+            { "name": "Ancient Tablet", "dropPercent": 20, "storyline": "Lore: Merchant's Guild", "flavorText": "The tablet comes from a lost civilization deep beneath Vocalnus. Artifacts of this nature are prized by merchants." }
         ]
     },
     "Fate-Twisted Lake Monstrosity": {
@@ -1314,5 +1314,186 @@
             { "name": "Radiant Ruby", "dropPercent": 25 },
             { "name": "Guardian Core", "dropPercent": 80 }
         ]
+    },
+    "Ukad-Aghag the Exile": {
+        "respawn": 10800,
+        "availableScore": 10000,
+        "stats": {
+            "class": "Cleric",
+            "hp": 4500000,
+            "mp": 4500000,
+            "level": 210,
+            "str": 40000,
+            "dex": 2000,
+            "agi": 9000,
+            "int": 32000,
+            "luk": 2111,
+            "con": 10001,
+            "poison": 12,
+            "deadeye": 1,
+            "defense": 2,
+            "prone": 1
+        },
+        "items": [
+            { "name": "Mercy Walkers", "dropPercent": 71 }
+        ]
+    },
+    "White Dragon": {
+        "respawn": 10800,
+        "availableScore": 9000,
+        "stats": {
+            "class": "Barbarian",
+            "hp": 6000000,
+            "mp": 1400000,
+            "level": 220,
+            "str": 69760,
+            "dex": 13000,
+            "agi": 11005,
+            "int": 680,
+            "luk": 3850,
+            "con": 20000,
+            "offense": 4,
+            "power": 1,
+            "dance": 1,
+            "defense": 3,
+            "prone": 1
+            "damageReduction": 350
+        },
+        "items": [
+            { "name": "Unwieldy Claymore of Malice", "dropPercent": 75 }
+        ]
+    },
+    "Blue Dragon": {
+        "respawn": 10800,
+        "availableScore": 11000,
+        "stats": {
+            "class": "Mage",
+            "hp": 5800000,
+            "mp": 5800000,
+            "level": 225,
+            "str": 3300,
+            "dex": 800,
+            "agi": 750,
+            "int": 45000,
+            "luk": 6700,
+            "con": 6000,
+            "aegis": 1,
+            "crit": 4,
+            "dance": 1,
+            "defense": 2,
+            "prone": 1,
+            "power": 1,
+            "glowing": 1,
+            "shatter": 1,
+            "vampire": 1
+        },
+        "items": [
+            { "name": "Blue Dragon Head", "dropPercent": 90 }
+        ]
+    },
+    "Old Copper Dragon": {
+        "respawn": 10800,
+        "availableScore": 12200,
+        "stats": {
+            "class": "random",
+            "hp": 5950000,
+            "mp": 5000000,
+            "level": 230,
+            "str": 15000,
+            "dex": 12000,
+            "agi": 20000,
+            "int": 19520,
+            "luk": 8000,
+            "con": 10000,
+            "glowing": 2,
+            "silver": 1,
+            "offense": 2,
+            "defense": 2,
+            "prone": 1,
+            "lethal": 1
+        },
+        "items": [
+            { "name": "Rune of Imprisonment", "dropPercent": 80 }
+        ],
+        "collectibles": [
+            { "name": "Splendid Dragon Keyring", "dropPercent": 50, "storyline": "Lore: City of Dragons", "flavorText": "Full of rings to the previous owner's hidden treasure hoards. If only they had left a map." }
+        ]
+    },
+    "Drunken Dragon": {
+        "respawn": 10800,
+        "availableScore": 13400,
+        "stats": {
+            "class": "Pirate",
+            "hp": 6105000,
+            "mp": 999999,
+            "level": 240,
+            "str": 60000,
+            "dex": 30000,
+            "agi": 50000,
+            "int": 12000,
+            "luk": 7777,
+            "con": 22000,
+            "poison": 2,
+            "offense": 5,
+            "dance": 1,
+            "defense": 1,
+            "prone": 1,
+            "power": 1,
+            "damageReduction": 750,
+            "hpregen": 450,
+            "glowing": 1,
+            "shatter": 1
+        },
+        "collectibles": [
+            { "name": "Overflowing Stein", "dropPercent": 75, "storyline": "Lore: City of Dragons", "flavorText": "No matter how many times you empty this magic mug of ale, it always fills to the brim when you open the lid. " }
+        ]
+    },
+    "Branor the Hungry": {
+        "respawn": 10800,
+        "availableScore": 15000,
+        "stats": {
+            "class": "Fighter",
+            "hp": 6257500,
+            "mp": 3500000,
+            "level": 245,
+            "str": 63000,
+            "dex": 43000,
+            "agi": 39000,
+            "int": 19000,
+            "luk": 7200,
+            "con": 26000,
+            "glowing": 2,
+            "deadeye": 1,
+            "offense": 6,
+            "power": 1,
+            "prone": 1,
+            "crit": 3,
+            "damageReduction": 450,
+            "venom": 3
+        },
+        "items": [
+            { "name": "Branor's Claws", "dropPercent": 75 }
+        ]
+    },
+    "Dragon-kin Defender": {
+        "respawn": 10800,
+        "availableScore": 2400,
+        "stats": {
+            "class": "random",
+            "hp": 3500000,
+            "mp": 2000000,
+            "level": 245,
+            "str": 32000,
+            "dex": 32000,
+            "agi": 54000,
+            "int": 19999,
+            "luk": 8000,
+            "con": 29000,
+            "poison": 1,
+            "shatter": 1,
+            "dance": 1,
+            "defense": 1,
+            "prone": 1
+        },
     }
 }

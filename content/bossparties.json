@@ -30,5 +30,13 @@
       "Astral Guard",
       "Astral Guard"
     ]
+  },
+  "Dragon-kin Defenders": {
+    "respawn": 10800,
+    "members": [
+      "Dragon-kin Defender",
+      "Dragon-kin Defender",
+      "Dragon-kin Defender"
+    ]
   }
 }
