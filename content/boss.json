@@ -1356,7 +1356,7 @@
             "power": 1,
             "dance": 1,
             "defense": 3,
-            "prone": 1
+            "prone": 1,
             "damageReduction": 350
         },
         "items": [
