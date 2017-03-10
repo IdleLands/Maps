@@ -221,6 +221,12 @@
             "formalName": "the Dungeon of Love",
             "x": 213,
             "y": 223
+        },
+        "cityofdragonschest": {
+            "map": "Mythos -3",
+            "formalName": "City of Dragons Treasure Chest Teleport Room",
+            "x": 55,
+            "y": 12
         }
     },
     "bosses": {

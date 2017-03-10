@@ -1541,11 +1541,13 @@
                  "properties":
                     {
                      "flavorText":"Starving Dragon-kin trading dragon relics for food.",
+                     "forceEvent":"Merchant",
                      "merchantBonus":"50"
                     },
                  "propertytypes":
                     {
                      "flavorText":"string",
+                     "forceEvent":"string",
                      "merchantBonus":"string"
                     },
                  "rotation":0,
@@ -1585,11 +1587,13 @@
                  "properties":
                     {
                      "flavorText":"Starving Dragon-kin trading dragon relics for food.",
+                     "forceEvent":"Merchant",
                      "merchantBonus":"75"
                     },
                  "propertytypes":
                     {
                      "flavorText":"string",
+                     "forceEvent":"string",
                      "merchantBonus":"string"
                     },
                  "rotation":0,
