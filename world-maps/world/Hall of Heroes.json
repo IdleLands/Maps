@@ -1314,6 +1314,38 @@
                  "width":16,
                  "x":688,
                  "y":336
+                }, 
+                {
+                 "gid":15,
+                 "height":16,
+                 "id":95,
+                 "name":"Loto",
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":688,
+                 "y":304
+                }, 
+                {
+                 "gid":63,
+                 "height":16,
+                 "id":96,
+                 "name":"Dad",
+                 "properties":
+                    {
+                     "flavorText":"Just don't let this game distract you from the fact that in 1998 The Undertaker threw Mankind off Hell In A Cell, and plummeted 16ft through an announcers table."
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":688,
+                 "y":272
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1389,7 +1421,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":95,
+ "nextobjectid":97,
  "orientation":"orthogonal",
  "properties":
     {
