@@ -1294,6 +1294,26 @@
                  "width":16,
                  "x":688,
                  "y":368
+                }, 
+                {
+                 "gid":24,
+                 "height":16,
+                 "id":94,
+                 "name":"Clippy",
+                 "properties":
+                    {
+                     "flavorText":"I like shorts! They're comfy and easy to wear!"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":688,
+                 "y":336
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1369,7 +1389,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":94,
+ "nextobjectid":95,
  "orientation":"orthogonal",
  "properties":
     {
