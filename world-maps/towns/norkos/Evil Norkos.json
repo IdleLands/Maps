@@ -36,6 +36,10 @@
                     {
                      "flavorText":"This sign has been smashed to pieces."
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"Sign",
                  "visible":true,
@@ -55,6 +59,13 @@
                      "map":"Norkos",
                      "movementType":"ascend"
                     },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -72,6 +83,11 @@
                      "flavorText":"It's strange that a bottle of acid doesn't just melt right through. It would be great to throw at enemies, or put on their sandwiches!",
                      "storyline":"Memoir: SandwichArtist"
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "storyline":"string"
+                    },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
@@ -88,6 +104,11 @@
                     {
                      "flavorText":"This pebble just reeks of evil. It's very round, not shiny, and very evil. It would also be good to throw at people.",
                      "storyline":"Memoir: Necromancer"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "storyline":"string"
                     },
                  "rotation":0,
                  "type":"Collectible",
@@ -108,6 +129,13 @@
                      "map":"Dark Tower -1",
                      "movementType":"descend"
                     },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -120,10 +148,6 @@
                  "height":16,
                  "id":6,
                  "name":"Barney",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"Boss",
                  "visible":true,
@@ -136,10 +160,6 @@
                  "height":16,
                  "id":7,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -152,10 +172,6 @@
                  "height":16,
                  "id":8,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -168,10 +184,6 @@
                  "height":16,
                  "id":9,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -184,10 +196,6 @@
                  "height":16,
                  "id":10,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -200,10 +208,6 @@
                  "height":16,
                  "id":11,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -216,10 +220,6 @@
                  "height":16,
                  "id":12,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -232,10 +232,6 @@
                  "height":16,
                  "id":13,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -248,10 +244,6 @@
                  "height":16,
                  "id":14,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -264,10 +256,6 @@
                  "height":16,
                  "id":15,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -280,10 +268,6 @@
                  "height":16,
                  "id":16,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -296,10 +280,6 @@
                  "height":16,
                  "id":17,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -312,10 +292,6 @@
                  "height":16,
                  "id":18,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -328,10 +304,6 @@
                  "height":16,
                  "id":19,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -344,10 +316,6 @@
                  "height":16,
                  "id":20,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -360,10 +328,6 @@
                  "height":16,
                  "id":21,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -376,10 +340,6 @@
                  "height":16,
                  "id":22,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -392,10 +352,6 @@
                  "height":16,
                  "id":23,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -408,10 +364,6 @@
                  "height":16,
                  "id":24,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -424,10 +376,6 @@
                  "height":16,
                  "id":25,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -447,6 +395,13 @@
                      "map":"The Fire Plane",
                      "movementType":"fall"
                     },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -459,10 +414,6 @@
                  "height":16,
                  "id":27,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -475,10 +426,6 @@
                  "height":16,
                  "id":28,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -491,10 +438,6 @@
                  "height":16,
                  "id":29,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -507,10 +450,6 @@
                  "height":16,
                  "id":30,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -523,10 +462,6 @@
                  "height":16,
                  "id":31,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -539,10 +474,6 @@
                  "height":16,
                  "id":32,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -555,10 +486,6 @@
                  "height":16,
                  "id":33,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -571,10 +498,6 @@
                  "height":16,
                  "id":34,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -587,10 +510,6 @@
                  "height":16,
                  "id":35,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -603,10 +522,6 @@
                  "height":16,
                  "id":36,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -619,10 +534,6 @@
                  "height":16,
                  "id":37,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -635,10 +546,6 @@
                  "height":16,
                  "id":38,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -651,10 +558,6 @@
                  "height":16,
                  "id":39,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -667,10 +570,6 @@
                  "height":16,
                  "id":40,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -683,10 +582,6 @@
                  "height":16,
                  "id":41,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -702,6 +597,10 @@
                  "properties":
                     {
                      "flavorText":"Tasked with guarding Necromancer's important tomes and documents."
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
                     },
                  "rotation":0,
                  "type":"Boss",
@@ -719,6 +618,11 @@
                     {
                      "flavorText":"A small haystack made entirely of evil. The individual threads of hay reek of darkness (and evil).",
                      "storyline":"Memoir: Necromancer"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "storyline":"string"
                     },
                  "rotation":0,
                  "type":"Collectible",
@@ -738,6 +642,12 @@
                      "rarity":"idle",
                      "storyline":"Lore: Evil Norkos"
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "rarity":"string",
+                     "storyline":"string"
+                    },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
@@ -754,6 +664,11 @@
                     {
                      "flavorText":"A die that appears to have no face with six engraved on it. Let's hope your life doesn't depend on rolling a 6.",
                      "storyline":"Lore: Evil Norkos"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "storyline":"string"
                     },
                  "rotation":0,
                  "type":"Collectible",
@@ -772,6 +687,12 @@
                      "flavorText":"A small tome, resembling Cleric's teachings book. Scratched hastily upon the cover is the word \"Forbidden\" but the overall contents of the book seem the same. There are occasional footnotes that read \"Evil!\"",
                      "rarity":"pro",
                      "storyline":"Memoir: Necromancer"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "rarity":"string",
+                     "storyline":"string"
                     },
                  "rotation":0,
                  "type":"Collectible",
@@ -794,12 +715,65 @@
                      "movementType":"teleport",
                      "requireCollectible":"Merchant's Ledger"
                     },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "fromName":"string",
+                     "map":"string",
+                     "movementType":"string",
+                     "requireCollectible":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
                  "width":16,
                  "x":272,
                  "y":336
+                }, 
+                {
+                 "gid":32,
+                 "height":16,
+                 "id":58,
+                 "name":"ToNorkos",
+                 "properties":
+                    {
+                     "movementType":"teleport",
+                     "toLoc":"norkos"
+                    },
+                 "propertytypes":
+                    {
+                     "movementType":"string",
+                     "toLoc":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":208,
+                 "y":144
+                }, 
+                {
+                 "gid":32,
+                 "height":16,
+                 "id":59,
+                 "name":"ToFrigri",
+                 "properties":
+                    {
+                     "movementType":"teleport",
+                     "toLoc":"frigri"
+                    },
+                 "propertytypes":
+                    {
+                     "movementType":"string",
+                     "toLoc":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":1040,
+                 "y":384
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -817,10 +791,6 @@
                  "height":224,
                  "id":46,
                  "name":"Acid Caves",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -832,10 +802,6 @@
                  "height":80,
                  "id":47,
                  "name":"Acid Caves",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -847,10 +813,6 @@
                  "height":16,
                  "id":48,
                  "name":"Acid Caves",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -862,10 +824,6 @@
                  "height":112,
                  "id":49,
                  "name":"Acid Caves",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -877,10 +835,6 @@
                  "height":288,
                  "id":50,
                  "name":"Denaba Caves",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -892,10 +846,6 @@
                  "height":32,
                  "id":51,
                  "name":"Denaba Caves",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -907,10 +857,6 @@
                  "height":272,
                  "id":52,
                  "name":"Denaba Caves",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -922,10 +868,6 @@
                  "height":176,
                  "id":53,
                  "name":"Denaba Caves",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -937,10 +879,6 @@
                  "height":528,
                  "id":54,
                  "name":"Evil Norkos Town",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -955,26 +893,19 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":57,
+ "nextobjectid":60,
  "orientation":"orthogonal",
- "properties":
-    {
-
-    },
  "renderorder":"right-down",
  "tileheight":16,
  "tilesets":[
         {
+         "columns":9,
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
          "imageheight":224,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
-         "properties":
-            {
-
-            },
          "spacing":0,
          "tilecount":126,
          "tileheight":16,

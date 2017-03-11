@@ -302,6 +302,37 @@
     "lethal": 1,
     "prone": 1
   },
+  "Pirate Medallion": {
+    "type": "charm",
+    "str": 3000,
+    "con": 3000,
+    "dex": 2000,
+    "agi": 2000,
+    "int": 1000,
+    "luk": 500,
+    "hpregen": 1000,
+    "power": 1,
+    "vorpal": 1
+  },
+  "Censer of Life": {
+    "type": "charm",
+    "str": 2000,
+    "con": 2000,
+    "agi": 1000,
+    "int": 6000,
+    "aegis": 1,
+    "hpregen": 1000
+  },
+  "Bronze Spearhead": {
+    "type": "charm",
+    "str": 5750,
+    "con": 5750,
+    "luk": 25,
+    "crit": 1,
+    "glowing": 5,
+    "offense": 1,
+    "shatter": 1
+  },
   "Timeless Topaz": {
     "type": "trinket",
     "vector": 1,
