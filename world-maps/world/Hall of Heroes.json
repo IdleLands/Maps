@@ -1378,6 +1378,54 @@
                  "width":16,
                  "x":688,
                  "y":208
+                }, 
+                {
+                 "gid":67,
+                 "height":16,
+                 "id":99,
+                 "name":"Magashisama",
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":688,
+                 "y":176
+                }, 
+                {
+                 "gid":15,
+                 "height":16,
+                 "id":100,
+                 "name":"Katya",
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":688,
+                 "y":144
+                }, 
+                {
+                 "gid":15,
+                 "height":16,
+                 "id":102,
+                 "name":"Tongle",
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":32,
+                 "y":144
+                }, 
+                {
+                 "gid":15,
+                 "height":16,
+                 "id":103,
+                 "name":"Rallio",
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":32,
+                 "y":176
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1453,7 +1501,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":99,
+ "nextobjectid":104,
  "orientation":"orthogonal",
  "properties":
     {
