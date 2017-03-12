@@ -1346,6 +1346,38 @@
                  "width":16,
                  "x":688,
                  "y":272
+                }, 
+                {
+                 "gid":67,
+                 "height":16,
+                 "id":97,
+                 "name":"commiehunter",
+                 "properties":
+                    {
+                     "flavorText":"free helicopter rides!"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":688,
+                 "y":240
+                }, 
+                {
+                 "gid":15,
+                 "height":16,
+                 "id":98,
+                 "name":"Raka",
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":688,
+                 "y":208
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1421,7 +1453,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":97,
+ "nextobjectid":99,
  "orientation":"orthogonal",
  "properties":
     {
