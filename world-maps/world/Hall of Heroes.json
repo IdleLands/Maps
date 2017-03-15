@@ -1478,6 +1478,26 @@
                  "width":16,
                  "x":32,
                  "y":272
+                }, 
+                {
+                 "gid":74,
+                 "height":16,
+                 "id":107,
+                 "name":"mars",
+                 "properties":
+                    {
+                     "flavorText":":Aliens:"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":32,
+                 "y":304
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1553,7 +1573,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":107,
+ "nextobjectid":108,
  "orientation":"orthogonal",
  "properties":
     {
