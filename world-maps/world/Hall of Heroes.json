@@ -1438,6 +1438,46 @@
                  "width":16,
                  "x":32,
                  "y":208
+                }, 
+                {
+                 "gid":51,
+                 "height":16,
+                 "id":105,
+                 "name":"Kender",
+                 "properties":
+                    {
+                     "flavorText":"\u00abseiyria\u00bb made 10 gold developing a sweet game. Good job. [+10 gold] Cheap-ass \u00abKender\u00bb."
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":32,
+                 "y":240
+                }, 
+                {
+                 "gid":23,
+                 "height":16,
+                 "id":106,
+                 "name":"Boltonsquad",
+                 "properties":
+                    {
+                     "flavorText":"Rampage!"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":32,
+                 "y":272
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1513,7 +1553,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":105,
+ "nextobjectid":107,
  "orientation":"orthogonal",
  "properties":
     {
