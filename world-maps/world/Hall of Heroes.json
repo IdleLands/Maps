@@ -1498,6 +1498,30 @@
                  "width":16,
                  "x":32,
                  "y":304
+                }, 
+                {
+                 "gid":15,
+                 "height":16,
+                 "id":108,
+                 "name":"pkwtf",
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":32,
+                 "y":336
+                }, 
+                {
+                 "gid":15,
+                 "height":16,
+                 "id":109,
+                 "name":"Moaxey",
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":32,
+                 "y":368
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1573,7 +1597,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":108,
+ "nextobjectid":110,
  "orientation":"orthogonal",
  "properties":
     {
