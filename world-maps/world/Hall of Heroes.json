@@ -1522,6 +1522,70 @@
                  "width":16,
                  "x":32,
                  "y":368
+                }, 
+                {
+                 "gid":71,
+                 "height":16,
+                 "id":110,
+                 "name":"HashtagHermit",
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":32,
+                 "y":400
+                }, 
+                {
+                 "gid":47,
+                 "height":16,
+                 "id":111,
+                 "name":"huntpixel",
+                 "properties":
+                    {
+                     "flavorText":"Can't wait for chapter 361"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":32,
+                 "y":432
+                }, 
+                {
+                 "gid":15,
+                 "height":16,
+                 "id":112,
+                 "name":"Arimidex",
+                 "properties":
+                    {
+                     "flavorText":":3"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":32,
+                 "y":464
+                }, 
+                {
+                 "gid":15,
+                 "height":16,
+                 "id":113,
+                 "name":"Aeref",
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":32,
+                 "y":496
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1597,7 +1661,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":110,
+ "nextobjectid":114,
  "orientation":"orthogonal",
  "properties":
     {
