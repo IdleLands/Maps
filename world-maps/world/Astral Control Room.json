@@ -838,8 +838,8 @@
                  "type":"Teleport",
                  "visible":true,
                  "width":16,
-                 "x":176,
-                 "y":96
+                 "x":192,
+                 "y":144
                 }, 
                 {
                  "gid":32,
@@ -1267,7 +1267,7 @@
                  "properties":
                     {
                      "movementType":"teleport",
-                     "toLoc":"spot"
+                     "toLoc":"spotthedragon"
                     },
                  "propertytypes":
                     {
@@ -1346,6 +1346,336 @@
                  "width":16,
                  "x":96,
                  "y":304
+                }, 
+                {
+                 "gid":32,
+                 "height":16,
+                 "id":679,
+                 "name":"Norkos Dungeon",
+                 "properties":
+                    {
+                     "movementType":"teleport",
+                     "toLoc":"norkosdungeon"
+                    },
+                 "propertytypes":
+                    {
+                     "movementType":"string",
+                     "toLoc":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":208,
+                 "y":544
+                }, 
+                {
+                 "gid":32,
+                 "height":16,
+                 "id":680,
+                 "name":"Maeles Dungeon",
+                 "properties":
+                    {
+                     "movementType":"teleport",
+                     "toLoc":"maelesdungeon"
+                    },
+                 "propertytypes":
+                    {
+                     "movementType":"string",
+                     "toLoc":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":288,
+                 "y":528
+                }, 
+                {
+                 "gid":32,
+                 "height":16,
+                 "id":681,
+                 "name":"Mythos Dungeon",
+                 "properties":
+                    {
+                     "movementType":"teleport",
+                     "toLoc":"mythosdungeon"
+                    },
+                 "propertytypes":
+                    {
+                     "movementType":"string",
+                     "toLoc":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":320,
+                 "y":624
+                }, 
+                {
+                 "gid":32,
+                 "height":16,
+                 "id":682,
+                 "name":"Norkos Fisheries",
+                 "properties":
+                    {
+                     "movementType":"teleport",
+                     "toLoc":"norkosfisheries"
+                    },
+                 "propertytypes":
+                    {
+                     "movementType":"string",
+                     "toLoc":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":384,
+                 "y":560
+                }, 
+                {
+                 "gid":32,
+                 "height":16,
+                 "id":683,
+                 "name":"Norkos Boathouse",
+                 "properties":
+                    {
+                     "movementType":"teleport",
+                     "toLoc":"norkosboathouse"
+                    },
+                 "propertytypes":
+                    {
+                     "movementType":"string",
+                     "toLoc":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":448,
+                 "y":512
+                }, 
+                {
+                 "gid":32,
+                 "height":16,
+                 "id":684,
+                 "name":"Norkos Prison",
+                 "properties":
+                    {
+                     "movementType":"teleport",
+                     "toLoc":"norkosprison"
+                    },
+                 "propertytypes":
+                    {
+                     "movementType":"string",
+                     "toLoc":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":256,
+                 "y":672
+                }, 
+                {
+                 "gid":32,
+                 "height":16,
+                 "id":685,
+                 "name":"How Did You Even Get Out Here?",
+                 "properties":
+                    {
+                     "movementType":"teleport",
+                     "toLoc":"impossible"
+                    },
+                 "propertytypes":
+                    {
+                     "movementType":"string",
+                     "toLoc":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":304,
+                 "y":224
+                }, 
+                {
+                 "gid":32,
+                 "height":16,
+                 "id":686,
+                 "name":"Minotaur Maze",
+                 "properties":
+                    {
+                     "movementType":"teleport",
+                     "toLoc":"minotaurmaze"
+                    },
+                 "propertytypes":
+                    {
+                     "movementType":"string",
+                     "toLoc":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":464,
+                 "y":592
+                }, 
+                {
+                 "gid":32,
+                 "height":16,
+                 "id":687,
+                 "name":"Funhouse",
+                 "properties":
+                    {
+                     "movementType":"teleport",
+                     "toLoc":"funhouse"
+                    },
+                 "propertytypes":
+                    {
+                     "movementType":"string",
+                     "toLoc":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":512,
+                 "y":720
+                }, 
+                {
+                 "gid":32,
+                 "height":16,
+                 "id":688,
+                 "name":"Dwarven Ruins",
+                 "properties":
+                    {
+                     "movementType":"teleport",
+                     "toLoc":"dwarfruins"
+                    },
+                 "propertytypes":
+                    {
+                     "movementType":"string",
+                     "toLoc":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":240,
+                 "y":752
+                }, 
+                {
+                 "gid":32,
+                 "height":16,
+                 "id":689,
+                 "name":"Lich Mansion",
+                 "properties":
+                    {
+                     "movementType":"teleport",
+                     "toLoc":"lichmansion"
+                    },
+                 "propertytypes":
+                    {
+                     "movementType":"string",
+                     "toLoc":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":496,
+                 "y":656
+                }, 
+                {
+                 "gid":32,
+                 "height":16,
+                 "id":690,
+                 "name":"Water Plane",
+                 "properties":
+                    {
+                     "movementType":"teleport",
+                     "toLoc":"waterplane"
+                    },
+                 "propertytypes":
+                    {
+                     "movementType":"string",
+                     "toLoc":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":288,
+                 "y":784
+                }, 
+                {
+                 "gid":32,
+                 "height":16,
+                 "id":692,
+                 "name":"Haunted Ship",
+                 "properties":
+                    {
+                     "movementType":"teleport",
+                     "toLoc":"hauntedship"
+                    },
+                 "propertytypes":
+                    {
+                     "movementType":"string",
+                     "toLoc":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":304,
+                 "y":784
+                }, 
+                {
+                 "gid":32,
+                 "height":16,
+                 "id":693,
+                 "name":"Evil Norkos",
+                 "properties":
+                    {
+                     "movementType":"teleport",
+                     "toLoc":"evilnorkos"
+                    },
+                 "propertytypes":
+                    {
+                     "movementType":"string",
+                     "toLoc":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":368,
+                 "y":752
+                }, 
+                {
+                 "gid":32,
+                 "height":16,
+                 "id":694,
+                 "name":"Idle Island",
+                 "properties":
+                    {
+                     "movementType":"teleport",
+                     "toLoc":"idleisland"
+                    },
+                 "propertytypes":
+                    {
+                     "movementType":"string",
+                     "toLoc":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":432,
+                 "y":736
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1377,7 +1707,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":679,
+ "nextobjectid":695,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tileheight":16,
