@@ -606,54 +606,6 @@
                  "y":272
                 }, 
                 {
-                 "gid":27,
-                 "height":16,
-                 "id":37,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":224,
-                 "y":704
-                }, 
-                {
-                 "gid":27,
-                 "height":16,
-                 "id":38,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":224,
-                 "y":720
-                }, 
-                {
-                 "gid":27,
-                 "height":16,
-                 "id":39,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":208,
-                 "y":720
-                }, 
-                {
-                 "gid":27,
-                 "height":16,
-                 "id":40,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":208,
-                 "y":704
-                }, 
-                {
                  "gid":25,
                  "height":16,
                  "id":41,
