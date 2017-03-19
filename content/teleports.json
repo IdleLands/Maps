@@ -159,8 +159,8 @@
     "astralcontrolroom":{
       "map":"Astral Control Room",
       "formalName":"the Astral Control Room",
-      "x":19,
-      "y":19
+      "x":25,
+      "y":23
     },
     "swordinthestone":{
       "map":"Norkos Dungeon -11",
