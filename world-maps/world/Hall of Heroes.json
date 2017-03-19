@@ -1586,6 +1586,26 @@
                  "width":16,
                  "x":32,
                  "y":496
+                }, 
+                {
+                 "gid":20,
+                 "height":16,
+                 "id":114,
+                 "name":"Buffalax",
+                 "properties":
+                    {
+                     "flavorText":"EIGHTY THOUSAND DOLLARS!"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":32,
+                 "y":528
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1661,7 +1681,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":114,
+ "nextobjectid":115,
  "orientation":"orthogonal",
  "properties":
     {
