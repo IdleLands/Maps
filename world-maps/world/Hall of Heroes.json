@@ -1626,6 +1626,38 @@
                  "width":16,
                  "x":288,
                  "y":464
+                }, 
+                {
+                 "gid":15,
+                 "height":16,
+                 "id":116,
+                 "name":"Searlas",
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":256,
+                 "y":464
+                }, 
+                {
+                 "gid":71,
+                 "height":16,
+                 "id":117,
+                 "name":"Funeral",
+                 "properties":
+                    {
+                     "flavorText":"Do not be trapped by the need to achieve anything. This way, you achieve everything"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":224,
+                 "y":464
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1701,7 +1733,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":116,
+ "nextobjectid":118,
  "orientation":"orthogonal",
  "properties":
     {
