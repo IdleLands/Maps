@@ -39,6 +39,13 @@
                      "map":"Funhouse -1",
                      "movementType":"ascend"
                     },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -51,10 +58,6 @@
                  "height":16,
                  "id":2,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -71,6 +74,10 @@
                     {
                      "flavorText":"Funhouse Shooting Gallery Entrance"
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"Sign",
                  "visible":true,
@@ -86,6 +93,10 @@
                  "properties":
                     {
                      "flavorText":"Looks like this fellow did not follow the safety guidelines."
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
                     },
                  "rotation":0,
                  "type":"Skeleton",
@@ -104,6 +115,12 @@
                      "flavorText":"You were supposed to win this in the archery game, but no one is here to stop you from grabbing it.",
                      "rarity":"pro",
                      "storyline":"Lore: Funhouse"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "rarity":"string",
+                     "storyline":"string"
                     },
                  "rotation":0,
                  "type":"Collectible",
@@ -125,6 +142,14 @@
                      "map":"Funhouse -3",
                      "movementType":"teleport"
                     },
+                 "propertytypes":
+                    {
+                     "customMessage":"string",
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -140,6 +165,10 @@
                  "properties":
                     {
                      "flavorText":"A laughing skull reminds Funhouse attendees there is no turning back from here. Though, Norkos Council safety regulations have forced us to make it safer!"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
                     },
                  "rotation":0,
                  "type":"Sign",
@@ -160,6 +189,13 @@
                      "map":"Funhouse -4",
                      "movementType":"teleport"
                     },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -178,6 +214,13 @@
                      "desty":"2",
                      "map":"Funhouse -5",
                      "movementType":"teleport"
+                    },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
                     },
                  "rotation":0,
                  "type":"Teleport",
@@ -198,6 +241,13 @@
                      "map":"Funhouse -3",
                      "movementType":"descend"
                     },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -206,9 +256,9 @@
                  "y":128
                 }, 
                 {
-                 "gid":32,
+                 "gid":29,
                  "height":16,
-                 "id":26,
+                 "id":28,
                  "name":"ToFunhouse-2",
                  "properties":
                     {
@@ -216,6 +266,13 @@
                      "desty":"3",
                      "map":"Funhouse -2",
                      "movementType":"teleport"
+                    },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
                     },
                  "rotation":0,
                  "type":"Teleport",
@@ -225,9 +282,9 @@
                  "y":80
                 }, 
                 {
-                 "gid":32,
+                 "gid":29,
                  "height":16,
-                 "id":27,
+                 "id":29,
                  "name":"ToFunhouse-2",
                  "properties":
                     {
@@ -235,6 +292,13 @@
                      "desty":"3",
                      "map":"Funhouse -2",
                      "movementType":"teleport"
+                    },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
                     },
                  "rotation":0,
                  "type":"Teleport",
@@ -259,10 +323,6 @@
                  "height":160,
                  "id":5,
                  "name":"Funhouse Shooting Gallery",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -277,26 +337,19 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":28,
+ "nextobjectid":30,
  "orientation":"orthogonal",
- "properties":
-    {
-
-    },
  "renderorder":"right-down",
  "tileheight":16,
  "tilesets":[
         {
+         "columns":9,
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
          "imageheight":224,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
-         "properties":
-            {
-
-            },
          "spacing":0,
          "tilecount":126,
          "tileheight":16,

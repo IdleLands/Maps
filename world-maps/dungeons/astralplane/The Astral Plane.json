@@ -41,6 +41,15 @@
                      "movementType":"teleport",
                      "requireCollectible":"Astral Crystal"
                     },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "flavorText":"string",
+                     "map":"string",
+                     "movementType":"string",
+                     "requireCollectible":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -53,10 +62,6 @@
                  "height":16,
                  "id":10,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -69,10 +74,6 @@
                  "height":16,
                  "id":11,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -88,6 +89,10 @@
                  "properties":
                     {
                      "flavorText":"The Astral Alliance knows the teleport to our world is exhausting. Please take a moment to rest here."
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
                     },
                  "rotation":0,
                  "type":"Sign",
@@ -106,6 +111,11 @@
                      "flavorText":"Only an inch tall, this purple poodle requires no sustenance. It only knows how to sit and shake.",
                      "storyline":"Lore: Astral Plane"
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "storyline":"string"
+                    },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
@@ -118,10 +128,6 @@
                  "height":16,
                  "id":17,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -134,10 +140,6 @@
                  "height":16,
                  "id":18,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -150,10 +152,6 @@
                  "height":16,
                  "id":19,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -171,6 +169,11 @@
                      "flavorText":"Looks good next to a magical house.",
                      "storyline":"Lore: Astral Plane"
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "storyline":"string"
+                    },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
@@ -183,10 +186,6 @@
                  "height":16,
                  "id":21,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -199,36 +198,12 @@
                  "height":16,
                  "id":22,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":16,
                  "x":192,
                  "y":1136
-                }, 
-                {
-                 "gid":32,
-                 "height":16,
-                 "id":23,
-                 "name":"ToFungalForest",
-                 "properties":
-                    {
-                     "customMessage":"Using a map found in Astral Town, %playerName crosses an invisible bridge to %destName.",
-                     "destx":"26",
-                     "desty":"24",
-                     "map":"The Astral Plane",
-                     "movementType":"teleport"
-                    },
-                 "rotation":0,
-                 "type":"Teleport",
-                 "visible":true,
-                 "width":16,
-                 "x":256,
-                 "y":736
                 }, 
                 {
                  "gid":86,
@@ -239,6 +214,11 @@
                     {
                      "forceEvent":"Merchant",
                      "merchantBonus":"500"
+                    },
+                 "propertytypes":
+                    {
+                     "forceEvent":"string",
+                     "merchantBonus":"string"
                     },
                  "rotation":0,
                  "type":"Merchant",
@@ -252,10 +232,6 @@
                  "height":16,
                  "id":25,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -268,10 +244,6 @@
                  "height":16,
                  "id":26,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -287,6 +259,10 @@
                  "properties":
                     {
                      "flavorText":"An elder SandwichArtist, guarding the ruins of the ancient sandwich shop."
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
                     },
                  "rotation":0,
                  "type":"Trainer",
@@ -304,6 +280,10 @@
                     {
                      "flavorText":"A promotional poster for bread, tattered with age."
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"Sign",
                  "visible":true,
@@ -316,10 +296,6 @@
                  "height":16,
                  "id":34,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -332,10 +308,6 @@
                  "height":16,
                  "id":35,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -348,10 +320,6 @@
                  "height":16,
                  "id":36,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -364,10 +332,6 @@
                  "height":16,
                  "id":37,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -380,10 +344,6 @@
                  "height":16,
                  "id":38,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -396,10 +356,6 @@
                  "height":16,
                  "id":39,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -412,10 +368,6 @@
                  "height":16,
                  "id":40,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -428,10 +380,6 @@
                  "height":16,
                  "id":41,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -444,10 +392,6 @@
                  "height":16,
                  "id":42,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -460,10 +404,6 @@
                  "height":16,
                  "id":43,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -476,10 +416,6 @@
                  "height":16,
                  "id":44,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -492,10 +428,6 @@
                  "height":16,
                  "id":45,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -513,6 +445,11 @@
                      "flavorText":"Left behind many years ago, when the astral portal was last closed.",
                      "forceEvent":"Merchant"
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "forceEvent":"string"
+                    },
                  "rotation":0,
                  "type":"Merchant",
                  "visible":true,
@@ -528,6 +465,10 @@
                  "properties":
                     {
                      "forceEvent":"ItemBless"
+                    },
+                 "propertytypes":
+                    {
+                     "forceEvent":"string"
                     },
                  "rotation":0,
                  "type":"",
@@ -545,6 +486,10 @@
                     {
                      "forceEvent":"ItemBless"
                     },
+                 "propertytypes":
+                    {
+                     "forceEvent":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -557,10 +502,6 @@
                  "height":16,
                  "id":49,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -573,10 +514,6 @@
                  "height":16,
                  "id":50,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -593,6 +530,10 @@
                     {
                      "forceEvent":"ItemBless"
                     },
+                 "propertytypes":
+                    {
+                     "forceEvent":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -605,10 +546,6 @@
                  "height":16,
                  "id":52,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -626,6 +563,11 @@
                      "flavorText":"This ghostly orb keeps falling through your hands.",
                      "storyline":"Lore: Astral Plane"
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "storyline":"string"
+                    },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
@@ -642,6 +584,10 @@
                     {
                      "forceEvent":"GoldBless"
                     },
+                 "propertytypes":
+                    {
+                     "forceEvent":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -654,10 +600,6 @@
                  "height":16,
                  "id":56,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -675,6 +617,11 @@
                      "flavorText":"Full of dark magic. But how does one harness the power of the turnip?",
                      "storyline":"Lore: Astral Plane"
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "storyline":"string"
+                    },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
@@ -687,10 +634,6 @@
                  "height":16,
                  "id":58,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -703,10 +646,6 @@
                  "height":16,
                  "id":59,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -723,6 +662,10 @@
                     {
                      "forceEvent":"GoldBless"
                     },
+                 "propertytypes":
+                    {
+                     "forceEvent":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -738,6 +681,10 @@
                  "properties":
                     {
                      "forceEvent":"GoldBless"
+                    },
+                 "propertytypes":
+                    {
+                     "forceEvent":"string"
                     },
                  "rotation":0,
                  "type":"",
@@ -756,6 +703,11 @@
                      "flavorText":"Sometimes an object falls in to the astral void, only to return years later as a void crystal.",
                      "storyline":"Lore: Astral Plane"
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "storyline":"string"
+                    },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
@@ -768,10 +720,6 @@
                  "height":16,
                  "id":72,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -784,10 +732,6 @@
                  "height":16,
                  "id":73,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -800,10 +744,6 @@
                  "height":16,
                  "id":74,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -816,10 +756,6 @@
                  "height":16,
                  "id":75,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -832,10 +768,6 @@
                  "height":16,
                  "id":76,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -848,10 +780,6 @@
                  "height":16,
                  "id":77,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -864,10 +792,6 @@
                  "height":16,
                  "id":78,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -880,10 +804,6 @@
                  "height":16,
                  "id":79,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -896,10 +816,6 @@
                  "height":16,
                  "id":80,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -916,6 +832,10 @@
                     {
                      "forceEvent":"ItemBless"
                     },
+                 "propertytypes":
+                    {
+                     "forceEvent":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -928,10 +848,6 @@
                  "height":16,
                  "id":86,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -944,10 +860,6 @@
                  "height":16,
                  "id":87,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -960,10 +872,6 @@
                  "height":16,
                  "id":88,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -976,10 +884,6 @@
                  "height":16,
                  "id":89,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -995,6 +899,10 @@
                  "properties":
                     {
                      "flavorText":"It seems the ship here, The Astral Path, is heading to Cabran next."
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
                     },
                  "rotation":0,
                  "type":"",
@@ -1013,6 +921,11 @@
                      "flavorText":"Bad time piece, good conversation starter.",
                      "storyline":"Lore: Astral Plane"
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "storyline":"string"
+                    },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
@@ -1025,10 +938,6 @@
                  "height":16,
                  "id":97,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -1041,176 +950,12 @@
                  "height":16,
                  "id":98,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":16,
                  "x":1296,
                  "y":1376
-                }, 
-                {
-                 "gid":32,
-                 "height":16,
-                 "id":102,
-                 "name":"ToTown",
-                 "properties":
-                    {
-                     "customMessage":"A cloud of fungal spores blowing by takes %playerName to %destName.",
-                     "destx":"16",
-                     "desty":"46",
-                     "map":"The Astral Plane",
-                     "movementType":"teleport"
-                    },
-                 "rotation":0,
-                 "type":"Teleport",
-                 "visible":true,
-                 "width":16,
-                 "x":384,
-                 "y":400
-                }, 
-                {
-                 "gid":32,
-                 "height":16,
-                 "id":103,
-                 "name":"ToBoardwalk",
-                 "properties":
-                    {
-                     "customMessage":"%playerName returns to the %destName.",
-                     "destx":"66",
-                     "desty":"30",
-                     "map":"The Astral Plane",
-                     "movementType":"teleport"
-                    },
-                 "rotation":0,
-                 "type":"Teleport",
-                 "visible":true,
-                 "width":16,
-                 "x":880,
-                 "y":560
-                }, 
-                {
-                 "gid":32,
-                 "height":16,
-                 "id":104,
-                 "name":"ToSandwich",
-                 "properties":
-                    {
-                     "customMessage":"%playerName arrives at the %destName.",
-                     "destx":"54",
-                     "desty":"34",
-                     "map":"The Astral Plane",
-                     "movementType":"teleport"
-                    },
-                 "rotation":0,
-                 "type":"Teleport",
-                 "visible":true,
-                 "width":16,
-                 "x":1040,
-                 "y":496
-                }, 
-                {
-                 "gid":32,
-                 "height":16,
-                 "id":105,
-                 "name":"ToHub",
-                 "properties":
-                    {
-                     "customMessage":"%playerName rides an astral ferry to %destName.",
-                     "destx":"54",
-                     "desty":"45",
-                     "map":"The Astral Plane",
-                     "movementType":"teleport"
-                    },
-                 "rotation":0,
-                 "type":"Teleport",
-                 "visible":true,
-                 "width":16,
-                 "x":1072,
-                 "y":560
-                }, 
-                {
-                 "gid":32,
-                 "height":16,
-                 "id":106,
-                 "name":"ToHub",
-                 "properties":
-                    {
-                     "customMessage":"A resident of Astral Town gives %playerName a lift to %destName.",
-                     "destx":"41",
-                     "desty":"60",
-                     "map":"The Astral Plane",
-                     "movementType":"teleport"
-                    },
-                 "rotation":0,
-                 "type":"Teleport",
-                 "visible":true,
-                 "width":16,
-                 "x":352,
-                 "y":1280
-                }, 
-                {
-                 "gid":32,
-                 "height":16,
-                 "id":107,
-                 "name":"ToHub",
-                 "properties":
-                    {
-                     "customMessage":"%playerName rides an astral ferry to %destName.",
-                     "destx":"58",
-                     "desty":"55",
-                     "map":"The Astral Plane",
-                     "movementType":"teleport"
-                    },
-                 "rotation":0,
-                 "type":"Teleport",
-                 "visible":true,
-                 "width":16,
-                 "x":1184,
-                 "y":1200
-                }, 
-                {
-                 "gid":32,
-                 "height":16,
-                 "id":110,
-                 "name":"ToFactories",
-                 "properties":
-                    {
-                     "customMessage":"%playerName rides an astral ferry to %destName.",
-                     "destx":"76",
-                     "desty":"74",
-                     "map":"The Astral Plane",
-                     "movementType":"teleport"
-                    },
-                 "rotation":0,
-                 "type":"Teleport",
-                 "visible":true,
-                 "width":16,
-                 "x":944,
-                 "y":896
-                }, 
-                {
-                 "gid":32,
-                 "height":16,
-                 "id":111,
-                 "name":"ToTown",
-                 "properties":
-                    {
-                     "customMessage":"%playerName passes through a portal to %destName. ",
-                     "destx":"21",
-                     "desty":"79",
-                     "map":"The Astral Plane",
-                     "movementType":"teleport"
-                    },
-                 "rotation":0,
-                 "type":"Teleport",
-                 "visible":true,
-                 "width":16,
-                 "x":640,
-                 "y":992
                 }, 
                 {
                  "gid":2,
@@ -1224,6 +969,14 @@
                      "desty":"51",
                      "map":"The Astral Plane",
                      "movementType":"teleport"
+                    },
+                 "propertytypes":
+                    {
+                     "customMessage":"string",
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
                     },
                  "rotation":0,
                  "type":"Teleport",
@@ -1245,6 +998,14 @@
                      "map":"The Astral Plane",
                      "movementType":"descend"
                     },
+                 "propertytypes":
+                    {
+                     "customMessage":"string",
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -1257,10 +1018,6 @@
                  "height":16,
                  "id":115,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -1277,6 +1034,11 @@
                     {
                      "flavorText":"Imbued with energy from the void for ultimate flavor. ",
                      "storyline":"Memoir: SandwichArtist"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "storyline":"string"
                     },
                  "rotation":0,
                  "type":"Collectible",
@@ -1295,6 +1057,11 @@
                      "flavorText":"This chunk of an old stone wall perpetually spins, powered by the energy from the astral void.",
                      "storyline":"Lore: Astral Plane"
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "storyline":"string"
+                    },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
@@ -1307,10 +1074,6 @@
                  "height":16,
                  "id":119,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -1323,10 +1086,6 @@
                  "height":16,
                  "id":120,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -1339,36 +1098,12 @@
                  "height":16,
                  "id":121,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":16,
                  "x":368,
                  "y":1072
-                }, 
-                {
-                 "gid":32,
-                 "height":16,
-                 "id":123,
-                 "name":"ToBoardwalk",
-                 "properties":
-                    {
-                     "customMessage":"%playerName decides to take a walk on the %destName.",
-                     "destx":"67",
-                     "desty":"33",
-                     "map":"The Astral Plane",
-                     "movementType":"teleport"
-                    },
-                 "rotation":0,
-                 "type":"Teleport",
-                 "visible":true,
-                 "width":16,
-                 "x":880,
-                 "y":720
                 }, 
                 {
                  "gid":32,
@@ -1382,6 +1117,14 @@
                      "fromName":"The Astral Plane",
                      "map":"Merchant's Guild",
                      "movementType":"teleport"
+                    },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "fromName":"string",
+                     "map":"string",
+                     "movementType":"string"
                     },
                  "rotation":0,
                  "type":"Teleport",
@@ -1400,12 +1143,297 @@
                      "flavorText":"Used by astral merchants to access the Merchant's Guild.",
                      "storyline":"Lore: Merchant's Guild"
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "storyline":"string"
+                    },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
                  "width":16,
                  "x":1520,
                  "y":64
+                }, 
+                {
+                 "gid":29,
+                 "height":16,
+                 "id":126,
+                 "name":"ToTown",
+                 "properties":
+                    {
+                     "customMessage":"A cloud of fungal spores blowing by takes %playerName to %destName.",
+                     "destx":"16",
+                     "desty":"46",
+                     "map":"The Astral Plane",
+                     "movementType":"teleport"
+                    },
+                 "propertytypes":
+                    {
+                     "customMessage":"string",
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":384,
+                 "y":400
+                }, 
+                {
+                 "gid":29,
+                 "height":16,
+                 "id":127,
+                 "name":"ToFungalForest",
+                 "properties":
+                    {
+                     "customMessage":"Using a map found in Astral Town, %playerName crosses an invisible bridge to %destName.",
+                     "destx":"26",
+                     "desty":"24",
+                     "map":"The Astral Plane",
+                     "movementType":"teleport"
+                    },
+                 "propertytypes":
+                    {
+                     "customMessage":"string",
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":256,
+                 "y":736
+                }, 
+                {
+                 "gid":29,
+                 "height":16,
+                 "id":128,
+                 "name":"ToTown",
+                 "properties":
+                    {
+                     "customMessage":"%playerName passes through a portal to %destName. ",
+                     "destx":"21",
+                     "desty":"79",
+                     "map":"The Astral Plane",
+                     "movementType":"teleport"
+                    },
+                 "propertytypes":
+                    {
+                     "customMessage":"string",
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":640,
+                 "y":992
+                }, 
+                {
+                 "gid":29,
+                 "height":16,
+                 "id":129,
+                 "name":"ToHub",
+                 "properties":
+                    {
+                     "customMessage":"A resident of Astral Town gives %playerName a lift to %destName.",
+                     "destx":"41",
+                     "desty":"60",
+                     "map":"The Astral Plane",
+                     "movementType":"teleport"
+                    },
+                 "propertytypes":
+                    {
+                     "customMessage":"string",
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":352,
+                 "y":1280
+                }, 
+                {
+                 "gid":29,
+                 "height":16,
+                 "id":130,
+                 "name":"ToBoardwalk",
+                 "properties":
+                    {
+                     "customMessage":"%playerName returns to the %destName.",
+                     "destx":"66",
+                     "desty":"30",
+                     "map":"The Astral Plane",
+                     "movementType":"teleport"
+                    },
+                 "propertytypes":
+                    {
+                     "customMessage":"string",
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":880,
+                 "y":560
+                }, 
+                {
+                 "gid":29,
+                 "height":16,
+                 "id":131,
+                 "name":"ToHub",
+                 "properties":
+                    {
+                     "customMessage":"%playerName rides an astral ferry to %destName.",
+                     "destx":"58",
+                     "desty":"55",
+                     "map":"The Astral Plane",
+                     "movementType":"teleport"
+                    },
+                 "propertytypes":
+                    {
+                     "customMessage":"string",
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":1184,
+                 "y":1200
+                }, 
+                {
+                 "gid":29,
+                 "height":16,
+                 "id":132,
+                 "name":"ToFactories",
+                 "properties":
+                    {
+                     "customMessage":"%playerName rides an astral ferry to %destName.",
+                     "destx":"76",
+                     "desty":"74",
+                     "map":"The Astral Plane",
+                     "movementType":"teleport"
+                    },
+                 "propertytypes":
+                    {
+                     "customMessage":"string",
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":944,
+                 "y":896
+                }, 
+                {
+                 "gid":29,
+                 "height":16,
+                 "id":133,
+                 "name":"ToSandwich",
+                 "properties":
+                    {
+                     "customMessage":"%playerName arrives at the %destName.",
+                     "destx":"54",
+                     "desty":"34",
+                     "map":"The Astral Plane",
+                     "movementType":"teleport"
+                    },
+                 "propertytypes":
+                    {
+                     "customMessage":"string",
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":1040,
+                 "y":496
+                }, 
+                {
+                 "gid":29,
+                 "height":16,
+                 "id":134,
+                 "name":"ToHub",
+                 "properties":
+                    {
+                     "customMessage":"%playerName rides an astral ferry to %destName.",
+                     "destx":"54",
+                     "desty":"45",
+                     "map":"The Astral Plane",
+                     "movementType":"teleport"
+                    },
+                 "propertytypes":
+                    {
+                     "customMessage":"string",
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":1072,
+                 "y":560
+                }, 
+                {
+                 "gid":29,
+                 "height":16,
+                 "id":135,
+                 "name":"ToBoardwalk",
+                 "properties":
+                    {
+                     "customMessage":"%playerName decides to take a walk on the %destName.",
+                     "destx":"67",
+                     "desty":"33",
+                     "map":"The Astral Plane",
+                     "movementType":"teleport"
+                    },
+                 "propertytypes":
+                    {
+                     "customMessage":"string",
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":880,
+                 "y":720
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1423,10 +1451,6 @@
                  "height":320,
                  "id":7,
                  "name":"Astral Hub",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -1438,10 +1462,6 @@
                  "height":352,
                  "id":33,
                  "name":"Astral Boardwalk",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -1453,10 +1473,6 @@
                  "height":384,
                  "id":60,
                  "name":"Fungal Forest",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -1468,10 +1484,6 @@
                  "height":288,
                  "id":62,
                  "name":"Old Astral Fortress",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -1483,10 +1495,6 @@
                  "height":64,
                  "id":63,
                  "name":"Great Astral Span",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -1498,10 +1506,6 @@
                  "height":112,
                  "id":67,
                  "name":"One Stop Sandwich Shop of the Stars",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -1513,10 +1517,6 @@
                  "height":208,
                  "id":92,
                  "name":"The Astral Path",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -1528,10 +1528,6 @@
                  "height":496,
                  "id":91,
                  "name":"Void Factories",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -1543,10 +1539,6 @@
                  "height":640,
                  "id":117,
                  "name":"Astral Town",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -1561,26 +1553,27 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":126,
+ "nextobjectid":136,
  "orientation":"orthogonal",
  "properties":
     {
      "name":"The Astral Plane"
     },
+ "propertytypes":
+    {
+     "name":"string"
+    },
  "renderorder":"right-down",
  "tileheight":16,
  "tilesets":[
         {
+         "columns":9,
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
          "imageheight":224,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
-         "properties":
-            {
-
-            },
          "spacing":0,
          "tilecount":126,
          "tileheight":16,
