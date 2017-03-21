@@ -40,6 +40,14 @@
                      "map":"Norkos",
                      "movementType":"descend"
                     },
+                 "propertytypes":
+                    {
+                     "destName":"string",
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -60,6 +68,14 @@
                      "map":"Norkos",
                      "movementType":"descend"
                     },
+                 "propertytypes":
+                    {
+                     "destName":"string",
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -78,6 +94,13 @@
                      "desty":"12",
                      "map":"Mythos -1",
                      "movementType":"fall"
+                    },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
                     },
                  "rotation":0,
                  "type":"Teleport",
@@ -99,6 +122,14 @@
                      "map":"Norkos",
                      "movementType":"descend"
                     },
+                 "propertytypes":
+                    {
+                     "destName":"string",
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -119,6 +150,14 @@
                      "map":"Norkos",
                      "movementType":"descend"
                     },
+                 "propertytypes":
+                    {
+                     "destName":"string",
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -131,10 +170,6 @@
                  "height":16,
                  "id":6,
                  "name":"Dragon Gear",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"Treasure",
                  "visible":true,
@@ -147,10 +182,6 @@
                  "height":16,
                  "id":7,
                  "name":"Gryffyndor House Representative",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"Boss",
                  "visible":true,
@@ -166,6 +197,10 @@
                  "properties":
                     {
                      "flavorText":"With a thunderous roar, the sky dragon lets out a breath of lightning."
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
                     },
                  "rotation":0,
                  "type":"Boss",
@@ -185,6 +220,12 @@
                      "movementType":"teleport",
                      "toLoc":"frigri"
                     },
+                 "propertytypes":
+                    {
+                     "fromName":"string",
+                     "movementType":"string",
+                     "toLoc":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -201,6 +242,11 @@
                     {
                      "flavorText":"A rock formed by the nearby volcanic activity. It wouldn't taste very good in a sandwich, but it looks cool anyway.",
                      "storyline":"Memoir: SandwichArtist"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "storyline":"string"
                     },
                  "rotation":0,
                  "type":"Collectible",
@@ -220,6 +266,12 @@
                      "rarity":"idle",
                      "storyline":"Lore: Dragons"
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "rarity":"string",
+                     "storyline":"string"
+                    },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
@@ -236,6 +288,11 @@
                     {
                      "flavorText":"A giant feather, with alternating black, white, and yellow barbs. These are commonly dropped upon the city of Vocalnus as the monster flies overhead.",
                      "storyline":"Lore: Vocalnus"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "storyline":"string"
                     },
                  "rotation":0,
                  "type":"Collectible",
@@ -255,6 +312,12 @@
                      "rarity":"idle",
                      "storyline":"Lore: Vocalnus"
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "rarity":"string",
+                     "storyline":"string"
+                    },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
@@ -263,30 +326,10 @@
                  "y":560
                 }, 
                 {
-                 "gid":30,
-                 "height":16,
-                 "id":14,
-                 "name":"Vocalnus",
-                 "properties":
-                    {
-
-                    },
-                 "rotation":0,
-                 "type":"GuildTeleport",
-                 "visible":true,
-                 "width":16,
-                 "x":400,
-                 "y":560
-                }, 
-                {
                  "gid":70,
                  "height":16,
                  "id":19,
                  "name":"SandwichArtist",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"Trainer",
                  "visible":true,
@@ -299,10 +342,6 @@
                  "height":16,
                  "id":20,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -315,10 +354,6 @@
                  "height":16,
                  "id":21,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -335,12 +370,28 @@
                     {
                      "forceEvent":"GoldBless"
                     },
+                 "propertytypes":
+                    {
+                     "forceEvent":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":16,
                  "x":16,
                  "y":448
+                }, 
+                {
+                 "gid":31,
+                 "height":16,
+                 "id":23,
+                 "name":"Vocalnus",
+                 "rotation":0,
+                 "type":"GuildTeleport",
+                 "visible":true,
+                 "width":16,
+                 "x":400,
+                 "y":560
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -358,10 +409,6 @@
                  "height":400,
                  "id":15,
                  "name":"Vocalnus Town",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -373,10 +420,6 @@
                  "height":272,
                  "id":16,
                  "name":"Gryffin Mountain",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -388,10 +431,6 @@
                  "height":256,
                  "id":17,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -403,10 +442,6 @@
                  "height":256,
                  "id":18,
                  "name":"Dragon Mountain",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -421,26 +456,27 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":23,
+ "nextobjectid":24,
  "orientation":"orthogonal",
  "properties":
     {
      "name":"norkos"
     },
+ "propertytypes":
+    {
+     "name":"string"
+    },
  "renderorder":"right-down",
  "tileheight":16,
  "tilesets":[
         {
+         "columns":9,
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
          "imageheight":224,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
-         "properties":
-            {
-
-            },
          "spacing":0,
          "tilecount":126,
          "tileheight":16,
