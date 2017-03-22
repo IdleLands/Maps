@@ -39,6 +39,13 @@
                      "map":"Norkos",
                      "movementType":"ascend"
                     },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -57,6 +64,13 @@
                      "desty":"16",
                      "map":"Maeles Dungeon -2",
                      "movementType":"descend"
+                    },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
                     },
                  "rotation":0,
                  "type":"Teleport",
@@ -77,6 +91,13 @@
                      "map":"Maeles Dungeon -2",
                      "movementType":"descend"
                     },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -93,6 +114,11 @@
                     {
                      "flavorText":"A shirt native to Maeles. They won't reveal where they get the beautiful yellow thread.",
                      "storyline":"Lore: Maeles"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "storyline":"string"
                     },
                  "rotation":0,
                  "type":"Collectible",
@@ -112,6 +138,12 @@
                      "rarity":"pro",
                      "storyline":"Lore: Maeles"
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "rarity":"string",
+                     "storyline":"string"
+                    },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
@@ -124,10 +156,6 @@
                  "height":16,
                  "id":31,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -140,10 +168,6 @@
                  "height":16,
                  "id":32,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -156,10 +180,6 @@
                  "height":16,
                  "id":33,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -172,10 +192,6 @@
                  "height":16,
                  "id":34,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -188,10 +204,6 @@
                  "height":16,
                  "id":35,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -204,10 +216,6 @@
                  "height":16,
                  "id":36,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -220,10 +228,6 @@
                  "height":16,
                  "id":37,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -236,10 +240,6 @@
                  "height":16,
                  "id":38,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -252,10 +252,6 @@
                  "height":16,
                  "id":39,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -268,10 +264,6 @@
                  "height":16,
                  "id":40,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -284,10 +276,6 @@
                  "height":16,
                  "id":41,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -300,10 +288,6 @@
                  "height":16,
                  "id":42,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -316,10 +300,6 @@
                  "height":16,
                  "id":43,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -332,10 +312,6 @@
                  "height":16,
                  "id":44,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -348,10 +324,6 @@
                  "height":16,
                  "id":45,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -364,10 +336,6 @@
                  "height":16,
                  "id":46,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -380,10 +348,6 @@
                  "height":16,
                  "id":47,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -396,10 +360,6 @@
                  "height":16,
                  "id":48,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -412,10 +372,6 @@
                  "height":16,
                  "id":49,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -428,10 +384,6 @@
                  "height":16,
                  "id":50,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -444,10 +396,6 @@
                  "height":16,
                  "id":51,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -460,10 +408,6 @@
                  "height":16,
                  "id":52,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -476,10 +420,6 @@
                  "height":16,
                  "id":53,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -492,10 +432,6 @@
                  "height":16,
                  "id":54,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -508,10 +444,6 @@
                  "height":16,
                  "id":55,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -524,10 +456,6 @@
                  "height":16,
                  "id":56,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -544,6 +472,10 @@
                     {
                      "forceEvent":"ItemBless"
                     },
+                 "propertytypes":
+                    {
+                     "forceEvent":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -556,10 +488,6 @@
                  "height":16,
                  "id":58,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -572,10 +500,6 @@
                  "height":16,
                  "id":62,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -588,10 +512,6 @@
                  "height":16,
                  "id":64,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -615,10 +535,6 @@
                  "height":144,
                  "id":65,
                  "name":"Zen Garden",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -630,10 +546,6 @@
                  "height":80,
                  "id":66,
                  "name":"Mushroom Farm",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -645,10 +557,6 @@
                  "height":32,
                  "id":67,
                  "name":"Mushroom Farm",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -658,7 +566,7 @@
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "width":50,
          "x":0,
          "y":0
@@ -669,20 +577,21 @@
     {
      "name":"norkos"
     },
+ "propertytypes":
+    {
+     "name":"string"
+    },
  "renderorder":"right-down",
  "tileheight":16,
  "tilesets":[
         {
+         "columns":9,
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
          "imageheight":224,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
-         "properties":
-            {
-
-            },
          "spacing":0,
          "tilecount":126,
          "tileheight":16,
