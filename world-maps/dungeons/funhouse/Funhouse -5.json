@@ -37,16 +37,14 @@
                      "destx":"10",
                      "desty":"10",
                      "map":"Norkos",
-                     "movementType":"teleport",
-                     "requireCollectible":""
+                     "movementType":"teleport"
                     },
                  "propertytypes":
                     {
                      "destx":"string",
                      "desty":"string",
                      "map":"string",
-                     "movementType":"string",
-                     "requireCollectible":"string"
+                     "movementType":"string"
                     },
                  "rotation":0,
                  "type":"Teleport",
@@ -65,16 +63,14 @@
                      "destx":"140",
                      "desty":"166",
                      "map":"Norkos",
-                     "movementType":"teleport",
-                     "requireCollectible":""
+                     "movementType":"teleport"
                     },
                  "propertytypes":
                     {
                      "destx":"string",
                      "desty":"string",
                      "map":"string",
-                     "movementType":"string",
-                     "requireCollectible":"string"
+                     "movementType":"string"
                     },
                  "rotation":0,
                  "type":"Teleport",
@@ -388,8 +384,8 @@
                  "type":"Sign",
                  "visible":true,
                  "width":16,
-                 "x":224,
-                 "y":80
+                 "x":256,
+                 "y":96
                 }, 
                 {
                  "gid":86,
@@ -516,6 +512,62 @@
                  "width":16,
                  "x":256,
                  "y":112
+                }, 
+                {
+                 "gid":32,
+                 "height":16,
+                 "id":41,
+                 "name":"ToFrigri",
+                 "properties":
+                    {
+                     "destx":"140",
+                     "desty":"166",
+                     "map":"Norkos",
+                     "movementType":"teleport"
+                    },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":32,
+                 "y":32
+                }, 
+                {
+                 "gid":29,
+                 "height":16,
+                 "id":43,
+                 "name":"ToBreakRoom",
+                 "properties":
+                    {
+                     "destName":"Funhouse Break Room",
+                     "destx":"2",
+                     "desty":"4",
+                     "fromName":"Funhouse Supply Closet",
+                     "map":"Funhouse -5",
+                     "movementType":"teleport"
+                    },
+                 "propertytypes":
+                    {
+                     "destName":"string",
+                     "destx":"string",
+                     "desty":"string",
+                     "fromName":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":224,
+                 "y":80
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -550,6 +602,17 @@
                  "width":48,
                  "x":224,
                  "y":64
+                }, 
+                {
+                 "height":96,
+                 "id":44,
+                 "name":"Funhouse Break Room",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":48,
+                 "x":16,
+                 "y":16
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -558,7 +621,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":41,
+ "nextobjectid":45,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tileheight":16,
