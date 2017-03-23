@@ -1558,26 +1558,6 @@
                 {
                  "gid":15,
                  "height":16,
-                 "id":112,
-                 "name":"Arimidex",
-                 "properties":
-                    {
-                     "flavorText":":3"
-                    },
-                 "propertytypes":
-                    {
-                     "flavorText":"string"
-                    },
-                 "rotation":0,
-                 "type":"Hero (Donator)",
-                 "visible":true,
-                 "width":16,
-                 "x":32,
-                 "y":464
-                }, 
-                {
-                 "gid":15,
-                 "height":16,
                  "id":113,
                  "name":"Aeref",
                  "rotation":0,
@@ -1670,6 +1650,26 @@
                  "width":16,
                  "x":192,
                  "y":464
+                }, 
+                {
+                 "gid":75,
+                 "height":16,
+                 "id":119,
+                 "name":"Arimidex",
+                 "properties":
+                    {
+                     "flavorText":"Princess Ari :3"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":32,
+                 "y":464
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1745,7 +1745,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":119,
+ "nextobjectid":120,
  "orientation":"orthogonal",
  "properties":
     {
