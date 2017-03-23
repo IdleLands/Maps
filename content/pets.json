@@ -799,7 +799,7 @@
     
     "Goat": {
         "cost": 500000,
-        "category": "Non-combat",
+        "category": "Non-Combat",
         "description": "Unlocked by becoming a purveyor of natural resources.",
         "slots": {
         },
