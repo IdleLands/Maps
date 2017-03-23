@@ -156,6 +156,11 @@
       "x":10,
       "y":10
     },
+    "guildhall": {
+      "map": "Norkos",
+      "x": 10,
+      "y": 10
+    },
     "astralcontrolroom":{
       "map":"Astral Control Room",
       "formalName":"the Astral Control Room",
