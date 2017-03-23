@@ -26,7 +26,8 @@
             "itemSellMultiplier": [0.05, 0.10],
             "itemFindBonus": [0, 1, 3, 7, 9, 13, 15, 20],
             "itemFindRangeMultiplier": [0, 0.05, 0.075, 0.1],
-            "xpPerGold": [3]
+            "xpPerGold": [3],
+            "salvage": [0]
         },
         "scaleCost": {
             "maxLevel": [0],
@@ -38,7 +39,8 @@
             "itemSellMultiplier": [0, 20000],
             "itemFindBonus": [0, 100, 1000, 5000, 7500, 15000, 30000, 65000],
             "itemFindRangeMultiplier": [0, 10000, 20000, 40000],
-            "xpPerGold": [0]
+            "xpPerGold": [0],
+            "salvage": [0]
         }
     },
 
@@ -72,7 +74,8 @@
             "itemSellMultiplier": [0.07, 0.13],
             "itemFindBonus": [0, 5, 10, 15, 20, 25],
             "itemFindRangeMultiplier": [0.05, 0.1, 0.15],
-            "xpPerGold": [5]
+            "xpPerGold": [5],
+            "salvage": [0]
         },
         "scaleCost": {
             "maxLevel": [0, 50000],
@@ -84,7 +87,8 @@
             "itemSellMultiplier": [0, 25000],
             "itemFindBonus": [0, 5000, 7500, 15000, 30000, 65000],
             "itemFindRangeMultiplier": [0, 20000, 30000],
-            "xpPerGold": [0]
+            "xpPerGold": [0],
+            "salvage": [0]
         }
     },
 
@@ -122,7 +126,8 @@
             "itemSellMultiplier": [0.05],
             "itemFindBonus": [0, 10, 15, 20, 25],
             "itemFindRangeMultiplier": [0.1, 0.15, 0.2],
-            "xpPerGold": [15]
+            "xpPerGold": [15],
+            "salvage": [0]
         },
         "scaleCost": {
             "maxLevel": [0, 50000, 75000],
@@ -134,7 +139,8 @@
             "itemSellMultiplier": [0],
             "itemFindBonus": [0, 5000, 7500, 15000, 30000],
             "itemFindRangeMultiplier": [0, 20000, 45000],
-            "xpPerGold": [0]
+            "xpPerGold": [0],
+            "salvage": [0]
         }
     },
 
@@ -176,7 +182,8 @@
             "itemSellMultiplier": [0.07, 0.13, 0.20, 0.27],
             "itemFindBonus": [0, 5, 10, 15, 20, 25, 30, 35],
             "itemFindRangeMultiplier": [0, 0.05, 0.1, 0.15],
-            "xpPerGold": [15]
+            "xpPerGold": [15],
+            "salvage": [0]
         },
         "scaleCost": {
             "maxLevel": [0, 75000],
@@ -188,7 +195,8 @@
             "itemSellMultiplier": [0, 15000, 25000, 45000],
             "itemFindBonus": [0, 5000, 7500, 15000, 30000, 45000, 60000, 135000],
             "itemFindRangeMultiplier": [0, 20000, 40000, 75000],
-            "xpPerGold": [0]
+            "xpPerGold": [0],
+            "salvage": [0]
         }
     },
 
@@ -229,7 +237,8 @@
             "itemSellMultiplier": [0.04, 0.08, 0.12, 0.16],
             "itemFindBonus": [3, 7, 13, 17, 23, 27],
             "itemFindRangeMultiplier": [0, 0.1, 0.2],
-            "xpPerGold": [10]
+            "xpPerGold": [10],
+            "salvage": [25]
         },
         "scaleCost": {
             "maxLevel": [0, 25000, 50000],
@@ -241,7 +250,8 @@
             "itemSellMultiplier": [0, 10000, 20000, 30000],
             "itemFindBonus": [0, 5000, 7500, 15000, 30000, 45000],
             "itemFindRangeMultiplier": [0, 10000, 20000],
-            "xpPerGold": [0]
+            "xpPerGold": [0],
+            "salvage": [0]
         }
     },
 
@@ -273,7 +283,8 @@
             "itemSellMultiplier": [0.2, 0.4, 0.6],
             "itemFindBonus": [0, 15, 20, 25, 30, 35, 40, 45, 50],
             "itemFindRangeMultiplier": [0, 0.05, 0.1, 0.15, 0.2],
-            "xpPerGold": [30]
+            "xpPerGold": [30],
+            "salvage": [50]
         },
         "scaleCost": {
             "maxLevel": [0, 10000, 25000, 100000],
@@ -285,7 +296,8 @@
             "itemSellMultiplier": [0, 20000, 40000],
             "itemFindBonus": [0, 5000, 7500, 15000, 30000, 55000, 100000, 200000, 500000],
             "itemFindRangeMultiplier": [0, 10000, 50000, 100000, 250000],
-            "xpPerGold": [0]
+            "xpPerGold": [0],
+            "salvage": [0]
         }
     },
 
@@ -336,7 +348,8 @@
             "itemSellMultiplier": [0.10, 0.15],
             "itemFindBonus": [-20, -10, 0, 25, 50],
             "itemFindRangeMultiplier": [0, 0.1, 0.2, 0.3],
-            "xpPerGold": [35]
+            "xpPerGold": [35],
+            "salvage": [0]
         },
         "scaleCost": {
             "maxLevel": [0, 50000, 100000],
@@ -348,7 +361,8 @@
             "itemSellMultiplier": [0, 25000],
             "itemFindBonus": [0, 25000, 50000, 75000, 100000],
             "itemFindRangeMultiplier": [0, 25000, 45000, 65000],
-            "xpPerGold": [0]
+            "xpPerGold": [0],
+            "salvage": [0]
         }
     },
 
@@ -394,7 +408,8 @@
             "itemSellMultiplier": [0.20, 0.40],
             "itemFindBonus": [-25, 0, 15, 25, 35, 45, 55],
             "itemFindRangeMultiplier": [0, 0.1, 0.15, 0.2, 0.25],
-            "xpPerGold": [25]
+            "xpPerGold": [25],
+            "salvage": [0]
         },
         "scaleCost": {
             "maxLevel": [0, 75000, 125000],
@@ -406,7 +421,8 @@
             "itemSellMultiplier": [0, 60000],
             "itemFindBonus": [0, 25000, 25000, 50000, 75000, 100000, 125000],
             "itemFindRangeMultiplier": [0, 25000, 45000, 65000, 95000],
-            "xpPerGold": [0]
+            "xpPerGold": [0],
+            "salvage": [0]
         }
     },
 
@@ -442,7 +458,8 @@
             "itemSellMultiplier": [0.05, 0.10, 0.15, 0.20, 0.25, 0.30, 0.35, 0.40],
             "itemFindBonus": [10, 20, 30, 40, 50, 60, 70, 80],
             "itemFindRangeMultiplier": [0.15, 0.2, 0.25, 0.3, 0.35, 0.4, 0.45, 0.5],
-            "xpPerGold": [1]
+            "xpPerGold": [1],
+            "salvage": [0]
         },
         "scaleCost": {
             "maxLevel": [0, 10000, 15000, 20000, 25000, 30000, 35000, 40000],
@@ -454,7 +471,8 @@
             "itemSellMultiplier": [0, 15000, 20000, 25000, 30000, 35000, 40000, 50000],
             "itemFindBonus": [0, 20000, 30000, 40000, 50000, 60000, 70000, 100000],
             "itemFindRangeMultiplier": [0, 20000, 30000, 40000, 50000, 60000, 70000, 100000],
-            "xpPerGold": [0]
+            "xpPerGold": [0],
+            "salvage": [0]
         }
     },
 
@@ -505,7 +523,8 @@
             "itemSellMultiplier": [0],
             "itemFindBonus": [0],
             "itemFindRangeMultiplier": [0],
-            "xpPerGold": [0]
+            "xpPerGold": [0],
+            "salvage": [0]
         },
         "scaleCost": {
             "maxLevel": [0, 1000000, 1500000],
@@ -517,7 +536,8 @@
             "itemSellMultiplier": [0],
             "itemFindBonus": [0],
             "itemFindRangeMultiplier": [0],
-            "xpPerGold": [0]
+            "xpPerGold": [0],
+            "salvage": [0]
         }
     },
 
@@ -576,7 +596,8 @@
             "itemSellMultiplier": [0],
             "itemFindBonus": [0],
             "itemFindRangeMultiplier": [0],
-            "xpPerGold": [0]
+            "xpPerGold": [0],
+            "salvage": [0]
         },
         "scaleCost": {
             "maxLevel": [0, 1000000, 1500000],
@@ -588,7 +609,8 @@
             "itemSellMultiplier": [0],
             "itemFindBonus": [0],
             "itemFindRangeMultiplier": [0],
-            "xpPerGold": [0]
+            "xpPerGold": [0],
+            "salvage": [0]
         }
     },
 
@@ -641,7 +663,8 @@
             "itemSellMultiplier": [0],
             "itemFindBonus": [0],
             "itemFindRangeMultiplier": [0],
-            "xpPerGold": [0]
+            "xpPerGold": [0],
+            "salvage": [0]
         },
         "scaleCost": {
             "maxLevel": [0, 1000000, 1500000],
@@ -653,7 +676,8 @@
             "itemSellMultiplier": [0],
             "itemFindBonus": [0],
             "itemFindRangeMultiplier": [0],
-            "xpPerGold": [0]
+            "xpPerGold": [0],
+            "salvage": [0]
         }
     },
 
@@ -706,7 +730,8 @@
             "itemSellMultiplier": [0.01, 0.3],
             "itemFindBonus": [0, 100],
             "itemFindRangeMultiplier": [0, 0.5],
-            "xpPerGold": [1]
+            "xpPerGold": [1],
+            "salvage": [0]
         },
         "scaleCost": {
             "maxLevel": [0, 20000000],
@@ -718,7 +743,8 @@
             "itemSellMultiplier": [0, 5000000],
             "itemFindBonus": [0, 10000000],
             "itemFindRangeMultiplier": [0, 50000000],
-            "xpPerGold": [0]
+            "xpPerGold": [0],
+            "salvage": [0]
         }
     },
 
@@ -753,7 +779,8 @@
             "itemSellMultiplier": [0.1, 0.2],
             "itemFindBonus": [0, 25, 50],
             "itemFindRangeMultiplier": [0, 0.05, 0.1, 0.2, 0.35],
-            "xpPerGold": [100]
+            "xpPerGold": [100],
+            "salvage": [0]
         },
         "scaleCost": {
             "maxLevel": [0, 1000000, 1500000, 20000000],
@@ -765,7 +792,54 @@
             "itemSellMultiplier": [0, 60000],
             "itemFindBonus": [0, 250000, 500000],
             "itemFindRangeMultiplier": [0, 50000, 100000, 200000, 350000],
-            "xpPerGold": [0]
+            "xpPerGold": [0],
+            "salvage": [0]
+        }
+    },
+    
+    "Goat": {
+        "cost": 500000,
+        "category": "Non-combat",
+        "description": "Unlocked by becoming a purveyor of natural resources.",
+        "slots": {
+        },
+        "specialStats": { "luk": 300 },
+        "requirements": {
+            "statistics": {
+                "Character.Item.Salvage": 1000,
+                "Character.Item.Unequippable": 1000,
+                "Character.Movement.Party": 100000
+            },
+            "collectibles": [
+                "Leviathan Egg",
+                "Twisted Turnip"
+            ]
+        },
+        "scale": {
+            "maxLevel": [500],
+            "maxItemScore": [100, 250, 500, 1000],
+            "inventory": [5, 10, 15, 20, 25, 30],
+            "goldStorage": [100000, 5000000, 1000000, 10000000],
+            "battleJoinPercent": [0],
+            "itemFindTimeDuration": [21600, 10800, 5400, 1800, 300],
+            "itemSellMultiplier": [0],
+            "itemFindBonus": [0, 1, 5, 10, 15, 20],
+            "itemFindRangeMultiplier": [0, 0.05, 0.1, 0.25],
+            "xpPerGold": [1],
+            "salvage": [100]
+        },
+        "scaleCost": {
+            "maxLevel": [0],
+            "maxItemScore": [0, 100000, 250000, 500000],
+            "inventory": [0, 50000, 100000, 250000, 400000, 1000000],
+            "goldStorage": [0, 1000000, 10000000, 100000000],
+            "battleJoinPercent": [0],
+            "itemFindTimeDuration": [0, 100000, 250000, 500000, 1000000],
+            "itemSellMultiplier": [0],
+            "itemFindBonus": [0, 100000, 500000, 1000000, 1500000, 2000000],
+            "itemFindRangeMultiplier": [0, 500000, 1000000, 2500000],
+            "xpPerGold": [0],
+            "salvage": [0]
         }
     }
 }
