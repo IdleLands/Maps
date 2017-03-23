@@ -156,8 +156,9 @@
       "x":10,
       "y":10
     },
-    "guildhall": {
+    "guildbase": {
       "map": "Norkos",
+      "formalName":"a Guild Base",
       "x": 10,
       "y": 10
     },
