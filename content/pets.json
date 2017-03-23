@@ -795,5 +795,51 @@
             "xpPerGold": [0],
             "salvage": [0]
         }
-    }
+    },
+    
+    "Goat": {
+        "cost": 500000,
+        "category": "Non-combat",
+        "description": "Unlocked by becoming a purveyor of natural resources.",
+        "slots": {
+        },
+        "specialStats": { "luk": 300 },
+        "requirements": {
+            "statistics": {
+                "Character.Item.Salvage": 1000,
+                "Character.Item.Unequippable": 1000,
+                "Character.Movement.Party": 100000
+            },
+            "collectibles": [
+                "Leviathan Egg",
+                "Twisted Turnip"
+            ],
+        },
+        "scale": {
+            "maxLevel": [500],
+            "maxItemScore": [100, 250, 500, 1000],
+            "inventory": [5, 10, 15, 20, 25, 30],
+            "goldStorage": [100000, 5000000, 1000000, 10000000],
+            "battleJoinPercent": [0],
+            "itemFindTimeDuration": [21600, 10800, 5400, 1800, 300],
+            "itemSellMultiplier": [0],
+            "itemFindBonus": [0, 1, 5, 10, 15, 20],
+            "itemFindRangeMultiplier": [0, 0.05, 0.1, 0.25],
+            "xpPerGold": [1],
+            "salvage": [100]
+        },
+        "scaleCost": {
+            "maxLevel": [0],
+            "maxItemScore": [0, 100000, 250000, 500000],
+            "inventory": [0, 50000, 100000, 250000, 400000, 1000000],
+            "goldStorage": [0, 1000000, 10000000, 100000000],
+            "battleJoinPercent": [0],
+            "itemFindTimeDuration": [0, 100000, 250000, 500000, 1000000],
+            "itemSellMultiplier": [0],
+            "itemFindBonus": [0, 100000, 500000, 1000000, 1500000, 2000000],
+            "itemFindRangeMultiplier": [0, 500000, 1000000, 2500000],
+            "xpPerGold": [0],
+            "salvage": [0]
+        }
+    },
 }
