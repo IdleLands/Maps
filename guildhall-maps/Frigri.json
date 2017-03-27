@@ -23,68 +23,97 @@
          "y":0
         }, 
         {
+         "draworder":"topdown",
          "height":35,
          "name":"Interactables",
          "objects":[
                 {
-                 "gid":30,
-                 "height":0,
+                 "gid":32,
+                 "height":16,
+                 "id":10,
                  "name":"ToFrigri",
                  "properties":
                     {
                      "movementType":"teleport",
                      "toLoc":"frigri"
                     },
-                 "type":"Teleport",
-                 "visible":true,
-                 "width":0,
-                 "x":16,
-                 "y":32
-                }, 
-                {
-                 "gid":30,
-                 "height":0,
-                 "name":"ToFrigri",
-                 "properties":
+                 "propertytypes":
                     {
-                     "movementType":"teleport",
-                     "toLoc":"frigri"
+                     "movementType":"string",
+                     "toLoc":"string"
                     },
+                 "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":528,
                  "y":32
                 }, 
                 {
-                 "gid":30,
-                 "height":0,
+                 "gid":32,
+                 "height":16,
+                 "id":11,
                  "name":"ToFrigri",
                  "properties":
                     {
                      "movementType":"teleport",
                      "toLoc":"frigri"
                     },
+                 "propertytypes":
+                    {
+                     "movementType":"string",
+                     "toLoc":"string"
+                    },
+                 "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":528,
                  "y":544
                 }, 
                 {
-                 "gid":30,
-                 "height":0,
+                 "gid":32,
+                 "height":16,
+                 "id":12,
                  "name":"ToFrigri",
                  "properties":
                     {
                      "movementType":"teleport",
                      "toLoc":"frigri"
                     },
+                 "propertytypes":
+                    {
+                     "movementType":"string",
+                     "toLoc":"string"
+                    },
+                 "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":16,
                  "y":544
+                }, 
+                {
+                 "gid":32,
+                 "height":16,
+                 "id":13,
+                 "name":"ToFrigri",
+                 "properties":
+                    {
+                     "movementType":"teleport",
+                     "toLoc":"frigri"
+                    },
+                 "propertytypes":
+                    {
+                     "movementType":"string",
+                     "toLoc":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":16,
+                 "y":32
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -94,16 +123,15 @@
          "y":0
         }, 
         {
+         "draworder":"topdown",
          "height":35,
          "name":"Regions",
          "objects":[
                 {
                  "height":560,
+                 "id":5,
                  "name":"Guild Hall",
-                 "properties":
-                    {
-
-                    },
+                 "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":560,
@@ -112,30 +140,34 @@
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "width":35,
          "x":0,
          "y":0
         }],
+ "nextobjectid":14,
  "orientation":"orthogonal",
  "properties":
     {
      "name":"norkos"
     },
+ "propertytypes":
+    {
+     "name":"string"
+    },
+ "renderorder":"right-down",
  "tileheight":16,
  "tilesets":[
         {
+         "columns":9,
          "firstgid":1,
          "image":"..\/img\/tiles.png",
-         "imageheight":112,
+         "imageheight":224,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
-         "properties":
-            {
-
-            },
          "spacing":0,
+         "tilecount":126,
          "tileheight":16,
          "tilewidth":16
         }],

@@ -156,6 +156,12 @@
       "x":10,
       "y":10
     },
+    "guildbase": {
+      "map": "Norkos",
+      "formalName":"a Guild Base",
+      "x": 10,
+      "y": 10
+    },
     "astralcontrolroom":{
       "map":"Astral Control Room",
       "formalName":"the Astral Control Room",

@@ -23,21 +23,29 @@
          "y":0
         }, 
         {
+         "draworder":"topdown",
          "height":35,
          "name":"Interactables",
          "objects":[
                 {
-                 "gid":30,
-                 "height":0,
+                 "gid":32,
+                 "height":16,
+                 "id":3,
                  "name":"ToMaeles",
                  "properties":
                     {
                      "movementType":"teleport",
                      "toLoc":"maeles"
                     },
+                 "propertytypes":
+                    {
+                     "movementType":"string",
+                     "toLoc":"string"
+                    },
+                 "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":448,
                  "y":96
                 }],
@@ -49,16 +57,15 @@
          "y":0
         }, 
         {
+         "draworder":"topdown",
          "height":35,
          "name":"Regions",
          "objects":[
                 {
                  "height":560,
+                 "id":2,
                  "name":"Guild Hall",
-                 "properties":
-                    {
-
-                    },
+                 "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":560,
@@ -67,30 +74,34 @@
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "width":35,
          "x":0,
          "y":0
         }],
+ "nextobjectid":4,
  "orientation":"orthogonal",
  "properties":
     {
      "name":"norkos"
     },
+ "propertytypes":
+    {
+     "name":"string"
+    },
+ "renderorder":"right-down",
  "tileheight":16,
  "tilesets":[
         {
+         "columns":9,
          "firstgid":1,
          "image":"..\/img\/tiles.png",
-         "imageheight":112,
+         "imageheight":224,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
-         "properties":
-            {
-
-            },
          "spacing":0,
+         "tilecount":126,
          "tileheight":16,
          "tilewidth":16
         }],

@@ -127,7 +127,7 @@
             "itemFindBonus": [0, 10, 15, 20, 25],
             "itemFindRangeMultiplier": [0.1, 0.15, 0.2],
             "xpPerGold": [15],
-            "salvage": [0]
+            "salvage": [50]
         },
         "scaleCost": {
             "maxLevel": [0, 50000, 75000],
@@ -183,7 +183,7 @@
             "itemFindBonus": [0, 5, 10, 15, 20, 25, 30, 35],
             "itemFindRangeMultiplier": [0, 0.05, 0.1, 0.15],
             "xpPerGold": [15],
-            "salvage": [0]
+            "salvage": [25]
         },
         "scaleCost": {
             "maxLevel": [0, 75000],
@@ -238,7 +238,7 @@
             "itemFindBonus": [3, 7, 13, 17, 23, 27],
             "itemFindRangeMultiplier": [0, 0.1, 0.2],
             "xpPerGold": [10],
-            "salvage": [25]
+            "salvage": [50]
         },
         "scaleCost": {
             "maxLevel": [0, 25000, 50000],
@@ -284,7 +284,7 @@
             "itemFindBonus": [0, 15, 20, 25, 30, 35, 40, 45, 50],
             "itemFindRangeMultiplier": [0, 0.05, 0.1, 0.15, 0.2],
             "xpPerGold": [30],
-            "salvage": [50]
+            "salvage": [75]
         },
         "scaleCost": {
             "maxLevel": [0, 10000, 25000, 100000],
@@ -459,7 +459,7 @@
             "itemFindBonus": [10, 20, 30, 40, 50, 60, 70, 80],
             "itemFindRangeMultiplier": [0.15, 0.2, 0.25, 0.3, 0.35, 0.4, 0.45, 0.5],
             "xpPerGold": [1],
-            "salvage": [0]
+            "salvage": [50]
         },
         "scaleCost": {
             "maxLevel": [0, 10000, 15000, 20000, 25000, 30000, 35000, 40000],
@@ -731,7 +731,7 @@
             "itemFindBonus": [0, 100],
             "itemFindRangeMultiplier": [0, 0.5],
             "xpPerGold": [1],
-            "salvage": [0]
+            "salvage": [100]
         },
         "scaleCost": {
             "maxLevel": [0, 20000000],
@@ -793,13 +793,13 @@
             "itemFindBonus": [0, 250000, 500000],
             "itemFindRangeMultiplier": [0, 50000, 100000, 200000, 350000],
             "xpPerGold": [0],
-            "salvage": [0]
+            "salvage": [50]
         }
     },
     
     "Goat": {
         "cost": 500000,
-        "category": "Non-combat",
+        "category": "Non-Combat",
         "description": "Unlocked by becoming a purveyor of natural resources.",
         "slots": {
         },
@@ -826,7 +826,7 @@
             "itemFindBonus": [0, 1, 5, 10, 15, 20],
             "itemFindRangeMultiplier": [0, 0.05, 0.1, 0.25],
             "xpPerGold": [1],
-            "salvage": [100]
+            "salvage": [200]
         },
         "scaleCost": {
             "maxLevel": [0],
