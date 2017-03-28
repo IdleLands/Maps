@@ -1714,6 +1714,26 @@
                  "width":16,
                  "x":528,
                  "y":464
+                }, 
+                {
+                 "gid":27,
+                 "height":16,
+                 "id":123,
+                 "name":"Roberto",
+                 "properties":
+                    {
+                     "flavorText":"Labor lusum meliorat"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":560,
+                 "y":464
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1789,7 +1809,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":123,
+ "nextobjectid":124,
  "orientation":"orthogonal",
  "properties":
     {
