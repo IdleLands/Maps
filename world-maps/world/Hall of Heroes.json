@@ -1734,6 +1734,18 @@
                  "width":16,
                  "x":560,
                  "y":464
+                }, 
+                {
+                 "gid":15,
+                 "height":16,
+                 "id":124,
+                 "name":"JJx",
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":560,
+                 "y":144
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1809,7 +1821,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":124,
+ "nextobjectid":125,
  "orientation":"orthogonal",
  "properties":
     {
