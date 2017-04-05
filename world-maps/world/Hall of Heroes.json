@@ -1746,6 +1746,26 @@
                  "width":16,
                  "x":560,
                  "y":144
+                }, 
+                {
+                 "gid":26,
+                 "height":16,
+                 "id":125,
+                 "name":"Vasyan",
+                 "properties":
+                    {
+                     "flavorText":"Hello"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":192,
+                 "y":144
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1821,7 +1841,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":125,
+ "nextobjectid":126,
  "orientation":"orthogonal",
  "properties":
     {
