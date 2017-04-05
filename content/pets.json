@@ -762,7 +762,8 @@
             "int": 1000,
             "str": 1000,
             "con": 1000,
-            "glowing": 10
+            "glowing": 10,
+            "gold": 100
         },
         "requirements": {
               "statistics": {
