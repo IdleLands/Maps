@@ -1778,6 +1778,38 @@
                  "width":16,
                  "x":560,
                  "y":176
+                }, 
+                {
+                 "gid":66,
+                 "height":16,
+                 "id":127,
+                 "name":"Khezgaan",
+                 "properties":
+                    {
+                     "flavorText":"Never compromise. Not even in the face of Armageddon."
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":192,
+                 "y":176
+                }, 
+                {
+                 "gid":72,
+                 "height":16,
+                 "id":128,
+                 "name":"Masterojack",
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":560,
+                 "y":208
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1853,7 +1885,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":127,
+ "nextobjectid":129,
  "orientation":"orthogonal",
  "properties":
     {
