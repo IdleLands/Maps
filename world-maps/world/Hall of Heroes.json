@@ -1830,6 +1830,18 @@
                  "width":16,
                  "x":192,
                  "y":208
+                }, 
+                {
+                 "gid":15,
+                 "height":16,
+                 "id":130,
+                 "name":"Sviseerd",
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":192,
+                 "y":240
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1905,7 +1917,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":130,
+ "nextobjectid":131,
  "orientation":"orthogonal",
  "properties":
     {
