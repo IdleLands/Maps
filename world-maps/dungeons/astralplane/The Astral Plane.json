@@ -1116,7 +1116,8 @@
                      "desty":"48",
                      "fromName":"The Astral Plane",
                      "map":"Merchant's Guild",
-                     "movementType":"teleport"
+                     "movementType":"teleport",
+                     "requireCollectible":"Astral Tuning Fork"
                     },
                  "propertytypes":
                     {
@@ -1124,7 +1125,8 @@
                      "desty":"string",
                      "fromName":"string",
                      "map":"string",
-                     "movementType":"string"
+                     "movementType":"string",
+                     "requireCollectible":"string"
                     },
                  "rotation":0,
                  "type":"Teleport",
