@@ -1842,6 +1842,38 @@
                  "width":16,
                  "x":192,
                  "y":240
+                }, 
+                {
+                 "gid":25,
+                 "height":16,
+                 "id":131,
+                 "name":"Stuwolf",
+                 "properties":
+                    {
+                     "flavorText":"I see, i go, i Idle !"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":192,
+                 "y":272
+                }, 
+                {
+                 "gid":15,
+                 "height":16,
+                 "id":132,
+                 "name":"Tano",
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":560,
+                 "y":240
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1917,7 +1949,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":131,
+ "nextobjectid":133,
  "orientation":"orthogonal",
  "properties":
     {
