@@ -132,7 +132,7 @@
     "hp": 250,
     "luk": 35,
     "xp": 5,
-    "gold": 750,
+    "gold": 150,
     "damageReduction": 300
   },
   "Coin Purse": {
@@ -141,7 +141,7 @@
     "luk": 35,
     "hp": 500,
     "xp": 5,
-    "gold": 750,
+    "gold": 150,
     "aegis": 1,
     "glowing": 1
   },
@@ -150,7 +150,7 @@
     "agi": 500,
     "luk": 35,
     "hp": 500,
-    "gold": 750,
+    "gold": 150,
     "vampire": 1
   },
   "Mule": {
@@ -160,7 +160,7 @@
     "luk": 35,
     "hp": 500,
     "xp": 10,
-    "gold": 750,
+    "gold": 150,
     "dance": 1,
     "prone": 1,
     "sentimentality": 70
@@ -172,7 +172,7 @@
     "luk": 35,
     "hp": 500,
     "xp": 5,
-    "gold": 750,
+    "gold": 150,
     "dance": 1,
     "hpregen": 100,
     "mpregen": 50
