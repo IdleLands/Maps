@@ -1918,6 +1918,18 @@
                  "width":16,
                  "x":560,
                  "y":304
+                }, 
+                {
+                 "gid":15,
+                 "height":16,
+                 "id":136,
+                 "name":"MikakoTabe",
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":192,
+                 "y":336
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1993,7 +2005,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":136,
+ "nextobjectid":137,
  "orientation":"orthogonal",
  "properties":
     {
