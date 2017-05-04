@@ -36,6 +36,10 @@
                     {
                      "flavorText":"Most of the jaw is missing from corrosion. Still vigilant in protecting his hoard of gold."
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"Boss",
                  "visible":true,
@@ -54,6 +58,12 @@
                      "rarity":"idle",
                      "storyline":"Lore: Dragons"
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "rarity":"string",
+                     "storyline":"string"
+                    },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
@@ -70,6 +80,11 @@
                     {
                      "flavorText":"A perfect cube of obsidian. Archer must have had some spare time on his hands.",
                      "storyline":"Memoir: Archer"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "storyline":"string"
                     },
                  "rotation":0,
                  "type":"Collectible",
@@ -88,6 +103,11 @@
                      "flavorText":"A small, scentless chunk of granite that appears to be a fossilized chunk of dragon stool.",
                      "storyline":"Lore: Dragons"
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "storyline":"string"
+                    },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
@@ -100,10 +120,6 @@
                  "height":16,
                  "id":10,
                  "name":"Monster",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"Trainer",
                  "visible":true,
@@ -120,6 +136,11 @@
                     {
                      "movementType":"teleport",
                      "toLoc":"vocalnus"
+                    },
+                 "propertytypes":
+                    {
+                     "movementType":"string",
+                     "toLoc":"string"
                     },
                  "rotation":0,
                  "type":"Teleport",
@@ -138,6 +159,11 @@
                      "movementType":"teleport",
                      "toLoc":"vocalnus"
                     },
+                 "propertytypes":
+                    {
+                     "movementType":"string",
+                     "toLoc":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -154,6 +180,11 @@
                     {
                      "movementType":"teleport",
                      "toLoc":"vocalnus"
+                    },
+                 "propertytypes":
+                    {
+                     "movementType":"string",
+                     "toLoc":"string"
                     },
                  "rotation":0,
                  "type":"Teleport",
@@ -173,7 +204,15 @@
                      "destx":"198",
                      "desty":"16",
                      "map":"Norkos",
-                     "movementType":"ascend"
+                     "movementType":"teleport"
+                    },
+                 "propertytypes":
+                    {
+                     "destName":"string",
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
                     },
                  "rotation":0,
                  "type":"Teleport",
@@ -191,6 +230,10 @@
                     {
                      "forceEvent":"GoldBless"
                     },
+                 "propertytypes":
+                    {
+                     "forceEvent":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -206,6 +249,10 @@
                  "properties":
                     {
                      "flavorText":"Burned to a crisp by dragon fire."
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
                     },
                  "rotation":0,
                  "type":"Skeleton",
@@ -223,6 +270,10 @@
                     {
                      "flavorText":"Burned to a crisp by dragon fire."
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"Skeleton",
                  "visible":true,
@@ -238,6 +289,10 @@
                  "properties":
                     {
                      "flavorText":"This adventurer missed the water and left a small crater."
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
                     },
                  "rotation":0,
                  "type":"Skeleton",
@@ -255,6 +310,10 @@
                     {
                      "flavorText":"A rockslide trapped this poor soul."
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"Skeleton",
                  "visible":true,
@@ -270,6 +329,10 @@
                  "properties":
                     {
                      "forceEvent":"GoldBless"
+                    },
+                 "propertytypes":
+                    {
+                     "forceEvent":"string"
                     },
                  "rotation":0,
                  "type":"",
@@ -287,6 +350,10 @@
                     {
                      "forceEvent":"GoldBless"
                     },
+                 "propertytypes":
+                    {
+                     "forceEvent":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -302,6 +369,10 @@
                  "properties":
                     {
                      "forceEvent":"GoldBless"
+                    },
+                 "propertytypes":
+                    {
+                     "forceEvent":"string"
                     },
                  "rotation":0,
                  "type":"",
@@ -319,6 +390,10 @@
                     {
                      "forceEvent":"GoldBless"
                     },
+                 "propertytypes":
+                    {
+                     "forceEvent":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -335,6 +410,10 @@
                     {
                      "forceEvent":"ItemBless"
                     },
+                 "propertytypes":
+                    {
+                     "forceEvent":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -347,10 +426,6 @@
                  "height":16,
                  "id":25,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -363,10 +438,6 @@
                  "height":16,
                  "id":26,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -379,10 +450,6 @@
                  "height":16,
                  "id":27,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -395,10 +462,6 @@
                  "height":16,
                  "id":28,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -411,10 +474,6 @@
                  "height":16,
                  "id":30,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -427,10 +486,6 @@
                  "height":16,
                  "id":31,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -443,10 +498,6 @@
                  "height":16,
                  "id":33,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -459,10 +510,6 @@
                  "height":16,
                  "id":34,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -475,10 +522,6 @@
                  "height":16,
                  "id":35,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -491,10 +534,6 @@
                  "height":16,
                  "id":37,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -507,10 +546,6 @@
                  "height":16,
                  "id":38,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -523,10 +558,6 @@
                  "height":16,
                  "id":39,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -539,10 +570,6 @@
                  "height":16,
                  "id":41,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -555,10 +582,6 @@
                  "height":16,
                  "id":42,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -575,6 +598,10 @@
                     {
                      "flavorText":"Where are the rest of the limbs? Probably in the dragon over there."
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"Skeleton",
                  "visible":true,
@@ -587,36 +614,12 @@
                  "height":16,
                  "id":44,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":16,
                  "x":352,
                  "y":80
-                }, 
-                {
-                 "gid":32,
-                 "height":16,
-                 "id":50,
-                 "name":"ToBDK",
-                 "properties":
-                    {
-                     "customMessage":"%playerName hits a teleport trap! %playerName is teleported to %destName and falls in to a pit of acid!",
-                     "destx":"73",
-                     "desty":"3",
-                     "map":"Mythos -2",
-                     "movementType":"teleport"
-                    },
-                 "rotation":0,
-                 "type":"Teleport",
-                 "visible":true,
-                 "width":16,
-                 "x":1232,
-                 "y":64
                 }, 
                 {
                  "gid":42,
@@ -631,12 +634,48 @@
                      "map":"Mythos -1",
                      "movementType":"ascend"
                     },
+                 "propertytypes":
+                    {
+                     "customMessage":"string",
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
                  "width":16,
                  "x":1392,
                  "y":80
+                }, 
+                {
+                 "gid":29,
+                 "height":16,
+                 "id":53,
+                 "name":"ToBDK",
+                 "properties":
+                    {
+                     "customMessage":"%playerName hits a teleport trap! %playerName is teleported to %destName and falls in to a pit of acid!",
+                     "destx":"73",
+                     "desty":"3",
+                     "map":"Mythos -2",
+                     "movementType":"teleport"
+                    },
+                 "propertytypes":
+                    {
+                     "customMessage":"string",
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":1232,
+                 "y":64
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -654,10 +693,6 @@
                  "height":160,
                  "id":47,
                  "name":"Black Dragon King's Lair",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -669,10 +704,6 @@
                  "height":192,
                  "id":48,
                  "name":"Black Dragon King's Lair",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -684,10 +715,6 @@
                  "height":160,
                  "id":49,
                  "name":"Monster's Lair",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -699,10 +726,6 @@
                  "height":48,
                  "id":52,
                  "name":"Black Dragon King's Treasure Hoard",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -717,58 +740,53 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":53,
+ "nextobjectid":54,
  "orientation":"orthogonal",
  "properties":
     {
      "name":"norkos"
     },
+ "propertytypes":
+    {
+     "name":"string"
+    },
  "renderorder":"right-down",
  "tileheight":16,
  "tilesets":[
         {
+         "columns":9,
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
          "imageheight":224,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
-         "properties":
-            {
-
-            },
          "spacing":0,
          "tilecount":126,
          "tileheight":16,
          "tilewidth":16
         }, 
         {
+         "columns":9,
          "firstgid":127,
          "image":"..\/..\/..\/img\/tiles.png",
          "imageheight":224,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
-         "properties":
-            {
-
-            },
          "spacing":0,
          "tilecount":126,
          "tileheight":16,
          "tilewidth":16
         }, 
         {
+         "columns":9,
          "firstgid":253,
          "image":"..\/..\/..\/img\/tiles.png",
          "imageheight":224,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
-         "properties":
-            {
-
-            },
          "spacing":0,
          "tilecount":126,
          "tileheight":16,

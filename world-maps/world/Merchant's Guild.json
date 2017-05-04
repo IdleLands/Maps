@@ -37,14 +37,16 @@
                      "destx":"48",
                      "desty":"48",
                      "map":"The Astral Plane",
-                     "movementType":"teleport"
+                     "movementType":"teleport",
+                     "requireCollectible":"Astral Tuning Fork"
                     },
                  "propertytypes":
                     {
                      "destx":"string",
                      "desty":"string",
                      "map":"string",
-                     "movementType":"string"
+                     "movementType":"string",
+                     "requireCollectible":"string"
                     },
                  "rotation":0,
                  "type":"Teleport",
@@ -988,66 +990,6 @@
                  "width":16,
                  "x":736,
                  "y":336
-                }, 
-                {
-                 "gid":32,
-                 "height":16,
-                 "id":356,
-                 "name":"ToAstralMerchants",
-                 "properties":
-                    {
-                     "customMessage":"%playerName is granted access to %destName.",
-                     "destx":"34",
-                     "desty":"40",
-                     "map":"Merchant's Guild",
-                     "movementType":"teleport",
-                     "requireCollectible":"Astral Tuning Fork"
-                    },
-                 "propertytypes":
-                    {
-                     "customMessage":"string",
-                     "destx":"string",
-                     "desty":"string",
-                     "map":"string",
-                     "movementType":"string",
-                     "requireCollectible":"string"
-                    },
-                 "rotation":0,
-                 "type":"Teleport",
-                 "visible":true,
-                 "width":16,
-                 "x":496,
-                 "y":656
-                }, 
-                {
-                 "gid":32,
-                 "height":16,
-                 "id":358,
-                 "name":"ToMarketplace",
-                 "properties":
-                    {
-                     "customMessage":"%playerName is granted access to %destName.",
-                     "destx":"31",
-                     "desty":"40",
-                     "map":"Merchant's Guild",
-                     "movementType":"teleport",
-                     "requireCollectible":"Astral Tuning Fork"
-                    },
-                 "propertytypes":
-                    {
-                     "customMessage":"string",
-                     "destx":"string",
-                     "desty":"string",
-                     "map":"string",
-                     "movementType":"string",
-                     "requireCollectible":"string"
-                    },
-                 "rotation":0,
-                 "type":"Teleport",
-                 "visible":true,
-                 "width":16,
-                 "x":544,
-                 "y":656
                 }, 
                 {
                  "gid":2,
@@ -5784,6 +5726,64 @@
                  "width":16,
                  "x":288,
                  "y":736
+                }, 
+                {
+                 "gid":29,
+                 "height":16,
+                 "id":616,
+                 "name":"ToAstralMerchants",
+                 "properties":
+                    {
+                     "customMessage":"%playerName is granted access to %destName.",
+                     "destx":"34",
+                     "desty":"40",
+                     "map":"Merchant's Guild",
+                     "movementType":"teleport",
+                     "requireCollectible":"Astral Tuning Fork"
+                    },
+                 "propertytypes":
+                    {
+                     "customMessage":"string",
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string",
+                     "requireCollectible":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":496,
+                 "y":656
+                }, 
+                {
+                 "gid":29,
+                 "height":16,
+                 "id":617,
+                 "name":"ToMarketplace",
+                 "properties":
+                    {
+                     "customMessage":"%playerName is granted access to %destName.",
+                     "destx":"31",
+                     "desty":"40",
+                     "map":"Merchant's Guild",
+                     "movementType":"teleport"
+                    },
+                 "propertytypes":
+                    {
+                     "customMessage":"string",
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":544,
+                 "y":656
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -5936,7 +5936,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":616,
+ "nextobjectid":621,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tileheight":16,

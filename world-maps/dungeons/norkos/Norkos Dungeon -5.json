@@ -40,6 +40,14 @@
                      "map":"Norkos Dungeon -4",
                      "movementType":"ascend"
                     },
+                 "propertytypes":
+                    {
+                     "destName":"string",
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -59,6 +67,14 @@
                      "desty":"23",
                      "map":"Norkos Dungeon -4",
                      "movementType":"ascend"
+                    },
+                 "propertytypes":
+                    {
+                     "destName":"string",
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
                     },
                  "rotation":0,
                  "type":"Teleport",
@@ -80,6 +96,14 @@
                      "map":"Norkos Dungeon -4",
                      "movementType":"ascend"
                     },
+                 "propertytypes":
+                    {
+                     "destName":"string",
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -92,10 +116,6 @@
                  "height":16,
                  "id":4,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -108,10 +128,6 @@
                  "height":16,
                  "id":5,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -124,10 +140,6 @@
                  "height":16,
                  "id":6,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -140,10 +152,6 @@
                  "height":16,
                  "id":7,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -156,10 +164,6 @@
                  "height":16,
                  "id":8,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -172,10 +176,6 @@
                  "height":16,
                  "id":9,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -188,10 +188,6 @@
                  "height":16,
                  "id":10,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -204,10 +200,6 @@
                  "height":16,
                  "id":11,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -220,10 +212,6 @@
                  "height":16,
                  "id":12,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -236,10 +224,6 @@
                  "height":16,
                  "id":13,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -252,10 +236,6 @@
                  "height":16,
                  "id":14,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -268,10 +248,6 @@
                  "height":16,
                  "id":15,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -284,10 +260,6 @@
                  "height":16,
                  "id":16,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -300,10 +272,6 @@
                  "height":16,
                  "id":17,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -316,10 +284,6 @@
                  "height":16,
                  "id":18,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -332,10 +296,6 @@
                  "height":16,
                  "id":19,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -348,10 +308,6 @@
                  "height":16,
                  "id":20,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -364,10 +320,6 @@
                  "height":16,
                  "id":21,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -380,10 +332,6 @@
                  "height":16,
                  "id":22,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -405,84 +353,21 @@
                      "map":"Norkos Dungeon -6",
                      "movementType":"descend"
                     },
+                 "propertytypes":
+                    {
+                     "destName":"string",
+                     "destx":"string",
+                     "desty":"string",
+                     "fromName":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
                  "width":16,
                  "x":848,
                  "y":272
-                }, 
-                {
-                 "gid":31,
-                 "height":16,
-                 "id":24,
-                 "name":"ToNorkosMage",
-                 "properties":
-                    {
-                     "fromName":"the Jesters Demense",
-                     "movementType":"teleport",
-                     "toLoc":"mage"
-                    },
-                 "rotation":0,
-                 "type":"Teleport",
-                 "visible":true,
-                 "width":16,
-                 "x":656,
-                 "y":704
-                }, 
-                {
-                 "gid":31,
-                 "height":16,
-                 "id":25,
-                 "name":"ToNorkosFighter",
-                 "properties":
-                    {
-                     "fromName":"the Jesters Demense",
-                     "movementType":"teleport",
-                     "toLoc":"fighter"
-                    },
-                 "rotation":0,
-                 "type":"Teleport",
-                 "visible":true,
-                 "width":16,
-                 "x":656,
-                 "y":736
-                }, 
-                {
-                 "gid":31,
-                 "height":16,
-                 "id":26,
-                 "name":"ToNorkosGeneralist",
-                 "properties":
-                    {
-                     "fromName":"the Jesters Demense",
-                     "movementType":"teleport",
-                     "toLoc":"generalist"
-                    },
-                 "rotation":0,
-                 "type":"Teleport",
-                 "visible":true,
-                 "width":16,
-                 "x":736,
-                 "y":736
-                }, 
-                {
-                 "gid":31,
-                 "height":16,
-                 "id":27,
-                 "name":"ToNorkosCleric",
-                 "properties":
-                    {
-                     "fromName":"the Jesters Demense",
-                     "movementType":"teleport",
-                     "toLoc":"cleric"
-                    },
-                 "rotation":0,
-                 "type":"Teleport",
-                 "visible":true,
-                 "width":16,
-                 "x":736,
-                 "y":704
                 }, 
                 {
                  "gid":26,
@@ -492,6 +377,10 @@
                  "properties":
                     {
                      "flavorText":"Self-proclaimed king of Norkos Dungeon. Used dark magic to freeze Raburro Town's water source."
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
                     },
                  "rotation":0,
                  "type":"Boss",
@@ -505,10 +394,6 @@
                  "height":16,
                  "id":29,
                  "name":"Jester",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"Trainer",
                  "visible":true,
@@ -526,6 +411,11 @@
                      "movementType":"teleport",
                      "toLoc":"norkos"
                     },
+                 "propertytypes":
+                    {
+                     "movementType":"string",
+                     "toLoc":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -538,10 +428,6 @@
                  "height":16,
                  "id":31,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -554,10 +440,6 @@
                  "height":16,
                  "id":32,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -570,10 +452,6 @@
                  "height":16,
                  "id":33,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -586,10 +464,6 @@
                  "height":16,
                  "id":34,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -602,10 +476,6 @@
                  "height":16,
                  "id":35,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -618,10 +488,6 @@
                  "height":16,
                  "id":36,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -634,10 +500,6 @@
                  "height":16,
                  "id":37,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -650,10 +512,6 @@
                  "height":16,
                  "id":38,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -666,10 +524,6 @@
                  "height":16,
                  "id":39,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -682,10 +536,6 @@
                  "height":16,
                  "id":40,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -698,10 +548,6 @@
                  "height":16,
                  "id":41,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -714,10 +560,6 @@
                  "height":16,
                  "id":42,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -730,10 +572,6 @@
                  "height":16,
                  "id":43,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -746,10 +584,6 @@
                  "height":16,
                  "id":44,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -762,10 +596,6 @@
                  "height":16,
                  "id":45,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -778,10 +608,6 @@
                  "height":16,
                  "id":46,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -794,10 +620,6 @@
                  "height":16,
                  "id":47,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -810,10 +632,6 @@
                  "height":16,
                  "id":48,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -826,10 +644,6 @@
                  "height":16,
                  "id":49,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -842,10 +656,6 @@
                  "height":16,
                  "id":50,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -858,10 +668,6 @@
                  "height":16,
                  "id":51,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -874,10 +680,6 @@
                  "height":16,
                  "id":52,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -890,10 +692,6 @@
                  "height":16,
                  "id":53,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -906,10 +704,6 @@
                  "height":16,
                  "id":54,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -922,10 +716,6 @@
                  "height":16,
                  "id":55,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -938,10 +728,6 @@
                  "height":16,
                  "id":56,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -954,10 +740,6 @@
                  "height":16,
                  "id":57,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -970,10 +752,6 @@
                  "height":16,
                  "id":58,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -986,10 +764,6 @@
                  "height":16,
                  "id":59,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -1002,10 +776,6 @@
                  "height":16,
                  "id":60,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -1022,6 +792,11 @@
                     {
                      "flavorText":"A chameleon-like scale that seems to blend in with its surroundings. Normally these are kept to allow the lizard to hide better from danger.",
                      "storyline":"Era: Corruption"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "storyline":"string"
                     },
                  "rotation":0,
                  "type":"Collectible",
@@ -1040,6 +815,11 @@
                      "flavorText":"Someone must have tried very hard to create a natural ecosystem in this dungeon.",
                      "storyline":"Lore: Raburro"
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "storyline":"string"
+                    },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
@@ -1057,6 +837,11 @@
                      "flavorText":"There's no possible way to have ice stay cold in a dungeon.",
                      "storyline":"Lore: Raburro"
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "storyline":"string"
+                    },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
@@ -1073,6 +858,11 @@
                     {
                      "flavorText":"They still make noise, despite how unkind time was to them.",
                      "storyline":"Memoir: Jester"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "storyline":"string"
                     },
                  "rotation":0,
                  "type":"Collectible",
@@ -1092,6 +882,12 @@
                      "rarity":"idle",
                      "storyline":"Lore: Raburro"
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "rarity":"string",
+                     "storyline":"string"
+                    },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
@@ -1100,30 +896,10 @@
                  "y":560
                 }, 
                 {
-                 "gid":1,
-                 "height":16,
-                 "id":66,
-                 "name":"Raburro",
-                 "properties":
-                    {
-
-                    },
-                 "rotation":0,
-                 "type":"GuildTeleport",
-                 "visible":true,
-                 "width":16,
-                 "x":704,
-                 "y":560
-                }, 
-                {
                  "gid":20,
                  "height":16,
                  "id":68,
                  "name":"Fighter",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"Trainer",
                  "visible":true,
@@ -1136,10 +912,6 @@
                  "height":16,
                  "id":71,
                  "name":"Generalist",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"Trainer",
                  "visible":true,
@@ -1152,10 +924,6 @@
                  "height":16,
                  "id":72,
                  "name":"Mage",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"Trainer",
                  "visible":true,
@@ -1168,10 +936,6 @@
                  "height":16,
                  "id":73,
                  "name":"Cleric",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"Trainer",
                  "visible":true,
@@ -1184,10 +948,6 @@
                  "height":16,
                  "id":74,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -1200,10 +960,6 @@
                  "height":16,
                  "id":75,
                  "name":"SandwichArtist",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"Trainer",
                  "visible":true,
@@ -1216,10 +972,6 @@
                  "height":16,
                  "id":76,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -1237,6 +989,11 @@
                      "forceEvent":"Merchant",
                      "merchantBonus":"50"
                     },
+                 "propertytypes":
+                    {
+                     "forceEvent":"string",
+                     "merchantBonus":"string"
+                    },
                  "rotation":0,
                  "type":"Merchant",
                  "visible":true,
@@ -1249,10 +1006,6 @@
                  "height":16,
                  "id":78,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -1265,10 +1018,6 @@
                  "height":16,
                  "id":79,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -1281,10 +1030,6 @@
                  "height":16,
                  "id":80,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -1297,10 +1042,6 @@
                  "height":16,
                  "id":81,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -1313,10 +1054,6 @@
                  "height":16,
                  "id":82,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -1332,6 +1069,10 @@
                  "properties":
                     {
                      "flavorText":"A former resident of Raburro rests here."
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
                     },
                  "rotation":0,
                  "type":"Gravestone",
@@ -1349,6 +1090,10 @@
                     {
                      "flavorText":"A former resident of Raburro rests here."
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"Gravestone",
                  "visible":true,
@@ -1361,10 +1106,6 @@
                  "height":16,
                  "id":86,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -1377,10 +1118,6 @@
                  "height":16,
                  "id":87,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -1402,12 +1139,129 @@
                      "movementType":"teleport",
                      "requireCollectible":"Large Decorative Key"
                     },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "fromName":"string",
+                     "map":"string",
+                     "movementType":"string",
+                     "requireCollectible":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
                  "width":16,
                  "x":224,
                  "y":752
+                }, 
+                {
+                 "gid":32,
+                 "height":16,
+                 "id":90,
+                 "name":"ToNorkosGeneralist",
+                 "properties":
+                    {
+                     "fromName":"the Jesters Demense",
+                     "movementType":"teleport",
+                     "toLoc":"generalist"
+                    },
+                 "propertytypes":
+                    {
+                     "fromName":"string",
+                     "movementType":"string",
+                     "toLoc":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":736,
+                 "y":736
+                }, 
+                {
+                 "gid":32,
+                 "height":16,
+                 "id":91,
+                 "name":"ToNorkosFighter",
+                 "properties":
+                    {
+                     "fromName":"the Jesters Demense",
+                     "movementType":"teleport",
+                     "toLoc":"fighter"
+                    },
+                 "propertytypes":
+                    {
+                     "fromName":"string",
+                     "movementType":"string",
+                     "toLoc":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":656,
+                 "y":736
+                }, 
+                {
+                 "gid":32,
+                 "height":16,
+                 "id":92,
+                 "name":"ToNorkosMage",
+                 "properties":
+                    {
+                     "fromName":"the Jesters Demense",
+                     "movementType":"teleport",
+                     "toLoc":"mage"
+                    },
+                 "propertytypes":
+                    {
+                     "fromName":"string",
+                     "movementType":"string",
+                     "toLoc":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":656,
+                 "y":704
+                }, 
+                {
+                 "gid":32,
+                 "height":16,
+                 "id":93,
+                 "name":"ToNorkosCleric",
+                 "properties":
+                    {
+                     "fromName":"the Jesters Demense",
+                     "movementType":"teleport",
+                     "toLoc":"cleric"
+                    },
+                 "propertytypes":
+                    {
+                     "fromName":"string",
+                     "movementType":"string",
+                     "toLoc":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":736,
+                 "y":704
+                }, 
+                {
+                 "gid":31,
+                 "height":16,
+                 "id":94,
+                 "name":"Raburro",
+                 "rotation":0,
+                 "type":"GuildTeleport",
+                 "visible":true,
+                 "width":16,
+                 "x":704,
+                 "y":560
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1425,10 +1279,6 @@
                  "height":304,
                  "id":67,
                  "name":"Raburro Town",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -1440,10 +1290,6 @@
                  "height":160,
                  "id":70,
                  "name":"Raburro Town",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -1455,10 +1301,6 @@
                  "height":320,
                  "id":88,
                  "name":"Lizard King's Chambers",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -1473,26 +1315,27 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":90,
+ "nextobjectid":96,
  "orientation":"orthogonal",
  "properties":
     {
      "name":"norkos"
     },
+ "propertytypes":
+    {
+     "name":"string"
+    },
  "renderorder":"right-down",
  "tileheight":16,
  "tilesets":[
         {
+         "columns":9,
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
          "imageheight":224,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
-         "properties":
-            {
-
-            },
          "spacing":0,
          "tilecount":126,
          "tileheight":16,

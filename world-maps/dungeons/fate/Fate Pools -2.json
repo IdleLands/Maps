@@ -1,7 +1,7 @@
 { "height":18,
  "layers":[
         {
-         "data":[36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 7, 7, 7, 7, 7, 7, 7, 36, 36, 36, 36, 36, 7, 7, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 7, 7, 7, 7, 7, 7, 7, 36, 36, 36, 36, 36, 7, 7, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 7, 7, 7, 7, 7, 7, 7, 36, 36, 36, 36, 36, 7, 7, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 5, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 5, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36],
+         "data":[36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 7, 7, 7, 7, 7, 7, 7, 36, 36, 36, 36, 36, 7, 7, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 7, 5, 7, 5, 7, 5, 7, 36, 36, 36, 36, 36, 7, 7, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 7, 7, 7, 7, 7, 7, 7, 36, 36, 36, 36, 36, 7, 7, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 5, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 5, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36],
          "height":18,
          "name":"Terrain",
          "opacity":1,
@@ -39,6 +39,13 @@
                      "map":"Fate Pools -1",
                      "movementType":"ascend"
                     },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -51,10 +58,6 @@
                  "height":16,
                  "id":2,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -67,10 +70,6 @@
                  "height":16,
                  "id":3,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -83,10 +82,6 @@
                  "height":16,
                  "id":4,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -99,10 +94,6 @@
                  "height":16,
                  "id":5,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -115,10 +106,6 @@
                  "height":16,
                  "id":6,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -131,10 +118,6 @@
                  "height":16,
                  "id":7,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -147,10 +130,6 @@
                  "height":16,
                  "id":8,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -163,10 +142,6 @@
                  "height":16,
                  "id":9,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -179,10 +154,6 @@
                  "height":16,
                  "id":10,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -195,64 +166,12 @@
                  "height":16,
                  "id":11,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":16,
                  "x":272,
                  "y":144
-                }, 
-                {
-                 "gid":30,
-                 "height":16,
-                 "id":12,
-                 "name":"",
-                 "properties":
-                    {
-                     "forceEvent":"Providence"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":272,
-                 "y":240
-                }, 
-                {
-                 "gid":30,
-                 "height":16,
-                 "id":13,
-                 "name":"",
-                 "properties":
-                    {
-                     "forceEvent":"Providence"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":304,
-                 "y":240
-                }, 
-                {
-                 "gid":30,
-                 "height":16,
-                 "id":14,
-                 "name":"",
-                 "properties":
-                    {
-                     "forceEvent":"Providence"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":240,
-                 "y":240
                 }, 
                 {
                  "gid":35,
@@ -265,6 +184,13 @@
                      "desty":"17",
                      "map":"Mama Red Dragon Lair",
                      "movementType":"fall"
+                    },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
                     },
                  "rotation":0,
                  "type":"Teleport",
@@ -285,6 +211,13 @@
                      "map":"Mama Red Dragon Lair",
                      "movementType":"fall"
                     },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -303,6 +236,13 @@
                      "desty":"17",
                      "map":"Mama Red Dragon Lair",
                      "movementType":"fall"
+                    },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
                     },
                  "rotation":0,
                  "type":"Teleport",
@@ -323,6 +263,13 @@
                      "map":"Mama Red Dragon Lair",
                      "movementType":"fall"
                     },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -341,6 +288,12 @@
                      "rarity":"pro",
                      "storyline":"Lore: Fate Pools"
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "rarity":"string",
+                     "storyline":"string"
+                    },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
@@ -358,6 +311,11 @@
                      "flavorText":"Who knew you'd find something so cool in a place so cruel?",
                      "storyline":"Lore: Fate Pools"
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "storyline":"string"
+                    },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
@@ -374,6 +332,10 @@
                     {
                      "flavorText":"Mind your step!"
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"Sign",
                  "visible":true,
@@ -386,10 +348,6 @@
                  "height":16,
                  "id":22,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -402,10 +360,6 @@
                  "height":16,
                  "id":23,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -418,16 +372,92 @@
                  "height":16,
                  "id":24,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":16,
                  "x":432,
                  "y":256
+                }, 
+                {
+                 "gid":5,
+                 "height":16,
+                 "id":25,
+                 "name":"",
+                 "properties":
+                    {
+                     "forceEvent":"Providence"
+                    },
+                 "propertytypes":
+                    {
+                     "forceEvent":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":240,
+                 "y":240
+                }, 
+                {
+                 "gid":5,
+                 "height":16,
+                 "id":26,
+                 "name":"",
+                 "properties":
+                    {
+                     "forceEvent":"Providence"
+                    },
+                 "propertytypes":
+                    {
+                     "forceEvent":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":272,
+                 "y":240
+                }, 
+                {
+                 "gid":5,
+                 "height":16,
+                 "id":27,
+                 "name":"",
+                 "properties":
+                    {
+                     "forceEvent":"Providence"
+                    },
+                 "propertytypes":
+                    {
+                     "forceEvent":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":304,
+                 "y":240
+                }, 
+                {
+                 "gid":5,
+                 "height":16,
+                 "id":28,
+                 "name":"",
+                 "properties":
+                    {
+                     "forceEvent":"Providence"
+                    },
+                 "propertytypes":
+                    {
+                     "forceEvent":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":272,
+                 "y":272
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -436,26 +466,19 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":25,
+ "nextobjectid":29,
  "orientation":"orthogonal",
- "properties":
-    {
-
-    },
  "renderorder":"right-down",
  "tileheight":16,
  "tilesets":[
         {
+         "columns":9,
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
          "imageheight":224,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
-         "properties":
-            {
-
-            },
          "spacing":0,
          "tilecount":126,
          "tileheight":16,

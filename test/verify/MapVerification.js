@@ -29,6 +29,7 @@ inBounds = (x1, y1, x2, y2) => {
 
 _.each(teleLocs, (teleData, teleName) => {
   const teleMap = maps[teleData.map];
+  if(!teleMap) throw new Error(`Map ${teleData.map} does not exist`);
   const tileData = teleMap.getTile(teleData.x, teleData.y);
   if(!inBounds(teleData.x, teleData.y, teleMap.width, teleMap.height)) throw new Error(`Teleport (${teleName}) not in map bounds`);
   if(tileData.blocked) throw new Error(`Teleport (${teleName}) lands on a dense tile`);

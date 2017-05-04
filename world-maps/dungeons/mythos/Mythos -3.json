@@ -776,34 +776,6 @@
                  "y":176
                 }, 
                 {
-                 "gid":32,
-                 "height":16,
-                 "id":54,
-                 "name":"ToMythos-3",
-                 "properties":
-                    {
-                     "customMessage":"%player leaves the secret treasure stash.",
-                     "destx":"57",
-                     "desty":"25",
-                     "map":"Mythos -3",
-                     "movementType":"teleport"
-                    },
-                 "propertytypes":
-                    {
-                     "customMessage":"string",
-                     "destx":"string",
-                     "desty":"string",
-                     "map":"string",
-                     "movementType":"string"
-                    },
-                 "rotation":0,
-                 "type":"Teleport",
-                 "visible":true,
-                 "width":16,
-                 "x":848,
-                 "y":208
-                }, 
-                {
                  "gid":27,
                  "height":16,
                  "id":55,
@@ -1792,34 +1764,6 @@
                 {
                  "gid":32,
                  "height":16,
-                 "id":137,
-                 "name":"ToMythos-3",
-                 "properties":
-                    {
-                     "customMessage":"%player finds a secret stash of treasure!",
-                     "destx":"53",
-                     "desty":"11",
-                     "map":"Mythos -3",
-                     "movementType":"teleport"
-                    },
-                 "propertytypes":
-                    {
-                     "customMessage":"string",
-                     "destx":"string",
-                     "desty":"string",
-                     "map":"string",
-                     "movementType":"string"
-                    },
-                 "rotation":0,
-                 "type":"Teleport",
-                 "visible":true,
-                 "width":16,
-                 "x":896,
-                 "y":176
-                }, 
-                {
-                 "gid":32,
-                 "height":16,
                  "id":138,
                  "name":"ToNorkos",
                  "properties":
@@ -2034,6 +1978,62 @@
                  "width":16,
                  "x":1008,
                  "y":176
+                }, 
+                {
+                 "gid":29,
+                 "height":16,
+                 "id":161,
+                 "name":"ToMythos-3",
+                 "properties":
+                    {
+                     "customMessage":"%player leaves the secret treasure stash.",
+                     "destx":"57",
+                     "desty":"25",
+                     "map":"Mythos -3",
+                     "movementType":"teleport"
+                    },
+                 "propertytypes":
+                    {
+                     "customMessage":"string",
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":848,
+                 "y":208
+                }, 
+                {
+                 "gid":29,
+                 "height":16,
+                 "id":163,
+                 "name":"ToMythos-3",
+                 "properties":
+                    {
+                     "customMessage":"%player finds a secret stash of treasure!",
+                     "destx":"53",
+                     "desty":"11",
+                     "map":"Mythos -3",
+                     "movementType":"teleport"
+                    },
+                 "propertytypes":
+                    {
+                     "customMessage":"string",
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":896,
+                 "y":176
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2120,7 +2120,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":160,
+ "nextobjectid":164,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tileheight":16,
