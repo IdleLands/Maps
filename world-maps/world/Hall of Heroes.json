@@ -2054,7 +2054,7 @@
                  "y":96
                 }, 
                 {
-                 "height":432,
+                 "height":496,
                  "id":20,
                  "name":"Donator's Demense",
                  "rotation":0,
@@ -2065,7 +2065,7 @@
                  "y":112
                 }, 
                 {
-                 "height":432,
+                 "height":496,
                  "id":21,
                  "name":"Donator's Demense",
                  "rotation":0,
@@ -2076,7 +2076,7 @@
                  "y":112
                 }, 
                 {
-                 "height":144,
+                 "height":208,
                  "id":23,
                  "name":"Donator's Demense",
                  "rotation":0,
@@ -2088,7 +2088,7 @@
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "width":44,
          "x":0,
          "y":0
