@@ -842,5 +842,65 @@
             "xpPerGold": [0],
             "salvage": [0]
         }
+    },
+    
+    "Ghostly Fisticuffs": {
+        "cost": 1000000000,
+        "category": "Combat",
+        "description": "Unlocked by becoming an expert of the spirit.",
+        "slots": {
+            "finger": 6,
+            "neck": 1,
+            "charm": 1,
+            "mainhand": 1,
+            "offhand": 1
+        },
+        "specialStats": { 
+            "str": 10000, 
+            "con": 10000,
+            "int": 10000,
+            "dex": 10000,
+            "agi": 10000
+            "hpregen": 2000,
+            "mpregen": 2000,
+            "damageReduction": 1000,
+            "glowing": 1,
+            "dance": 1,
+            "offense": 3, 
+            "defense": 3,
+            "vorpal": 1,
+            "crit": 2
+        },
+        "requirements": {
+            "achievements": [
+                { "name": "Spiritualist", "tier": 1 }
+            ]
+        },
+        "scale": {
+            "maxLevel": [500],
+            "maxItemScore": [0],
+            "inventory": [25],
+            "goldStorage": [0],
+            "battleJoinPercent": [100],
+            "itemFindTimeDuration": [0],
+            "itemSellMultiplier": [0],
+            "itemFindBonus": [0],
+            "itemFindRangeMultiplier": [0],
+            "xpPerGold": [1],
+            "salvage": [0]
+        },
+        "scaleCost": {
+            "maxLevel": [0],
+            "maxItemScore": [0],
+            "inventory": [0],
+            "goldStorage": [0],
+            "battleJoinPercent": [0],
+            "itemFindTimeDuration": [0],
+            "itemSellMultiplier": [0],
+            "itemFindBonus": [0],
+            "itemFindRangeMultiplier": [0],
+            "xpPerGold": [0],
+            "salvage": [0]
+        }
     }
 }
