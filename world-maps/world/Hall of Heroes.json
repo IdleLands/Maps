@@ -2018,6 +2018,38 @@
                  "width":16,
                  "x":192,
                  "y":368
+                }, 
+                {
+                 "gid":67,
+                 "height":16,
+                 "id":142,
+                 "name":"KaizuVN",
+                 "properties":
+                    {
+                     "flavorText":"Good game !"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":192,
+                 "y":400
+                }, 
+                {
+                 "gid":48,
+                 "height":16,
+                 "id":143,
+                 "name":"Aesthetics",
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":560,
+                 "y":400
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2088,12 +2120,12 @@
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "width":44,
          "x":0,
          "y":0
         }],
- "nextobjectid":142,
+ "nextobjectid":144,
  "orientation":"orthogonal",
  "properties":
     {
