@@ -860,7 +860,7 @@
             "con": 10000,
             "int": 10000,
             "dex": 10000,
-            "agi": 10000
+            "agi": 10000,
             "hpregen": 2000,
             "mpregen": 2000,
             "damageReduction": 1000,
