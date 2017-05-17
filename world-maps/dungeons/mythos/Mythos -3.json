@@ -872,23 +872,19 @@
                  "height":16,
                  "id":65,
                  "name":"",
+                 "properties":
+                    {
+                     "requireBossKill":"Dragon-kin Defender"
+                    },
+                 "propertytypes":
+                    {
+                     "requireBossKill":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":16,
                  "x":272,
-                 "y":640
-                }, 
-                {
-                 "gid":58,
-                 "height":16,
-                 "id":66,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":256,
                  "y":640
                 }, 
                 {
@@ -1578,26 +1574,6 @@
                 {
                  "gid":60,
                  "height":16,
-                 "id":126,
-                 "name":"",
-                 "properties":
-                    {
-                     "forceEvent":"GoldBless"
-                    },
-                 "propertytypes":
-                    {
-                     "forceEvent":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":320,
-                 "y":544
-                }, 
-                {
-                 "gid":60,
-                 "height":16,
                  "id":127,
                  "name":"",
                  "properties":
@@ -1940,26 +1916,6 @@
                  "y":624
                 }, 
                 {
-                 "gid":60,
-                 "height":16,
-                 "id":155,
-                 "name":"",
-                 "properties":
-                    {
-                     "forceEvent":"GoldBless"
-                    },
-                 "propertytypes":
-                    {
-                     "forceEvent":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":224,
-                 "y":544
-                }, 
-                {
                  "gid":77,
                  "height":16,
                  "id":159,
@@ -2034,6 +1990,26 @@
                  "width":16,
                  "x":896,
                  "y":176
+                }, 
+                {
+                 "gid":58,
+                 "height":16,
+                 "id":164,
+                 "name":"",
+                 "properties":
+                    {
+                     "requireBossKill":"Dragon-kin Defender"
+                    },
+                 "propertytypes":
+                    {
+                     "requireBossKill":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":256,
+                 "y":640
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2120,7 +2096,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":164,
+ "nextobjectid":165,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tileheight":16,
