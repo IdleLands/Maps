@@ -2050,6 +2050,50 @@
                  "width":16,
                  "x":560,
                  "y":400
+                }, 
+                {
+                 "gid":65,
+                 "height":16,
+                 "id":144,
+                 "name":"Ascended",
+                 "properties":
+                    {
+                     "flavorText":"Idly Drunk"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Developer)",
+                 "visible":true,
+                 "width":16,
+                 "x":464,
+                 "y":48
+                }, 
+                {
+                 "gid":15,
+                 "height":16,
+                 "id":145,
+                 "name":"Anexes",
+                 "rotation":0,
+                 "type":"Hero (Developer)",
+                 "visible":true,
+                 "width":16,
+                 "x":496,
+                 "y":48
+                }, 
+                {
+                 "gid":72,
+                 "height":16,
+                 "id":146,
+                 "name":"Kookie",
+                 "rotation":0,
+                 "type":"Hero (Developer)",
+                 "visible":true,
+                 "width":16,
+                 "x":528,
+                 "y":48
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2125,7 +2169,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":144,
+ "nextobjectid":147,
  "orientation":"orthogonal",
  "properties":
     {
