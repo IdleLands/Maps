@@ -2109,11 +2109,11 @@
                  "gid":15,
                  "height":16,
                  "id":235,
-                 "name":"Spyglass",
+                 "name":"Double Spyglass",
                  "properties":
                     {
-                     "flavorText":"A compact and collapsible device. Left in an area perfect for spying on Ironfist Castle.",
-                     "storyline":"Era: Tyranny in Cabran"
+                     "flavorText":"A sophisticated looking set of glasses that were brought to Idliathlia by Bitomancer.",
+                     "storyline":"Memoir: Bitomancer"
                     },
                  "propertytypes":
                     {
@@ -4552,7 +4552,7 @@
         {
          "columns":9,
          "firstgid":1,
-         "image":"..\/..\/..\/..\/IdleLands\/Maps\/img\/tiles.png",
+         "image":"..\/..\/img\/tiles.png",
          "imageheight":224,
          "imagewidth":144,
          "margin":0,
