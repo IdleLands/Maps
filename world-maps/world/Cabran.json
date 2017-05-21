@@ -316,11 +316,13 @@
                  "name":"Gnomish Cap",
                  "properties":
                     {
-                     "flavorText":"A pointed red hat worn by the denizens of the Gnomish Village. Always in season!"
+                     "flavorText":"A pointed red hat worn by the denizens of the Gnomish Village. Always in season!",
+                     "storyline":"Lore: Gnomes"
                     },
                  "propertytypes":
                     {
-                     "flavorText":"string"
+                     "flavorText":"string",
+                     "storyline":"string"
                     },
                  "rotation":0,
                  "type":"Collectible",
@@ -3061,7 +3063,7 @@
                  "properties":
                     {
                      "flavorText":"Priceless because it is one of a kind, or priceless because the attached tag is blank?",
-                     "storyline":"Lore: Cabran"
+                     "storyline":"Lore: Gnomes"
                     },
                  "propertytypes":
                     {
