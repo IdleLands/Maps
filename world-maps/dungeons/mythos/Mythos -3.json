@@ -874,11 +874,11 @@
                  "name":"",
                  "properties":
                     {
-                     "requireBossKill":"Dragon-kin Defender"
+                     "requireBoss":"Dragon-kin Defender"
                     },
                  "propertytypes":
                     {
-                     "requireBossKill":"string"
+                     "requireBoss":"string"
                     },
                  "rotation":0,
                  "type":"",
@@ -1998,11 +1998,11 @@
                  "name":"",
                  "properties":
                     {
-                     "requireBossKill":"Dragon-kin Defender"
+                     "requireBoss":"Dragon-kin Defender"
                     },
                  "propertytypes":
                     {
-                     "requireBossKill":"string"
+                     "requireBoss":"string"
                     },
                  "rotation":0,
                  "type":"",

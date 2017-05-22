@@ -708,11 +708,11 @@
                  "name":"",
                  "properties":
                     {
-                     "requireBossKill":"Slicer"
+                     "requireBoss":"Slicer"
                     },
                  "propertytypes":
                     {
-                     "requireBossKill":"string"
+                     "requireBoss":"string"
                     },
                  "rotation":0,
                  "type":"",
@@ -728,11 +728,11 @@
                  "name":"",
                  "properties":
                     {
-                     "requireBossKill":"Smasher"
+                     "requireBoss":"Smasher"
                     },
                  "propertytypes":
                     {
-                     "requireBossKill":"string"
+                     "requireBoss":"string"
                     },
                  "rotation":0,
                  "type":"",

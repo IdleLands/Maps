@@ -6037,7 +6037,7 @@
                      "fromName":"Frigri Town",
                      "map":"Merchant's Guild",
                      "movementType":"teleport",
-                     "requireBossKill":"The Lich Lord",
+                     "requireBoss":"The Lich Lord",
                      "requireCollectible":"Golden Ticket"
                     },
                  "propertytypes":
@@ -6047,7 +6047,7 @@
                      "fromName":"string",
                      "map":"string",
                      "movementType":"string",
-                     "requireBossKill":"string",
+                     "requireBoss":"string",
                      "requireCollectible":"string"
                     },
                  "rotation":0,

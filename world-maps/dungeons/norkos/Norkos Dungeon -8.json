@@ -40,6 +40,14 @@
                      "map":"Norkos Dungeon -7",
                      "movementType":"ascend"
                     },
+                 "propertytypes":
+                    {
+                     "":"string",
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -59,6 +67,13 @@
                      "map":"Norkos Dungeon -9",
                      "movementType":"descend"
                     },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -71,10 +86,6 @@
                  "height":16,
                  "id":3,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -87,10 +98,6 @@
                  "height":16,
                  "id":4,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -103,10 +110,6 @@
                  "height":16,
                  "id":5,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -119,10 +122,6 @@
                  "height":16,
                  "id":6,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -135,10 +134,6 @@
                  "height":16,
                  "id":7,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -151,10 +146,6 @@
                  "height":16,
                  "id":8,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -167,10 +158,6 @@
                  "height":16,
                  "id":9,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -183,10 +170,6 @@
                  "height":16,
                  "id":10,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -199,10 +182,6 @@
                  "height":16,
                  "id":11,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -215,10 +194,6 @@
                  "height":16,
                  "id":12,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -231,10 +206,6 @@
                  "height":16,
                  "id":13,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -247,10 +218,6 @@
                  "height":16,
                  "id":14,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -263,10 +230,6 @@
                  "height":16,
                  "id":15,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -279,10 +242,6 @@
                  "height":16,
                  "id":16,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -295,10 +254,6 @@
                  "height":16,
                  "id":17,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -311,10 +266,6 @@
                  "height":16,
                  "id":18,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -327,10 +278,6 @@
                  "height":16,
                  "id":19,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -343,10 +290,6 @@
                  "height":16,
                  "id":20,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -359,10 +302,6 @@
                  "height":16,
                  "id":21,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -379,6 +318,11 @@
                     {
                      "movementType":"teleport",
                      "toLoc":"norkos"
+                    },
+                 "propertytypes":
+                    {
+                     "movementType":"string",
+                     "toLoc":"string"
                     },
                  "rotation":0,
                  "type":"Teleport",
@@ -398,6 +342,12 @@
                      "rarity":"pro",
                      "storyline":"Lore: Norkos Dungeon"
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "rarity":"string",
+                     "storyline":"string"
+                    },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
@@ -410,10 +360,6 @@
                  "height":16,
                  "id":24,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -426,10 +372,6 @@
                  "height":16,
                  "id":25,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -447,6 +389,11 @@
                      "flavorText":"A brittle key made of obsidian glass. The teeth are faded and this key must not have many uses left before it shatters permanently.",
                      "storyline":"Lore: Norkos Dungeon"
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "storyline":"string"
+                    },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
@@ -459,10 +406,6 @@
                  "height":16,
                  "id":29,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -475,10 +418,6 @@
                  "height":16,
                  "id":30,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -491,10 +430,6 @@
                  "height":16,
                  "id":31,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -507,10 +442,6 @@
                  "height":16,
                  "id":32,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -523,10 +454,6 @@
                  "height":16,
                  "id":34,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -539,10 +466,6 @@
                  "height":16,
                  "id":35,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -555,10 +478,6 @@
                  "height":16,
                  "id":36,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -571,10 +490,6 @@
                  "height":16,
                  "id":37,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -587,10 +502,6 @@
                  "height":16,
                  "id":38,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -606,6 +517,10 @@
                  "properties":
                     {
                      "flavorText":""
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
                     },
                  "rotation":0,
                  "type":"Boss",
@@ -624,6 +539,11 @@
                      "flavorText":"A vivid headdress made in the ancient times. It could fetch a fortune if any people from that era were still alive.",
                      "storyline":"Era: Corruption"
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "storyline":"string"
+                    },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
@@ -636,10 +556,6 @@
                  "height":16,
                  "id":51,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -652,10 +568,6 @@
                  "height":16,
                  "id":52,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -671,6 +583,10 @@
                  "properties":
                     {
                      "flavorText":"The currency of a necromancer."
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
                     },
                  "rotation":0,
                  "type":"Skeleton",
@@ -688,6 +604,10 @@
                     {
                      "flavorText":"Undead? More like Fundead!"
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"Skeleton",
                  "visible":true,
@@ -700,10 +620,6 @@
                  "height":16,
                  "id":55,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -716,10 +632,6 @@
                  "height":16,
                  "id":56,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -734,7 +646,11 @@
                  "name":"",
                  "properties":
                     {
-                     "requireBossKill":"Naga Necromancer"
+                     "requireBoss":"Naga Necromancer"
+                    },
+                 "propertytypes":
+                    {
+                     "requireBoss":"string"
                     },
                  "rotation":0,
                  "type":"",
@@ -751,6 +667,10 @@
                  "properties":
                     {
                      "forceEvent":"GoldBless"
+                    },
+                 "propertytypes":
+                    {
+                     "forceEvent":"string"
                     },
                  "rotation":0,
                  "type":"",
@@ -775,10 +695,6 @@
                  "height":528,
                  "id":57,
                  "name":"Naga Lair",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -790,10 +706,6 @@
                  "height":208,
                  "id":59,
                  "name":"Lava Lake",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -805,10 +717,6 @@
                  "height":64,
                  "id":60,
                  "name":"Lava Lake",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -829,20 +737,21 @@
     {
      "name":"norkos"
     },
+ "propertytypes":
+    {
+     "name":"string"
+    },
  "renderorder":"right-down",
  "tileheight":16,
  "tilesets":[
         {
+         "columns":9,
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
          "imageheight":224,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
-         "properties":
-            {
-
-            },
          "spacing":0,
          "tilecount":126,
          "tileheight":16,
