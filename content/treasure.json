@@ -339,5 +339,26 @@
     "con": 1000,
     "int":400,
     "xp": 3
+  },
+  "Troll Leather Galoshes": {
+    "type": "feet",
+    "str": 600,
+    "con": 350,
+    "dex": 500,
+    "agi": 2100,
+    "luk": 100,
+    "crit": 1,
+    "damageReduction": 500,
+    "hpregen": 1000,
+    "poison": -1,
+    "venom": -1
+  },
+  "Troll Leather Leggings": {
+    "type": "legs",
+    "dex": 450,
+    "agi": 2100,
+    "damageReduction": 500,
+    "defense": 2,
+    "hpregen": 1500
   }
 }
