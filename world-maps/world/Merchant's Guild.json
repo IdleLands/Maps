@@ -1436,12 +1436,12 @@
                  "name":"",
                  "properties":
                     {
-                     "requireBossKill":"The Lich Lord",
+                     "requireBoss":"The Lich Lord",
                      "requireCollectible":"Golden Ticket"
                     },
                  "propertytypes":
                     {
-                     "requireBossKill":"string",
+                     "requireBoss":"string",
                      "requireCollectible":"string"
                     },
                  "rotation":0,
