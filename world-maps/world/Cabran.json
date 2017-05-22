@@ -2798,11 +2798,11 @@
                  "name":"",
                  "properties":
                     {
-                     "requireBossKill":"Gnome Lord"
+                     "requireBoss":"Gnome Lord"
                     },
                  "propertytypes":
                     {
-                     "requireBossKill":"string"
+                     "requireBoss":"string"
                     },
                  "rotation":0,
                  "type":"",
@@ -3360,11 +3360,11 @@
                  "name":"",
                  "properties":
                     {
-                     "requireBossKill":"Snake Guard Jaunthes"
+                     "requireBoss":"Snake Guard Jaunthes"
                     },
                  "propertytypes":
                     {
-                     "requireBossKill":"string"
+                     "requireBoss":"string"
                     },
                  "rotation":0,
                  "type":"",
@@ -3941,12 +3941,12 @@
                  "properties":
                     {
                      "flavorText":"All that remains from the second Swamp Tower that sank into the sea.",
-                     "requireBossKill":"Troll Lord"
+                     "requireBoss":"Troll Lord"
                     },
                  "propertytypes":
                     {
                      "flavorText":"string",
-                     "requireBossKill":"string"
+                     "requireBoss":"string"
                     },
                  "rotation":0,
                  "type":"Treasure",
