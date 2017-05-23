@@ -32,10 +32,6 @@
                  "height":16,
                  "id":1,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -48,10 +44,6 @@
                  "height":16,
                  "id":2,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -64,10 +56,6 @@
                  "height":16,
                  "id":3,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -80,10 +68,6 @@
                  "height":16,
                  "id":4,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -96,10 +80,6 @@
                  "height":16,
                  "id":5,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -112,10 +92,6 @@
                  "height":16,
                  "id":6,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -128,10 +104,6 @@
                  "height":16,
                  "id":7,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -151,6 +123,13 @@
                      "map":"Norkos",
                      "movementType":"teleport"
                     },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -163,10 +142,6 @@
                  "height":16,
                  "id":9,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -179,10 +154,6 @@
                  "height":16,
                  "id":10,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -198,6 +169,10 @@
                  "properties":
                     {
                      "flavorText":"Enjoys the thrill of battle, so his older brothers gave him the room near the entrance."
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
                     },
                  "rotation":0,
                  "type":"Boss",
@@ -215,6 +190,10 @@
                     {
                      "flavorText":"Everything he has ever loved has withered before his eyes. Decay feels no remorse for the adventurers he consumes."
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"Boss",
                  "visible":true,
@@ -230,6 +209,10 @@
                  "properties":
                     {
                      "flavorText":"Screaming about keeping the wall wet with blood."
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
                     },
                  "rotation":0,
                  "type":"Boss",
@@ -247,6 +230,10 @@
                     {
                      "flavorText":"Eldest of the brothers, all that remains of Death is a thin layer of skin wrapped around an ancient skeleton."
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"Boss",
                  "visible":true,
@@ -262,6 +249,10 @@
                  "properties":
                     {
                      "flavorText":"Once a powerful Norkian mage. Achieved Lichdom after siphoning souls from the Astral Plane."
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
                     },
                  "rotation":0,
                  "type":"Boss",
@@ -279,6 +270,10 @@
                     {
                      "flavorText":"Fear has fed on the souls of many monstrous creatures, and has become a monster himself."
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"Boss",
                  "visible":true,
@@ -291,10 +286,6 @@
                  "height":16,
                  "id":17,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -307,10 +298,6 @@
                  "height":16,
                  "id":18,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -328,6 +315,11 @@
                      "flavorText":"You were really hoping for a Lich Lord shirt, but all that was here was a Lich Brother of Decay shirt.",
                      "storyline":"Lore: Lich Brothers"
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "storyline":"string"
+                    },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
@@ -344,6 +336,11 @@
                     {
                      "flavorText":"The seven easy steps to becoming a lich, all in one leather-bound tome.",
                      "storyline":"Lore: Lich Brothers"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "storyline":"string"
                     },
                  "rotation":0,
                  "type":"Collectible",
@@ -364,6 +361,13 @@
                      "map":"Norkos",
                      "movementType":"descend"
                     },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -383,6 +387,13 @@
                      "map":"Norkos",
                      "movementType":"teleport"
                     },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -401,6 +412,12 @@
                      "rarity":"pro",
                      "storyline":"Lore: Lich Brothers"
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "rarity":"string",
+                     "storyline":"string"
+                    },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
@@ -411,92 +428,8 @@
                 {
                  "gid":18,
                  "height":16,
-                 "id":24,
-                 "name":"",
-                 "properties":
-                    {
-                     "requireBoss":"Lich Brother of Anger"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":192,
-                 "y":240
-                }, 
-                {
-                 "gid":18,
-                 "height":16,
-                 "id":25,
-                 "name":"",
-                 "properties":
-                    {
-                     "requireBoss":"Lich Brother of Fear"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":288,
-                 "y":240
-                }, 
-                {
-                 "gid":18,
-                 "height":16,
-                 "id":26,
-                 "name":"",
-                 "properties":
-                    {
-                     "requireBoss":"Lich Brother of Decay"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":400,
-                 "y":240
-                }, 
-                {
-                 "gid":18,
-                 "height":16,
-                 "id":27,
-                 "name":"",
-                 "properties":
-                    {
-                     "requireBoss":"Lich Brother of Insanity"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":480,
-                 "y":240
-                }, 
-                {
-                 "gid":18,
-                 "height":16,
-                 "id":28,
-                 "name":"",
-                 "properties":
-                    {
-                     "requireBoss":"Lich Brother of Death"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":576,
-                 "y":240
-                }, 
-                {
-                 "gid":18,
-                 "height":16,
                  "id":35,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -509,10 +442,6 @@
                  "height":16,
                  "id":36,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -525,10 +454,6 @@
                  "height":16,
                  "id":51,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -541,10 +466,6 @@
                  "height":16,
                  "id":52,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -557,10 +478,6 @@
                  "height":16,
                  "id":53,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -573,10 +490,6 @@
                  "height":16,
                  "id":54,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -589,10 +502,6 @@
                  "height":16,
                  "id":55,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -605,10 +514,6 @@
                  "height":16,
                  "id":56,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -621,10 +526,6 @@
                  "height":16,
                  "id":57,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -637,10 +538,6 @@
                  "height":16,
                  "id":58,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -657,6 +554,10 @@
                     {
                      "flavorText":"An old painting of the Lich Brothers. The faces have been scratched out."
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"Painting",
                  "visible":true,
@@ -669,10 +570,6 @@
                  "height":16,
                  "id":61,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -688,6 +585,10 @@
                  "properties":
                     {
                      "flavorText":"A painting of the Lich Lord looking majestic."
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
                     },
                  "rotation":0,
                  "type":"Painting",
@@ -705,6 +606,10 @@
                     {
                      "forceEvent":"GoldBless"
                     },
+                 "propertytypes":
+                    {
+                     "forceEvent":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -717,10 +622,6 @@
                  "height":16,
                  "id":64,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -733,10 +634,6 @@
                  "height":16,
                  "id":65,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -753,6 +650,10 @@
                     {
                      "flavorText":"Whatever was inside has rusted or rotted."
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -765,10 +666,6 @@
                  "height":16,
                  "id":67,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"Skeleton",
                  "visible":true,
@@ -785,6 +682,10 @@
                     {
                      "flavorText":""
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"Skeleton",
                  "visible":true,
@@ -797,10 +698,6 @@
                  "height":16,
                  "id":69,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -813,10 +710,6 @@
                  "height":16,
                  "id":71,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -829,10 +722,6 @@
                  "height":16,
                  "id":92,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -845,16 +734,112 @@
                  "height":16,
                  "id":93,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":16,
                  "x":432,
                  "y":192
+                }, 
+                {
+                 "gid":87,
+                 "height":16,
+                 "id":94,
+                 "name":"",
+                 "properties":
+                    {
+                     "requireBoss":"Lich Brother of Anger"
+                    },
+                 "propertytypes":
+                    {
+                     "requireBoss":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":192,
+                 "y":240
+                }, 
+                {
+                 "gid":87,
+                 "height":16,
+                 "id":95,
+                 "name":"",
+                 "properties":
+                    {
+                     "requireBoss":"Lich Brother of Fear"
+                    },
+                 "propertytypes":
+                    {
+                     "requireBoss":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":288,
+                 "y":240
+                }, 
+                {
+                 "gid":87,
+                 "height":16,
+                 "id":96,
+                 "name":"",
+                 "properties":
+                    {
+                     "requireBoss":"Lich Brother of Decay"
+                    },
+                 "propertytypes":
+                    {
+                     "requireBoss":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":400,
+                 "y":240
+                }, 
+                {
+                 "gid":87,
+                 "height":16,
+                 "id":97,
+                 "name":"",
+                 "properties":
+                    {
+                     "requireBoss":"Lich Brother of Insanity"
+                    },
+                 "propertytypes":
+                    {
+                     "requireBoss":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":480,
+                 "y":240
+                }, 
+                {
+                 "gid":87,
+                 "height":16,
+                 "id":98,
+                 "name":"",
+                 "properties":
+                    {
+                     "requireBoss":"Lich Brother of Death"
+                    },
+                 "propertytypes":
+                    {
+                     "requireBoss":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":576,
+                 "y":240
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -872,10 +857,6 @@
                  "height":64,
                  "id":29,
                  "name":"Anger's Room",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -887,10 +868,6 @@
                  "height":80,
                  "id":30,
                  "name":"Fear's Room",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -902,10 +879,6 @@
                  "height":80,
                  "id":31,
                  "name":"Decay's Room",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -917,10 +890,6 @@
                  "height":64,
                  "id":32,
                  "name":"Insanity's Room",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -932,10 +901,6 @@
                  "height":64,
                  "id":33,
                  "name":"Death's Room",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -947,10 +912,6 @@
                  "height":128,
                  "id":34,
                  "name":"Hall of the Lich Lord",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -962,10 +923,6 @@
                  "height":64,
                  "id":70,
                  "name":"Hall of the Lich Lord",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -980,26 +937,19 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":94,
+ "nextobjectid":99,
  "orientation":"orthogonal",
- "properties":
-    {
-
-    },
  "renderorder":"right-down",
  "tileheight":16,
  "tilesets":[
         {
+         "columns":9,
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
          "imageheight":224,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
-         "properties":
-            {
-
-            },
          "spacing":0,
          "tilecount":126,
          "tileheight":16,

@@ -460,26 +460,6 @@
                  "y":208
                 }, 
                 {
-                 "gid":58,
-                 "height":16,
-                 "id":27,
-                 "name":"",
-                 "properties":
-                    {
-                     "requireCollectible":"Splendid Dragon Keyring"
-                    },
-                 "propertytypes":
-                    {
-                     "requireCollectible":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":1024,
-                 "y":176
-                }, 
-                {
                  "gid":15,
                  "height":16,
                  "id":28,
@@ -648,18 +628,6 @@
                  "width":16,
                  "x":928,
                  "y":48
-                }, 
-                {
-                 "gid":88,
-                 "height":16,
-                 "id":38,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":720,
-                 "y":352
                 }, 
                 {
                  "gid":58,
@@ -870,26 +838,6 @@
                 {
                  "gid":58,
                  "height":16,
-                 "id":65,
-                 "name":"",
-                 "properties":
-                    {
-                     "requireBoss":"Dragon-kin Defender"
-                    },
-                 "propertytypes":
-                    {
-                     "requireBoss":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":272,
-                 "y":640
-                }, 
-                {
-                 "gid":58,
-                 "height":16,
                  "id":69,
                  "name":"",
                  "rotation":0,
@@ -1026,18 +974,6 @@
                  "width":16,
                  "x":336,
                  "y":672
-                }, 
-                {
-                 "gid":88,
-                 "height":16,
-                 "id":80,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":352,
-                 "y":704
                 }, 
                 {
                  "gid":26,
@@ -1994,15 +1930,83 @@
                 {
                  "gid":58,
                  "height":16,
-                 "id":164,
+                 "id":165,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":720,
+                 "y":352
+                }, 
+                {
+                 "gid":58,
+                 "height":16,
+                 "id":166,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":352,
+                 "y":704
+                }, 
+                {
+                 "gid":88,
+                 "height":16,
+                 "id":167,
                  "name":"",
                  "properties":
                     {
-                     "requireBoss":"Dragon-kin Defender"
+                     "requireCollectible":"Splendid Dragon Keyring"
                     },
                  "propertytypes":
                     {
-                     "requireBoss":"string"
+                     "requireCollectible":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":1024,
+                 "y":176
+                }, 
+                {
+                 "gid":88,
+                 "height":16,
+                 "id":168,
+                 "name":"",
+                 "properties":
+                    {
+                     "requireBoss":"Dragon-kin Defender",
+                     "requireCollectible":"Dragon Carving"
+                    },
+                 "propertytypes":
+                    {
+                     "requireBoss":"string",
+                     "requireCollectible":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":272,
+                 "y":640
+                }, 
+                {
+                 "gid":88,
+                 "height":16,
+                 "id":170,
+                 "name":"",
+                 "properties":
+                    {
+                     "requireBoss":"Dragon-kin Defender",
+                     "requireCollectible":"Dragon Carving"
+                    },
+                 "propertytypes":
+                    {
+                     "requireBoss":"string",
+                     "requireCollectible":"string"
                     },
                  "rotation":0,
                  "type":"",
@@ -2096,7 +2100,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":165,
+ "nextobjectid":171,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tileheight":16,
