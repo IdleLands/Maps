@@ -640,26 +640,6 @@
                  "y":272
                 }, 
                 {
-                 "gid":18,
-                 "height":16,
-                 "id":61,
-                 "name":"",
-                 "properties":
-                    {
-                     "requireBoss":"Naga Necromancer"
-                    },
-                 "propertytypes":
-                    {
-                     "requireBoss":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":720,
-                 "y":544
-                }, 
-                {
                  "gid":60,
                  "height":16,
                  "id":62,
@@ -677,6 +657,26 @@
                  "visible":true,
                  "width":16,
                  "x":688,
+                 "y":544
+                }, 
+                {
+                 "gid":87,
+                 "height":16,
+                 "id":63,
+                 "name":"",
+                 "properties":
+                    {
+                     "requireBoss":"Naga Necromancer"
+                    },
+                 "propertytypes":
+                    {
+                     "requireBoss":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":720,
                  "y":544
                 }],
          "opacity":1,
@@ -731,7 +731,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":63,
+ "nextobjectid":64,
  "orientation":"orthogonal",
  "properties":
     {

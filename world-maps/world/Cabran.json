@@ -3908,9 +3908,31 @@
                  "y":1088
                 }, 
                 {
-                 "gid":40,
+                 "gid":27,
                  "height":16,
-                 "id":405,
+                 "id":406,
+                 "name":"Troll Gear",
+                 "properties":
+                    {
+                     "flavorText":"All that remains from the second Swamp Tower that sank into the sea.",
+                     "requireBoss":"Troll Lord"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "requireBoss":"string"
+                    },
+                 "rotation":0,
+                 "type":"Treasure",
+                 "visible":true,
+                 "width":16,
+                 "x":2432,
+                 "y":1808
+                }, 
+                {
+                 "gid":2,
+                 "height":16,
+                 "id":408,
                  "name":"ToTreeTown",
                  "properties":
                     {
@@ -3932,28 +3954,6 @@
                  "width":16,
                  "x":800,
                  "y":2128
-                }, 
-                {
-                 "gid":27,
-                 "height":16,
-                 "id":406,
-                 "name":"Troll Gear",
-                 "properties":
-                    {
-                     "flavorText":"All that remains from the second Swamp Tower that sank into the sea.",
-                     "requireBoss":"Troll Lord"
-                    },
-                 "propertytypes":
-                    {
-                     "flavorText":"string",
-                     "requireBoss":"string"
-                    },
-                 "rotation":0,
-                 "type":"Treasure",
-                 "visible":true,
-                 "width":16,
-                 "x":2432,
-                 "y":1808
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -4546,7 +4546,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":408,
+ "nextobjectid":409,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tileheight":16,

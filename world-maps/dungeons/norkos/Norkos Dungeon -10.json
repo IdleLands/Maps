@@ -40,6 +40,14 @@
                      "map":"Norkos Dungeon -9",
                      "movementType":"ascend"
                     },
+                 "propertytypes":
+                    {
+                     "":"string",
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -59,6 +67,13 @@
                      "map":"Norkos Dungeon -11",
                      "movementType":"descend"
                     },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -71,10 +86,6 @@
                  "height":16,
                  "id":3,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -87,10 +98,6 @@
                  "height":16,
                  "id":4,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -103,10 +110,6 @@
                  "height":16,
                  "id":5,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -119,10 +122,6 @@
                  "height":16,
                  "id":6,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -135,10 +134,6 @@
                  "height":16,
                  "id":7,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -151,10 +146,6 @@
                  "height":16,
                  "id":8,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -167,10 +158,6 @@
                  "height":16,
                  "id":9,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -183,10 +170,6 @@
                  "height":16,
                  "id":10,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -199,10 +182,6 @@
                  "height":16,
                  "id":11,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -215,10 +194,6 @@
                  "height":16,
                  "id":12,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -231,10 +206,6 @@
                  "height":16,
                  "id":13,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -247,10 +218,6 @@
                  "height":16,
                  "id":14,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -263,10 +230,6 @@
                  "height":16,
                  "id":15,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -284,6 +247,11 @@
                      "movementType":"teleport",
                      "toLoc":"norkos"
                     },
+                 "propertytypes":
+                    {
+                     "movementType":"string",
+                     "toLoc":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -299,6 +267,10 @@
                  "properties":
                     {
                      "flavorText":"The last threat to adventurers seeking treasure from the dungeon. Protect some of the most valuable items in Idliathlia."
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
                     },
                  "rotation":0,
                  "type":"BossParty",
@@ -317,45 +289,17 @@
                      "flavorText":"A small necklace that looks like a water droplet. The Wardens must have lost it while patrolling.",
                      "storyline":"Era: Corruption"
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "storyline":"string"
+                    },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
                  "width":16,
                  "x":432,
                  "y":512
-                }, 
-                {
-                 "gid":18,
-                 "height":16,
-                 "id":19,
-                 "name":"",
-                 "properties":
-                    {
-                     "requireBoss":"Warden of Norkos"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":432,
-                 "y":384
-                }, 
-                {
-                 "gid":18,
-                 "height":16,
-                 "id":20,
-                 "name":"",
-                 "properties":
-                    {
-                     "flavorText":"What are those strange bells that I hear?",
-                     "requireClass":"Jester"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":48,
-                 "y":384
                 }, 
                 {
                  "gid":15,
@@ -368,28 +312,18 @@
                      "rarity":"godly",
                      "storyline":"Memoir: Jester"
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "rarity":"string",
+                     "storyline":"string"
+                    },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
                  "width":16,
                  "x":80,
                  "y":528
-                }, 
-                {
-                 "gid":18,
-                 "height":16,
-                 "id":23,
-                 "name":"",
-                 "properties":
-                    {
-                     "requireCollectible":"Forbidden Cleric's Text"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":256,
-                 "y":128
                 }, 
                 {
                  "gid":15,
@@ -402,6 +336,12 @@
                      "rarity":"pro",
                      "storyline":"Memoir: Necromancer"
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "rarity":"string",
+                     "storyline":"string"
+                    },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
@@ -410,30 +350,10 @@
                  "y":48
                 }, 
                 {
-                 "gid":18,
-                 "height":16,
-                 "id":25,
-                 "name":"",
-                 "properties":
-                    {
-                     "requireCollectible":"Odd Amulet"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":304,
-                 "y":80
-                }, 
-                {
                  "gid":61,
                  "height":16,
                  "id":26,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -446,10 +366,6 @@
                  "height":16,
                  "id":27,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -462,10 +378,6 @@
                  "height":16,
                  "id":28,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -478,10 +390,6 @@
                  "height":16,
                  "id":29,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -494,10 +402,6 @@
                  "height":16,
                  "id":30,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -510,10 +414,6 @@
                  "height":16,
                  "id":31,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -526,10 +426,6 @@
                  "height":16,
                  "id":32,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -542,10 +438,6 @@
                  "height":16,
                  "id":33,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -558,10 +450,6 @@
                  "height":16,
                  "id":34,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -574,10 +462,6 @@
                  "height":16,
                  "id":35,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -594,6 +478,10 @@
                     {
                      "flavorText":""
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"Skeleton",
                  "visible":true,
@@ -606,10 +494,6 @@
                  "height":16,
                  "id":37,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -625,6 +509,10 @@
                  "properties":
                     {
                      "forceEvent":"GoldBless"
+                    },
+                 "propertytypes":
+                    {
+                     "forceEvent":"string"
                     },
                  "rotation":0,
                  "type":"",
@@ -642,6 +530,10 @@
                     {
                      "flavorText":"Enter here, true heroes, to prove your might."
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"Sign",
                  "visible":true,
@@ -654,10 +546,6 @@
                  "height":16,
                  "id":42,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -670,10 +558,6 @@
                  "height":16,
                  "id":43,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -686,10 +570,6 @@
                  "height":16,
                  "id":44,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -702,10 +582,6 @@
                  "height":16,
                  "id":45,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -718,10 +594,6 @@
                  "height":16,
                  "id":46,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -734,10 +606,6 @@
                  "height":16,
                  "id":47,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -750,10 +618,6 @@
                  "height":16,
                  "id":48,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -770,12 +634,98 @@
                     {
                      "flavorText":"Wounded in battle, this adventurer crawled here, his final resting place."
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"Skeleton",
                  "visible":true,
                  "width":16,
                  "x":320,
                  "y":256
+                }, 
+                {
+                 "gid":87,
+                 "height":16,
+                 "id":54,
+                 "name":"",
+                 "properties":
+                    {
+                     "requireBoss":"Warden of Norkos"
+                    },
+                 "propertytypes":
+                    {
+                     "requireBoss":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":432,
+                 "y":384
+                }, 
+                {
+                 "gid":87,
+                 "height":16,
+                 "id":55,
+                 "name":"",
+                 "properties":
+                    {
+                     "flavorText":"What are those strange bells that I hear?",
+                     "requireClass":"Jester"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "requireClass":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":48,
+                 "y":384
+                }, 
+                {
+                 "gid":87,
+                 "height":16,
+                 "id":56,
+                 "name":"",
+                 "properties":
+                    {
+                     "requireCollectible":"Odd Amulet"
+                    },
+                 "propertytypes":
+                    {
+                     "requireCollectible":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":304,
+                 "y":80
+                }, 
+                {
+                 "gid":87,
+                 "height":16,
+                 "id":57,
+                 "name":"",
+                 "properties":
+                    {
+                     "requireCollectible":"Forbidden Cleric's Text"
+                    },
+                 "propertytypes":
+                    {
+                     "requireCollectible":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":256,
+                 "y":128
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -793,10 +743,6 @@
                  "height":112,
                  "id":50,
                  "name":"Dark Ritual Chamber",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -808,10 +754,6 @@
                  "height":160,
                  "id":51,
                  "name":"Jester's Vault",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -823,10 +765,6 @@
                  "height":160,
                  "id":52,
                  "name":"Warden's Vault",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -838,10 +776,6 @@
                  "height":48,
                  "id":53,
                  "name":"Ancient Halls",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -856,26 +790,27 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":54,
+ "nextobjectid":58,
  "orientation":"orthogonal",
  "properties":
     {
      "name":"norkos"
     },
+ "propertytypes":
+    {
+     "name":"string"
+    },
  "renderorder":"right-down",
  "tileheight":16,
  "tilesets":[
         {
+         "columns":9,
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
          "imageheight":224,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
-         "properties":
-            {
-
-            },
          "spacing":0,
          "tilecount":126,
          "tileheight":16,

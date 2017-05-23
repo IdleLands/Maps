@@ -954,46 +954,6 @@
                 {
                  "gid":18,
                  "height":16,
-                 "id":58,
-                 "name":"",
-                 "properties":
-                    {
-                     "requireCollectible":"King's Key"
-                    },
-                 "propertytypes":
-                    {
-                     "requireCollectible":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":3552,
-                 "y":2128
-                }, 
-                {
-                 "gid":18,
-                 "height":16,
-                 "id":59,
-                 "name":"",
-                 "properties":
-                    {
-                     "requireCollectible":"King's Key"
-                    },
-                 "propertytypes":
-                    {
-                     "requireCollectible":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":3568,
-                 "y":2128
-                }, 
-                {
-                 "gid":18,
-                 "height":16,
                  "id":60,
                  "name":"",
                  "rotation":0,
@@ -2922,34 +2882,6 @@
                  "y":3296
                 }, 
                 {
-                 "gid":2,
-                 "height":16,
-                 "id":182,
-                 "name":"ToChristmas",
-                 "properties":
-                    {
-                     "destx":"20",
-                     "desty":"68",
-                     "map":"North Pole",
-                     "movementType":"ascend",
-                     "requireHoliday":"winter"
-                    },
-                 "propertytypes":
-                    {
-                     "destx":"string",
-                     "desty":"string",
-                     "map":"string",
-                     "movementType":"string",
-                     "requireHoliday":"string"
-                    },
-                 "rotation":0,
-                 "type":"Teleport",
-                 "visible":true,
-                 "width":16,
-                 "x":1840,
-                 "y":32
-                }, 
-                {
                  "gid":1,
                  "height":16,
                  "id":183,
@@ -3760,26 +3692,6 @@
                  "y":2720
                 }, 
                 {
-                 "gid":18,
-                 "height":16,
-                 "id":270,
-                 "name":"",
-                 "properties":
-                    {
-                     "requireCollectible":"Guard Tower Key"
-                    },
-                 "propertytypes":
-                    {
-                     "requireCollectible":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":736,
-                 "y":2896
-                }, 
-                {
                  "gid":2,
                  "height":16,
                  "id":271,
@@ -3986,146 +3898,6 @@
                  "y":2528
                 }, 
                 {
-                 "gid":18,
-                 "height":16,
-                 "id":283,
-                 "name":"",
-                 "properties":
-                    {
-                     "requireCollectible":"Crystal of Water"
-                    },
-                 "propertytypes":
-                    {
-                     "requireCollectible":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":1808,
-                 "y":3120
-                }, 
-                {
-                 "gid":18,
-                 "height":16,
-                 "id":284,
-                 "name":"",
-                 "properties":
-                    {
-                     "requireCollectible":"Crystal of Water"
-                    },
-                 "propertytypes":
-                    {
-                     "requireCollectible":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":1776,
-                 "y":3120
-                }, 
-                {
-                 "gid":18,
-                 "height":16,
-                 "id":285,
-                 "name":"",
-                 "properties":
-                    {
-                     "requireCollectible":"Crystal of Water"
-                    },
-                 "propertytypes":
-                    {
-                     "requireCollectible":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":1792,
-                 "y":3120
-                }, 
-                {
-                 "gid":18,
-                 "height":16,
-                 "id":286,
-                 "name":"",
-                 "properties":
-                    {
-                     "requireCollectible":"Crystal of Air"
-                    },
-                 "propertytypes":
-                    {
-                     "requireCollectible":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":1808,
-                 "y":2816
-                }, 
-                {
-                 "gid":18,
-                 "height":16,
-                 "id":287,
-                 "name":"",
-                 "properties":
-                    {
-                     "requireCollectible":"Crystal of Air"
-                    },
-                 "propertytypes":
-                    {
-                     "requireCollectible":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":1792,
-                 "y":2816
-                }, 
-                {
-                 "gid":18,
-                 "height":16,
-                 "id":288,
-                 "name":"",
-                 "properties":
-                    {
-                     "requireCollectible":"Crystal of Air"
-                    },
-                 "propertytypes":
-                    {
-                     "requireCollectible":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":1776,
-                 "y":2816
-                }, 
-                {
-                 "gid":18,
-                 "height":16,
-                 "id":289,
-                 "name":"",
-                 "properties":
-                    {
-                     "requireCollectible":"Crystal of Earth"
-                    },
-                 "propertytypes":
-                    {
-                     "requireCollectible":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":1792,
-                 "y":2912
-                }, 
-                {
                  "gid":32,
                  "height":16,
                  "id":290,
@@ -4150,66 +3922,6 @@
                  "width":16,
                  "x":1792,
                  "y":2944
-                }, 
-                {
-                 "gid":18,
-                 "height":16,
-                 "id":291,
-                 "name":"",
-                 "properties":
-                    {
-                     "requireCollectible":"Crystal of Fire"
-                    },
-                 "propertytypes":
-                    {
-                     "requireCollectible":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":1808,
-                 "y":3024
-                }, 
-                {
-                 "gid":18,
-                 "height":16,
-                 "id":292,
-                 "name":"",
-                 "properties":
-                    {
-                     "requireCollectible":"Crystal of Fire"
-                    },
-                 "propertytypes":
-                    {
-                     "requireCollectible":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":1792,
-                 "y":3024
-                }, 
-                {
-                 "gid":18,
-                 "height":16,
-                 "id":293,
-                 "name":"",
-                 "properties":
-                    {
-                     "requireCollectible":"Crystal of Fire"
-                    },
-                 "propertytypes":
-                    {
-                     "requireCollectible":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":1776,
-                 "y":3024
                 }, 
                 {
                  "gid":48,
@@ -4280,26 +3992,6 @@
                  "y":3136
                 }, 
                 {
-                 "gid":18,
-                 "height":16,
-                 "id":297,
-                 "name":"",
-                 "properties":
-                    {
-                     "requireCollectible":"Snowbeast Skull"
-                    },
-                 "propertytypes":
-                    {
-                     "requireCollectible":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":3568,
-                 "y":2080
-                }, 
-                {
                  "gid":27,
                  "height":16,
                  "id":298,
@@ -4346,146 +4038,6 @@
                  "width":16,
                  "x":3584,
                  "y":1904
-                }, 
-                {
-                 "gid":18,
-                 "height":16,
-                 "id":306,
-                 "name":"",
-                 "properties":
-                    {
-                     "requireCollectible":"Snowbeast Skull"
-                    },
-                 "propertytypes":
-                    {
-                     "requireCollectible":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":3552,
-                 "y":2080
-                }, 
-                {
-                 "gid":18,
-                 "height":16,
-                 "id":307,
-                 "name":"",
-                 "properties":
-                    {
-                     "requireCollectible":"Leviathan Egg"
-                    },
-                 "propertytypes":
-                    {
-                     "requireCollectible":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":3552,
-                 "y":2032
-                }, 
-                {
-                 "gid":18,
-                 "height":16,
-                 "id":308,
-                 "name":"",
-                 "properties":
-                    {
-                     "requireCollectible":"Leviathan Egg"
-                    },
-                 "propertytypes":
-                    {
-                     "requireCollectible":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":3568,
-                 "y":2032
-                }, 
-                {
-                 "gid":18,
-                 "height":16,
-                 "id":309,
-                 "name":"",
-                 "properties":
-                    {
-                     "requireCollectible":"Bottle of Ketchup"
-                    },
-                 "propertytypes":
-                    {
-                     "requireCollectible":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":3552,
-                 "y":1984
-                }, 
-                {
-                 "gid":18,
-                 "height":16,
-                 "id":310,
-                 "name":"",
-                 "properties":
-                    {
-                     "requireCollectible":"Bottle of Ketchup"
-                    },
-                 "propertytypes":
-                    {
-                     "requireCollectible":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":3568,
-                 "y":1984
-                }, 
-                {
-                 "gid":18,
-                 "height":16,
-                 "id":311,
-                 "name":"",
-                 "properties":
-                    {
-                     "requireCollectible":"Cursed Orb"
-                    },
-                 "propertytypes":
-                    {
-                     "requireCollectible":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":3568,
-                 "y":1936
-                }, 
-                {
-                 "gid":18,
-                 "height":16,
-                 "id":312,
-                 "name":"",
-                 "properties":
-                    {
-                     "requireCollectible":"Cursed Orb"
-                    },
-                 "propertytypes":
-                    {
-                     "requireCollectible":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":3552,
-                 "y":1936
                 }, 
                 {
                  "gid":18,
@@ -4998,66 +4550,6 @@
                  "width":16,
                  "x":3040,
                  "y":2720
-                }, 
-                {
-                 "gid":18,
-                 "height":16,
-                 "id":400,
-                 "name":"",
-                 "properties":
-                    {
-                     "requireCollectible":"Crystal of Air"
-                    },
-                 "propertytypes":
-                    {
-                     "requireCollectible":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":1920,
-                 "y":2944
-                }, 
-                {
-                 "gid":18,
-                 "height":16,
-                 "id":401,
-                 "name":"",
-                 "properties":
-                    {
-                     "requireCollectible":"Crystal of Air"
-                    },
-                 "propertytypes":
-                    {
-                     "requireCollectible":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":1664,
-                 "y":2944
-                }, 
-                {
-                 "gid":18,
-                 "height":16,
-                 "id":402,
-                 "name":"",
-                 "properties":
-                    {
-                     "requireCollectible":"Crystal of Fire"
-                    },
-                 "propertytypes":
-                    {
-                     "requireCollectible":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":1792,
-                 "y":2864
                 }, 
                 {
                  "gid":59,
@@ -6112,34 +5604,6 @@
                  "y":2608
                 }, 
                 {
-                 "gid":1,
-                 "height":16,
-                 "id":506,
-                 "name":"ToLove-1",
-                 "properties":
-                    {
-                     "destx":"3",
-                     "desty":"10",
-                     "map":"Dungeon of Love -1",
-                     "movementType":"descend",
-                     "requireHoliday":"valentine"
-                    },
-                 "propertytypes":
-                    {
-                     "destx":"string",
-                     "desty":"string",
-                     "map":"string",
-                     "movementType":"string",
-                     "requireHoliday":"string"
-                    },
-                 "rotation":0,
-                 "type":"Teleport",
-                 "visible":true,
-                 "width":16,
-                 "x":3408,
-                 "y":3584
-                }, 
-                {
                  "gid":29,
                  "height":16,
                  "id":508,
@@ -6422,6 +5886,620 @@
                  "width":16,
                  "x":3584,
                  "y":2048
+                }, 
+                {
+                 "gid":87,
+                 "height":16,
+                 "id":527,
+                 "name":"",
+                 "properties":
+                    {
+                     "requireCollectible":"Crystal of Water"
+                    },
+                 "propertytypes":
+                    {
+                     "requireCollectible":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":1808,
+                 "y":3120
+                }, 
+                {
+                 "gid":87,
+                 "height":16,
+                 "id":535,
+                 "name":"",
+                 "properties":
+                    {
+                     "requireCollectible":"Crystal of Water"
+                    },
+                 "propertytypes":
+                    {
+                     "requireCollectible":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":1792,
+                 "y":3120
+                }, 
+                {
+                 "gid":87,
+                 "height":16,
+                 "id":536,
+                 "name":"",
+                 "properties":
+                    {
+                     "requireCollectible":"Crystal of Water"
+                    },
+                 "propertytypes":
+                    {
+                     "requireCollectible":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":1776,
+                 "y":3120
+                }, 
+                {
+                 "gid":29,
+                 "height":16,
+                 "id":543,
+                 "name":"ToNorkos",
+                 "properties":
+                    {
+                     "destx":"112",
+                     "desty":"197",
+                     "map":"Norkos",
+                     "movementType":"teleport"
+                    },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":1952,
+                 "y":3104
+                }, 
+                {
+                 "gid":29,
+                 "height":16,
+                 "id":545,
+                 "name":"ToNorkos",
+                 "properties":
+                    {
+                     "destx":"112",
+                     "desty":"197",
+                     "map":"Norkos",
+                     "movementType":"teleport"
+                    },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":1680,
+                 "y":2832
+                }, 
+                {
+                 "gid":29,
+                 "height":16,
+                 "id":546,
+                 "name":"ToNorkos",
+                 "properties":
+                    {
+                     "destx":"112",
+                     "desty":"197",
+                     "map":"Norkos",
+                     "movementType":"teleport"
+                    },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":1856,
+                 "y":3008
+                }, 
+                {
+                 "gid":87,
+                 "height":16,
+                 "id":548,
+                 "name":"",
+                 "properties":
+                    {
+                     "requireCollectible":"Crystal of Air"
+                    },
+                 "propertytypes":
+                    {
+                     "requireCollectible":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":1920,
+                 "y":2944
+                }, 
+                {
+                 "gid":87,
+                 "height":16,
+                 "id":553,
+                 "name":"",
+                 "properties":
+                    {
+                     "requireCollectible":"Crystal of Air"
+                    },
+                 "propertytypes":
+                    {
+                     "requireCollectible":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":1808,
+                 "y":2816
+                }, 
+                {
+                 "gid":87,
+                 "height":16,
+                 "id":554,
+                 "name":"",
+                 "properties":
+                    {
+                     "requireCollectible":"Crystal of Air"
+                    },
+                 "propertytypes":
+                    {
+                     "requireCollectible":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":1792,
+                 "y":2816
+                }, 
+                {
+                 "gid":87,
+                 "height":16,
+                 "id":555,
+                 "name":"",
+                 "properties":
+                    {
+                     "requireCollectible":"Crystal of Air"
+                    },
+                 "propertytypes":
+                    {
+                     "requireCollectible":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":1776,
+                 "y":2816
+                }, 
+                {
+                 "gid":87,
+                 "height":16,
+                 "id":556,
+                 "name":"",
+                 "properties":
+                    {
+                     "requireCollectible":"Crystal of Air"
+                    },
+                 "propertytypes":
+                    {
+                     "requireCollectible":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":1664,
+                 "y":2944
+                }, 
+                {
+                 "gid":87,
+                 "height":16,
+                 "id":557,
+                 "name":"",
+                 "properties":
+                    {
+                     "requireCollectible":"Crystal of Fire"
+                    },
+                 "propertytypes":
+                    {
+                     "requireCollectible":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":1808,
+                 "y":3024
+                }, 
+                {
+                 "gid":87,
+                 "height":16,
+                 "id":558,
+                 "name":"",
+                 "properties":
+                    {
+                     "requireCollectible":"Crystal of Fire"
+                    },
+                 "propertytypes":
+                    {
+                     "requireCollectible":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":1792,
+                 "y":3024
+                }, 
+                {
+                 "gid":87,
+                 "height":16,
+                 "id":559,
+                 "name":"",
+                 "properties":
+                    {
+                     "requireCollectible":"Crystal of Fire"
+                    },
+                 "propertytypes":
+                    {
+                     "requireCollectible":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":1776,
+                 "y":3024
+                }, 
+                {
+                 "gid":87,
+                 "height":16,
+                 "id":560,
+                 "name":"",
+                 "properties":
+                    {
+                     "requireCollectible":"Crystal of Fire"
+                    },
+                 "propertytypes":
+                    {
+                     "requireCollectible":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":1792,
+                 "y":2864
+                }, 
+                {
+                 "gid":87,
+                 "height":16,
+                 "id":561,
+                 "name":"",
+                 "properties":
+                    {
+                     "requireCollectible":"Crystal of Earth"
+                    },
+                 "propertytypes":
+                    {
+                     "requireCollectible":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":1792,
+                 "y":2912
+                }, 
+                {
+                 "gid":87,
+                 "height":16,
+                 "id":562,
+                 "name":"",
+                 "properties":
+                    {
+                     "requireCollectible":"King's Key"
+                    },
+                 "propertytypes":
+                    {
+                     "requireCollectible":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":3568,
+                 "y":2128
+                }, 
+                {
+                 "gid":87,
+                 "height":16,
+                 "id":563,
+                 "name":"",
+                 "properties":
+                    {
+                     "requireCollectible":"King's Key"
+                    },
+                 "propertytypes":
+                    {
+                     "requireCollectible":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":3552,
+                 "y":2128
+                }, 
+                {
+                 "gid":87,
+                 "height":16,
+                 "id":564,
+                 "name":"",
+                 "properties":
+                    {
+                     "requireCollectible":"Snowbeast Skull"
+                    },
+                 "propertytypes":
+                    {
+                     "requireCollectible":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":3568,
+                 "y":2080
+                }, 
+                {
+                 "gid":87,
+                 "height":16,
+                 "id":565,
+                 "name":"",
+                 "properties":
+                    {
+                     "requireCollectible":"Snowbeast Skull"
+                    },
+                 "propertytypes":
+                    {
+                     "requireCollectible":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":3552,
+                 "y":2080
+                }, 
+                {
+                 "gid":87,
+                 "height":16,
+                 "id":566,
+                 "name":"",
+                 "properties":
+                    {
+                     "requireCollectible":"Leviathan Egg"
+                    },
+                 "propertytypes":
+                    {
+                     "requireCollectible":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":3568,
+                 "y":2032
+                }, 
+                {
+                 "gid":87,
+                 "height":16,
+                 "id":567,
+                 "name":"",
+                 "properties":
+                    {
+                     "requireCollectible":"Leviathan Egg"
+                    },
+                 "propertytypes":
+                    {
+                     "requireCollectible":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":3552,
+                 "y":2032
+                }, 
+                {
+                 "gid":87,
+                 "height":16,
+                 "id":568,
+                 "name":"",
+                 "properties":
+                    {
+                     "requireCollectible":"Bottle of Ketchup"
+                    },
+                 "propertytypes":
+                    {
+                     "requireCollectible":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":3568,
+                 "y":1984
+                }, 
+                {
+                 "gid":87,
+                 "height":16,
+                 "id":569,
+                 "name":"",
+                 "properties":
+                    {
+                     "requireCollectible":"Bottle of Ketchup"
+                    },
+                 "propertytypes":
+                    {
+                     "requireCollectible":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":3552,
+                 "y":1984
+                }, 
+                {
+                 "gid":87,
+                 "height":16,
+                 "id":570,
+                 "name":"",
+                 "properties":
+                    {
+                     "requireCollectible":"Cursed Orb"
+                    },
+                 "propertytypes":
+                    {
+                     "requireCollectible":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":3552,
+                 "y":1936
+                }, 
+                {
+                 "gid":87,
+                 "height":16,
+                 "id":571,
+                 "name":"",
+                 "properties":
+                    {
+                     "requireCollectible":"Cursed Orb"
+                    },
+                 "propertytypes":
+                    {
+                     "requireCollectible":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":3568,
+                 "y":1936
+                }, 
+                {
+                 "gid":40,
+                 "height":16,
+                 "id":572,
+                 "name":"ToChristmas",
+                 "properties":
+                    {
+                     "destx":"20",
+                     "desty":"68",
+                     "map":"North Pole",
+                     "movementType":"ascend",
+                     "requireHoliday":"winter"
+                    },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string",
+                     "requireHoliday":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":1840,
+                 "y":32
+                }, 
+                {
+                 "gid":87,
+                 "height":16,
+                 "id":573,
+                 "name":"",
+                 "properties":
+                    {
+                     "requireCollectible":"Guard Tower Key"
+                    },
+                 "propertytypes":
+                    {
+                     "requireCollectible":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":736,
+                 "y":2896
+                }, 
+                {
+                 "gid":41,
+                 "height":16,
+                 "id":574,
+                 "name":"ToLove-1",
+                 "properties":
+                    {
+                     "destx":"3",
+                     "desty":"10",
+                     "map":"Dungeon of Love -1",
+                     "movementType":"descend",
+                     "requireHoliday":"valentine"
+                    },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string",
+                     "requireHoliday":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":3408,
+                 "y":3584
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -6904,7 +6982,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":527,
+ "nextobjectid":575,
  "orientation":"orthogonal",
  "properties":
     {
