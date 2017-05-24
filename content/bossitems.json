@@ -617,6 +617,34 @@
 	"salvage": 1,
     "aReqProfessional:_Mage": 1
   },
+  "Rudimentary Troll-kin Totem": {
+    "type": "charm",
+    "str": 550,
+    "con": 550,
+    "dex": 220,
+    "agi": 220,
+    "int": 220,
+    "luk": 220,
+    "aegis": 1,
+    "crit": 1,
+    "dance": 1,
+    "deadeye": 1,
+    "hpregen": 600,
+    "sentimentality": 123,
+    "xp": 2
+  },
+  "Evil Twin Goatee": {
+    "type": "head",
+    "con": 175,
+    "dex": 175,
+    "int": 2001,
+    "luk": 300,
+    "crit": 1,
+    "damageReduction": 250,
+    "mp": 600,
+    "mpregen": 60,
+    "vampire": 1
+  },
   "dSolver's Feather": {
     "type": "mainhand",
     "str": 50,

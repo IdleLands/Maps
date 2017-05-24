@@ -713,7 +713,21 @@
       "formalName":"The Transmuter",
       "x":212,
       "y":184
-    }	
+    },
+    "cavetrollkin":{
+      "map":"Cabran Falls",
+      "formalName":"The Cave Troll-kin",
+      "x":46,
+      "y":3
+    },
+    "eviltwin":{
+      "map":"Cabran Falls",
+      "formalName":"The Cave Troll-kin",
+      "x":2,
+      "y":2
+    },		
+  },
+
   },
   "dungeons":{
     "norkosdungeon":{

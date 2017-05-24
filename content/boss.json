@@ -1736,5 +1736,9 @@
 		 "collectibles": [
             { "name": "Lapis Lazuli Statue", "dropPercent": 5, "storyline": "Lore: Dreadlords of Cabran", "flavorText": "The Transmuter tried to turn dirt into a solid gold statue of herself. She was less than pleased with the result, but was too vain to get rid of it." }
         ]
-    }	
+        "respawn": 10800,
+        "stats": {
+        },
+        "items": [
+        ]
 }
