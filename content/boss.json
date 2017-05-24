@@ -1736,5 +1736,58 @@
 		 "collectibles": [
             { "name": "Lapis Lazuli Statue", "dropPercent": 5, "storyline": "Lore: Dreadlords of Cabran", "flavorText": "The Transmuter tried to turn dirt into a solid gold statue of herself. She was less than pleased with the result, but was too vain to get rid of it." }
         ]
-    }	
+    },
+    "Cave Troll-kin": {
+        "respawn": 10800,
+        "availableScore": 7250,
+        "stats": {
+            "class": "Druid",
+			"gender": "male",
+            "hp": 255555,
+            "mp": 75000,
+            "level": 125,
+            "str": 8000,
+            "dex": 5900,
+            "agi": 9900,
+            "int": 17500,
+            "luk": 4000,
+            "con": 17550,
+            "shatter": 1,
+            "defense": 3,
+			"offense": 3,
+            "prone": 1,
+			"deadeye": 2,
+			"hpregen": 1500
+        },
+        "items": [
+            { "name": "Rudimentary Troll-kin Totem", "dropPercent": 78 }
+        ]
+    },	
+    "Evil Twin": {
+        "respawn": 10800,
+        "availableScore": 7750,
+        "stats": {
+            "class": "random",
+			"gender": "not a bear",
+            "hp": 220000,
+            "mp": 225000,
+            "level": 135,
+            "str": 7800,
+            "con": 5000,
+            "dex": 17000,
+            "agi": 17000,
+            "int": 3250,
+            "luk": 1525,
+            "power": 1,
+			"lethal": 1,
+			"deadeye": 1,
+			"prone": 1,
+			"vampire": 1,
+            "glowing": 1,
+            "hpregen": 2000
+        },
+        "items": [
+            { "name": "Evil Twin Goatee", "dropPercent": 81 }
+        ]
+    }
 }

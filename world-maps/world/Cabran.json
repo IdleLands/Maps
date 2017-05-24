@@ -2554,18 +2554,6 @@
                 {
                  "gid":48,
                  "height":16,
-                 "id":296,
-                 "name":"Access Point to Cabran Falls",
-                 "rotation":0,
-                 "type":"Sign",
-                 "visible":true,
-                 "width":16,
-                 "x":2000,
-                 "y":2336
-                }, 
-                {
-                 "gid":48,
-                 "height":16,
                  "id":297,
                  "name":"Access Point to Mountain Town",
                  "rotation":0,
@@ -3854,34 +3842,6 @@
                 {
                  "gid":29,
                  "height":16,
-                 "id":402,
-                 "name":"ToCabran",
-                 "properties":
-                    {
-                     "destx":"121",
-                     "desty":"147",
-                     "flavorText":"I'm a placeholder teleport. Eventually the Cabran Falls map will let you escape this way!",
-                     "map":"Cabran",
-                     "movementType":"teleport"
-                    },
-                 "propertytypes":
-                    {
-                     "destx":"string",
-                     "desty":"string",
-                     "flavorText":"string",
-                     "map":"string",
-                     "movementType":"string"
-                    },
-                 "rotation":0,
-                 "type":"Teleport",
-                 "visible":true,
-                 "width":16,
-                 "x":1936,
-                 "y":2336
-                }, 
-                {
-                 "gid":29,
-                 "height":16,
                  "id":404,
                  "name":"ToCabran",
                  "properties":
@@ -3954,6 +3914,56 @@
                  "width":16,
                  "x":800,
                  "y":2128
+                }, 
+                {
+                 "gid":48,
+                 "height":16,
+                 "id":409,
+                 "name":"Access Point to Salamander Caves",
+                 "rotation":0,
+                 "type":"Sign",
+                 "visible":true,
+                 "width":16,
+                 "x":608,
+                 "y":2720
+                }, 
+                {
+                 "gid":48,
+                 "height":16,
+                 "id":410,
+                 "name":"Access Point to Yeti Mountain",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":1680,
+                 "y":2288
+                }, 
+                {
+                 "gid":2,
+                 "height":16,
+                 "id":411,
+                 "name":"ToCabranFalls",
+                 "properties":
+                    {
+                     "destx":"43",
+                     "desty":"15",
+                     "map":"Cabran Falls",
+                     "movementType":"ascend"
+                    },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":2000,
+                 "y":2336
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -4546,7 +4556,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":409,
+ "nextobjectid":412,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tileheight":16,
