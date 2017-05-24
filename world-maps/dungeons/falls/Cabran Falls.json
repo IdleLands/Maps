@@ -97,7 +97,7 @@
                  "gid":1,
                  "height":16,
                  "id":7,
-                 "name":"",
+                 "name":"ToCabran",
                  "properties":
                     {
                      "destx":"125",
@@ -113,7 +113,7 @@
                      "movementType":"string"
                     },
                  "rotation":0,
-                 "type":"",
+                 "type":"Teleport",
                  "visible":true,
                  "width":16,
                  "x":688,
