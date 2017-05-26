@@ -2410,30 +2410,6 @@
                 {
                  "gid":48,
                  "height":16,
-                 "id":279,
-                 "name":"Access point to Desert Town Caves",
-                 "rotation":0,
-                 "type":"Sign",
-                 "visible":true,
-                 "width":16,
-                 "x":2912,
-                 "y":32
-                }, 
-                {
-                 "gid":48,
-                 "height":16,
-                 "id":280,
-                 "name":"Access point to Desert Town Caves",
-                 "rotation":0,
-                 "type":"Sign",
-                 "visible":true,
-                 "width":16,
-                 "x":2992,
-                 "y":32
-                }, 
-                {
-                 "gid":48,
-                 "height":16,
                  "id":281,
                  "name":"Access Point to Desert Tower +1",
                  "rotation":0,
@@ -4092,6 +4068,58 @@
                  "width":16,
                  "x":1680,
                  "y":2288
+                }, 
+                {
+                 "gid":1,
+                 "height":16,
+                 "id":420,
+                 "name":"ToDesertCaves",
+                 "properties":
+                    {
+                     "destx":"10",
+                     "desty":"12",
+                     "map":"Desert Town Caves",
+                     "movementType":"descend"
+                    },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":2992,
+                 "y":32
+                }, 
+                {
+                 "gid":1,
+                 "height":16,
+                 "id":421,
+                 "name":"ToDesertCaves",
+                 "properties":
+                    {
+                     "destx":"5",
+                     "desty":"12",
+                     "map":"Desert Town Caves",
+                     "movementType":"descend"
+                    },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":2912,
+                 "y":32
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -4695,7 +4723,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":420,
+ "nextobjectid":422,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tileheight":16,
