@@ -3916,18 +3916,6 @@
                  "y":2720
                 }, 
                 {
-                 "gid":48,
-                 "height":16,
-                 "id":410,
-                 "name":"Access Point to Yeti Mountain",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":1680,
-                 "y":2288
-                }, 
-                {
                  "gid":2,
                  "height":16,
                  "id":411,
@@ -4078,6 +4066,32 @@
                  "width":16,
                  "x":1424,
                  "y":3024
+                }, 
+                {
+                 "gid":2,
+                 "height":16,
+                 "id":419,
+                 "name":"ToYeti+1",
+                 "properties":
+                    {
+                     "destx":"1",
+                     "desty":"1",
+                     "map":"Yeti Mountain +1",
+                     "movementType":"ascend"
+                    },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":1680,
+                 "y":2288
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -4681,7 +4695,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":419,
+ "nextobjectid":420,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tileheight":16,
@@ -4697,6 +4711,26 @@
          "spacing":0,
          "tilecount":126,
          "tileheight":16,
+         "tileproperties":
+            {
+             "0":
+                {
+                 "destx":"105",
+                 "desty":"142",
+                 "map":"Cabran",
+                 "movementType":"descend"
+                }
+            },
+         "tilepropertytypes":
+            {
+             "0":
+                {
+                 "destx":"string",
+                 "desty":"string",
+                 "map":"string",
+                 "movementType":"string"
+                }
+            },
          "tilewidth":16
         }],
  "tilewidth":16,

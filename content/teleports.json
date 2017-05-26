@@ -710,19 +710,19 @@
     },
     "transmuter":{
       "map":"Cabran",
-      "formalName":"The Transmuter",
+      "formalName":"the Transmuter",
       "x":212,
       "y":184
     },
     "cavetrollkin":{
       "map":"Cabran Falls",
-      "formalName":"The Cave Troll-kin",
+      "formalName":"the Cave Troll-kin",
       "x":46,
       "y":3
     },
     "eviltwin":{
       "map":"Cabran Falls",
-      "formalName":"The Cave Troll-kin",
+      "formalName":"The Evil Twin",
       "x":2,
       "y":2
     },
@@ -731,7 +731,19 @@
       "formalName":"The Shimmering Specter",
       "x":14,
       "y":3
-    }		
+    },	
+    "smallyeti":{
+      "map":"Yeti Mountain +1",
+      "formalName":"The Small Yeti",
+      "x":8,
+      "y":20
+    },
+    "largeyeti":{
+      "map":"Yeti Mountain +2",
+      "formalName":"The Large Yeti",
+      "x":5,
+      "y":2
+    }
   },
   "dungeons":{
     "norkosdungeon":{
