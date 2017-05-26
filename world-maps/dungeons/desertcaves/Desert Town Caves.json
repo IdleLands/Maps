@@ -28,30 +28,6 @@
          "name":"Interactables",
          "objects":[
                 {
-                 "gid":2,
-                 "height":16,
-                 "id":1,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":80,
-                 "y":208
-                }, 
-                {
-                 "gid":2,
-                 "height":16,
-                 "id":2,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":160,
-                 "y":208
-                }, 
-                {
                  "gid":86,
                  "height":16,
                  "id":5,
@@ -130,6 +106,58 @@
                  "width":16,
                  "x":160,
                  "y":96
+                }, 
+                {
+                 "gid":2,
+                 "height":16,
+                 "id":12,
+                 "name":"ToCabran",
+                 "properties":
+                    {
+                     "destx":"187",
+                     "desty":"1",
+                     "map":"Cabran",
+                     "movementType":"ascend"
+                    },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":160,
+                 "y":208
+                }, 
+                {
+                 "gid":2,
+                 "height":16,
+                 "id":13,
+                 "name":"ToCabran",
+                 "properties":
+                    {
+                     "destx":"182",
+                     "desty":"1",
+                     "map":"Cabran",
+                     "movementType":"ascend"
+                    },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":80,
+                 "y":208
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -161,7 +189,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":12,
+ "nextobjectid":14,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tileheight":16,
@@ -177,6 +205,26 @@
          "spacing":0,
          "tilecount":126,
          "tileheight":16,
+         "tileproperties":
+            {
+             "0":
+                {
+                 "destx":"105",
+                 "desty":"142",
+                 "map":"Cabran",
+                 "movementType":"descend"
+                }
+            },
+         "tilepropertytypes":
+            {
+             "0":
+                {
+                 "destx":"string",
+                 "desty":"string",
+                 "map":"string",
+                 "movementType":"string"
+                }
+            },
          "tilewidth":16
         }],
  "tilewidth":16,
