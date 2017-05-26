@@ -645,6 +645,17 @@
     "mpregen": 60,
     "vampire": 1
   },
+  "Spectral Riding Horse": {
+    "type": "legs",
+    "str": 175,
+    "con": 200,
+    "dex": 100,
+    "agi": 125,
+    "int": 245,
+    "luk": 75,
+    "vampire": 1,
+    "xp": 1
+  },
   "dSolver's Feather": {
     "type": "mainhand",
     "str": 50,

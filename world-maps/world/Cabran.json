@@ -2602,18 +2602,6 @@
                 {
                  "gid":48,
                  "height":16,
-                 "id":303,
-                 "name":"Access Point to Spectre Lair",
-                 "rotation":0,
-                 "type":"Sign",
-                 "visible":true,
-                 "width":16,
-                 "x":1408,
-                 "y":3024
-                }, 
-                {
-                 "gid":48,
-                 "height":16,
                  "id":304,
                  "name":"Access Point to The Shackles +1",
                  "rotation":0,
@@ -3964,6 +3952,132 @@
                  "width":16,
                  "x":2000,
                  "y":2336
+                }, 
+                {
+                 "gid":2,
+                 "height":16,
+                 "id":412,
+                 "name":"ToSpecter",
+                 "properties":
+                    {
+                     "destx":"68",
+                     "desty":"15",
+                     "map":"Specter Lair",
+                     "movementType":"ascend"
+                    },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":1408,
+                 "y":3024
+                }, 
+                {
+                 "gid":51,
+                 "height":16,
+                 "id":413,
+                 "name":"",
+                 "properties":
+                    {
+                     "flavorText":"The roads here are paved with ancient skeletons."
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Skeleton",
+                 "visible":true,
+                 "width":16,
+                 "x":1376,
+                 "y":3024
+                }, 
+                {
+                 "gid":51,
+                 "height":16,
+                 "id":414,
+                 "name":"",
+                 "properties":
+                    {
+                     "flavorText":"The roads here are paved with ancient skeletons."
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Skeleton",
+                 "visible":true,
+                 "width":16,
+                 "x":1392,
+                 "y":3008
+                }, 
+                {
+                 "gid":51,
+                 "height":16,
+                 "id":415,
+                 "name":"",
+                 "properties":
+                    {
+                     "flavorText":"The roads here are paved with ancient skeletons."
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Skeleton",
+                 "visible":true,
+                 "width":16,
+                 "x":1392,
+                 "y":2992
+                }, 
+                {
+                 "gid":51,
+                 "height":16,
+                 "id":416,
+                 "name":"",
+                 "properties":
+                    {
+                     "flavorText":"The roads here are paved with ancient skeletons."
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Skeleton",
+                 "visible":true,
+                 "width":16,
+                 "x":1408,
+                 "y":2992
+                }, 
+                {
+                 "gid":51,
+                 "height":16,
+                 "id":417,
+                 "name":"",
+                 "properties":
+                    {
+                     "flavorText":"The roads here are paved with ancient skeletons."
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Skeleton",
+                 "visible":true,
+                 "width":16,
+                 "x":1424,
+                 "y":3024
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -4358,8 +4472,8 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":176,
-                 "x":1376,
+                 "width":112,
+                 "x":1440,
                  "y":2896
                 }, 
                 {
@@ -4548,6 +4662,17 @@
                  "width":576,
                  "x":1680,
                  "y":1408
+                }, 
+                {
+                 "height":48,
+                 "id":418,
+                 "name":"Road of Bones",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":64,
+                 "x":1376,
+                 "y":2976
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -4556,7 +4681,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":412,
+ "nextobjectid":419,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tileheight":16,
