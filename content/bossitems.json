@@ -656,6 +656,34 @@
     "vampire": 1,
     "xp": 1
   },
+  "Warm Yeti Mittens": {
+    "type": "hands",
+    "str": 555,
+    "con": 555,
+    "dex": -50,
+    "agi": 50,
+    "int": -50,
+    "luk": 50,
+    "crit": 1,
+    "gold": 25,
+    "offense": 2,
+    "sentimentality": 300
+  },
+  "Rucksack of the Runaway Yeti": {
+    "type": "body",
+    "str": 550,
+    "con": 850,
+    "dex": -50,
+    "agi": 50,
+    "int": 5,
+    "luk": 25,
+    "defense": 1,
+    "glowing": 1,
+    "gold": 125,
+    "offense": 1,
+    "silver": 1,
+    "xp": 3
+  },
   "dSolver's Feather": {
     "type": "mainhand",
     "str": 50,

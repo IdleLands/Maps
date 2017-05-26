@@ -1815,5 +1815,54 @@
         "items": [
             { "name": "Spectral Riding Horse", "dropPercent": 80 }
         ]
-    }
+    },
+    "Small Yeti": {
+        "respawn": 10800,
+        "availableScore": 5500,
+        "stats": {
+            "class": "Barbarian",
+            "hp": 76000,
+            "level": 73,
+            "str": 3510,
+            "dex": 1200,
+            "agi": 2000,
+            "con": 2800,
+			"int": 125,
+            "luk": 325,
+            "power": 1,
+			"silver": 1,
+			"shatter": 1,
+            "glowing": 1,
+			"offense": 2,
+			"damageReduction": 50
+        },
+        "items": [
+            { "name": "Warm Yeti Mittens", "dropPercent": 76 }
+        ]
+    },
+    "Large Yeti": {
+        "respawn": 10800,
+        "availableScore": 5500,
+        "stats": {
+            "class": "Barbarian",
+            "hp": 72000,
+            "mp": 42000,
+            "level": 83,
+            "str": 4260,
+            "dex": 1250,
+            "agi": 1950,
+            "int": 250,
+            "luk": 658,
+            "con": 3500,
+            "power": 2,
+			"silver": 2,
+			"defense": 2,
+			"deadeye": 1,
+			"shatter": 1,
+			"damageReduction": 500
+        },
+        "items": [
+            { "name": "Rucksack of the Runaway Yeti", "dropPercent": 75 }
+        ]
+    }	
 }
