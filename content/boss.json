@@ -1789,5 +1789,31 @@
         "items": [
             { "name": "Evil Twin Goatee", "dropPercent": 81 }
         ]
+    },
+    "Shimmering Specter": {
+        "respawn": 10800,
+        "availableScore": 5500,
+        "stats": {
+            "class": "random",
+			"gender": "female",
+            "hp": 72000,
+            "mp": 42000,
+            "level": 68,
+            "str": 4500,
+            "dex": 650,
+            "agi": 2000,
+            "con": 600,
+			"int": 3600,
+            "luk": 325,
+            "power": 1,
+			"deadeye": 1,
+			"shatter": 1,
+			"vampire": 1,
+            "glowing": 2,
+			"damageReduction": 666
+        },
+        "items": [
+            { "name": "Spectral Riding Horse", "dropPercent": 80 }
+        ]
     }
 }

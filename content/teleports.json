@@ -725,7 +725,13 @@
       "formalName":"The Cave Troll-kin",
       "x":2,
       "y":2
-    }	
+    },
+    "shimmeringspecter":{
+      "map":"Specter Lair",
+      "formalName":"The Shimmering Specter",
+      "x":14,
+      "y":3
+    }		
   },
   "dungeons":{
     "norkosdungeon":{
