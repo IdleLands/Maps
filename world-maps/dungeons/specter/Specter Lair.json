@@ -660,6 +660,14 @@
                  "height":16,
                  "id":70,
                  "name":"",
+                 "properties":
+                    {
+                     "forceEvent":"GoldBless"
+                    },
+                 "propertytypes":
+                    {
+                     "forceEvent":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
