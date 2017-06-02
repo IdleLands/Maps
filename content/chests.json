@@ -91,5 +91,11 @@
         "items": [
             "Timeless Topaz"
         ]
+    },
+    "Troll Gear": {
+        "items": [
+            "Troll Leather Galoshes",
+			"Troll Leather Leggings"
+        ]
     }
 }

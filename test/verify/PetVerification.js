@@ -6,7 +6,7 @@ const pets = require("../../content/pets.json");
 const bosses = require("../../content/boss.json");
 
 _.each(pets, (petData, pet) => {
-  if(!_.includes(['Hybrid', 'Non-Combat', 'Combat'], petData.category)) throw new Error(`Invalid pet type: ${petData.category} (${pet})`);
+  if(!_.includes(['Hybrid', 'Non-Combat', 'Combat', 'Protector'], petData.category)) throw new Error(`Invalid pet type: ${petData.category} (${pet})`);
   if(_.size(petData.requirements) === 0) throw new Error(`No requirements specified (${pet})`);
   if(!petData.description) throw new Error(`No description specified (${pet})`);
 

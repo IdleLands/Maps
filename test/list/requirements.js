@@ -12,7 +12,7 @@ _.each(maps, (mapData, mapName) => {
     const reqKeys = _.filter(propKeys, key => _.includes(key, 'require'));
 
     _.each(reqKeys, req => {
-      console.log(`Require "${req}": ${obj.properties[req]} @ ${obj.x/16}, ${obj.y/16}`);
+      console.log(`Require "${req}": ${obj.properties[req]} @ ${mapName}-${obj.x/16}, ${obj.y/16}`);
     });
   });
 });

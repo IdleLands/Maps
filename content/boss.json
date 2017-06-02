@@ -1037,7 +1037,7 @@
         "availableScore": 0,
         "stats": {
             "class": "Bard",
-            "gender": "Male",
+            "gender": "male",
             "hp": 2500,
             "mp": 2500,
             "level": 23,
@@ -1320,6 +1320,7 @@
         "availableScore": 10000,
         "stats": {
             "class": "Cleric",
+            "gender": "male",			
             "hp": 4500000,
             "mp": 4500000,
             "level": 210,
@@ -1453,6 +1454,7 @@
         "availableScore": 15000,
         "stats": {
             "class": "Fighter",
+            "gender": "male",			
             "hp": 6257500,
             "mp": 3500000,
             "level": 245,
@@ -1495,5 +1497,372 @@
             "defense": 1,
             "prone": 1
         }
-    }
+    },
+    "Barbarian Guardian": {
+        "respawn": 9000,
+        "availableScore": 5300,
+        "stats": {
+            "class": "Barbarian",
+            "gender": "not a bear",			
+            "hp": 78000,
+            "level": 60,
+            "str": 2900,
+            "dex": 800,
+            "agi": 800,
+            "con": 2900,
+			"int": -600,
+            "luk": -1,
+            "defense": 1,
+            "offense": 2,
+            "crit": 1,
+            "glowing": 1,
+			"power": 1,
+			"silver": 1,
+			"aegis": 1
+        },
+        "items": [
+            { "name": "Armored Guardian Fist", "dropPercent": 80 }
+        ]
+    },
+    "Hulking Beast": {
+        "respawn": 10800,
+        "availableScore": 5600,
+        "stats": {
+            "class": "Fighter",
+			"gender": "not a bear",
+            "hp": 80000,
+            "mp": 30000,
+            "level": 70,
+            "str": 3330,
+            "dex": 2100,
+            "agi": 1900,
+            "con": 2500,
+			"int": 690,
+            "luk": 300,
+            "prone": 1,
+            "defense": -1,
+            "offense": 2,
+            "shatter": 2
+        },
+        "items": [
+            { "name": "Unbreakable Chains", "dropPercent": 80 }
+        ]
+    },
+    "Golden Mushroom Statue": {
+        "respawn": 10800,
+        "availableScore": 5900,
+        "stats": {
+            "class": "Mage",
+			"gender": "not a bear",
+            "hp": 74000,
+            "mp": 58000,
+            "level": 80,
+            "str": 2000,
+            "dex": 20,
+            "agi": 20,
+            "int": 3975,
+            "luk": 950,
+            "con": 3001,
+            "poison": 3,
+            "venom": 1,
+            "vampire": 1,
+            "defense": 3,
+            "shatter": 1,
+			"hpregen": 25,
+			"mpregen": 250
+        },
+        "items": [
+            { "name": "Rot-resistant Wand", "dropPercent": 75 }
+        ]
+    },
+    "Snake Guard Jaunthes": {
+        "respawn": 10800,
+        "availableScore": 6200,
+        "stats": {
+            "class": "MagicalMonster",
+			"gender": "male",
+            "hp": 84000,
+            "mp": 44000,
+            "level": 90,
+            "str": 2900,
+            "dex": 1800,
+            "agi": 2321,
+            "int": 1780,
+            "luk": 1100,
+            "con": 2000,
+            "venom": 4,
+            "dance": 1,
+            "prone": 1,
+			"lethal": 1
+        },
+        "items": [
+            { "name": "Snake Fangs", "dropPercent": 75 }
+        ],
+		"collectibles": [
+            { "name": "Ring of Understanding", "dropPercent": 25, "storyline": "Lore: Temple of the Snake", "flavorText": "A gift from Jaunthes's brother. Unfortunately it was too little, too late." }
+        ]
+    },
+    "Peglegged Ogre": {
+        "respawn": 10800,
+        "availableScore": 6500,
+        "stats": {
+            "class": "Pirate",
+            "hp": 100000,
+            "mp": 78650,
+            "level": 100,
+            "str": 7300,
+            "dex": 4100,
+            "con": 6600,
+            "agi": 7000,
+            "int": 1700,
+			"luk": 2100,
+            "crit": 5,
+            "dance": 1,
+            "deadeye": 1,
+            "lethal": 1,
+            "offense": 1,
+            "prone": 1,
+            "vorpal": 1
+        },
+        "items": [
+            { "name": "Peglegs", "dropPercent": 77 }
+        ]
+    },
+    "Gnome Lord": {
+        "respawn": 10800,
+        "availableScore": 6800,
+        "stats": {
+            "class": "random",
+			"gender": "male",
+            "hp": 101010,
+            "mp": 101010,
+            "level": 110,
+            "str": 5500,
+            "dex": 5500,
+            "agi": 11500,
+            "int": 5500,
+            "luk": 4400,
+            "con": 5900,
+            "dance": 5,
+			"deadeye": 5,
+            "defense": 1,
+            "prone": 1,
+			"glowing": 1,
+			"crit": 2
+        },
+        "items": [
+            { "name": "Jeweled Gnomish Pipe", "dropPercent": 70 }
+        ]
+    },
+    "Ogre Lord": {
+        "respawn": 10800,
+        "availableScore": 7100,
+        "stats": {
+            "class": "Fighter",
+			"gender": "male",
+            "hp": 150000,
+            "mp": 150000,
+            "level": 120,
+            "str": 8000,
+            "dex": 5900,
+            "agi": 9900,
+            "int": 7500,
+            "luk": 4550,
+            "con": 7550,
+            "poison": 3,
+            "shatter": 1,
+            "defense": 3,
+			"offense": 3,
+            "prone": 1,
+			"deadeye": 2
+        },
+        "items": [
+            { "name": "Pilfered Halberd", "dropPercent": 75 }
+        ]
+    },
+    "Troll Lord": {
+        "respawn": 10800,
+        "availableScore": 7400,
+        "stats": {
+            "class": "Rogue",
+			"gender": "female",
+            "hp": 220000,
+            "mp": 220000,
+            "level": 130,
+            "str": 7800,
+            "con": 3999,
+            "dex": 17000,
+            "agi": 17000,
+            "int": 3250,
+            "luk": 150,
+            "poison": 4,
+            "power": 1,
+			"lethal": 1,
+			"deadeye": 1,
+            "glowing": 3,
+            "hpregen": 3750
+        },
+        "items": [
+            { "name": "Crown of the Swamp Queen", "dropPercent": 74 }
+        ]
+    },
+    "The Transmuter": {
+        "respawn": 10800,
+        "availableScore": 7700,
+        "stats": {
+            "class": "Mage",
+			"gender": "female",
+            "hp": 375000,
+            "mp": 200000,
+            "level": 140,
+            "str": 1000,
+            "dex": 1000,
+            "agi": 10000,
+            "int": 24500,
+            "luk": 7300,
+            "con": 6300,
+            "mpregen": 2550,
+			"hpregen": 2500,
+            "shatter": 3,
+            "dance": 1,
+            "defense": 1,
+            "prone": 1,
+			"vampire": 1,
+			"crit": 3
+        },
+        "items": [
+            { "name": "Book: Magnum Opus of Transmutation", "dropPercent": 69 }
+        ],
+		 "collectibles": [
+            { "name": "Lapis Lazuli Statue", "dropPercent": 5, "storyline": "Lore: Dreadlords of Cabran", "flavorText": "The Transmuter tried to turn dirt into a solid gold statue of herself. She was less than pleased with the result, but was too vain to get rid of it." }
+        ]
+    },
+    "Cave Troll-kin": {
+        "respawn": 10800,
+        "availableScore": 7250,
+        "stats": {
+            "class": "Druid",
+			"gender": "male",
+            "hp": 255555,
+            "mp": 75000,
+            "level": 125,
+            "str": 8000,
+            "dex": 5900,
+            "agi": 9900,
+            "int": 17500,
+            "luk": 4000,
+            "con": 17550,
+            "shatter": 1,
+            "defense": 3,
+			"offense": 3,
+            "prone": 1,
+			"deadeye": 2,
+			"hpregen": 1500
+        },
+        "items": [
+            { "name": "Rudimentary Troll-kin Totem", "dropPercent": 78 }
+        ]
+    },	
+    "Evil Twin": {
+        "respawn": 10800,
+        "availableScore": 7750,
+        "stats": {
+            "class": "random",
+			"gender": "not a bear",
+            "hp": 220000,
+            "mp": 225000,
+            "level": 135,
+            "str": 7800,
+            "con": 5000,
+            "dex": 17000,
+            "agi": 17000,
+            "int": 3250,
+            "luk": 1525,
+            "power": 1,
+			"lethal": 1,
+			"deadeye": 1,
+			"prone": 1,
+			"vampire": 1,
+            "glowing": 1,
+            "hpregen": 2000
+        },
+        "items": [
+            { "name": "Evil Twin Goatee", "dropPercent": 81 }
+        ]
+    },
+    "Shimmering Specter": {
+        "respawn": 10800,
+        "availableScore": 5500,
+        "stats": {
+            "class": "random",
+			"gender": "female",
+            "hp": 72000,
+            "mp": 42000,
+            "level": 68,
+            "str": 4500,
+            "dex": 650,
+            "agi": 2000,
+            "con": 600,
+			"int": 3600,
+            "luk": 325,
+            "power": 1,
+			"deadeye": 1,
+			"shatter": 1,
+			"vampire": 1,
+            "glowing": 2,
+			"damageReduction": 666
+        },
+        "items": [
+            { "name": "Spectral Riding Horse", "dropPercent": 80 }
+        ]
+    },
+    "Small Yeti": {
+        "respawn": 10800,
+        "availableScore": 5500,
+        "stats": {
+            "class": "Barbarian",
+            "hp": 76000,
+            "level": 73,
+            "str": 3510,
+            "dex": 1200,
+            "agi": 2000,
+            "con": 2800,
+			"int": 125,
+            "luk": 325,
+            "power": 1,
+			"silver": 1,
+			"shatter": 1,
+            "glowing": 1,
+			"offense": 2,
+			"damageReduction": 50
+        },
+        "items": [
+            { "name": "Warm Yeti Mittens", "dropPercent": 76 }
+        ]
+    },
+    "Large Yeti": {
+        "respawn": 10800,
+        "availableScore": 5500,
+        "stats": {
+            "class": "Barbarian",
+            "hp": 72000,
+            "mp": 42000,
+            "level": 83,
+            "str": 4260,
+            "dex": 1250,
+            "agi": 1950,
+            "int": 250,
+            "luk": 658,
+            "con": 3500,
+            "power": 2,
+			"silver": 2,
+			"defense": 2,
+			"deadeye": 1,
+			"shatter": 1,
+			"damageReduction": 500
+        },
+        "items": [
+            { "name": "Rucksack of the Runaway Yeti", "dropPercent": 75 }
+        ]
+    }	
 }

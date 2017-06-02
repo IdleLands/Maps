@@ -55,7 +55,23 @@
       "y":41,
       "cost":350000,
       "requiredRegionVisit":"Vocalnus Town"
-    }
+    },
+    "desert":{
+      "map":"Cabran",
+      "formalName":"Desert Town",
+      "x":195,
+      "y":11,
+      "cost":7500000,
+      "requiredRegionVisit":"Desert Town"
+    },
+    "tree":{
+      "map":"Cabran",
+      "formalName":"Tree Town",
+      "x":13,
+      "y":17,
+      "cost":7500000,
+      "requiredRegionVisit":"Tree Town"
+    }	
   },
   "trainers":{
     "archer":{
@@ -156,6 +172,12 @@
       "x":10,
       "y":10
     },
+    "cabranstart":{
+      "map":"Cabran",
+      "formalName":"the Cabran Start Location",
+      "x":110,
+      "y":183
+    },	
     "guildbase": {
       "map": "Norkos",
       "formalName":"a Guild Base",
@@ -239,12 +261,6 @@
       "formalName":"the Dungeon of Love",
       "x":213,
       "y":223
-    },
-    "cityofdragonschest":{
-      "map":"Mythos -3",
-      "formalName":"City of Dragons Treasure Chest Teleport Room",
-      "x":55,
-      "y":12
     }
   },
   "bosses":{
@@ -601,6 +617,132 @@
       "formalName":"the Bloodkeeper",
       "x":25,
       "y":38
+    },
+    "ukadaghag":{
+      "map":"Mythos -3",
+      "formalName":"Ukad-Aghag the Exile",
+      "x":81,
+      "y":43
+    },
+    "drunkendragon":{
+      "map":"Mythos -3",
+      "formalName":"the Drunken Dragon",
+      "x":48,
+      "y":14
+    },
+    "oldcopperdragon":{
+      "map":"Mythos -3",
+      "formalName":"the Old Copper Dragon",
+      "x":51,
+      "y":21
+    },
+    "whitedragon":{
+      "map":"Mythos -3",
+      "formalName":"the White Dragon",
+      "x":63,
+      "y":24
+    },
+    "bluedragon":{
+      "map":"Mythos -3",
+      "formalName":"the Blue Dragon",
+      "x":59,
+      "y":2
+    },
+    "branor":{
+      "map":"Mythos -3",
+      "formalName":"Branor the Hungry",
+      "x":16,
+      "y":25
+    },
+    "dragonkindefenders":{
+      "map":"Mythos -3",
+      "formalName":"the Dragon-kin Defenders",
+      "x":32,
+      "y":32
+    },
+    "barbarianguardian":{
+      "map":"Cabran",
+      "formalName":"the Barbarian Guardian",
+      "x":123,
+      "y":167
+    },
+    "hulkingbeast":{
+      "map":"Cabran",
+      "formalName":"the Hulking Beast",
+      "x":24,
+      "y":69
+    },
+    "goldenmushroomstatue":{
+      "map":"Cabran",
+      "formalName":"the Golden Mushroom Statue",
+      "x":14,
+      "y":30
+    },
+    "snakeguardjaunthes":{
+      "map":"Cabran",
+      "formalName":"Snake Guard Jaunthes",
+      "x":136,
+      "y":60
+    },
+    "pegleggedogre":{
+      "map":"Cabran",
+      "formalName":"the Peglegged Ogre",
+      "x":98,
+      "y":96
+    },
+    "gnomelord":{
+      "map":"Cabran",
+      "formalName":"the Gnome Lord",
+      "x":103,
+      "y":80
+    },
+    "ogrelord":{
+      "map":"Cabran",
+      "formalName":"the Ogre Lord",
+      "x":94,
+      "y":122
+    },
+    "trolllord":{
+      "map":"Cabran",
+      "formalName":"the Troll Lord",
+      "x":155,
+      "y":122
+    },
+    "transmuter":{
+      "map":"Cabran",
+      "formalName":"the Transmuter",
+      "x":212,
+      "y":184
+    },
+    "cavetrollkin":{
+      "map":"Cabran Falls",
+      "formalName":"the Cave Troll-kin",
+      "x":46,
+      "y":3
+    },
+    "eviltwin":{
+      "map":"Cabran Falls",
+      "formalName":"The Evil Twin",
+      "x":2,
+      "y":2
+    },
+    "shimmeringspecter":{
+      "map":"Specter Lair",
+      "formalName":"The Shimmering Specter",
+      "x":14,
+      "y":3
+    },	
+    "smallyeti":{
+      "map":"Yeti Mountain +1",
+      "formalName":"The Small Yeti",
+      "x":8,
+      "y":20
+    },
+    "largeyeti":{
+      "map":"Yeti Mountain +2",
+      "formalName":"The Large Yeti",
+      "x":5,
+      "y":2
     }
   },
   "dungeons":{
@@ -699,6 +841,12 @@
       "formalName":"the Idle Island entrance",
       "x":87,
       "y":242
-    }
+    },
+    "winecellar":{
+      "map":"Norkos",
+      "formalName":"the Frigri Wine Cellar entrance",
+      "x":87,
+      "y":242
+    }	
   }
 }
