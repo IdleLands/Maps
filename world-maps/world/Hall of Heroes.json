@@ -2094,6 +2094,46 @@
                  "width":16,
                  "x":528,
                  "y":48
+                }, 
+                {
+                 "gid":73,
+                 "height":16,
+                 "id":147,
+                 "name":"Farflier",
+                 "properties":
+                    {
+                     "flavorText":"It's dangerous to go alone! Take this."
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":192,
+                 "y":432
+                }, 
+                {
+                 "gid":12,
+                 "height":16,
+                 "id":148,
+                 "name":"Santos L Halperr",
+                 "properties":
+                    {
+                     "flavorText":"I'm helping!"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":560,
+                 "y":432
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2169,7 +2209,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":147,
+ "nextobjectid":149,
  "orientation":"orthogonal",
  "properties":
     {
