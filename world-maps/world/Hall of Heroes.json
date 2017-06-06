@@ -2134,6 +2134,18 @@
                  "width":16,
                  "x":560,
                  "y":432
+                }, 
+                {
+                 "gid":15,
+                 "height":16,
+                 "id":149,
+                 "name":"Anonymous Donator",
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":528,
+                 "y":432
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2209,7 +2221,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":149,
+ "nextobjectid":150,
  "orientation":"orthogonal",
  "properties":
     {
