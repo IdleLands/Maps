@@ -684,6 +684,32 @@
     "silver": 1,
     "xp": 3
   },
+  "Poison-Tipped Arrows": {
+    "type": "offhand",
+    "str": 100,
+    "con": 350,
+    "dex": 1500,
+    "agi": 1250,
+    "luk": 99,
+    "deadeye": 1,
+    "glowing": 1,
+    "gold": 3,
+    "poison": 1
+  },
+  "Hand Crossbow of the Shackles": {
+    "type": "mainhand",
+    "str": 75,
+    "con": -25,
+    "dex": 1550,
+    "agi": 1550,
+    "int": 275,
+    "luk": 200,
+    "crit": 1,
+    "deadeye": 1,
+    "gold": 18,
+    "offense": 1,
+    "poison": 1
+  },  
   "dSolver's Feather": {
     "type": "mainhand",
     "str": 50,

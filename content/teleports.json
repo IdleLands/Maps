@@ -743,6 +743,18 @@
       "formalName":"The Large Yeti",
       "x":5,
       "y":2
+    },
+	"shacklesarchers":{
+      "map":"The Shackles +1",
+      "formalName":"The Shackles Archer Squad",
+      "x":6,
+      "y":13
+    },
+	"shacklescommander":{
+      "map":"The Shackles +1",
+      "formalName":"The Shackles Commander",
+      "x":9,
+      "y":2
     }
   },
   "dungeons":{
@@ -847,6 +859,12 @@
       "formalName":"the Frigri Wine Cellar entrance",
       "x":87,
       "y":242
+    },
+    "theshackles":{
+      "map":"Cabran",
+      "formalName":"the Shackles Guard Room",
+      "x":44,
+      "y":97
     }	
   }
 }
