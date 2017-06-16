@@ -38,5 +38,13 @@
       "Dragon-kin Defender",
       "Dragon-kin Defender"
     ]
+  },
+  "Shackles Archer Squad": {
+    "respawn": 10800,
+    "members": [
+      "Shackles Captain of the Guard",
+      "Shackles Lieutenant",
+      "Shackles Lieutenant"
+    ]
   }
 }
