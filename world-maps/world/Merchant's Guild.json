@@ -5677,7 +5677,7 @@
                      "desty":"24",
                      "map":"Merchant's Guild",
                      "movementType":"teleport",
-                     "requireCollectible":"Jewel-Encrusted Cup"
+                     "requireCollectible":"Large Decorative Key"
                     },
                  "propertytypes":
                     {
@@ -5797,7 +5797,7 @@
                      "desty":"25",
                      "map":"Merchant's Guild",
                      "movementType":"teleport",
-                     "requireCollectible":"Jewel-Encrusted Cup"
+                     "requireCollectible":"Large Decorative Key"
                     },
                  "propertytypes":
                     {
