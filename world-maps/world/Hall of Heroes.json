@@ -2158,6 +2158,26 @@
                  "width":16,
                  "x":224,
                  "y":432
+                }, 
+                {
+                 "gid":14,
+                 "height":16,
+                 "id":151,
+                 "name":"Juke Dragh",
+                 "properties":
+                    {
+                     "flavorText":"It is sentimentality with glitter"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Contributor)",
+                 "visible":true,
+                 "width":16,
+                 "x":560,
+                 "y":48
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2233,7 +2253,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":151,
+ "nextobjectid":152,
  "orientation":"orthogonal",
  "properties":
     {
