@@ -551,11 +551,13 @@
                  "properties":
                     {
                      "flavorText":"Accidently left by Mountain Town resident Timmy during one of his adventures.",
+                     "rarity":"godly",
                      "storyline":"Lore: Mountain Town"
                     },
                  "propertytypes":
                     {
                      "flavorText":"string",
+                     "rarity":"string",
                      "storyline":"string"
                     },
                  "rotation":0,
@@ -2576,42 +2578,6 @@
                  "y":3008
                 }, 
                 {
-                 "gid":48,
-                 "height":16,
-                 "id":304,
-                 "name":"Access Point to The Shackles +1",
-                 "rotation":0,
-                 "type":"Sign",
-                 "visible":true,
-                 "width":16,
-                 "x":592,
-                 "y":1568
-                }, 
-                {
-                 "gid":48,
-                 "height":16,
-                 "id":305,
-                 "name":"Access Point to The Shackles +1",
-                 "rotation":0,
-                 "type":"Sign",
-                 "visible":true,
-                 "width":16,
-                 "x":816,
-                 "y":1568
-                }, 
-                {
-                 "gid":48,
-                 "height":16,
-                 "id":306,
-                 "name":"Access Point to The Shackles -1",
-                 "rotation":0,
-                 "type":"Sign",
-                 "visible":true,
-                 "width":16,
-                 "x":704,
-                 "y":1472
-                }, 
-                {
                  "gid":32,
                  "height":16,
                  "id":307,
@@ -4120,6 +4086,84 @@
                  "width":16,
                  "x":2912,
                  "y":32
+                }, 
+                {
+                 "gid":1,
+                 "height":16,
+                 "id":425,
+                 "name":"ToShackles-1",
+                 "properties":
+                    {
+                     "destx":"19",
+                     "desty":"5",
+                     "map":"The Shackles -1",
+                     "movementType":"descend"
+                    },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":816,
+                 "y":1568
+                }, 
+                {
+                 "gid":1,
+                 "height":16,
+                 "id":426,
+                 "name":"ToShackles-1",
+                 "properties":
+                    {
+                     "destx":"5",
+                     "desty":"5",
+                     "map":"The Shackles -1",
+                     "movementType":"descend"
+                    },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":592,
+                 "y":1568
+                }, 
+                {
+                 "gid":2,
+                 "height":16,
+                 "id":427,
+                 "name":"ToShackles+1",
+                 "properties":
+                    {
+                     "destx":"5",
+                     "desty":"2",
+                     "map":"The Shackles +1",
+                     "movementType":"ascend"
+                    },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":704,
+                 "y":1472
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -4723,7 +4767,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":422,
+ "nextobjectid":428,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tileheight":16,

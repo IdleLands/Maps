@@ -1864,5 +1864,75 @@
         "items": [
             { "name": "Rucksack of the Runaway Yeti", "dropPercent": 75 }
         ]
+    },
+    "Shackles Lieutenant": {
+        "respawn": 10800,
+        "availableScore": 5500,
+        "stats": {
+            "class": "Archer",
+            "hp": 69850,
+            "level": 86,
+            "str": 1900,
+            "dex": 2500,
+            "agi": 2500,
+            "con": 1580,
+			"int": 1000,
+            "luk": 950,
+            "power": 1,
+			"silver": 1,
+            "glowing": 1,
+			"offense": 1
+        }
+    },
+    "Shackles Captain of the Guard": {
+        "respawn": 10800,
+        "availableScore": 6300,
+        "stats": {
+            "class": "Archer",
+            "hp": 75000,
+            "level": 91,
+            "str": 2200,
+            "dex": 3000,
+            "agi": 3000,
+            "int": 1000,
+            "luk": 980,
+            "con": 1954,
+            "power": 1,
+			"silver": 2,
+            "glowing": 1,
+			"offense": 1,
+			"deadeye": 1,
+			"defense": 1,
+			"poison": 2
+        },
+        "items": [
+            { "name": "Poison-Tipped Arrows", "dropPercent": 70 }
+        ]
+    },
+    "Shackles Commander": {
+        "respawn": 10800,
+        "availableScore": 5500,
+        "stats": {
+            "class": "Rogue",
+            "hp": 100000,
+            "level": 97,
+            "str": 3510,
+            "dex": 4000,
+            "agi": 4250,
+            "con": 3000,
+			"int": 1408,
+            "luk": 1025,
+            "power": 1,
+			"crit": 2,
+			"silver": 1,
+			"shatter": 1,
+            "glowing": 2,
+			"offense": 2,
+			"poison": 2,
+			"damageReduction": 500
+        },
+        "items": [
+            { "name": "Hand Crossbow of the Shackles", "dropPercent": 70 }
+        ]
     }	
 }
