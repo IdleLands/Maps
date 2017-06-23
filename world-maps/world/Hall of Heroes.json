@@ -2178,6 +2178,26 @@
                  "width":16,
                  "x":560,
                  "y":48
+                }, 
+                {
+                 "gid":51,
+                 "height":16,
+                 "id":152,
+                 "name":"Koinkoin",
+                 "properties":
+                    {
+                     "flavorText":"Koin ?"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":256,
+                 "y":432
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2253,7 +2273,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":152,
+ "nextobjectid":153,
  "orientation":"orthogonal",
  "properties":
     {
