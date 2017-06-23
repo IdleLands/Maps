@@ -1400,7 +1400,7 @@
                  "name":"The Transmuter",
                  "properties":
                     {
-                     "flavorText":"A reclusive mage. Her touch has the ability to turn flesh to lead or gold, depending on her mood."
+                     "flavorText":"A reclusive mage. Her touch has the ability to turn flesh to lead or gold, depending on her mood. One of the Dreadlords of Cabran."
                     },
                  "propertytypes":
                     {
@@ -2324,18 +2324,6 @@
                  "width":16,
                  "x":2704,
                  "y":2048
-                }, 
-                {
-                 "gid":48,
-                 "height":16,
-                 "id":264,
-                 "name":"Access point to Mayhem Caves",
-                 "rotation":0,
-                 "type":"Sign",
-                 "visible":true,
-                 "width":16,
-                 "x":32,
-                 "y":224
                 }, 
                 {
                  "gid":48,
@@ -4164,6 +4152,32 @@
                  "width":16,
                  "x":704,
                  "y":1472
+                }, 
+                {
+                 "gid":1,
+                 "height":16,
+                 "id":428,
+                 "name":"ToMayhemCaves",
+                 "properties":
+                    {
+                     "destx":"24",
+                     "desty":"50",
+                     "map":"Mayhem Caves -1",
+                     "movementType":"descend"
+                    },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":32,
+                 "y":224
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -4398,15 +4412,15 @@
                  "y":1088
                 }, 
                 {
-                 "height":240,
+                 "height":288,
                  "id":273,
                  "name":"Steps of Mayhem",
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":160,
-                 "x":48,
-                 "y":32
+                 "width":176,
+                 "x":32,
+                 "y":16
                 }, 
                 {
                  "height":272,
@@ -4767,7 +4781,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":428,
+ "nextobjectid":429,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tileheight":16,

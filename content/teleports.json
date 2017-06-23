@@ -755,6 +755,18 @@
       "formalName":"The Shackles Commander",
       "x":9,
       "y":2
+    },
+	"mayhempitchampion":{
+      "map":"Mayhem Caves -2",
+      "formalName":"the Mayhem Pit Champion",
+      "x":11,
+      "y":10
+    },
+    "defensiveroc":{
+      "map":"Roc Lair",
+      "formalName":"the Defensive Roc",
+      "x":7,
+      "y":19
     }
   },
   "dungeons":{
@@ -865,6 +877,12 @@
       "formalName":"the Shackles Guard Room",
       "x":44,
       "y":97
+    },
+    "mayhemcaves":{
+      "map":"Cabran",
+      "formalName":"the Mayhem Caves",
+      "x":2,
+      "y":13
     }	
   }
 }
