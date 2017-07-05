@@ -1267,7 +1267,7 @@
         "respawn": 10800,
         "availableScore": 2400,
         "stats": {
-            "class": "random",
+            "class": "Random",
             "hp": 21995,
             "mp": 1000,
             "level": 37,
@@ -1396,7 +1396,7 @@
         "respawn": 10800,
         "availableScore": 12200,
         "stats": {
-            "class": "random",
+            "class": "Random",
             "hp": 5950000,
             "mp": 5000000,
             "level": 230,
@@ -1481,7 +1481,7 @@
         "respawn": 10800,
         "availableScore": 2400,
         "stats": {
-            "class": "random",
+            "class": "Random",
             "hp": 3500000,
             "mp": 2000000,
             "level": 245,
@@ -1632,7 +1632,7 @@
         "respawn": 10800,
         "availableScore": 6800,
         "stats": {
-            "class": "random",
+            "class": "Random",
 			"gender": "male",
             "hp": 101010,
             "mp": 101010,
@@ -1767,7 +1767,7 @@
         "respawn": 10800,
         "availableScore": 7750,
         "stats": {
-            "class": "random",
+            "class": "Random",
 			"gender": "not a bear",
             "hp": 220000,
             "mp": 225000,
@@ -1794,7 +1794,7 @@
         "respawn": 10800,
         "availableScore": 5500,
         "stats": {
-            "class": "random",
+            "class": "Random",
 			"gender": "female",
             "hp": 72000,
             "mp": 42000,
@@ -1867,7 +1867,7 @@
     },
     "Shackles Lieutenant": {
         "respawn": 10800,
-        "availableScore": 5500,
+        "availableScore": 5650,
         "stats": {
             "class": "Archer",
             "hp": 69850,
@@ -1911,7 +1911,7 @@
     },
     "Shackles Commander": {
         "respawn": 10800,
-        "availableScore": 5500,
+        "availableScore": 6800,
         "stats": {
             "class": "Rogue",
             "hp": 100000,
@@ -1934,5 +1934,52 @@
         "items": [
             { "name": "Hand Crossbow of the Shackles", "dropPercent": 70 }
         ]
-    }	
+    },
+    "Mayhem Pit Champion": {
+        "respawn": 10800,
+        "availableScore": 7075,
+        "stats": {
+            "class": "Random",
+            "hp": 140000,
+            "level": 113,
+            "str": 10000,
+            "dex": 10000,
+            "agi": 10000,
+            "int": 10000,
+            "luk": 11000,
+            "con": 10000,
+            "prone": 5,
+			"crit": 1,
+			"silver": 1,
+			"shatter": 1,
+			"offense": 2
+        },
+        "items": [
+            { "name": "Reinforced Throwing Net", "dropPercent": 70 }
+        ]
+    },
+    "Defensive Roc": {
+        "respawn": 10800,
+        "availableScore": 7075,
+        "stats": {
+            "class": "Barbarian",
+            "hp": 109000,
+            "level": 103,
+            "str": 8000,
+            "dex": 4000,
+            "con": 7000,
+            "agi": 7000,
+            "int": 300,
+			"luk": 2000,
+			"crit": 1,
+			"aegis": 1,
+			"shatter": 1,
+			"defense": 5,
+			"dance": 1,
+			"damageReduction": 200
+        },
+        "items": [
+            { "name": "Wings of the Roc", "dropPercent": 55 }
+        ]
+    }		
 }

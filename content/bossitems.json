@@ -709,6 +709,31 @@
     "gold": 18,
     "offense": 1,
     "poison": 1
+  },
+  "Reinforced Throwing Net": {
+    "type": "mainhand",
+    "str": -465,
+    "con": 665,
+    "dex": 1065,
+    "agi": 165,
+    "int": 265,
+    "luk": 465,
+    "damageReduction": 165,
+    "dance": 1,
+    "defense": 1,
+    "lethal": 1,
+    "prone": 3
+  },
+  "Wings of the Roc": {
+    "type": "body",
+    "str": 2222,
+    "con": 1111,
+    "dex": 222,
+    "int": -111,
+    "luk": 99,
+    "aegis": 1,
+    "dance": 1,
+    "defense": 2
   },  
   "dSolver's Feather": {
     "type": "mainhand",
