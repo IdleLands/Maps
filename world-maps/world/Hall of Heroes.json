@@ -2198,6 +2198,30 @@
                  "width":16,
                  "x":256,
                  "y":432
+                }, 
+                {
+                 "gid":15,
+                 "height":16,
+                 "id":153,
+                 "name":"Optimal",
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":496,
+                 "y":432
+                }, 
+                {
+                 "gid":15,
+                 "height":16,
+                 "id":154,
+                 "name":"Kong",
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":288,
+                 "y":432
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2273,7 +2297,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":153,
+ "nextobjectid":155,
  "orientation":"orthogonal",
  "properties":
     {
