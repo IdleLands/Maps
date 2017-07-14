@@ -767,6 +767,12 @@
       "formalName":"the Defensive Roc",
       "x":7,
       "y":19
+    },
+    "cavehermit":{
+      "map":"The Haunted Cave",
+      "formalName":"the Cave Hermit",
+      "x":34,
+      "y":67
     }
   },
   "dungeons":{

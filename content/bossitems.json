@@ -734,6 +734,18 @@
     "aegis": 1,
     "dance": 1,
     "defense": 2
+  },
+  "Potent Cave Remedies": {
+    "type": "charm",
+    "str": 15,
+    "con": 300,
+    "dex": 60,
+    "agi": 40,
+    "int": 900,
+    "gold": -100,
+    "hp": 500,
+    "hpregen": 105,
+    "sentimentality": 30
   },  
   "dSolver's Feather": {
     "type": "mainhand",

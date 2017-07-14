@@ -2222,6 +2222,18 @@
                  "width":16,
                  "x":288,
                  "y":432
+                }, 
+                {
+                 "gid":67,
+                 "height":16,
+                 "id":155,
+                 "name":"jays",
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":464,
+                 "y":432
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2297,7 +2309,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":155,
+ "nextobjectid":156,
  "orientation":"orthogonal",
  "properties":
     {
