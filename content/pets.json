@@ -1025,5 +1025,54 @@
             "xpPerGold": [0],
             "salvage": [0]
         }
-    }
+    },
+
+    "Talking Spirit Wisp": {
+        "cost": 1,
+        "category": "Hybrid",
+        "description": "Unlocked by doing nothing useful.",
+        "slots": {
+        },
+        "specialStats": { 
+            "str": 10000,
+            "con": 10000,
+            "dex": 10000,
+            "agi": 10000,
+            "int": 10000,
+            "luk": 10000,
+            "gold": 1000,
+            "salvage": 10
+        },
+        "requirements": {
+            "achievements": [
+                { "name": "Camper", "tier": 1 }
+            ]
+        },
+        "scale": {
+            "maxLevel": [1000],
+            "maxItemScore": [0],
+            "inventory": [0],
+            "goldStorage": [0],
+            "battleJoinPercent": [0],
+            "itemFindTimeDuration": [0],
+            "itemSellMultiplier": [0],
+            "itemFindBonus": [0],
+            "itemFindRangeMultiplier": [0],
+            "xpPerGold": [1],
+            "salvage": [300]
+        },
+        "scaleCost": {
+            "maxLevel": [0],
+            "maxItemScore": [0],
+            "inventory": [0],
+            "goldStorage": [0],
+            "battleJoinPercent": [0],
+            "itemFindTimeDuration": [0],
+            "itemSellMultiplier": [0],
+            "itemFindBonus": [0],
+            "itemFindRangeMultiplier": [0],
+            "xpPerGold": [0],
+            "salvage": [0]
+        }
+    }    
 }
