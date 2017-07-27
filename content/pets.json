@@ -1005,7 +1005,7 @@
             "inventory": [1],
             "goldStorage": [0],
             "battleJoinPercent": [0],
-            "itemFindTimeDuration": [0],
+            "itemFindTimeDuration": [900],
             "itemSellMultiplier": [0],
             "itemFindBonus": [0],
             "itemFindRangeMultiplier": [0],
