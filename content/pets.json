@@ -1059,7 +1059,7 @@
             "itemFindBonus": [0],
             "itemFindRangeMultiplier": [0],
             "xpPerGold": [1],
-            "salvage": [300]
+            "salvage": [100]
         },
         "scaleCost": {
             "maxLevel": [0],
