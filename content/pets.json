@@ -154,10 +154,11 @@
             "hands": 1
         },
         "specialStats": {
-            "deadeye": 1,
-            "venom": 1,
-            "poison": 1,
-            "int": 500
+            "deadeye": 2,
+            "venom": 2,
+            "poison": 2,
+            "int": 500,
+            "gold": 1000
         },
         "requirements": {
             "collectibles": [
@@ -210,11 +211,12 @@
             "legs": 1
         },
         "specialStats": {
+            "salvage": 1,
             "crit": 5,
             "int": 500,
-            "str": 100,
-            "dex": 100,
-            "luk": 50
+            "str": 500,
+            "dex": 500,
+            "luk": 500
         },
         "requirements": {
             "collectibles": [
@@ -262,6 +264,8 @@
         "slots": {
         },
         "specialStats": {
+            "salvage": 3,
+            "luk": 500
         },
         "requirements": {
             "statistics": {
@@ -435,6 +439,7 @@
             "offhand": 4
         },
         "specialStats": {
+            "salvage": 8,
             "int": 1200,
             "str": 1200,
             "con": 1200,
@@ -701,6 +706,7 @@
             "dance": 1,
             "deadeye": 1,
             "lethal": 1,
+            "salvage": 2,
             "sentimentality": 100000,
             "str": 200,
             "dex": 200,
@@ -763,7 +769,8 @@
             "str": 1000,
             "con": 1000,
             "glowing": 10,
-            "gold": 100
+            "gold": 100,
+            "salvage": 1
         },
         "requirements": {
               "statistics": {
@@ -804,7 +811,10 @@
         "description": "Unlocked by becoming a purveyor of natural resources.",
         "slots": {
         },
-        "specialStats": { "luk": 300 },
+        "specialStats": { 
+            "luk": 300,
+            "salvage": 4
+        },
         "requirements": {
             "statistics": {
                 "Character.Item.Salvage": 1000,
@@ -1034,14 +1044,14 @@
         "slots": {
         },
         "specialStats": { 
-            "str": 10000,
-            "con": 10000,
-            "dex": 10000,
-            "agi": 10000,
-            "int": 10000,
-            "luk": 10000,
-            "gold": 1000,
-            "salvage": 10
+            "str": 5000,
+            "con": 5000,
+            "dex": 5000,
+            "agi": 5000,
+            "int": 5000,
+            "luk": 5000,
+            "gold": 2000,
+            "salvage": 5
         },
         "requirements": {
             "achievements": [
