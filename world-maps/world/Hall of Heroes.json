@@ -2234,6 +2234,26 @@
                  "width":16,
                  "x":464,
                  "y":432
+                }, 
+                {
+                 "gid":67,
+                 "height":16,
+                 "id":156,
+                 "name":"Sprite",
+                 "properties":
+                    {
+                     "flavorText":"I aim to misbehave"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":32,
+                 "y":560
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2309,7 +2329,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":156,
+ "nextobjectid":157,
  "orientation":"orthogonal",
  "properties":
     {
@@ -2326,12 +2346,12 @@
          "columns":9,
          "firstgid":1,
          "image":"..\/..\/img\/tiles.png",
-         "imageheight":224,
+         "imageheight":272,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
          "spacing":0,
-         "tilecount":126,
+         "tilecount":153,
          "tileheight":16,
          "tilewidth":16
         }],
