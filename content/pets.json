@@ -1,6 +1,6 @@
 {
     "Pet Rock": {
-        "cost": 5000,
+        "cost": 1000,
         "category": "Hybrid",
         "description": "Unlocked by changing yourself once.",
         "slots": {
@@ -45,7 +45,7 @@
     },
 
     "Corgi": {
-        "cost": 25000,
+        "cost": 5000,
         "category": "Hybrid",
         "description": "Unlocked by being a collector of fine items.",
         "slots": {
@@ -93,7 +93,7 @@
     },
 
     "Moose": {
-        "cost": 45000,
+        "cost": 50000,
         "category": "Combat",
         "description": "Unlocked by seeing the finest herbivore food in great quantities.",
         "slots": {
@@ -145,7 +145,7 @@
     },
 
     "Raven": {
-        "cost": 35000,
+        "cost": 100000,
         "category": "Hybrid",
         "description": "Unlocked by keeping an eye out for shiny things.",
         "slots": {
@@ -202,7 +202,7 @@
     },
 
     "Parrot": {
-        "cost": 30000,
+        "cost": 75000,
         "category": "Hybrid",
         "description": "Unlocked by getting some booty.",
         "slots": {
@@ -258,7 +258,7 @@
     },
 
     "Dolphin": {
-        "cost": 15000,
+        "cost": 1000000,
         "category": "Non-Combat",
         "description": "Unlocked by finding some watery delicacies.",
         "slots": {
@@ -306,7 +306,7 @@
     },
 
     "Minitaur": {
-        "cost": 50000,
+        "cost": 250000,
         "category": "Combat",
         "description": "Unlocked by being a slayer of the ancients and a purveyor of their goods.",
         "slots": {
@@ -371,7 +371,7 @@
     },
 
     "Chimera Dragon": {
-        "cost": 50000,
+        "cost": 250000,
         "category": "Combat",
         "description": "Unlocked by being a connoisseur of all matters draconic.",
         "slots": {
@@ -431,7 +431,7 @@
     },
 
     "Octopus": {
-        "cost": 80000,
+        "cost": 10000000,
         "category": "Combat",
         "description": "Unlocked by observing the rules of the sea.",
         "slots": {
@@ -482,7 +482,7 @@
     },
 
     "Spellbook": {
-        "cost": 150000,
+        "cost": 50000000,
         "category": "Combat",
         "description": "Unlocked by pursuing the magical arts.",
         "slots": {
@@ -547,7 +547,7 @@
     },
 
     "Ghostly Sword": {
-        "cost": 200000,
+        "cost": 50000000,
         "category": "Combat",
         "description": "Unlocked by pursuing the physical arts.",
         "slots": {
@@ -620,7 +620,7 @@
     },
 
     "Ghostly Shield": {
-        "cost": 200000,
+        "cost": 50000000,
         "category": "Combat",
         "description": "Unlocked by pursuing the defensive arts.",
         "slots": {
@@ -687,7 +687,7 @@
     },
 
     "Digipet": {
-        "cost": 1500000,
+        "cost": 250000000,
         "category": "Hybrid",
         "description": "Unlocked by doing the digital dance.",
         "slots": {
@@ -806,7 +806,7 @@
     },
     
     "Goat": {
-        "cost": 500000,
+        "cost": 500000000,
         "category": "Non-Combat",
         "description": "Unlocked by becoming a purveyor of natural resources.",
         "slots": {
