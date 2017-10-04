@@ -2532,18 +2532,6 @@
                 {
                  "gid":48,
                  "height":16,
-                 "id":299,
-                 "name":"Access Point to the Haunted Cave",
-                 "rotation":0,
-                 "type":"Sign",
-                 "visible":true,
-                 "width":16,
-                 "x":1792,
-                 "y":1040
-                }, 
-                {
-                 "gid":48,
-                 "height":16,
                  "id":300,
                  "name":"Access Point to the Temple of the Snake",
                  "rotation":0,
@@ -2760,18 +2748,6 @@
                  "width":16,
                  "x":2416,
                  "y":2352
-                }, 
-                {
-                 "gid":48,
-                 "height":16,
-                 "id":337,
-                 "name":"Access Point to Cliff Town",
-                 "rotation":0,
-                 "type":"Sign",
-                 "visible":true,
-                 "width":16,
-                 "x":144,
-                 "y":2624
                 }, 
                 {
                  "gid":15,
@@ -4178,6 +4154,58 @@
                  "width":16,
                  "x":32,
                  "y":224
+                }, 
+                {
+                 "gid":2,
+                 "height":16,
+                 "id":429,
+                 "name":"ToCliffTown",
+                 "properties":
+                    {
+                     "destx":"19",
+                     "desty":"20",
+                     "map":"Cliff Town",
+                     "movementType":"ascend"
+                    },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":144,
+                 "y":2624
+                }, 
+                {
+                 "gid":1,
+                 "height":16,
+                 "id":430,
+                 "name":"ToHauntedCave",
+                 "properties":
+                    {
+                     "destx":"42",
+                     "desty":"1",
+                     "map":"The Haunted Cave",
+                     "movementType":"descend"
+                    },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":1792,
+                 "y":1040
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -4781,7 +4809,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":429,
+ "nextobjectid":431,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tileheight":16,

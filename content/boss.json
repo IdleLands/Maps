@@ -1981,5 +1981,29 @@
         "items": [
             { "name": "Wings of the Roc", "dropPercent": 55 }
         ]
-    }		
+    },
+    "Cave Hermit": {
+        "respawn": 10800,
+        "availableScore": 5415,
+        "stats": {
+            "class": "Druid",
+            "hp": 70000,
+            "level": 62,
+            "str": 2900,
+            "dex": 1600,
+            "agi": 1800,
+            "con": 3500,
+			"int": 3500,
+            "luk": 500,
+			"crit": 1,
+			"aegis": 1,
+			"power": 3,
+			"defense": 1,
+			"mpregen": 500,
+			"hpregen": 500
+        },
+        "items": [
+            { "name": "Potent Cave Remedies", "dropPercent": 84 }
+        ]
+    }	
 }

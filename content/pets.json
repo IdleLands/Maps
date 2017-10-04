@@ -1,6 +1,6 @@
 {
     "Pet Rock": {
-        "cost": 5000,
+        "cost": 1000,
         "category": "Hybrid",
         "description": "Unlocked by changing yourself once.",
         "slots": {
@@ -45,7 +45,7 @@
     },
 
     "Corgi": {
-        "cost": 25000,
+        "cost": 5000,
         "category": "Hybrid",
         "description": "Unlocked by being a collector of fine items.",
         "slots": {
@@ -93,7 +93,7 @@
     },
 
     "Moose": {
-        "cost": 45000,
+        "cost": 50000,
         "category": "Combat",
         "description": "Unlocked by seeing the finest herbivore food in great quantities.",
         "slots": {
@@ -145,7 +145,7 @@
     },
 
     "Raven": {
-        "cost": 35000,
+        "cost": 100000,
         "category": "Hybrid",
         "description": "Unlocked by keeping an eye out for shiny things.",
         "slots": {
@@ -154,10 +154,11 @@
             "hands": 1
         },
         "specialStats": {
-            "deadeye": 1,
-            "venom": 1,
-            "poison": 1,
-            "int": 500
+            "deadeye": 2,
+            "venom": 2,
+            "poison": 2,
+            "int": 500,
+            "gold": 1000
         },
         "requirements": {
             "collectibles": [
@@ -201,7 +202,7 @@
     },
 
     "Parrot": {
-        "cost": 30000,
+        "cost": 75000,
         "category": "Hybrid",
         "description": "Unlocked by getting some booty.",
         "slots": {
@@ -210,11 +211,12 @@
             "legs": 1
         },
         "specialStats": {
+            "salvage": 1,
             "crit": 5,
             "int": 500,
-            "str": 100,
-            "dex": 100,
-            "luk": 50
+            "str": 500,
+            "dex": 500,
+            "luk": 500
         },
         "requirements": {
             "collectibles": [
@@ -256,12 +258,14 @@
     },
 
     "Dolphin": {
-        "cost": 15000,
+        "cost": 1000000,
         "category": "Non-Combat",
         "description": "Unlocked by finding some watery delicacies.",
         "slots": {
         },
         "specialStats": {
+            "salvage": 3,
+            "luk": 500
         },
         "requirements": {
             "statistics": {
@@ -302,7 +306,7 @@
     },
 
     "Minitaur": {
-        "cost": 50000,
+        "cost": 250000,
         "category": "Combat",
         "description": "Unlocked by being a slayer of the ancients and a purveyor of their goods.",
         "slots": {
@@ -367,7 +371,7 @@
     },
 
     "Chimera Dragon": {
-        "cost": 50000,
+        "cost": 250000,
         "category": "Combat",
         "description": "Unlocked by being a connoisseur of all matters draconic.",
         "slots": {
@@ -427,7 +431,7 @@
     },
 
     "Octopus": {
-        "cost": 80000,
+        "cost": 10000000,
         "category": "Combat",
         "description": "Unlocked by observing the rules of the sea.",
         "slots": {
@@ -435,6 +439,7 @@
             "offhand": 4
         },
         "specialStats": {
+            "salvage": 8,
             "int": 1200,
             "str": 1200,
             "con": 1200,
@@ -477,7 +482,7 @@
     },
 
     "Spellbook": {
-        "cost": 150000,
+        "cost": 50000000,
         "category": "Combat",
         "description": "Unlocked by pursuing the magical arts.",
         "slots": {
@@ -542,7 +547,7 @@
     },
 
     "Ghostly Sword": {
-        "cost": 200000,
+        "cost": 50000000,
         "category": "Combat",
         "description": "Unlocked by pursuing the physical arts.",
         "slots": {
@@ -615,7 +620,7 @@
     },
 
     "Ghostly Shield": {
-        "cost": 200000,
+        "cost": 50000000,
         "category": "Combat",
         "description": "Unlocked by pursuing the defensive arts.",
         "slots": {
@@ -682,7 +687,7 @@
     },
 
     "Digipet": {
-        "cost": 1500000,
+        "cost": 250000000,
         "category": "Hybrid",
         "description": "Unlocked by doing the digital dance.",
         "slots": {
@@ -701,6 +706,7 @@
             "dance": 1,
             "deadeye": 1,
             "lethal": 1,
+            "salvage": 2,
             "sentimentality": 100000,
             "str": 200,
             "dex": 200,
@@ -763,7 +769,8 @@
             "str": 1000,
             "con": 1000,
             "glowing": 10,
-            "gold": 100
+            "gold": 100,
+            "salvage": 1
         },
         "requirements": {
               "statistics": {
@@ -799,12 +806,15 @@
     },
     
     "Goat": {
-        "cost": 500000,
+        "cost": 500000000,
         "category": "Non-Combat",
         "description": "Unlocked by becoming a purveyor of natural resources.",
         "slots": {
         },
-        "specialStats": { "luk": 300 },
+        "specialStats": { 
+            "luk": 300,
+            "salvage": 4
+        },
         "requirements": {
             "statistics": {
                 "Character.Item.Salvage": 1000,
@@ -1005,7 +1015,7 @@
             "inventory": [1],
             "goldStorage": [0],
             "battleJoinPercent": [0],
-            "itemFindTimeDuration": [0],
+            "itemFindTimeDuration": [900],
             "itemSellMultiplier": [0],
             "itemFindBonus": [0],
             "itemFindRangeMultiplier": [0],
@@ -1025,5 +1035,54 @@
             "xpPerGold": [0],
             "salvage": [0]
         }
-    }
+    },
+
+    "Talking Spirit Wisp": {
+        "cost": 1,
+        "category": "Hybrid",
+        "description": "Unlocked by doing nothing useful.",
+        "slots": {
+        },
+        "specialStats": { 
+            "str": 5000,
+            "con": 5000,
+            "dex": 5000,
+            "agi": 5000,
+            "int": 5000,
+            "luk": 5000,
+            "gold": 2000,
+            "salvage": 5
+        },
+        "requirements": {
+            "achievements": [
+                { "name": "Camper", "tier": 1 }
+            ]
+        },
+        "scale": {
+            "maxLevel": [1000],
+            "maxItemScore": [0],
+            "inventory": [0],
+            "goldStorage": [0],
+            "battleJoinPercent": [0],
+            "itemFindTimeDuration": [0],
+            "itemSellMultiplier": [0],
+            "itemFindBonus": [0],
+            "itemFindRangeMultiplier": [0],
+            "xpPerGold": [1],
+            "salvage": [100]
+        },
+        "scaleCost": {
+            "maxLevel": [0],
+            "maxItemScore": [0],
+            "inventory": [0],
+            "goldStorage": [0],
+            "battleJoinPercent": [0],
+            "itemFindTimeDuration": [0],
+            "itemSellMultiplier": [0],
+            "itemFindBonus": [0],
+            "itemFindRangeMultiplier": [0],
+            "xpPerGold": [0],
+            "salvage": [0]
+        }
+    }    
 }

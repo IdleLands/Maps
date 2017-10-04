@@ -37,6 +37,11 @@
                      "flavorText":"Why swim when you can ride in style?",
                      "storyline":"Lore: Idliathlia"
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "storyline":"string"
+                    },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
@@ -53,6 +58,10 @@
                     {
                      "flavorText":"Surrounded by candles, this hero must have been used in a ritual."
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"Skeleton",
                  "visible":true,
@@ -65,10 +74,6 @@
                  "height":16,
                  "id":3,
                  "name":"Sunken Treasure",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"Treasure",
                  "visible":true,
@@ -83,10 +88,17 @@
                  "name":"ToIdleCave",
                  "properties":
                     {
-                     "destx":"7",
-                     "desty":"8",
+                     "destx":"10",
+                     "desty":"38",
                      "map":"Idle Cave",
                      "movementType":"descend"
+                    },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
                     },
                  "rotation":0,
                  "type":"Teleport",
@@ -104,6 +116,11 @@
                     {
                      "flavorText":"Left behind by an ancient civilization that collapsed due to idle gaming.",
                      "storyline":"Lore: Idliathlia"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "storyline":"string"
                     },
                  "rotation":0,
                  "type":"Collectible",
@@ -124,6 +141,13 @@
                      "map":"Norkos",
                      "movementType":"teleport"
                     },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -142,6 +166,13 @@
                      "desty":"216",
                      "map":"Norkos",
                      "movementType":"teleport"
+                    },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
                     },
                  "rotation":0,
                  "type":"Teleport",
@@ -162,6 +193,13 @@
                      "map":"Norkos",
                      "movementType":"teleport"
                     },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -177,6 +215,10 @@
                  "properties":
                     {
                      "forceEvent":"GoldBless"
+                    },
+                 "propertytypes":
+                    {
+                     "forceEvent":"string"
                     },
                  "rotation":0,
                  "type":"",
@@ -194,24 +236,17 @@
         }],
  "nextobjectid":10,
  "orientation":"orthogonal",
- "properties":
-    {
-
-    },
  "renderorder":"right-down",
  "tileheight":16,
  "tilesets":[
         {
+         "columns":9,
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
          "imageheight":224,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
-         "properties":
-            {
-
-            },
          "spacing":0,
          "tilecount":126,
          "tileheight":16,
