@@ -2254,6 +2254,66 @@
                  "width":16,
                  "x":32,
                  "y":560
+                }, 
+                {
+                 "gid":72,
+                 "height":16,
+                 "id":157,
+                 "name":"suor minchiona",
+                 "properties":
+                    {
+                     "flavorText":"It always does seem to me that I am doing more work than I should do. It is not that I object to the work, mind you; I like work: it fascinates me. I can sit and look at it for hours. I love to keep it by me: the idea of getting rid of it nearly breaks my heart."
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":64,
+                 "y":560
+                }, 
+                {
+                 "gid":55,
+                 "height":16,
+                 "id":158,
+                 "name":"Undigested",
+                 "properties":
+                    {
+                     "flavorText":"Join the kitten pile!"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":96,
+                 "y":560
+                }, 
+                {
+                 "gid":26,
+                 "height":16,
+                 "id":159,
+                 "name":"Groshurn",
+                 "properties":
+                    {
+                     "flavorText":"Lurker Extreme @ Work ;)"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":128,
+                 "y":560
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2329,7 +2389,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":157,
+ "nextobjectid":160,
  "orientation":"orthogonal",
  "properties":
     {
