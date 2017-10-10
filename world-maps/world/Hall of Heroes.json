@@ -2289,7 +2289,7 @@
                      "flavorText":"string"
                     },
                  "rotation":0,
-                 "type":"",
+                 "type":"Hero (Donator)",
                  "visible":true,
                  "width":16,
                  "x":96,
@@ -2313,6 +2313,18 @@
                  "visible":true,
                  "width":16,
                  "x":128,
+                 "y":560
+                }, 
+                {
+                 "gid":15,
+                 "height":16,
+                 "id":160,
+                 "name":"Derpinatrix",
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":160,
                  "y":560
                 }],
          "opacity":1,
@@ -2389,7 +2401,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":160,
+ "nextobjectid":161,
  "orientation":"orthogonal",
  "properties":
     {
