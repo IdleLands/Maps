@@ -773,6 +773,18 @@
       "formalName":"the Cave Hermit",
       "x":34,
       "y":67
+    },
+    "glopthegrub":{
+      "map":"Salamander Caves",
+      "formalName":"Glop the Grub",
+      "x":23,
+      "y":2
+    },
+    "salamanderlord":{
+      "map":"Salamander Caves",
+      "formalName":"the Salamander Lord",
+      "x":3,
+      "y":29
     }
   },
   "dungeons":{

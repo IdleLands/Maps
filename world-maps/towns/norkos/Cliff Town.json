@@ -260,18 +260,6 @@
                 {
                  "gid":58,
                  "height":16,
-                 "id":22,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":48,
-                 "y":528
-                }, 
-                {
-                 "gid":58,
-                 "height":16,
                  "id":26,
                  "name":"",
                  "rotation":0,
@@ -492,6 +480,48 @@
                  "width":16,
                  "x":32,
                  "y":208
+                }, 
+                {
+                 "gid":88,
+                 "height":16,
+                 "id":48,
+                 "name":"",
+                 "properties":
+                    {
+                     "requireCollectible":"Stone Tavern Key"
+                    },
+                 "propertytypes":
+                    {
+                     "requireCollectible":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":48,
+                 "y":528
+                }, 
+                {
+                 "gid":15,
+                 "height":16,
+                 "id":50,
+                 "name":"Crystal Maul",
+                 "properties":
+                    {
+                     "flavorText":"A heavy bludgeoning tool designed around a large purple crystal. Originates from the Astral Plane.",
+                     "storyline":"Lore: Dwarves"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "storyline":"string"
+                    },
+                 "rotation":0,
+                 "type":"Collectible",
+                 "visible":true,
+                 "width":16,
+                 "x":128,
+                 "y":512
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -545,7 +575,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":48,
+ "nextobjectid":51,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tileheight":16,
@@ -554,12 +584,12 @@
          "columns":9,
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":224,
+         "imageheight":272,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
          "spacing":0,
-         "tilecount":126,
+         "tilecount":153,
          "tileheight":16,
          "tilewidth":16
         }],
