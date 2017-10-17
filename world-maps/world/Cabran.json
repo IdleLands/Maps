@@ -3810,18 +3810,6 @@
                  "y":2128
                 }, 
                 {
-                 "gid":48,
-                 "height":16,
-                 "id":409,
-                 "name":"Access Point to Salamander Caves",
-                 "rotation":0,
-                 "type":"Sign",
-                 "visible":true,
-                 "width":16,
-                 "x":608,
-                 "y":2720
-                }, 
-                {
                  "gid":2,
                  "height":16,
                  "id":411,
@@ -4206,6 +4194,32 @@
                  "width":16,
                  "x":1792,
                  "y":1040
+                }, 
+                {
+                 "gid":1,
+                 "height":16,
+                 "id":431,
+                 "name":"ToSalamander",
+                 "properties":
+                    {
+                     "destx":"30",
+                     "desty":"10",
+                     "map":"Salamander Caves",
+                     "movementType":"descend"
+                    },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":608,
+                 "y":2720
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -4809,7 +4823,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":431,
+ "nextobjectid":432,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tileheight":16,
@@ -4818,12 +4832,12 @@
          "columns":9,
          "firstgid":1,
          "image":"..\/..\/img\/tiles.png",
-         "imageheight":224,
+         "imageheight":272,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
          "spacing":0,
-         "tilecount":126,
+         "tilecount":153,
          "tileheight":16,
          "tileproperties":
             {

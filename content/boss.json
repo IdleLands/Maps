@@ -2005,5 +2005,51 @@
         "items": [
             { "name": "Potent Cave Remedies", "dropPercent": 84 }
         ]
-    }	
+    },
+    "Glop the Grub": {
+        "respawn": 10800,
+        "availableScore": 6925,
+        "stats": {
+            "class": "Monster",
+            "hp": 159000,
+            "level": 95,
+            "str": 6700,
+            "dex": 1500,
+            "agi": 2000,
+            "con": 5900,
+			"int": 9500,
+            "luk": 900,
+			"crit": 2,
+			"aegis": 1,
+			"defense": 2,
+			"glowing": 3,
+			"hpregen": 575
+        },
+        "items": [
+            { "name": "Golden Glow of Glop", "dropPercent": 70 }
+        ]
+    },
+    "Salamander Lord": {
+        "respawn": 10800,
+        "availableScore": 6925,
+        "stats": {
+            "class": "Fighter",
+            "hp": 160000,
+            "level": 99,
+            "str": 7000,
+            "dex": 3150,
+            "agi": 5000,
+            "con": 6000,
+			"int": 5000,
+            "luk": 1040,
+			"offense": 1,
+			"lethal": 1,
+			"dance": 1,
+			"prone": 1,
+			"hpregen": 250
+        },
+        "items": [
+            { "name": "Searing Sword", "dropPercent": 90 }
+        ]
+    }		
 }
