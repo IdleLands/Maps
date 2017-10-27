@@ -2436,54 +2436,6 @@
                 {
                  "gid":48,
                  "height":16,
-                 "id":285,
-                 "name":"Access Point to Ironfist Castle +1",
-                 "rotation":0,
-                 "type":"Sign",
-                 "visible":true,
-                 "width":16,
-                 "x":432,
-                 "y":800
-                }, 
-                {
-                 "gid":48,
-                 "height":16,
-                 "id":288,
-                 "name":"Access Point to Ironfist Castle +1",
-                 "rotation":0,
-                 "type":"Sign",
-                 "visible":true,
-                 "width":16,
-                 "x":432,
-                 "y":1072
-                }, 
-                {
-                 "gid":48,
-                 "height":16,
-                 "id":289,
-                 "name":"Access Point to Ironfist Castle +1",
-                 "rotation":0,
-                 "type":"Sign",
-                 "visible":true,
-                 "width":16,
-                 "x":704,
-                 "y":1072
-                }, 
-                {
-                 "gid":48,
-                 "height":16,
-                 "id":290,
-                 "name":"Access Point to Ironfist Castle +1",
-                 "rotation":0,
-                 "type":"Sign",
-                 "visible":true,
-                 "width":16,
-                 "x":704,
-                 "y":800
-                }, 
-                {
-                 "gid":48,
-                 "height":16,
                  "id":292,
                  "name":"Access Point to the Gilded Mushroom Forest",
                  "rotation":0,
@@ -4220,6 +4172,110 @@
                  "width":16,
                  "x":608,
                  "y":2720
+                }, 
+                {
+                 "gid":2,
+                 "height":16,
+                 "id":432,
+                 "name":"ToIronfist+1",
+                 "properties":
+                    {
+                     "destx":"8",
+                     "desty":"25",
+                     "map":"Ironfist Castle +1",
+                     "movementType":"ascend"
+                    },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":432,
+                 "y":1072
+                }, 
+                {
+                 "gid":2,
+                 "height":16,
+                 "id":433,
+                 "name":"ToIronfist+1",
+                 "properties":
+                    {
+                     "destx":"25",
+                     "desty":"25",
+                     "map":"Ironfist Castle +1",
+                     "movementType":"ascend"
+                    },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":704,
+                 "y":1072
+                }, 
+                {
+                 "gid":2,
+                 "height":16,
+                 "id":434,
+                 "name":"ToIronfist+1",
+                 "properties":
+                    {
+                     "destx":"25",
+                     "desty":"8",
+                     "map":"Ironfist Castle +1",
+                     "movementType":"ascend"
+                    },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":704,
+                 "y":800
+                }, 
+                {
+                 "gid":2,
+                 "height":16,
+                 "id":435,
+                 "name":"ToIronfist+1",
+                 "properties":
+                    {
+                     "destx":"8",
+                     "desty":"8",
+                     "map":"Ironfist Castle +1",
+                     "movementType":"ascend"
+                    },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":432,
+                 "y":800
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -4823,7 +4879,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":432,
+ "nextobjectid":436,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tileheight":16,
