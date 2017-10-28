@@ -153,8 +153,31 @@
          "width":40,
          "x":0,
          "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "height":13,
+         "name":"Regions",
+         "objects":[
+                {
+                 "height":144,
+                 "id":11,
+                 "name":"The Mechanical Dragon's Roost",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":112,
+                 "x":48,
+                 "y":48
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "width":13,
+         "x":0,
+         "y":0
         }],
- "nextobjectid":11,
+ "nextobjectid":12,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tileheight":16,
