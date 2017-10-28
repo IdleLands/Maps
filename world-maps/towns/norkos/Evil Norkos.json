@@ -148,6 +148,14 @@
                  "height":16,
                  "id":6,
                  "name":"Barney",
+                 "properties":
+                    {
+                     "flavorText":"Barney struggled as a Norkian adventurer, so he became an evil Norkian adventurer."
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"Boss",
                  "visible":true,
@@ -902,12 +910,12 @@
          "columns":9,
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":224,
+         "imageheight":272,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
          "spacing":0,
-         "tilecount":126,
+         "tilecount":153,
          "tileheight":16,
          "tilewidth":16
         }],

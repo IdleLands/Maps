@@ -2388,30 +2388,6 @@
                 {
                  "gid":48,
                  "height":16,
-                 "id":281,
-                 "name":"Access Point to Desert Tower +1",
-                 "rotation":0,
-                 "type":"Sign",
-                 "visible":true,
-                 "width":16,
-                 "x":1168,
-                 "y":384
-                }, 
-                {
-                 "gid":48,
-                 "height":16,
-                 "id":282,
-                 "name":"Access Point to Desert Tower -1",
-                 "rotation":0,
-                 "type":"Sign",
-                 "visible":true,
-                 "width":16,
-                 "x":1152,
-                 "y":352
-                }, 
-                {
-                 "gid":48,
-                 "height":16,
                  "id":283,
                  "name":"Access Point to Ironfist Castle -1",
                  "rotation":0,
@@ -4290,6 +4266,58 @@
                  "width":16,
                  "x":112,
                  "y":64
+                }, 
+                {
+                 "gid":1,
+                 "height":16,
+                 "id":437,
+                 "name":"ToTower-1",
+                 "properties":
+                    {
+                     "destx":"5",
+                     "desty":"5",
+                     "map":"Desert Tower -1",
+                     "movementType":"descend"
+                    },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":1152,
+                 "y":352
+                }, 
+                {
+                 "gid":2,
+                 "height":16,
+                 "id":438,
+                 "name":"ToTower+1",
+                 "properties":
+                    {
+                     "destx":"4",
+                     "desty":"5",
+                     "map":"Desert Tower +1",
+                     "movementType":"ascend"
+                    },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":1168,
+                 "y":384
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -4893,7 +4921,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":437,
+ "nextobjectid":439,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tileheight":16,
