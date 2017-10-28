@@ -785,6 +785,18 @@
       "formalName":"the Salamander Lord",
       "x":3,
       "y":29
+    },
+    "weatheredmonk":{
+      "map":"Desert Tower -1",
+      "formalName":"the Weathered Monk",
+      "x":9,
+      "y":9
+    },
+    "mechanicaldragon":{
+      "map":"Desert Tower +2",
+      "formalName":"the Mechanical Dragon",
+      "x":5,
+      "y":9
     }
   },
   "dungeons":{
@@ -901,6 +913,12 @@
       "formalName":"the Mayhem Caves",
       "x":2,
       "y":13
-    }	
+    },
+    "giantsoutpost":{
+      "map":"Cabran",
+      "formalName":"the Giant's Outpost",
+      "x":7,
+      "y":3
+    }		
   }
 }

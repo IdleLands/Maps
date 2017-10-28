@@ -2051,5 +2051,66 @@
         "items": [
             { "name": "Searing Sword", "dropPercent": 90 }
         ]
-    }		
+    },
+    "Weathered Monk": {
+        "respawn": 10800,
+        "availableScore": 7025,
+        "stats": {
+            "class": "Rogue",
+            "hp": 200000,
+            "level": 109,
+            "str": 5600,
+            "dex": 9500,
+            "agi": 18895,
+            "int": 7000,
+            "luk": 4400,
+            "con": 5500,
+            "dance": 3,
+			"damageReduction": 450,
+			"deadeye": 1,
+            "defense": 2,
+            "prone": 1,
+			"crit": 5
+        },
+        "items": [
+            { "name": "Spider-Climb Bandana", "dropPercent": 79 }
+        ],
+		 "collectibles": [
+            { "name": "Comfortable Footwraps", "dropPercent": 79, "storyline": "Lore: Desert Town", "flavorText": "Considering how much walking you do, keeping your feet happy is a priority." }
+        ]
+    },
+    "Mechanical Dragon": {
+        "stats": {
+            "class": "Mage",
+            "hp": 10000000,
+			"mp": 3000000,
+            "level": 330,
+            "str": 130000,
+            "dex": 250000,
+            "agi": 145010,
+            "int": 298500,
+            "luk": 12000,
+            "con": 80000,
+            "poison": 4,
+            "shatter": 4,
+            "dance": 4,
+            "defense": 4,
+            "prone": 4,
+			"damageReduction": 15000,
+			"deadeye": 1,
+			"silver": 1,
+			"shatter": 2,
+			"venom": 4,
+			"power": 1,
+			"glowing": 4,
+			"hpregen": 7500,
+			"mpregen": 15000,
+			"vampire": 1
+        },
+        "items": [
+        ],
+		 "collectibles": [
+            { "name": "Missing Cog", "dropPercent": 88, "storyline": "Memoir: Clockborg", "flavorText": "Once a part of Steel Gearshaft, an oppressive Clockborg warlord who ruled the Cabran desert." }
+        ]		
+    }	
 }
