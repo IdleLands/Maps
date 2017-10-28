@@ -2080,6 +2080,8 @@
         ]
     },
     "Mechanical Dragon": {
+        "respawn": 21600,
+        "availableScore": 50000,
         "stats": {
             "class": "Mage",
             "hp": 10000000,
@@ -2108,6 +2110,7 @@
 			"vampire": 1
         },
         "items": [
+            { "name": "Bionic Dragon Legs", "dropPercent": 88 }
         ],
 		 "collectibles": [
             { "name": "Missing Cog", "dropPercent": 88, "storyline": "Memoir: Clockborg", "flavorText": "Once a part of Steel Gearshaft, an oppressive Clockborg warlord who ruled the Cabran desert." }
