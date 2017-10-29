@@ -2376,18 +2376,6 @@
                 {
                  "gid":48,
                  "height":16,
-                 "id":278,
-                 "name":"Access point to Cabran Bay",
-                 "rotation":0,
-                 "type":"Buoy",
-                 "visible":true,
-                 "width":16,
-                 "x":3808,
-                 "y":32
-                }, 
-                {
-                 "gid":48,
-                 "height":16,
                  "id":283,
                  "name":"Access Point to Ironfist Castle -1",
                  "rotation":0,
@@ -4318,6 +4306,34 @@
                  "width":16,
                  "x":1168,
                  "y":384
+                }, 
+                {
+                 "gid":32,
+                 "height":16,
+                 "id":439,
+                 "name":"ToCabranBay",
+                 "properties":
+                    {
+                     "customMessage":"%playerName swims into Cabran Bay.",
+                     "destx":"5",
+                     "desty":"45",
+                     "map":"Cabran Bay",
+                     "movementType":"teleport"
+                    },
+                 "propertytypes":
+                    {
+                     "customMessage":"string",
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":3808,
+                 "y":32
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -4921,7 +4937,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":439,
+ "nextobjectid":440,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tileheight":16,
