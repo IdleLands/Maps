@@ -8,7 +8,7 @@ console.log("Regions");
 let total = 0;
 _.each(maps, (mapData, mapName) => {
   _.each(mapData.map.layers[3] ? mapData.map.layers[3].objects : [], (obj) => {
-    console.log(`Region "${obj.name}" (#${++total})`);
+    console.log(`Region "${obj.name}" in ${mapName} (#${++total})`);
   });
 });
 
