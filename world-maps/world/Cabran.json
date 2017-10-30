@@ -2400,42 +2400,6 @@
                 {
                  "gid":48,
                  "height":16,
-                 "id":294,
-                 "name":"Access Point to Mountain Town",
-                 "rotation":0,
-                 "type":"Sign",
-                 "visible":true,
-                 "width":16,
-                 "x":1520,
-                 "y":1760
-                }, 
-                {
-                 "gid":48,
-                 "height":16,
-                 "id":295,
-                 "name":"Access Point to Mountain Town",
-                 "rotation":0,
-                 "type":"Sign",
-                 "visible":true,
-                 "width":16,
-                 "x":1744,
-                 "y":2176
-                }, 
-                {
-                 "gid":48,
-                 "height":16,
-                 "id":297,
-                 "name":"Access Point to Mountain Town",
-                 "rotation":0,
-                 "type":"Sign",
-                 "visible":true,
-                 "width":16,
-                 "x":1904,
-                 "y":1952
-                }, 
-                {
-                 "gid":48,
-                 "height":16,
                  "id":300,
                  "name":"Access Point to the Temple of the Snake",
                  "rotation":0,
@@ -4334,6 +4298,84 @@
                  "width":16,
                  "x":3808,
                  "y":32
+                }, 
+                {
+                 "gid":1,
+                 "height":16,
+                 "id":440,
+                 "name":"ToMountainTown",
+                 "properties":
+                    {
+                     "destx":"22",
+                     "desty":"27",
+                     "map":"Mountain Town",
+                     "movementType":"descend"
+                    },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":1744,
+                 "y":2176
+                }, 
+                {
+                 "gid":1,
+                 "height":16,
+                 "id":442,
+                 "name":"ToMountainTown",
+                 "properties":
+                    {
+                     "destx":"32",
+                     "desty":"13",
+                     "map":"Mountain Town",
+                     "movementType":"descend"
+                    },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":1904,
+                 "y":1952
+                }, 
+                {
+                 "gid":1,
+                 "height":16,
+                 "id":444,
+                 "name":"ToMountainTown",
+                 "properties":
+                    {
+                     "destx":"8",
+                     "desty":"1",
+                     "map":"Mountain Town",
+                     "movementType":"descend"
+                    },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":1520,
+                 "y":1760
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -4937,7 +4979,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":440,
+ "nextobjectid":445,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tileheight":16,
