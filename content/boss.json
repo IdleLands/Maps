@@ -2005,5 +2005,115 @@
         "items": [
             { "name": "Potent Cave Remedies", "dropPercent": 84 }
         ]
+    },
+    "Glop the Grub": {
+        "respawn": 10800,
+        "availableScore": 6925,
+        "stats": {
+            "class": "Monster",
+            "hp": 159000,
+            "level": 95,
+            "str": 6700,
+            "dex": 1500,
+            "agi": 2000,
+            "con": 5900,
+			"int": 9500,
+            "luk": 900,
+			"crit": 2,
+			"aegis": 1,
+			"defense": 2,
+			"glowing": 3,
+			"hpregen": 575
+        },
+        "items": [
+            { "name": "Golden Glow of Glop", "dropPercent": 70 }
+        ]
+    },
+    "Salamander Lord": {
+        "respawn": 10800,
+        "availableScore": 6925,
+        "stats": {
+            "class": "Fighter",
+            "hp": 160000,
+            "level": 99,
+            "str": 7000,
+            "dex": 3150,
+            "agi": 5000,
+            "con": 6000,
+			"int": 5000,
+            "luk": 1040,
+			"offense": 1,
+			"lethal": 1,
+			"dance": 1,
+			"prone": 1,
+			"hpregen": 250
+        },
+        "items": [
+            { "name": "Searing Sword", "dropPercent": 90 }
+        ]
+    },
+    "Weathered Monk": {
+        "respawn": 10800,
+        "availableScore": 7025,
+        "stats": {
+            "class": "Rogue",
+            "hp": 200000,
+            "level": 109,
+            "str": 5600,
+            "dex": 9500,
+            "agi": 18895,
+            "int": 7000,
+            "luk": 4400,
+            "con": 5500,
+            "dance": 3,
+			"damageReduction": 450,
+			"deadeye": 1,
+            "defense": 2,
+            "prone": 1,
+			"crit": 5
+        },
+        "items": [
+            { "name": "Spider-Climb Bandana", "dropPercent": 79 }
+        ],
+		 "collectibles": [
+            { "name": "Comfortable Footwraps", "dropPercent": 79, "storyline": "Lore: Desert Town", "flavorText": "Considering how much walking you do, keeping your feet happy is a priority." }
+        ]
+    },
+    "Mechanical Dragon": {
+        "respawn": 21600,
+        "availableScore": 50000,
+        "stats": {
+            "class": "Mage",
+            "hp": 10000000,
+			"mp": 3000000,
+            "level": 330,
+            "str": 130000,
+            "dex": 250000,
+            "agi": 145010,
+            "int": 298500,
+            "luk": 12000,
+            "con": 80000,
+            "poison": 4,
+            "shatter": 4,
+            "dance": 4,
+            "defense": 4,
+            "prone": 4,
+			"damageReduction": 15000,
+			"deadeye": 1,
+			"silver": 1,
+			"shatter": 2,
+			"venom": 4,
+			"power": 1,
+			"glowing": 4,
+			"hpregen": 7500,
+			"mpregen": 15000,
+			"vampire": 1
+        },
+        "items": [
+            { "name": "Bionic Dragon Legs", "dropPercent": 88 }
+        ],
+		 "collectibles": [
+            { "name": "Missing Cog", "dropPercent": 88, "storyline": "Memoir: Clockborg", "flavorText": "Once a part of Steel Gearshaft, an oppressive Clockborg warlord who ruled the Cabran desert." }
+        ]		
     }	
 }
