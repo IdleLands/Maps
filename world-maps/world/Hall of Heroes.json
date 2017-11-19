@@ -2326,6 +2326,50 @@
                  "width":16,
                  "x":160,
                  "y":560
+                }, 
+                {
+                 "gid":65,
+                 "height":16,
+                 "id":161,
+                 "name":"TheAllKing",
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":192,
+                 "y":560
+                }, 
+                {
+                 "gid":15,
+                 "height":16,
+                 "id":162,
+                 "name":"Nagun",
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":224,
+                 "y":560
+                }, 
+                {
+                 "gid":86,
+                 "height":16,
+                 "id":163,
+                 "name":"Yellow",
+                 "properties":
+                    {
+                     "flavorText":"This is for those poor souls who cant drink yet"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":256,
+                 "y":560
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2401,7 +2445,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":161,
+ "nextobjectid":164,
  "orientation":"orthogonal",
  "properties":
     {
