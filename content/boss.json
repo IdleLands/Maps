@@ -2134,7 +2134,7 @@
             "venom": 4,
             "dance": 1,
 			"lethal": 1
-        },
+        }
     },
     "Snake Lord": {
         "respawn": 10800,
