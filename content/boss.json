@@ -2115,5 +2115,51 @@
 		 "collectibles": [
             { "name": "Missing Cog", "dropPercent": 88, "storyline": "Memoir: Clockborg", "flavorText": "Once a part of Steel Gearshaft, an oppressive Clockborg warlord who ruled the Cabran desert." }
         ]		
+    },
+    "Snake-headed Guardsman": {
+        "respawn": 10800,
+        "availableScore": 6200,
+        "stats": {
+            "class": "Rogue",
+			"gender": "male",
+            "hp": 80000,
+            "mp": 40000,
+            "level": 90,
+            "str": 1800,
+            "dex": 2800,
+            "agi": 2400,
+            "int": 1560,
+            "luk": 1100,
+            "con": 1980,
+            "venom": 4,
+            "dance": 1,
+			"lethal": 1
+        },
+    },
+    "Snake Lord": {
+        "respawn": 10800,
+        "availableScore": 6200,
+        "stats": {
+            "class": "Cleric",
+			"gender": "male",
+            "hp": 218000,
+            "mp": 250000,
+            "level": 128,
+            "str": 7500,
+            "con": 4300,
+            "dex": 8000,
+            "agi": 8000,
+            "int": 18050,
+            "luk": 5743,
+            "venom": 3,
+            "shatter": 1,
+			"lethal": 1,
+			"deadeye": 1,
+            "glowing": 1,
+            "hpregen": 1000
+        },
+        "items": [
+            { "name": "Staff of the Living Snake", "dropPercent": 90 }
+        ]
     }	
 }

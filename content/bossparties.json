@@ -46,5 +46,13 @@
       "Shackles Lieutenant",
       "Shackles Lieutenant"
     ]
-  }
+  },
+  "Snake Lord's Entourage": {
+    "respawn": 10800,
+    "members": [
+      "Snake Lord",
+      "Snake-headed Guardsman",
+      "Snake-headed Guardsman"
+    ]
+  }  
 }

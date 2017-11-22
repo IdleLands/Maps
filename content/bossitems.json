@@ -805,6 +805,13 @@
     "silver": 1,
     "xp": 3
   },
+  "Staff of the Living Snake": {
+    "type": "mainhand",
+    "agi": 2000,
+    "int": 3900,
+    "venom": 2,
+    "xp": 2
+  },
   "dSolver's Feather": {
     "type": "mainhand",
     "str": 50,

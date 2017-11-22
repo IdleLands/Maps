@@ -2400,18 +2400,6 @@
                 {
                  "gid":48,
                  "height":16,
-                 "id":300,
-                 "name":"Access Point to the Temple of the Snake",
-                 "rotation":0,
-                 "type":"Sign",
-                 "visible":true,
-                 "width":16,
-                 "x":2080,
-                 "y":1056
-                }, 
-                {
-                 "gid":48,
-                 "height":16,
                  "id":302,
                  "name":"Access Point to Undead City",
                  "rotation":0,
@@ -4376,6 +4364,32 @@
                  "width":16,
                  "x":1520,
                  "y":1760
+                }, 
+                {
+                 "gid":35,
+                 "height":16,
+                 "id":445,
+                 "name":"ToSnake",
+                 "properties":
+                    {
+                     "destx":"17",
+                     "desty":"2",
+                     "map":"Temple of the Snake -2",
+                     "movementType":"fall"
+                    },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":2080,
+                 "y":1056
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -4979,7 +4993,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":445,
+ "nextobjectid":446,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tileheight":16,
