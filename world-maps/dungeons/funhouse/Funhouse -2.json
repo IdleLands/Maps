@@ -28,32 +28,6 @@
          "name":"Interactables",
          "objects":[
                 {
-                 "gid":40,
-                 "height":16,
-                 "id":1,
-                 "name":"ToFunhouse-1",
-                 "properties":
-                    {
-                     "destx":"11",
-                     "desty":"1",
-                     "map":"Funhouse -1",
-                     "movementType":"ascend"
-                    },
-                 "propertytypes":
-                    {
-                     "destx":"string",
-                     "desty":"string",
-                     "map":"string",
-                     "movementType":"string"
-                    },
-                 "rotation":0,
-                 "type":"Teleport",
-                 "visible":true,
-                 "width":16,
-                 "x":176,
-                 "y":32
-                }, 
-                {
                  "gid":18,
                  "height":16,
                  "id":2,
@@ -306,6 +280,32 @@
                  "width":16,
                  "x":96,
                  "y":96
+                }, 
+                {
+                 "gid":2,
+                 "height":16,
+                 "id":30,
+                 "name":"ToFunhouse-1",
+                 "properties":
+                    {
+                     "destx":"11",
+                     "desty":"1",
+                     "map":"Funhouse -1",
+                     "movementType":"ascend"
+                    },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":176,
+                 "y":32
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -337,7 +337,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":30,
+ "nextobjectid":31,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tileheight":16,
@@ -346,12 +346,12 @@
          "columns":9,
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":224,
+         "imageheight":272,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
          "spacing":0,
-         "tilecount":126,
+         "tilecount":153,
          "tileheight":16,
          "tilewidth":16
         }],

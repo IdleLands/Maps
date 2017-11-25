@@ -32,10 +32,6 @@
                  "height":16,
                  "id":1,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -48,10 +44,6 @@
                  "height":16,
                  "id":2,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -64,10 +56,6 @@
                  "height":16,
                  "id":3,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -87,31 +75,19 @@
                      "map":"Norkos",
                      "movementType":"ascend"
                     },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
                  "width":16,
                  "x":16,
                  "y":144
-                }, 
-                {
-                 "gid":41,
-                 "height":16,
-                 "id":5,
-                 "name":"ToFunhouse-2",
-                 "properties":
-                    {
-                     "destx":"11",
-                     "desty":"1",
-                     "map":"Funhouse -2",
-                     "movementType":"descend"
-                    },
-                 "rotation":0,
-                 "type":"Teleport",
-                 "visible":true,
-                 "width":16,
-                 "x":176,
-                 "y":32
                 }, 
                 {
                  "gid":15,
@@ -123,12 +99,43 @@
                      "flavorText":"There is a picture of a clown jumping through a portal on one side of each ticket.",
                      "storyline":"Lore: Funhouse"
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "storyline":"string"
+                    },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
                  "width":16,
                  "x":112,
                  "y":48
+                }, 
+                {
+                 "gid":1,
+                 "height":16,
+                 "id":7,
+                 "name":"ToFunhouse-2",
+                 "properties":
+                    {
+                     "destx":"11",
+                     "desty":"1",
+                     "map":"Funhouse -2",
+                     "movementType":"descend"
+                    },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":176,
+                 "y":32
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -137,28 +144,21 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":7,
+ "nextobjectid":8,
  "orientation":"orthogonal",
- "properties":
-    {
-
-    },
  "renderorder":"right-down",
  "tileheight":16,
  "tilesets":[
         {
+         "columns":9,
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":224,
+         "imageheight":272,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
-         "properties":
-            {
-
-            },
          "spacing":0,
-         "tilecount":126,
+         "tilecount":153,
          "tileheight":16,
          "tilewidth":16
         }],
