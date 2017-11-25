@@ -2138,7 +2138,7 @@
     },
     "Snake Lord": {
         "respawn": 10800,
-        "availableScore": 6200,
+        "availableScore": 7500,
         "stats": {
             "class": "Cleric",
 			"gender": "male",
@@ -2160,6 +2160,37 @@
         },
         "items": [
             { "name": "Staff of the Living Snake", "dropPercent": 90 }
+        ]
+    },
+    "Alchemist's Apprentice": {
+        "respawn": 10800,
+        "availableScore": 8000,
+        "stats": {
+            "class": "Mage",
+			"gender": "female",
+            "hp": 218000,
+            "mp": 250000,
+            "level": 135,
+            "str": 4000,
+            "con": 5000,
+            "dex": 18000,
+            "agi": 10000,
+            "int": 27680,
+            "luk": 1099,
+			"lethal": 1,
+			"aegis": 1,
+			"prone": 1,
+			"vampire": 1,
+			"poison": 1,
+            "silver": 1,
+            "hpregen": 2000,
+			"mpregen": 2000
+        },
+        "items": [
+            { "name": "Wild Magic Brew", "dropPercent": 99 }
+        ],
+		 "collectibles": [
+            { "name": "Wild Magic Ladle", "dropPercent": 99, "storyline": "Lore: Swamp Tower", "flavorText": "A cackle emits from the ladle when stirring witches' brews." }
         ]
     }	
 }

@@ -3114,7 +3114,7 @@
                  "name":"",
                  "properties":
                     {
-                     "flavorText":"Up: Vocalnus\\nRight: Your Untimely Demise"
+                     "flavorText":"Up: Vocalnus Right: Your Untimely Demise"
                     },
                  "propertytypes":
                     {
@@ -6999,12 +6999,12 @@
          "columns":9,
          "firstgid":1,
          "image":"..\/..\/img\/tiles.png",
-         "imageheight":224,
+         "imageheight":272,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
          "spacing":0,
-         "tilecount":126,
+         "tilecount":153,
          "tileheight":16,
          "tilewidth":16
         }],
