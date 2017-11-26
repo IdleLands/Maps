@@ -2390,6 +2390,26 @@
                  "width":16,
                  "x":288,
                  "y":560
+                }, 
+                {
+                 "gid":73,
+                 "height":16,
+                 "id":165,
+                 "name":"Artidrius",
+                 "properties":
+                    {
+                     "flavorText":"\"RAWR!\" means I love you in bear too, not just dinosaur."
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":320,
+                 "y":560
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2465,7 +2485,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":165,
+ "nextobjectid":166,
  "orientation":"orthogonal",
  "properties":
     {
