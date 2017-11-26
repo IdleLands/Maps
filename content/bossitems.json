@@ -805,6 +805,28 @@
     "silver": 1,
     "xp": 3
   },
+  "Staff of the Living Snake": {
+    "type": "mainhand",
+    "agi": 2000,
+    "int": 3900,
+    "venom": 2,
+    "xp": 2
+  },
+  "Wild Magic Brew": {
+    "type": "offhand",
+    "con": 999,
+    "int": 1001,
+    "luk": 999,
+    "crit": 2,
+    "dance": 1,
+    "defense": 1,
+    "gold": 3,
+    "hpregen": 250,
+    "mpregen": 250,
+    "offense": 1,
+    "poison": 1,
+    "sentimentality": 3000
+  },
   "dSolver's Feather": {
     "type": "mainhand",
     "str": 50,

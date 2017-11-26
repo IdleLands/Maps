@@ -797,7 +797,19 @@
       "formalName":"the Mechanical Dragon",
       "x":5,
       "y":9
-    }
+    },
+    "snakelord":{
+      "map":"Temple of the Snake -1",
+      "formalName":"the Snake Lord",
+      "x":16,
+      "y":9
+    },
+    "alchemistsapprentice":{
+      "map":"Swamp Tower +1",
+      "formalName":"the Alchemist's Apprentice",
+      "x":7,
+      "y":9
+    }	
   },
   "dungeons":{
     "norkosdungeon":{

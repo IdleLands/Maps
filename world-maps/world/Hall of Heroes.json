@@ -2370,6 +2370,26 @@
                  "width":16,
                  "x":256,
                  "y":560
+                }, 
+                {
+                 "gid":25,
+                 "height":16,
+                 "id":164,
+                 "name":"BluR",
+                 "properties":
+                    {
+                     "flavorText":"henlo"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":288,
+                 "y":560
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2445,7 +2465,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":164,
+ "nextobjectid":165,
  "orientation":"orthogonal",
  "properties":
     {
