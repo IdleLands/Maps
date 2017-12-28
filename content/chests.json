@@ -97,5 +97,11 @@
             "Troll Leather Galoshes",
 			"Troll Leather Leggings"
         ]
+    },
+    "Deep Well Gear": {
+        "items": [
+            "Magical Rebreather",
+			"Wetsuit of the Clockborg"
+        ]
     }
 }

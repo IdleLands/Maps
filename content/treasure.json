@@ -360,5 +360,36 @@
     "damageReduction": 500,
     "defense": 2,
     "hpregen": 1500
+  },
+  "Magical Rebreather": {
+    "type": "head",
+    "str": -1000,
+    "con": 1000,
+    "agi": -1000,
+    "int": 10000,
+    "luk": 2000,
+    "glowing": 1,
+    "hp": 500,
+    "hpregen": 1500,
+    "mp": 500,
+    "mpregen": 1500,
+    "xp": 3,
+	"sReqCharacter*Terrains*Water": 172800
+  },
+  "Wetsuit of the Clockborg": {
+    "type": "body",
+    "str": 3300,
+    "con": 500,
+    "dex": 500,
+    "agi": 500,
+    "int": 3300,
+    "luk": 3300,
+    "aegis": 1,
+    "damageReduction": 1000,
+    "defense": 3,
+    "power": 1,
+    "silver": 1,
+    "xp": 2
+	"sReqCharacter*Terrains*Water": 172800
   }
 }

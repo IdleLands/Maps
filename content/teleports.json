@@ -809,6 +809,30 @@
       "formalName":"the Alchemist's Apprentice",
       "x":7,
       "y":9
+    },
+    "maigervex":{
+      "map":"Cabran Dungeon -2",
+      "formalName":"Maigervex of Old",
+      "x":67,
+      "y":19
+    },
+    "wellfedcavespider":{
+      "map":"Cabran Dungeon -2",
+      "formalName":"the Well Fed Cave Spider",
+      "x":92,
+      "y":2
+    },
+    "clockborgarcher":{
+      "map":"Cabran Dungeon -3",
+      "formalName":"the Clockborg Defense Archer",
+      "x":65,
+      "y":49
+    },
+    "deepwellengineer":{
+      "map":"Cabran Dungeon -3",
+      "formalName":"the Deep Well Engineer",
+      "x":15,
+      "y":22
     }	
   },
   "dungeons":{
@@ -931,6 +955,12 @@
       "formalName":"the Giant's Outpost",
       "x":7,
       "y":3
-    }		
+    },
+    "cabrandungeon":{
+      "map":"Cabran",
+      "formalName":"the Cabran Dungeon entrance",
+      "x":22,
+      "y":185
+    }	
   }
 }
