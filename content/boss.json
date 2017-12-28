@@ -2168,7 +2168,7 @@
         "stats": {
             "class": "Mage",
 			"gender": "female",
-            "hp": 218000,
+			"hp": 218000,
             "mp": 250000,
             "level": 135,
             "str": 4000,
@@ -2191,6 +2191,121 @@
         ],
 		 "collectibles": [
             { "name": "Wild Magic Ladle", "dropPercent": 99, "storyline": "Lore: Swamp Tower", "flavorText": "A cackle emits from the ladle when stirring witches' brews." }
+		]
+    },
+    "Maigervex of Old": {
+        "respawn": 10800,
+        "availableScore": 35000,
+        "stats": {
+            "class": "Fighter",
+			"gender": "female",
+			"hp": 8357000,
+            "mp": 4357000,
+            "level": 290,
+            "str": 133000,
+            "dex": 73000,
+            "agi": 79000,
+            "int": 29000,
+            "luk": 19200,
+            "con": 30000,
+            "glowing": 10,
+            "deadeye": 1,
+            "offense": 6,
+            "power": 1,
+            "prone": 1,
+			"aegis": 1,
+            "damageReduction": 4500,
+            "shatter": 3
+        },
+        "items": [
+            { "name": "Electric Eel Gland", "dropPercent": 90 }
+        ],
+		 "collectibles": [
+            { "name": "Titanic Serpent Skin", "dropPercent": 90, "storyline": "Lore: Cabran Dungeon", "flavorText": "You could mount this on your wall, but you would need a bigger wall." }
+        ]
+    },
+    "Well Fed Cave Spider": {
+        "respawn": 10800,
+        "availableScore": 30000,
+        "stats": {
+            "class": "Fighter",
+			"gender": "female",
+			"hp": 5800000,
+            "mp": 5400000,
+            "level": 255,
+            "str": 100500,
+            "dex": 70000,
+            "agi": 70000,
+            "int": 1000,
+            "luk": 10000,
+            "con": 14000,
+            "deadeye": 1,
+            "offense": 6,
+			"dance": 1,
+            "power": 1,
+            "prone": 2,
+			"vampire": 2,
+            "venom": 6,
+			"silver": 1,
+			"lethal": 1
+        },
+        "items": [
+            { "name": "Cave Spider Spinneret", "dropPercent": 77 }
+        ]
+    },
+    "Deep Well Engineer": {
+        "respawn": 10800,
+        "availableScore": 36000,
+        "stats": {
+            "class": "Clockborg",
+			"gender": "not a bear",
+			"hp": 5500000,
+            "mp": 5500000,
+            "level": 300,
+            "str": 100000,
+            "dex": 20000,
+            "agi": 18000,
+            "int": 40000,
+            "luk": 10000,
+            "con": 14000,
+            "offense": 3,
+			"defense": 6,
+            "power": 1,
+            "prone": 2,
+			"silver": 1,
+			"lethal": 1,
+			"hpregen": 5555
+        },
+        "items": [
+            { "name": "Deep Well Access Card", "dropPercent": 25 }
+        ]
+    },
+    "Clockborg Defense Archer": {
+        "respawn": 10800,
+        "availableScore": 36000,
+        "stats": {
+            "class": "Archer",
+			"gender": "not a bear",
+			"hp": 8000000,
+            "mp": 3000000,
+            "level": 315,
+            "str": 66000,
+            "dex": 130000,
+            "agi": 100000,
+            "int": 20000,
+            "luk": 10000,
+            "con": 30000,
+            "offense": 4,
+			"defense": 6,
+			"dance": 1,
+            "power": 1,
+            "prone": 2,
+			"silver": 1,
+			"glowing": 1,
+			"damageReduction": 5555
+        },
+        "items": [
+            { "name": "Repeating Clockborg Arrow Launcher", "dropPercent": 81 }
         ]
     }	
 }
