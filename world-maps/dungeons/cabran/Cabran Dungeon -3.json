@@ -2426,34 +2426,6 @@
                  "y":112
                 }, 
                 {
-                 "gid":41,
-                 "height":16,
-                 "id":236,
-                 "name":"",
-                 "properties":
-                    {
-                     "destx":"",
-                     "desty":"",
-                     "map":"Cabran Dungeon -4",
-                     "movementType":"descend",
-                     "requireAscension":"4"
-                    },
-                 "propertytypes":
-                    {
-                     "destx":"string",
-                     "desty":"string",
-                     "map":"string",
-                     "movementType":"string",
-                     "requireAscension":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":688,
-                 "y":832
-                }, 
-                {
                  "gid":78,
                  "height":16,
                  "id":237,
@@ -2818,6 +2790,18 @@
                  "width":16,
                  "x":592,
                  "y":400
+                }, 
+                {
+                 "gid":48,
+                 "height":16,
+                 "id":262,
+                 "name":"Placeholder stairs",
+                 "rotation":0,
+                 "type":"Sign",
+                 "visible":true,
+                 "width":16,
+                 "x":688,
+                 "y":832
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2926,7 +2910,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":262,
+ "nextobjectid":263,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tileheight":16,
