@@ -2410,6 +2410,50 @@
                  "width":16,
                  "x":320,
                  "y":560
+                }, 
+                {
+                 "gid":72,
+                 "height":16,
+                 "id":166,
+                 "name":"Martin Unbelievably",
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":432,
+                 "y":560
+                }, 
+                {
+                 "gid":15,
+                 "height":16,
+                 "id":167,
+                 "name":"Schizophoenix",
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":464,
+                 "y":560
+                }, 
+                {
+                 "gid":74,
+                 "height":16,
+                 "id":168,
+                 "name":"DeepLake",
+                 "properties":
+                    {
+                     "flavorText":"Wings of Freedom"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":496,
+                 "y":560
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2485,7 +2529,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":166,
+ "nextobjectid":169,
  "orientation":"orthogonal",
  "properties":
     {
