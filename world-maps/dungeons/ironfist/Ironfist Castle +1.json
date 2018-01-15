@@ -476,6 +476,26 @@
                  "width":16,
                  "x":128,
                  "y":288
+                }, 
+                {
+                 "gid":149,
+                 "height":16,
+                 "id":76,
+                 "name":"",
+                 "properties":
+                    {
+                     "forceEvent":"Gambling"
+                    },
+                 "propertytypes":
+                    {
+                     "forceEvent":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":64,
+                 "y":96
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -518,7 +538,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":76,
+ "nextobjectid":77,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tileheight":16,
@@ -534,6 +554,26 @@
          "spacing":0,
          "tilecount":153,
          "tileheight":16,
+         "tileproperties":
+            {
+             "0":
+                {
+                 "destx":"105",
+                 "desty":"142",
+                 "map":"Cabran",
+                 "movementType":"descend"
+                }
+            },
+         "tilepropertytypes":
+            {
+             "0":
+                {
+                 "destx":"string",
+                 "desty":"string",
+                 "map":"string",
+                 "movementType":"string"
+                }
+            },
          "tilewidth":16
         }],
  "tilewidth":16,
