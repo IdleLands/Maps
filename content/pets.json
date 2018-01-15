@@ -954,7 +954,49 @@
             "salvage": [0]
         }
     },
-        
+  
+    
+    "Gold'o'tron": {
+        "cost": 100000000000,
+        "category": "Protector",
+        "description": "Unlocked by becoming a master of money.",
+        "slots": {
+        },
+        "specialStats": { 
+        },
+        "requirements": {
+            "achievements": [
+                { "name": "Golden", "tier": 7 }
+            ]
+        },
+        "scale": {
+            "maxLevel": [1],
+            "maxItemScore": [0],
+            "inventory": [1],
+            "goldStorage": [0],
+            "battleJoinPercent": [0],
+            "itemFindTimeDuration": [0],
+            "itemSellMultiplier": [0],
+            "itemFindBonus": [0],
+            "itemFindRangeMultiplier": [0],
+            "xpPerGold": [0],
+            "salvage": [0]
+        },
+        "scaleCost": {
+            "maxLevel": [0],
+            "maxItemScore": [0],
+            "inventory": [0],
+            "goldStorage": [0],
+            "battleJoinPercent": [0],
+            "itemFindTimeDuration": [0],
+            "itemSellMultiplier": [0],
+            "itemFindBonus": [0],
+            "itemFindRangeMultiplier": [0],
+            "xpPerGold": [0],
+            "salvage": [0]
+        }
+    },
+    
     "Walk'o'tron": {
         "cost": 1000000000,
         "category": "Protector",
