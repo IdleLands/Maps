@@ -39,13 +39,6 @@
                      "map":"Norkos",
                      "movementType":"teleport"
                     },
-                 "propertytypes":
-                    {
-                     "destx":"string",
-                     "desty":"string",
-                     "map":"string",
-                     "movementType":"string"
-                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -64,13 +57,6 @@
                      "desty":"5",
                      "map":"Norkos",
                      "movementType":"teleport"
-                    },
-                 "propertytypes":
-                    {
-                     "destx":"string",
-                     "desty":"string",
-                     "map":"string",
-                     "movementType":"string"
                     },
                  "rotation":0,
                  "type":"Teleport",
@@ -91,13 +77,6 @@
                      "map":"Norkos",
                      "movementType":"descend"
                     },
-                 "propertytypes":
-                    {
-                     "destx":"string",
-                     "desty":"string",
-                     "map":"string",
-                     "movementType":"string"
-                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -114,11 +93,6 @@
                     {
                      "flavorText":"A lone elf shoe. Unfortunately, it is not your size.",
                      "storyline":"Lore: North Pole"
-                    },
-                 "propertytypes":
-                    {
-                     "flavorText":"string",
-                     "storyline":"string"
                     },
                  "rotation":0,
                  "type":"Collectible",
@@ -137,11 +111,6 @@
                      "flavorText":"Toy? This is just a wooden block. With imagination it could be more!",
                      "storyline":"Lore: North Pole"
                     },
-                 "propertytypes":
-                    {
-                     "flavorText":"string",
-                     "storyline":"string"
-                    },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
@@ -158,11 +127,6 @@
                     {
                      "flavorText":"The box is full of them, but you decide you only need one.",
                      "storyline":"Lore: North Pole"
-                    },
-                 "propertytypes":
-                    {
-                     "flavorText":"string",
-                     "storyline":"string"
                     },
                  "rotation":0,
                  "type":"Collectible",
@@ -181,11 +145,6 @@
                      "flavorText":"Part of a collector's set of four, though the others appear missing.",
                      "storyline":"Lore: North Pole"
                     },
-                 "propertytypes":
-                    {
-                     "flavorText":"string",
-                     "storyline":"string"
-                    },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
@@ -201,10 +160,6 @@
                  "properties":
                     {
                      "flavorText":"These merry elves make toys as well as slaughter adventurers who trespass in Santa's domain."
-                    },
-                 "propertytypes":
-                    {
-                     "flavorText":"string"
                     },
                  "rotation":0,
                  "type":"BossParty",
@@ -222,10 +177,6 @@
                     {
                      "flavorText":"Pulls Santa's Sleigh of Slaughter."
                     },
-                 "propertytypes":
-                    {
-                     "flavorText":"string"
-                    },
                  "rotation":0,
                  "type":"Boss",
                  "visible":true,
@@ -242,10 +193,6 @@
                     {
                      "flavorText":"Hearing your name read off The Naughty List gives you a startle."
                     },
-                 "propertytypes":
-                    {
-                     "flavorText":"string"
-                    },
                  "rotation":0,
                  "type":"Boss",
                  "visible":true,
@@ -258,6 +205,10 @@
                  "height":16,
                  "id":11,
                  "name":"Christmas Gear",
+                 "properties":
+                    {
+
+                    },
                  "rotation":0,
                  "type":"Treasure",
                  "visible":true,
@@ -270,6 +221,10 @@
                  "height":16,
                  "id":12,
                  "name":"Christmas Gear",
+                 "properties":
+                    {
+
+                    },
                  "rotation":0,
                  "type":"Treasure",
                  "visible":true,
@@ -282,6 +237,10 @@
                  "height":16,
                  "id":13,
                  "name":"",
+                 "properties":
+                    {
+
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -294,6 +253,10 @@
                  "height":16,
                  "id":14,
                  "name":"",
+                 "properties":
+                    {
+
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -306,6 +269,10 @@
                  "height":16,
                  "id":15,
                  "name":"",
+                 "properties":
+                    {
+
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -318,6 +285,10 @@
                  "height":16,
                  "id":16,
                  "name":"",
+                 "properties":
+                    {
+
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -330,6 +301,10 @@
                  "height":16,
                  "id":17,
                  "name":"",
+                 "properties":
+                    {
+
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -346,10 +321,6 @@
                     {
                      "forceEvent":"ItemBless"
                     },
-                 "propertytypes":
-                    {
-                     "forceEvent":"string"
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -362,6 +333,10 @@
                  "height":16,
                  "id":21,
                  "name":"",
+                 "properties":
+                    {
+
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -374,6 +349,10 @@
                  "height":16,
                  "id":22,
                  "name":"",
+                 "properties":
+                    {
+
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -386,6 +365,10 @@
                  "height":16,
                  "id":23,
                  "name":"",
+                 "properties":
+                    {
+
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -398,6 +381,10 @@
                  "height":16,
                  "id":24,
                  "name":"",
+                 "properties":
+                    {
+
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -410,6 +397,10 @@
                  "height":16,
                  "id":25,
                  "name":"",
+                 "properties":
+                    {
+
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -422,52 +413,16 @@
                  "height":16,
                  "id":26,
                  "name":"",
+                 "properties":
+                    {
+
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":16,
                  "x":240,
                  "y":512
-                }, 
-                {
-                 "gid":85,
-                 "height":16,
-                 "id":27,
-                 "name":"",
-                 "properties":
-                    {
-                     "forceEvent":"Enchant"
-                    },
-                 "propertytypes":
-                    {
-                     "forceEvent":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":240,
-                 "y":656
-                }, 
-                {
-                 "gid":84,
-                 "height":16,
-                 "id":28,
-                 "name":"",
-                 "properties":
-                    {
-                     "forceEvent":"ItemForsake"
-                    },
-                 "propertytypes":
-                    {
-                     "forceEvent":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":416,
-                 "y":752
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -485,6 +440,10 @@
                  "height":240,
                  "id":18,
                  "name":"Santa's Runway",
+                 "properties":
+                    {
+
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -496,6 +455,10 @@
                  "height":768,
                  "id":19,
                  "name":"Santa's Workshops",
+                 "properties":
+                    {
+
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -510,42 +473,29 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":29,
+ "nextobjectid":27,
  "orientation":"orthogonal",
+ "properties":
+    {
+
+    },
  "renderorder":"right-down",
  "tileheight":16,
  "tilesets":[
         {
-         "columns":9,
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":272,
+         "imageheight":224,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
+         "properties":
+            {
+
+            },
          "spacing":0,
-         "tilecount":153,
+         "tilecount":126,
          "tileheight":16,
-         "tileproperties":
-            {
-             "0":
-                {
-                 "destx":"105",
-                 "desty":"142",
-                 "map":"Cabran",
-                 "movementType":"descend"
-                }
-            },
-         "tilepropertytypes":
-            {
-             "0":
-                {
-                 "destx":"string",
-                 "desty":"string",
-                 "map":"string",
-                 "movementType":"string"
-                }
-            },
          "tilewidth":16
         }],
  "tilewidth":16,

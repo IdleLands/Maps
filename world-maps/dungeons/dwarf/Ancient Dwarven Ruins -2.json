@@ -36,10 +36,6 @@
                     {
                      "flavorText":"Legend says this mad dwarf is the last of his kind."
                     },
-                 "propertytypes":
-                    {
-                     "flavorText":"string"
-                    },
                  "rotation":0,
                  "type":"Boss",
                  "visible":true,
@@ -57,11 +53,6 @@
                      "flavorText":"50% off.",
                      "storyline":"Lore: Dwarves"
                     },
-                 "propertytypes":
-                    {
-                     "flavorText":"string",
-                     "storyline":"string"
-                    },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
@@ -78,11 +69,6 @@
                     {
                      "flavorText":"This stone is engraved with a glowing blue symbol.",
                      "storyline":"Lore: Dwarves"
-                    },
-                 "propertytypes":
-                    {
-                     "flavorText":"string",
-                     "storyline":"string"
                     },
                  "rotation":0,
                  "type":"Collectible",
@@ -103,13 +89,6 @@
                      "map":"Ancient Dwarven Ruins -1",
                      "movementType":"ascend"
                     },
-                 "propertytypes":
-                    {
-                     "destx":"string",
-                     "desty":"string",
-                     "map":"string",
-                     "movementType":"string"
-                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -129,13 +108,6 @@
                      "map":"Norkos",
                      "movementType":"teleport"
                     },
-                 "propertytypes":
-                    {
-                     "destx":"string",
-                     "desty":"string",
-                     "map":"string",
-                     "movementType":"string"
-                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -148,6 +120,10 @@
                  "height":16,
                  "id":19,
                  "name":"",
+                 "properties":
+                    {
+
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -160,6 +136,10 @@
                  "height":16,
                  "id":20,
                  "name":"",
+                 "properties":
+                    {
+
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -172,6 +152,10 @@
                  "height":16,
                  "id":21,
                  "name":"",
+                 "properties":
+                    {
+
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -184,6 +168,10 @@
                  "height":16,
                  "id":22,
                  "name":"",
+                 "properties":
+                    {
+
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -196,6 +184,10 @@
                  "height":16,
                  "id":23,
                  "name":"",
+                 "properties":
+                    {
+
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -208,6 +200,10 @@
                  "height":16,
                  "id":24,
                  "name":"",
+                 "properties":
+                    {
+
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -220,6 +216,10 @@
                  "height":16,
                  "id":25,
                  "name":"",
+                 "properties":
+                    {
+
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -232,6 +232,10 @@
                  "height":16,
                  "id":26,
                  "name":"",
+                 "properties":
+                    {
+
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -244,6 +248,10 @@
                  "height":16,
                  "id":27,
                  "name":"",
+                 "properties":
+                    {
+
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -256,6 +264,10 @@
                  "height":16,
                  "id":28,
                  "name":"",
+                 "properties":
+                    {
+
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -268,6 +280,10 @@
                  "height":16,
                  "id":29,
                  "name":"",
+                 "properties":
+                    {
+
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -284,10 +300,6 @@
                     {
                      "forceEvent":"GoldBless"
                     },
-                 "propertytypes":
-                    {
-                     "forceEvent":"string"
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -300,6 +312,10 @@
                  "height":16,
                  "id":31,
                  "name":"",
+                 "properties":
+                    {
+
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -316,10 +332,6 @@
                     {
                      "flavorText":"It's all written in dwarvish."
                     },
-                 "propertytypes":
-                    {
-                     "flavorText":"string"
-                    },
                  "rotation":0,
                  "type":"Sign",
                  "visible":true,
@@ -332,6 +344,10 @@
                  "height":16,
                  "id":33,
                  "name":"",
+                 "properties":
+                    {
+
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -344,32 +360,16 @@
                  "height":16,
                  "id":34,
                  "name":"",
+                 "properties":
+                    {
+
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":16,
                  "x":80,
                  "y":400
-                }, 
-                {
-                 "gid":84,
-                 "height":16,
-                 "id":35,
-                 "name":"",
-                 "properties":
-                    {
-                     "forceEvent":"ItemForsake"
-                    },
-                 "propertytypes":
-                    {
-                     "forceEvent":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":336,
-                 "y":304
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -390,42 +390,29 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":36,
+ "nextobjectid":35,
  "orientation":"orthogonal",
+ "properties":
+    {
+
+    },
  "renderorder":"right-down",
  "tileheight":16,
  "tilesets":[
         {
-         "columns":9,
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":272,
+         "imageheight":224,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
+         "properties":
+            {
+
+            },
          "spacing":0,
-         "tilecount":153,
+         "tilecount":126,
          "tileheight":16,
-         "tileproperties":
-            {
-             "0":
-                {
-                 "destx":"105",
-                 "desty":"142",
-                 "map":"Cabran",
-                 "movementType":"descend"
-                }
-            },
-         "tilepropertytypes":
-            {
-             "0":
-                {
-                 "destx":"string",
-                 "desty":"string",
-                 "map":"string",
-                 "movementType":"string"
-                }
-            },
          "tilewidth":16
         }],
  "tilewidth":16,

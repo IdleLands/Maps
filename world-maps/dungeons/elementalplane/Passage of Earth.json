@@ -39,13 +39,6 @@
                      "map":"The Elemental Plane -3",
                      "movementType":"ascend"
                     },
-                 "propertytypes":
-                    {
-                     "destx":"string",
-                     "desty":"string",
-                     "map":"string",
-                     "movementType":"string"
-                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -65,13 +58,6 @@
                      "map":"The Elemental Plane -3",
                      "movementType":"ascend"
                     },
-                 "propertytypes":
-                    {
-                     "destx":"string",
-                     "desty":"string",
-                     "map":"string",
-                     "movementType":"string"
-                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -89,37 +75,12 @@
                      "flavorText":"This species of flower has never been documented.",
                      "storyline":"Lore: Elemental Planes"
                     },
-                 "propertytypes":
-                    {
-                     "flavorText":"string",
-                     "storyline":"string"
-                    },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
                  "width":16,
                  "x":144,
                  "y":704
-                }, 
-                {
-                 "gid":84,
-                 "height":16,
-                 "id":4,
-                 "name":"",
-                 "properties":
-                    {
-                     "forceEvent":"ItemForsake"
-                    },
-                 "propertytypes":
-                    {
-                     "forceEvent":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":96,
-                 "y":272
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -128,42 +89,29 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":5,
+ "nextobjectid":4,
  "orientation":"orthogonal",
+ "properties":
+    {
+
+    },
  "renderorder":"right-down",
  "tileheight":16,
  "tilesets":[
         {
-         "columns":9,
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":272,
+         "imageheight":224,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
+         "properties":
+            {
+
+            },
          "spacing":0,
-         "tilecount":153,
+         "tilecount":126,
          "tileheight":16,
-         "tileproperties":
-            {
-             "0":
-                {
-                 "destx":"105",
-                 "desty":"142",
-                 "map":"Cabran",
-                 "movementType":"descend"
-                }
-            },
-         "tilepropertytypes":
-            {
-             "0":
-                {
-                 "destx":"string",
-                 "desty":"string",
-                 "map":"string",
-                 "movementType":"string"
-                }
-            },
          "tilewidth":16
         }],
  "tilewidth":16,

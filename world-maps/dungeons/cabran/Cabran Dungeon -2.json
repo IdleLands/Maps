@@ -494,26 +494,6 @@
                  "width":16,
                  "x":144,
                  "y":864
-                }, 
-                {
-                 "gid":84,
-                 "height":16,
-                 "id":41,
-                 "name":"",
-                 "properties":
-                    {
-                     "forceEvent":"ItemForsake"
-                    },
-                 "propertytypes":
-                    {
-                     "forceEvent":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":928,
-                 "y":208
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -589,7 +569,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":42,
+ "nextobjectid":41,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tileheight":16,
@@ -605,26 +585,6 @@
          "spacing":0,
          "tilecount":153,
          "tileheight":16,
-         "tileproperties":
-            {
-             "0":
-                {
-                 "destx":"105",
-                 "desty":"142",
-                 "map":"Cabran",
-                 "movementType":"descend"
-                }
-            },
-         "tilepropertytypes":
-            {
-             "0":
-                {
-                 "destx":"string",
-                 "desty":"string",
-                 "map":"string",
-                 "movementType":"string"
-                }
-            },
          "tilewidth":16
         }],
  "tilewidth":16,

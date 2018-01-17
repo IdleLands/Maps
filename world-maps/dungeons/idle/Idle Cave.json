@@ -880,126 +880,6 @@
                  "width":16,
                  "x":320,
                  "y":272
-                }, 
-                {
-                 "gid":84,
-                 "height":16,
-                 "id":87,
-                 "name":"",
-                 "properties":
-                    {
-                     "forceEvent":"ItemForsake"
-                    },
-                 "propertytypes":
-                    {
-                     "forceEvent":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":288,
-                 "y":320
-                }, 
-                {
-                 "gid":84,
-                 "height":16,
-                 "id":88,
-                 "name":"",
-                 "properties":
-                    {
-                     "forceEvent":"ItemForsake"
-                    },
-                 "propertytypes":
-                    {
-                     "forceEvent":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":256,
-                 "y":272
-                }, 
-                {
-                 "gid":84,
-                 "height":16,
-                 "id":89,
-                 "name":"",
-                 "properties":
-                    {
-                     "forceEvent":"ItemForsake"
-                    },
-                 "propertytypes":
-                    {
-                     "forceEvent":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":320,
-                 "y":320
-                }, 
-                {
-                 "gid":84,
-                 "height":16,
-                 "id":90,
-                 "name":"",
-                 "properties":
-                    {
-                     "forceEvent":"ItemForsake"
-                    },
-                 "propertytypes":
-                    {
-                     "forceEvent":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":224,
-                 "y":272
-                }, 
-                {
-                 "gid":85,
-                 "height":16,
-                 "id":92,
-                 "name":"",
-                 "properties":
-                    {
-                     "forceEvent":"Enchant"
-                    },
-                 "propertytypes":
-                    {
-                     "forceEvent":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":256,
-                 "y":320
-                }, 
-                {
-                 "gid":85,
-                 "height":16,
-                 "id":93,
-                 "name":"",
-                 "properties":
-                    {
-                     "forceEvent":"Enchant"
-                    },
-                 "propertytypes":
-                    {
-                     "forceEvent":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":288,
-                 "y":272
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1031,7 +911,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":94,
+ "nextobjectid":87,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tileheight":16,
@@ -1040,33 +920,13 @@
          "columns":9,
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":272,
+         "imageheight":224,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
          "spacing":0,
-         "tilecount":153,
+         "tilecount":126,
          "tileheight":16,
-         "tileproperties":
-            {
-             "0":
-                {
-                 "destx":"105",
-                 "desty":"142",
-                 "map":"Cabran",
-                 "movementType":"descend"
-                }
-            },
-         "tilepropertytypes":
-            {
-             "0":
-                {
-                 "destx":"string",
-                 "desty":"string",
-                 "map":"string",
-                 "movementType":"string"
-                }
-            },
          "tilewidth":16
         }],
  "tilewidth":16,

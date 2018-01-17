@@ -758,26 +758,6 @@
                  "width":16,
                  "x":256,
                  "y":672
-                }, 
-                {
-                 "gid":85,
-                 "height":16,
-                 "id":88,
-                 "name":"",
-                 "properties":
-                    {
-                     "forceEvent":"Enchant"
-                    },
-                 "propertytypes":
-                    {
-                     "forceEvent":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":272,
-                 "y":144
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -831,7 +811,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":89,
+ "nextobjectid":87,
  "orientation":"orthogonal",
  "properties":
     {
@@ -848,33 +828,13 @@
          "columns":9,
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":272,
+         "imageheight":224,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
          "spacing":0,
-         "tilecount":153,
+         "tilecount":126,
          "tileheight":16,
-         "tileproperties":
-            {
-             "0":
-                {
-                 "destx":"105",
-                 "desty":"142",
-                 "map":"Cabran",
-                 "movementType":"descend"
-                }
-            },
-         "tilepropertytypes":
-            {
-             "0":
-                {
-                 "destx":"string",
-                 "desty":"string",
-                 "map":"string",
-                 "movementType":"string"
-                }
-            },
          "tilewidth":16
         }],
  "tilewidth":16,
