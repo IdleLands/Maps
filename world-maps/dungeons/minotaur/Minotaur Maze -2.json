@@ -32,10 +32,6 @@
                  "height":16,
                  "id":1,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -48,10 +44,6 @@
                  "height":16,
                  "id":2,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -64,10 +56,6 @@
                  "height":16,
                  "id":3,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -80,10 +68,6 @@
                  "height":16,
                  "id":4,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -96,10 +80,6 @@
                  "height":16,
                  "id":5,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -112,10 +92,6 @@
                  "height":16,
                  "id":6,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -128,10 +104,6 @@
                  "height":16,
                  "id":7,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -144,10 +116,6 @@
                  "height":16,
                  "id":9,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -160,10 +128,6 @@
                  "height":16,
                  "id":10,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -176,10 +140,6 @@
                  "height":16,
                  "id":11,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -192,10 +152,6 @@
                  "height":16,
                  "id":12,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -208,10 +164,6 @@
                  "height":16,
                  "id":14,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -224,10 +176,6 @@
                  "height":16,
                  "id":15,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -240,10 +188,6 @@
                  "height":16,
                  "id":16,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -256,10 +200,6 @@
                  "height":16,
                  "id":17,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -272,10 +212,6 @@
                  "height":16,
                  "id":18,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -288,10 +224,6 @@
                  "height":16,
                  "id":19,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -304,10 +236,6 @@
                  "height":16,
                  "id":20,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -320,10 +248,6 @@
                  "height":16,
                  "id":21,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -336,10 +260,6 @@
                  "height":16,
                  "id":23,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -352,10 +272,6 @@
                  "height":16,
                  "id":24,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -368,10 +284,6 @@
                  "height":16,
                  "id":26,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -384,10 +296,6 @@
                  "height":16,
                  "id":27,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -400,10 +308,6 @@
                  "height":16,
                  "id":28,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -422,6 +326,13 @@
                      "desty":"28",
                      "map":"Minotaur Maze -3",
                      "movementType":"descend"
+                    },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
                     },
                  "rotation":0,
                  "type":"Teleport",
@@ -442,6 +353,13 @@
                      "map":"Minotaur Maze -3",
                      "movementType":"descend"
                     },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -461,6 +379,13 @@
                      "map":"Minotaur Maze -1",
                      "movementType":"ascend"
                     },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -473,10 +398,6 @@
                  "height":16,
                  "id":32,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -492,6 +413,10 @@
                  "properties":
                     {
                      "flavorText":"Sibling Minotaur hates it when people enter her room without knocking. "
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
                     },
                  "rotation":0,
                  "type":"Boss",
@@ -511,6 +436,12 @@
                      "rarity":"idle",
                      "storyline":"Era: Corruption"
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "rarity":"string",
+                     "storyline":"string"
+                    },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
@@ -523,10 +454,6 @@
                  "height":16,
                  "id":41,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -539,10 +466,6 @@
                  "height":16,
                  "id":44,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -555,10 +478,6 @@
                  "height":16,
                  "id":45,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -571,10 +490,6 @@
                  "height":16,
                  "id":47,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -587,10 +502,6 @@
                  "height":16,
                  "id":48,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -603,10 +514,6 @@
                  "height":16,
                  "id":49,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -619,10 +526,6 @@
                  "height":16,
                  "id":50,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -635,10 +538,6 @@
                  "height":16,
                  "id":53,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -651,10 +550,6 @@
                  "height":16,
                  "id":54,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -667,10 +562,6 @@
                  "height":16,
                  "id":55,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -683,10 +574,6 @@
                  "height":16,
                  "id":56,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -702,6 +589,10 @@
                  "properties":
                     {
                      "flavorText":"The ribcage is shattered, probably by a charging minotaur."
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
                     },
                  "rotation":0,
                  "type":"Skeleton",
@@ -719,12 +610,36 @@
                     {
                      "flavorText":"Appears to have been crawling towards the room east of here."
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"Skeleton",
                  "visible":true,
                  "width":16,
                  "x":304,
                  "y":240
+                }, 
+                {
+                 "gid":84,
+                 "height":16,
+                 "id":61,
+                 "name":"",
+                 "properties":
+                    {
+                     "forceEvent":"ItemForsake"
+                    },
+                 "propertytypes":
+                    {
+                     "forceEvent":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":464,
+                 "y":128
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -742,10 +657,6 @@
                  "height":256,
                  "id":59,
                  "name":"Abandoned Norkian Stronghold",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -760,29 +671,42 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":60,
+ "nextobjectid":62,
  "orientation":"orthogonal",
- "properties":
-    {
-
-    },
  "renderorder":"right-down",
  "tileheight":16,
  "tilesets":[
         {
+         "columns":9,
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":224,
+         "imageheight":272,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
-         "properties":
-            {
-
-            },
          "spacing":0,
-         "tilecount":126,
+         "tilecount":153,
          "tileheight":16,
+         "tileproperties":
+            {
+             "0":
+                {
+                 "destx":"105",
+                 "desty":"142",
+                 "map":"Cabran",
+                 "movementType":"descend"
+                }
+            },
+         "tilepropertytypes":
+            {
+             "0":
+                {
+                 "destx":"string",
+                 "desty":"string",
+                 "map":"string",
+                 "movementType":"string"
+                }
+            },
          "tilewidth":16
         }],
  "tilewidth":16,

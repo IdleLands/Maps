@@ -2014,6 +2014,26 @@
                  "width":16,
                  "x":256,
                  "y":640
+                }, 
+                {
+                 "gid":84,
+                 "height":16,
+                 "id":171,
+                 "name":"",
+                 "properties":
+                    {
+                     "forceEvent":"ItemForsake"
+                    },
+                 "propertytypes":
+                    {
+                     "forceEvent":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":816,
+                 "y":768
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2100,7 +2120,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":171,
+ "nextobjectid":172,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tileheight":16,
@@ -2109,13 +2129,33 @@
          "columns":9,
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":224,
+         "imageheight":272,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
          "spacing":0,
-         "tilecount":126,
+         "tilecount":153,
          "tileheight":16,
+         "tileproperties":
+            {
+             "0":
+                {
+                 "destx":"105",
+                 "desty":"142",
+                 "map":"Cabran",
+                 "movementType":"descend"
+                }
+            },
+         "tilepropertytypes":
+            {
+             "0":
+                {
+                 "destx":"string",
+                 "desty":"string",
+                 "map":"string",
+                 "movementType":"string"
+                }
+            },
          "tilewidth":16
         }],
  "tilewidth":16,
