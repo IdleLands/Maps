@@ -32,10 +32,6 @@
                  "height":16,
                  "id":1,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -48,10 +44,6 @@
                  "height":16,
                  "id":2,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -64,10 +56,6 @@
                  "height":16,
                  "id":3,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -84,6 +72,10 @@
                     {
                      "flavorText":"Tempermental from the heat."
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"Boss",
                  "visible":true,
@@ -99,6 +91,10 @@
                  "properties":
                     {
                      "flavorText":"See Spot? See Spot, run!"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
                     },
                  "rotation":0,
                  "type":"Boss",
@@ -117,6 +113,11 @@
                      "flavorText":"A rare delicacy, formed in the lava of the fire plains. Strangely, you can eat it. More strangely, it's delicious.",
                      "storyline":"Lore: Fire Plane"
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "storyline":"string"
+                    },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
@@ -134,6 +135,12 @@
                      "flavorText":"A small, translucent crystal with a flickering flame carried inside of it. It is warm to the touch.",
                      "rarity":"godly",
                      "storyline":"Lore: Fire Plane"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "rarity":"string",
+                     "storyline":"string"
                     },
                  "rotation":0,
                  "type":"Collectible",
@@ -154,6 +161,13 @@
                      "map":"Norkos",
                      "movementType":"teleport"
                     },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -169,6 +183,10 @@
                  "properties":
                     {
                      "forceEvent":"GoldBless"
+                    },
+                 "propertytypes":
+                    {
+                     "forceEvent":"string"
                     },
                  "rotation":0,
                  "type":"",
@@ -186,12 +204,196 @@
                     {
                      "forceEvent":"GoldBless"
                     },
+                 "propertytypes":
+                    {
+                     "forceEvent":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":16,
                  "x":384,
                  "y":704
+                }, 
+                {
+                 "gid":84,
+                 "height":16,
+                 "id":16,
+                 "name":"",
+                 "properties":
+                    {
+                     "forceEvent":"ItemForsake"
+                    },
+                 "propertytypes":
+                    {
+                     "forceEvent":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":160,
+                 "y":608
+                }, 
+                {
+                 "gid":84,
+                 "height":16,
+                 "id":17,
+                 "name":"",
+                 "properties":
+                    {
+                     "forceEvent":"ItemForsake"
+                    },
+                 "propertytypes":
+                    {
+                     "forceEvent":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":112,
+                 "y":608
+                }, 
+                {
+                 "gid":84,
+                 "height":16,
+                 "id":19,
+                 "name":"",
+                 "properties":
+                    {
+                     "forceEvent":"ItemForsake"
+                    },
+                 "propertytypes":
+                    {
+                     "forceEvent":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":128,
+                 "y":672
+                }, 
+                {
+                 "gid":84,
+                 "height":16,
+                 "id":22,
+                 "name":"",
+                 "properties":
+                    {
+                     "forceEvent":"ItemForsake"
+                    },
+                 "propertytypes":
+                    {
+                     "forceEvent":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":80,
+                 "y":672
+                }, 
+                {
+                 "gid":85,
+                 "height":16,
+                 "id":23,
+                 "name":"",
+                 "properties":
+                    {
+                     "forceEvent":"Enchant"
+                    },
+                 "propertytypes":
+                    {
+                     "forceEvent":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":128,
+                 "y":640
+                }, 
+                {
+                 "gid":84,
+                 "height":16,
+                 "id":24,
+                 "name":"",
+                 "properties":
+                    {
+                     "forceEvent":"ItemForsake"
+                    },
+                 "propertytypes":
+                    {
+                     "forceEvent":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":192,
+                 "y":624
+                }, 
+                {
+                 "gid":84,
+                 "height":16,
+                 "id":25,
+                 "name":"",
+                 "properties":
+                    {
+                     "forceEvent":"ItemForsake"
+                    },
+                 "propertytypes":
+                    {
+                     "forceEvent":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":160,
+                 "y":656
+                }, 
+                {
+                 "gid":84,
+                 "height":16,
+                 "id":26,
+                 "name":"",
+                 "properties":
+                    {
+                     "forceEvent":"ItemForsake"
+                    },
+                 "propertytypes":
+                    {
+                     "forceEvent":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":48,
+                 "y":656
+                }, 
+                {
+                 "gid":84,
+                 "height":16,
+                 "id":27,
+                 "name":"",
+                 "properties":
+                    {
+                     "forceEvent":"ItemForsake"
+                    },
+                 "propertytypes":
+                    {
+                     "forceEvent":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":80,
+                 "y":624
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -209,10 +411,6 @@
                  "height":224,
                  "id":11,
                  "name":"Fire Giant's Lair",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -227,29 +425,42 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":12,
+ "nextobjectid":28,
  "orientation":"orthogonal",
- "properties":
-    {
-
-    },
  "renderorder":"right-down",
  "tileheight":16,
  "tilesets":[
         {
+         "columns":9,
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":224,
+         "imageheight":272,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
-         "properties":
-            {
-
-            },
          "spacing":0,
-         "tilecount":126,
+         "tilecount":153,
          "tileheight":16,
+         "tileproperties":
+            {
+             "0":
+                {
+                 "destx":"105",
+                 "desty":"142",
+                 "map":"Cabran",
+                 "movementType":"descend"
+                }
+            },
+         "tilepropertytypes":
+            {
+             "0":
+                {
+                 "destx":"string",
+                 "desty":"string",
+                 "map":"string",
+                 "movementType":"string"
+                }
+            },
          "tilewidth":16
         }],
  "tilewidth":16,
