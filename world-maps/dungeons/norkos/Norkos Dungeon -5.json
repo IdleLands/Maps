@@ -1266,7 +1266,7 @@
                 {
                  "gid":149,
                  "height":16,
-                 "id":96,
+                 "id":97,
                  "name":"",
                  "properties":
                     {
@@ -1335,7 +1335,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":97,
+ "nextobjectid":98,
  "orientation":"orthogonal",
  "properties":
     {
