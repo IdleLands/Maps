@@ -398,27 +398,7 @@
                 {
                  "gid":149,
                  "height":16,
-                 "id":29,
-                 "name":"",
-                 "properties":
-                    {
-                     "forceEvent":"Gambling"
-                    },
-                 "propertytypes":
-                    {
-                     "forceEvent":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":64,
-                 "y":1088
-                }, 
-                {
-                 "gid":149,
-                 "height":16,
-                 "id":30,
+                 "id":33,
                  "name":"",
                  "properties":
                     {
@@ -434,6 +414,26 @@
                  "width":16,
                  "x":144,
                  "y":1040
+                }, 
+                {
+                 "gid":149,
+                 "height":16,
+                 "id":34,
+                 "name":"",
+                 "properties":
+                    {
+                     "forceEvent":"Gambling"
+                    },
+                 "propertytypes":
+                    {
+                     "forceEvent":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":64,
+                 "y":1088
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -465,7 +465,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":33,
+ "nextobjectid":35,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tileheight":16,

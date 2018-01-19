@@ -784,9 +784,29 @@
                  "y":384
                 }, 
                 {
+                 "gid":84,
+                 "height":16,
+                 "id":66,
+                 "name":"",
+                 "properties":
+                    {
+                     "forceEvent":"ItemForsake"
+                    },
+                 "propertytypes":
+                    {
+                     "forceEvent":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":784,
+                 "y":208
+                }, 
+                {
                  "gid":149,
                  "height":16,
-                 "id":60,
+                 "id":67,
                  "name":"",
                  "properties":
                     {
@@ -806,7 +826,7 @@
                 {
                  "gid":59,
                  "height":16,
-                 "id":62,
+                 "id":68,
                  "name":"",
                  "rotation":0,
                  "type":"",
@@ -818,7 +838,7 @@
                 {
                  "gid":59,
                  "height":16,
-                 "id":63,
+                 "id":69,
                  "name":"",
                  "rotation":0,
                  "type":"",
@@ -830,7 +850,7 @@
                 {
                  "gid":59,
                  "height":16,
-                 "id":64,
+                 "id":70,
                  "name":"",
                  "rotation":0,
                  "type":"",
@@ -842,7 +862,7 @@
                 {
                  "gid":59,
                  "height":16,
-                 "id":65,
+                 "id":72,
                  "name":"",
                  "rotation":0,
                  "type":"",
@@ -850,26 +870,6 @@
                  "width":16,
                  "x":416,
                  "y":256
-                }, 
-                {
-                 "gid":84,
-                 "height":16,
-                 "id":66,
-                 "name":"",
-                 "properties":
-                    {
-                     "forceEvent":"ItemForsake"
-                    },
-                 "propertytypes":
-                    {
-                     "forceEvent":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":784,
-                 "y":208
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -989,7 +989,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":67,
+ "nextobjectid":74,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tileheight":16,
