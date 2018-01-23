@@ -456,26 +456,6 @@
                  "width":16,
                  "x":288,
                  "y":64
-                }, 
-                {
-                 "gid":149,
-                 "height":16,
-                 "id":52,
-                 "name":"",
-                 "properties":
-                    {
-                     "forceEvent":"Gambling"
-                    },
-                 "propertytypes":
-                    {
-                     "forceEvent":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":272,
-                 "y":80
                 }],
          "opacity":1,
          "type":"objectgroup",

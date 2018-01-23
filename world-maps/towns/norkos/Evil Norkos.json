@@ -804,26 +804,6 @@
                  "y":208
                 }, 
                 {
-                 "gid":149,
-                 "height":16,
-                 "id":67,
-                 "name":"",
-                 "properties":
-                    {
-                     "forceEvent":"Gambling"
-                    },
-                 "propertytypes":
-                    {
-                     "forceEvent":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":432,
-                 "y":240
-                }, 
-                {
                  "gid":59,
                  "height":16,
                  "id":68,
