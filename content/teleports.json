@@ -261,6 +261,12 @@
       "formalName":"the Dungeon of Love",
       "x":213,
       "y":223
+    },
+	"norkossecret":{
+      "map":"Norkos Secret -1",
+      "formalName":"Norkos Secret -1",
+      "x":2,
+      "y":2
     }
   },
   "bosses":{
