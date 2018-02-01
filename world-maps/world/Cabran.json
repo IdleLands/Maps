@@ -4454,6 +4454,46 @@
                  "width":16,
                  "x":3152,
                  "y":176
+                }, 
+                {
+                 "gid":149,
+                 "height":16,
+                 "id":460,
+                 "name":"",
+                 "properties":
+                    {
+                     "forceEvent":"Gambling"
+                    },
+                 "propertytypes":
+                    {
+                     "forceEvent":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":3216,
+                 "y":176
+                }, 
+                {
+                 "gid":149,
+                 "height":16,
+                 "id":461,
+                 "name":"",
+                 "properties":
+                    {
+                     "forceEvent":"Gambling"
+                    },
+                 "propertytypes":
+                    {
+                     "forceEvent":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":1584,
+                 "y":1312
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -5068,7 +5108,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":460,
+ "nextobjectid":462,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tileheight":16,
@@ -5077,12 +5117,12 @@
          "columns":9,
          "firstgid":1,
          "image":"..\/..\/img\/tiles.png",
-         "imageheight":272,
+         "imageheight":288,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
          "spacing":0,
-         "tilecount":153,
+         "tilecount":162,
          "tileheight":16,
          "tileproperties":
             {

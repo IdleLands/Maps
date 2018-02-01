@@ -210,7 +210,7 @@
                  "type":"BossParty",
                  "visible":true,
                  "width":16,
-                 "x":496,
+                 "x":512,
                  "y":944
                 }, 
                 {
@@ -264,18 +264,6 @@
                  "width":16,
                  "x":192,
                  "y":864
-                }, 
-                {
-                 "gid":27,
-                 "height":16,
-                 "id":12,
-                 "name":"Christmas Gear",
-                 "rotation":0,
-                 "type":"Treasure",
-                 "visible":true,
-                 "width":16,
-                 "x":400,
-                 "y":480
                 }, 
                 {
                  "gid":18,
@@ -468,6 +456,26 @@
                  "width":16,
                  "x":416,
                  "y":752
+                }, 
+                {
+                 "gid":149,
+                 "height":16,
+                 "id":29,
+                 "name":"",
+                 "properties":
+                    {
+                     "forceEvent":"Gambling"
+                    },
+                 "propertytypes":
+                    {
+                     "forceEvent":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":400,
+                 "y":480
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -510,7 +518,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":29,
+ "nextobjectid":30,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tileheight":16,
@@ -519,12 +527,12 @@
          "columns":9,
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":272,
+         "imageheight":288,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
          "spacing":0,
-         "tilecount":153,
+         "tilecount":162,
          "tileheight":16,
          "tileproperties":
             {

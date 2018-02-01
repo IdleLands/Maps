@@ -2466,6 +2466,18 @@
                  "width":16,
                  "x":528,
                  "y":560
+                }, 
+                {
+                 "gid":15,
+                 "height":16,
+                 "id":170,
+                 "name":"Mhallice",
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":560,
+                 "y":560
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2541,7 +2553,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":170,
+ "nextobjectid":171,
  "orientation":"orthogonal",
  "properties":
     {
@@ -2558,12 +2570,12 @@
          "columns":9,
          "firstgid":1,
          "image":"..\/..\/img\/tiles.png",
-         "imageheight":272,
+         "imageheight":288,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
          "spacing":0,
-         "tilecount":153,
+         "tilecount":162,
          "tileheight":16,
          "tilewidth":16
         }],
