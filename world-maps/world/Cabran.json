@@ -4474,6 +4474,26 @@
                  "width":16,
                  "x":3216,
                  "y":176
+                }, 
+                {
+                 "gid":149,
+                 "height":16,
+                 "id":461,
+                 "name":"",
+                 "properties":
+                    {
+                     "forceEvent":"Gambling"
+                    },
+                 "propertytypes":
+                    {
+                     "forceEvent":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":1584,
+                 "y":1312
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -5088,7 +5108,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":461,
+ "nextobjectid":462,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tileheight":16,
