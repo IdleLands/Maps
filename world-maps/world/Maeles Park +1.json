@@ -346,6 +346,18 @@
                  "width":16,
                  "x":480,
                  "y":336
+                }, 
+                {
+                 "gid":161,
+                 "height":16,
+                 "id":25,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":352,
+                 "y":368
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -358,7 +370,29 @@
          "draworder":"topdown",
          "height":30,
          "name":"Regions",
-         "objects":[],
+         "objects":[
+                {
+                 "height":160,
+                 "id":26,
+                 "name":"Picnic Area",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":32,
+                 "y":32
+                }, 
+                {
+                 "height":96,
+                 "id":28,
+                 "name":"Quiet Pond",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":80,
+                 "x":32,
+                 "y":352
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -366,7 +400,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":25,
+ "nextobjectid":29,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tileheight":16,
