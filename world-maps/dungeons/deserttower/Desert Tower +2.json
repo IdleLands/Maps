@@ -172,7 +172,7 @@
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "width":13,
          "x":0,
          "y":0
@@ -186,12 +186,12 @@
          "columns":9,
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":272,
+         "imageheight":288,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
          "spacing":0,
-         "tilecount":153,
+         "tilecount":162,
          "tileheight":16,
          "tileproperties":
             {

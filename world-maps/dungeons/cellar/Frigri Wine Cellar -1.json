@@ -10,7 +10,7 @@
          "width":21,
          "x":0,
          "y":0
-        },
+        }, 
         {
          "data":[3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 46, 0, 0, 46, 3, 0, 0, 0, 46, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 3, 0, 0, 0, 0, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 46, 0, 0, 46, 3, 3, 3, 3, 3, 3, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 3, 0, 0, 0, 0, 3, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 3, 0, 0, 0, 0, 3, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 3, 46, 0, 0, 46, 3, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 3, 0, 0, 0, 0, 3, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 3, 3, 3, 3, 3, 3, 17, 17, 17, 17, 17],
          "height":10,
@@ -21,7 +21,7 @@
          "width":21,
          "x":0,
          "y":0
-        },
+        }, 
         {
          "draworder":"topdown",
          "height":0,
@@ -39,45 +39,44 @@
                      "map":"Norkos",
                      "movementType":"ascend"
                     },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
                  "width":16,
                  "x":208,
                  "y":128
-                },
+                }, 
                 {
                  "gid":18,
                  "height":16,
                  "id":2,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":16,
                  "x":240,
                  "y":48
-                },
+                }, 
                 {
                  "gid":18,
                  "height":16,
                  "id":3,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":16,
                  "x":160,
                  "y":48
-                },
+                }, 
                 {
                  "gid":35,
                  "height":16,
@@ -90,13 +89,20 @@
                      "map":"Frigri Wine Cellar -2",
                      "movementType":"fall"
                     },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
                  "width":16,
                  "x":128,
                  "y":32
-                },
+                }, 
                 {
                  "gid":35,
                  "height":16,
@@ -109,13 +115,20 @@
                      "map":"Frigri Wine Cellar -2",
                      "movementType":"fall"
                     },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
                  "width":16,
                  "x":128,
                  "y":64
-                },
+                }, 
                 {
                  "gid":35,
                  "height":16,
@@ -128,13 +141,20 @@
                      "map":"Frigri Wine Cellar -2",
                      "movementType":"fall"
                     },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
                  "width":16,
                  "x":112,
                  "y":48
-                },
+                }, 
                 {
                  "gid":35,
                  "height":16,
@@ -147,13 +167,20 @@
                      "map":"Frigri Wine Cellar -2",
                      "movementType":"fall"
                     },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
                  "width":16,
                  "x":96,
                  "y":64
-                },
+                }, 
                 {
                  "gid":35,
                  "height":16,
@@ -166,13 +193,20 @@
                      "map":"Frigri Wine Cellar -2",
                      "movementType":"fall"
                     },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
                  "width":16,
                  "x":32,
                  "y":48
-                },
+                }, 
                 {
                  "gid":35,
                  "height":16,
@@ -185,13 +219,20 @@
                      "map":"Frigri Wine Cellar -2",
                      "movementType":"fall"
                     },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
                  "width":16,
                  "x":64,
                  "y":48
-                },
+                }, 
                 {
                  "gid":35,
                  "height":16,
@@ -204,12 +245,39 @@
                      "map":"Frigri Wine Cellar -2",
                      "movementType":"fall"
                     },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
                  "width":16,
                  "x":80,
                  "y":32
+                }, 
+                {
+                 "gid":76,
+                 "height":16,
+                 "id":11,
+                 "name":"",
+                 "properties":
+                    {
+                     "forceEvent":"GoldBless"
+                    },
+                 "propertytypes":
+                    {
+                     "forceEvent":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":16,
+                 "y":48
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -218,28 +286,21 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":11,
+ "nextobjectid":12,
  "orientation":"orthogonal",
- "properties":
-    {
-
-    },
  "renderorder":"right-down",
  "tileheight":16,
  "tilesets":[
         {
+         "columns":9,
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":224,
+         "imageheight":288,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
-         "properties":
-            {
-
-            },
          "spacing":0,
-         "tilecount":126,
+         "tilecount":162,
          "tileheight":16,
          "tilewidth":16
         }],

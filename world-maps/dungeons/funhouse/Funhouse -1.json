@@ -12,7 +12,7 @@
          "y":0
         }, 
         {
-         "data":[50, 50, 3, 50, 3, 3, 50, 3, 3, 50, 17, 17, 17, 17, 50, 0, 0, 0, 0, 0, 0, 0, 0, 50, 0, 0, 0, 17, 3, 0, 0, 0, 0, 0, 0, 0, 0, 50, 0, 0, 0, 17, 3, 0, 0, 0, 0, 0, 0, 0, 0, 50, 0, 0, 0, 17, 50, 0, 0, 0, 0, 3, 3, 3, 3, 3, 0, 0, 0, 17, 50, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 17, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 3, 3, 3, 3, 3, 3, 0, 3, 3, 3, 0, 0, 0, 17, 3, 0, 0, 3, 3, 0, 0, 0, 0, 3, 0, 0, 0, 17, 3, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 17, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 17, 17, 17, 17],
+         "data":[50, 50, 3, 50, 3, 3, 50, 3, 3, 50, 17, 17, 17, 17, 50, 0, 0, 0, 0, 0, 0, 0, 0, 50, 0, 0, 0, 17, 3, 0, 0, 0, 0, 0, 0, 0, 0, 50, 0, 0, 0, 17, 3, 0, 0, 0, 0, 0, 0, 0, 0, 50, 0, 0, 0, 17, 50, 0, 0, 0, 0, 3, 3, 3, 3, 3, 0, 0, 0, 17, 50, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 17, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 3, 3, 3, 3, 3, 3, 0, 3, 3, 3, 0, 0, 0, 17, 3, 0, 0, 3, 3, 0, 0, 0, 0, 3, 0, 0, 0, 17, 3, 0, 0, 0, 0, 0, 0, 44, 0, 3, 0, 0, 0, 17, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 17, 17, 17, 17],
          "height":11,
          "name":"Blocking",
          "opacity":1,
@@ -136,6 +136,26 @@
                  "width":16,
                  "x":176,
                  "y":32
+                }, 
+                {
+                 "gid":12,
+                 "height":16,
+                 "id":8,
+                 "name":"",
+                 "properties":
+                    {
+                     "flavorText":"Free admission for all adventurers!"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Funhouse Attendant",
+                 "visible":true,
+                 "width":16,
+                 "x":128,
+                 "y":160
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -144,7 +164,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":8,
+ "nextobjectid":9,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tileheight":16,
@@ -153,13 +173,33 @@
          "columns":9,
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":272,
+         "imageheight":288,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
          "spacing":0,
-         "tilecount":153,
+         "tilecount":162,
          "tileheight":16,
+         "tileproperties":
+            {
+             "0":
+                {
+                 "destx":"105",
+                 "desty":"142",
+                 "map":"Cabran",
+                 "movementType":"descend"
+                }
+            },
+         "tilepropertytypes":
+            {
+             "0":
+                {
+                 "destx":"string",
+                 "desty":"string",
+                 "map":"string",
+                 "movementType":"string"
+                }
+            },
          "tilewidth":16
         }],
  "tilewidth":16,
