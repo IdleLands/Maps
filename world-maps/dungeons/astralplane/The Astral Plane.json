@@ -272,26 +272,6 @@
                  "y":528
                 }, 
                 {
-                 "gid":48,
-                 "height":16,
-                 "id":29,
-                 "name":"",
-                 "properties":
-                    {
-                     "flavorText":"A promotional poster for bread, tattered with age."
-                    },
-                 "propertytypes":
-                    {
-                     "flavorText":"string"
-                    },
-                 "rotation":0,
-                 "type":"Sign",
-                 "visible":true,
-                 "width":16,
-                 "x":816,
-                 "y":528
-                }, 
-                {
                  "gid":58,
                  "height":16,
                  "id":34,
@@ -1518,6 +1498,80 @@
                  "width":16,
                  "x":160,
                  "y":1200
+                }, 
+                {
+                 "gid":162,
+                 "height":16,
+                 "id":146,
+                 "name":"",
+                 "properties":
+                    {
+                     "flavorText":"A promotional poster for bread, tattered with age."
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Sign",
+                 "visible":true,
+                 "width":16,
+                 "x":816,
+                 "y":528
+                }, 
+                {
+                 "gid":86,
+                 "height":16,
+                 "id":148,
+                 "name":"Astral Merchant",
+                 "properties":
+                    {
+                     "forceEvent":"Merchant",
+                     "merchantBonus":"250"
+                    },
+                 "propertytypes":
+                    {
+                     "forceEvent":"string",
+                     "merchantBonus":"string"
+                    },
+                 "rotation":0,
+                 "type":"Merchant",
+                 "visible":true,
+                 "width":16,
+                 "x":1376,
+                 "y":352
+                }, 
+                {
+                 "gid":75,
+                 "height":16,
+                 "id":149,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":1296,
+                 "y":368
+                }, 
+                {
+                 "gid":162,
+                 "height":16,
+                 "id":150,
+                 "name":"",
+                 "properties":
+                    {
+                     "flavorText":"Astral Boardwalk Gambling Hall"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Sign",
+                 "visible":true,
+                 "width":16,
+                 "x":1248,
+                 "y":480
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1637,7 +1691,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":146,
+ "nextobjectid":151,
  "orientation":"orthogonal",
  "properties":
     {
