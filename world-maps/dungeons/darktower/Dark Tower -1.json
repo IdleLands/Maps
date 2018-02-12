@@ -12,7 +12,7 @@
          "y":0
         }, 
         {
-         "data":[17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 0, 17, 17, 17, 17, 17, 38, 38, 0, 0, 38, 38, 0, 0, 0, 0, 38, 38, 38, 17, 17, 38, 38, 38, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 0, 0, 0, 0, 17, 17, 38, 0, 0, 0, 0, 38, 17, 16, 16, 17, 38, 0, 38, 38, 38, 38, 0, 38, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 0, 0, 0, 0, 0, 17, 38, 57, 0, 0, 57, 38, 17, 16, 16, 17, 38, 0, 0, 0, 0, 0, 0, 38, 17, 17, 17, 33, 33, 33, 33, 33, 33, 33, 33, 33, 0, 0, 0, 0, 0, 0, 0, 17, 38, 0, 0, 0, 0, 38, 38, 38, 38, 38, 38, 0, 0, 0, 0, 0, 0, 38, 38, 17, 17, 33, 38, 38, 38, 38, 38, 38, 38, 38, 0, 0, 0, 0, 0, 0, 16, 17, 38, 0, 0, 0, 0, 38, 0, 0, 0, 0, 38, 0, 0, 0, 0, 0, 0, 0, 38, 0, 0, 0, 38, 0, 0, 38, 0, 0, 0, 38, 33, 17, 0, 0, 0, 0, 0, 17, 38, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 38, 0, 0, 38, 0, 0, 0, 38, 33, 17, 0, 16, 16, 16, 0, 17, 38, 0, 0, 0, 0, 38, 0, 0, 0, 0, 38, 0, 0, 0, 0, 0, 0, 0, 38, 0, 0, 0, 38, 0, 0, 0, 0, 0, 0, 38, 33, 17, 17, 17, 17, 17, 17, 17, 38, 0, 0, 0, 0, 38, 38, 38, 38, 38, 38, 0, 0, 0, 0, 0, 0, 38, 38, 17, 17, 33, 38, 38, 38, 38, 38, 38, 38, 38, 33, 17, 17, 17, 17, 17, 17, 17, 38, 57, 0, 0, 57, 38, 17, 17, 17, 17, 38, 0, 0, 0, 0, 0, 0, 38, 17, 17, 17, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 17, 17, 17, 17, 17, 17, 17, 38, 0, 0, 0, 0, 38, 17, 17, 17, 17, 38, 0, 38, 38, 38, 38, 0, 38, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 38, 38, 38, 38, 38, 38, 17, 17, 17, 17, 38, 38, 38, 17, 17, 38, 38, 38, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17],
+         "data":[17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 0, 17, 17, 17, 17, 17, 38, 38, 0, 0, 38, 38, 0, 0, 0, 0, 38, 38, 38, 17, 17, 38, 38, 38, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 0, 0, 0, 0, 17, 17, 38, 0, 0, 0, 0, 38, 17, 16, 16, 17, 38, 0, 38, 38, 38, 38, 0, 38, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 0, 0, 0, 0, 0, 17, 38, 57, 0, 0, 57, 38, 17, 16, 16, 17, 38, 0, 0, 0, 0, 0, 0, 38, 17, 17, 17, 33, 33, 33, 33, 33, 33, 33, 33, 33, 0, 0, 0, 0, 0, 0, 0, 17, 38, 0, 0, 0, 0, 38, 38, 38, 38, 38, 38, 0, 0, 0, 0, 0, 0, 38, 38, 17, 17, 33, 38, 38, 38, 38, 38, 38, 38, 38, 0, 0, 0, 0, 0, 0, 16, 17, 38, 0, 0, 0, 0, 38, 0, 0, 0, 0, 38, 0, 0, 0, 0, 0, 0, 0, 38, 0, 0, 0, 38, 0, 0, 38, 0, 0, 159, 38, 33, 17, 0, 0, 0, 0, 0, 17, 38, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 38, 0, 0, 38, 0, 0, 0, 38, 33, 17, 0, 16, 16, 16, 0, 17, 38, 0, 0, 0, 0, 38, 0, 0, 0, 0, 38, 0, 0, 0, 0, 0, 0, 0, 38, 0, 0, 0, 38, 0, 0, 0, 0, 0, 0, 38, 33, 17, 17, 17, 17, 17, 17, 17, 38, 0, 0, 0, 0, 38, 38, 38, 38, 38, 38, 0, 0, 0, 0, 0, 0, 38, 38, 17, 17, 33, 38, 38, 38, 38, 38, 38, 38, 38, 33, 17, 17, 17, 17, 17, 17, 17, 38, 57, 0, 0, 57, 38, 17, 17, 17, 17, 38, 0, 0, 0, 0, 0, 0, 38, 17, 17, 17, 33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 17, 17, 17, 17, 17, 17, 17, 38, 0, 0, 0, 0, 38, 17, 17, 17, 17, 38, 0, 38, 38, 38, 38, 0, 38, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 38, 38, 38, 38, 38, 38, 17, 17, 17, 17, 38, 38, 38, 17, 17, 38, 38, 38, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17],
          "height":14,
          "name":"Blocking",
          "opacity":1,
@@ -36,6 +36,10 @@
                     {
                      "flavorText":"Radiating with heat, this powerful Guardian is capable of controlling any other Guardian."
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"Boss",
                  "visible":true,
@@ -51,6 +55,10 @@
                  "properties":
                     {
                      "flavorText":"The limbs and head of this Guardian can rotate, giving it a nimbleness few other Guardians have."
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
                     },
                  "rotation":0,
                  "type":"Boss",
@@ -68,6 +76,10 @@
                     {
                      "flavorText":"Holding a Cleric's Text written in binary."
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"Boss",
                  "visible":true,
@@ -83,6 +95,10 @@
                  "properties":
                     {
                      "flavorText":"Protects the manual on how to create other Guardians."
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
                     },
                  "rotation":0,
                  "type":"Boss",
@@ -100,6 +116,10 @@
                     {
                      "flavorText":"Rapidly turning material components into spells."
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"Boss",
                  "visible":true,
@@ -116,6 +136,11 @@
                     {
                      "flavorText":"This star-shaped sigil ring marks the carrier as a Guardian of the Dark Tower.",
                      "storyline":"Lore: Dark Tower"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "storyline":"string"
                     },
                  "rotation":0,
                  "type":"Collectible",
@@ -136,6 +161,13 @@
                      "map":"Norkos",
                      "movementType":"ascend"
                     },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -154,6 +186,13 @@
                      "desty":"1",
                      "map":"Dark Tower -2",
                      "movementType":"descend"
+                    },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
                     },
                  "rotation":0,
                  "type":"Teleport",
@@ -174,6 +213,13 @@
                      "map":"Norkos",
                      "movementType":"ascend"
                     },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -189,6 +235,10 @@
                  "properties":
                     {
                      "flavorText":"This skeleton wears a sign reading 'Enter and die'"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
                     },
                  "rotation":0,
                  "type":"Skeleton",
@@ -209,6 +259,13 @@
                      "map":"Dark Tower -3",
                      "movementType":"fall"
                     },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -228,6 +285,13 @@
                      "map":"Dark Tower -3",
                      "movementType":"fall"
                     },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -246,6 +310,13 @@
                      "desty":"5",
                      "map":"Dark Tower -3",
                      "movementType":"fall"
+                    },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
                     },
                  "rotation":0,
                  "type":"Teleport",
@@ -267,6 +338,14 @@
                      "map":"Evil Norkos",
                      "movementType":"ascend"
                     },
+                 "propertytypes":
+                    {
+                     "destName":"string",
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -285,6 +364,13 @@
                      "desty":"2",
                      "map":"Dark Tower -3",
                      "movementType":"fall"
+                    },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
                     },
                  "rotation":0,
                  "type":"Teleport",
@@ -305,6 +391,13 @@
                      "map":"Dark Tower -3",
                      "movementType":"fall"
                     },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -317,10 +410,6 @@
                  "height":16,
                  "id":25,
                  "name":"Necromancer",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"Trainer",
                  "visible":true,
@@ -333,10 +422,6 @@
                  "height":16,
                  "id":26,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -349,10 +434,6 @@
                  "height":16,
                  "id":27,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -365,10 +446,6 @@
                  "height":16,
                  "id":28,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -381,10 +458,6 @@
                  "height":16,
                  "id":29,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -397,10 +470,6 @@
                  "height":16,
                  "id":30,
                  "name":"",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -409,35 +478,43 @@
                  "y":64
                 }, 
                 {
-                 "gid":79,
+                 "gid":158,
                  "height":16,
-                 "id":31,
-                 "name":"",
-                 "properties":
-                    {
-                     "flavorText":"This grave has been exhumed."
-                    },
-                 "rotation":0,
-                 "type":"Tombstone",
-                 "visible":true,
-                 "width":16,
-                 "x":112,
-                 "y":32
-                }, 
-                {
-                 "gid":79,
-                 "height":16,
-                 "id":32,
+                 "id":34,
                  "name":"",
                  "properties":
                     {
                      "flavorText":"The grave has been dug up, and a closed casket is visible."
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
-                 "type":"Tombstone",
+                 "type":"Open Grave",
                  "visible":true,
                  "width":16,
                  "x":80,
+                 "y":32
+                }, 
+                {
+                 "gid":158,
+                 "height":16,
+                 "id":35,
+                 "name":"",
+                 "properties":
+                    {
+                     "flavorText":"This grave has been exhumed."
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Open Grave",
+                 "visible":true,
+                 "width":16,
+                 "x":112,
                  "y":32
                 }],
          "opacity":1,
@@ -456,10 +533,6 @@
                  "height":48,
                  "id":23,
                  "name":"Dark Tower Area",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -471,10 +544,6 @@
                  "height":192,
                  "id":24,
                  "name":"Guardian's Lair",
-                 "properties":
-                    {
-
-                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -489,28 +558,21 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":33,
+ "nextobjectid":36,
  "orientation":"orthogonal",
- "properties":
-    {
-
-    },
  "renderorder":"right-down",
  "tileheight":16,
  "tilesets":[
         {
+         "columns":9,
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":224,
+         "imageheight":288,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
-         "properties":
-            {
-
-            },
          "spacing":0,
-         "tilecount":126,
+         "tilecount":162,
          "tileheight":16,
          "tilewidth":16
         }],

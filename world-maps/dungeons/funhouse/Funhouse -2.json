@@ -346,6 +346,26 @@
                  "width":16,
                  "x":192,
                  "y":144
+                }, 
+                {
+                 "gid":12,
+                 "height":16,
+                 "id":35,
+                 "name":"",
+                 "properties":
+                    {
+                     "flavorText":"Do not shoot yourself in the eye, please!"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Funhouse Attendant",
+                 "visible":true,
+                 "width":16,
+                 "x":96,
+                 "y":192
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -377,7 +397,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":35,
+ "nextobjectid":36,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tileheight":16,

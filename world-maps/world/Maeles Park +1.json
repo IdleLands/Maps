@@ -358,6 +358,18 @@
                  "width":16,
                  "x":352,
                  "y":368
+                }, 
+                {
+                 "gid":158,
+                 "height":16,
+                 "id":29,
+                 "name":"",
+                 "rotation":0,
+                 "type":"Crumbling Tombstone",
+                 "visible":true,
+                 "width":16,
+                 "x":288,
+                 "y":48
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -395,12 +407,12 @@
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "width":36,
          "x":0,
          "y":0
         }],
- "nextobjectid":29,
+ "nextobjectid":30,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tileheight":16,

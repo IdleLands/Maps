@@ -362,6 +362,18 @@
                  "width":16,
                  "x":64,
                  "y":208
+                }, 
+                {
+                 "gid":161,
+                 "height":16,
+                 "id":28,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":128,
+                 "y":208
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -370,7 +382,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":28,
+ "nextobjectid":29,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tileheight":16,
@@ -379,12 +391,12 @@
          "columns":9,
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":272,
+         "imageheight":288,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
          "spacing":0,
-         "tilecount":153,
+         "tilecount":162,
          "tileheight":16,
          "tilewidth":16
         }],

@@ -392,6 +392,74 @@
                  "width":16,
                  "x":400,
                  "y":560
+                }, 
+                {
+                 "gid":12,
+                 "height":16,
+                 "id":24,
+                 "name":"Scared",
+                 "properties":
+                    {
+                     "flavorText":"Please do something about that terrible dragon in the mountains!"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Resident of Vocalnus Town",
+                 "visible":true,
+                 "width":16,
+                 "x":432,
+                 "y":336
+                }, 
+                {
+                 "gid":51,
+                 "height":16,
+                 "id":25,
+                 "name":"",
+                 "rotation":0,
+                 "type":"Skeleton",
+                 "visible":true,
+                 "width":16,
+                 "x":400,
+                 "y":64
+                }, 
+                {
+                 "gid":51,
+                 "height":16,
+                 "id":26,
+                 "name":"",
+                 "rotation":0,
+                 "type":"Skeleton",
+                 "visible":true,
+                 "width":16,
+                 "x":496,
+                 "y":32
+                }, 
+                {
+                 "gid":51,
+                 "height":16,
+                 "id":28,
+                 "name":"",
+                 "rotation":0,
+                 "type":"Skeleton",
+                 "visible":true,
+                 "width":16,
+                 "x":240,
+                 "y":80
+                }, 
+                {
+                 "gid":51,
+                 "height":16,
+                 "id":29,
+                 "name":"",
+                 "rotation":0,
+                 "type":"Skeleton",
+                 "visible":true,
+                 "width":16,
+                 "x":320,
+                 "y":32
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -456,7 +524,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":24,
+ "nextobjectid":30,
  "orientation":"orthogonal",
  "properties":
     {
@@ -473,12 +541,12 @@
          "columns":9,
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":272,
+         "imageheight":288,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
          "spacing":0,
-         "tilecount":153,
+         "tilecount":162,
          "tileheight":16,
          "tilewidth":16
         }],

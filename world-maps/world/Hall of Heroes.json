@@ -254,32 +254,6 @@
                  "y":128
                 }, 
                 {
-                 "gid":2,
-                 "height":16,
-                 "id":16,
-                 "name":"ToNorkos",
-                 "properties":
-                    {
-                     "destx":"33",
-                     "desty":"5",
-                     "map":"Norkos",
-                     "movementType":"ascend"
-                    },
-                 "propertytypes":
-                    {
-                     "destx":"string",
-                     "desty":"string",
-                     "map":"string",
-                     "movementType":"string"
-                    },
-                 "rotation":0,
-                 "type":"Teleport",
-                 "visible":true,
-                 "width":16,
-                 "x":112,
-                 "y":128
-                }, 
-                {
                  "gid":25,
                  "height":16,
                  "id":25,
@@ -2478,6 +2452,32 @@
                  "width":16,
                  "x":560,
                  "y":560
+                }, 
+                {
+                 "gid":32,
+                 "height":16,
+                 "id":172,
+                 "name":"ToNorkos",
+                 "properties":
+                    {
+                     "destx":"33",
+                     "desty":"5",
+                     "map":"Norkos",
+                     "movementType":"teleport"
+                    },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":112,
+                 "y":128
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2553,7 +2553,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":171,
+ "nextobjectid":173,
  "orientation":"orthogonal",
  "properties":
     {
