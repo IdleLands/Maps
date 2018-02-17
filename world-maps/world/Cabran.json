@@ -2328,18 +2328,6 @@
                 {
                  "gid":48,
                  "height":16,
-                 "id":275,
-                 "name":"Access point to the Temple of the Beetle",
-                 "rotation":0,
-                 "type":"Sign",
-                 "visible":true,
-                 "width":16,
-                 "x":2496,
-                 "y":2672
-                }, 
-                {
-                 "gid":48,
-                 "height":16,
                  "id":276,
                  "name":"Access point to the Transmuter's Cellar",
                  "rotation":0,
@@ -4530,6 +4518,32 @@
                  "width":16,
                  "x":1648,
                  "y":1248
+                }, 
+                {
+                 "gid":1,
+                 "height":16,
+                 "id":471,
+                 "name":"ToBeetle-1",
+                 "properties":
+                    {
+                     "destx":"18",
+                     "desty":"5",
+                     "map":"Temple of the Beetle -1",
+                     "movementType":"descend"
+                    },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":2496,
+                 "y":2672
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -5144,7 +5158,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":471,
+ "nextobjectid":472,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tileheight":16,
