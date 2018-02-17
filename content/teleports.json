@@ -839,6 +839,12 @@
       "formalName":"the Deep Well Engineer",
       "x":15,
       "y":22
+    },
+    "beetlelord":{
+      "map":"Temple of the Beetle -2",
+      "formalName":"the Five-Legged Beetle Lord",
+      "x":3,
+      "y":11
     }	
   },
   "dungeons":{
@@ -967,6 +973,12 @@
       "formalName":"the Cabran Dungeon entrance",
       "x":22,
       "y":185
+    },
+    "maelespark":{
+      "map":"Norkos",
+      "formalName":"the Maeles Park entrance",
+      "x":54,
+      "y":135
     }	
   }
 }

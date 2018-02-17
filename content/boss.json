@@ -2307,5 +2307,32 @@
         "items": [
             { "name": "Repeating Clockborg Arrow Launcher", "dropPercent": 81 }
         ]
+    },
+    "Five-Legged Beetle Lord": {
+        "respawn": 10800,
+        "availableScore": 9000,
+        "stats": {
+            "class": "Fighter",
+            "hp": 1759000,
+            "level": 160,
+            "str": 15250,
+            "con": 16000,
+            "dex": 9000,
+            "agi": 9000,
+            "int": 8000,
+            "luk": 4800,
+			"power": 1,
+            "aegis": 1,
+            "dance": 1,
+            "prone": 1,
+            "silver": 1,
+            "glowing": 1,
+            "crit": 3,
+            "offense": 1,
+            "defense": 5
+        },
+        "items": [
+            { "name": "Gnarled Mandibles", "dropPercent": 85 }
+        ]
     }	
 }
