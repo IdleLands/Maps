@@ -194,26 +194,6 @@
                  "y":160
                 }, 
                 {
-                 "gid":48,
-                 "height":16,
-                 "id":12,
-                 "name":"",
-                 "properties":
-                    {
-                     "flavorText":"i keel joo"
-                    },
-                 "propertytypes":
-                    {
-                     "flavorText":"string"
-                    },
-                 "rotation":0,
-                 "type":"Sign",
-                 "visible":true,
-                 "width":16,
-                 "x":416,
-                 "y":144
-                }, 
-                {
                  "gid":59,
                  "height":16,
                  "id":15,
@@ -488,6 +468,26 @@
                  "width":16,
                  "x":640,
                  "y":640
+                }, 
+                {
+                 "gid":162,
+                 "height":16,
+                 "id":42,
+                 "name":"",
+                 "properties":
+                    {
+                     "flavorText":"i keel joo"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Sign",
+                 "visible":true,
+                 "width":16,
+                 "x":416,
+                 "y":144
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -530,7 +530,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":42,
+ "nextobjectid":43,
  "orientation":"orthogonal",
  "properties":
     {
@@ -547,12 +547,12 @@
          "columns":9,
          "firstgid":1,
          "image":"..\/..\/img\/tiles.png",
-         "imageheight":224,
+         "imageheight":288,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
          "spacing":0,
-         "tilecount":126,
+         "tilecount":162,
          "tileheight":16,
          "tilewidth":16
         }],
