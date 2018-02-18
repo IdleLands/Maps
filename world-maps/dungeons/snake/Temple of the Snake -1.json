@@ -332,18 +332,6 @@
                  "y":112
                 }, 
                 {
-                 "gid":32,
-                 "height":16,
-                 "id":34,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":256,
-                 "y":64
-                }, 
-                {
                  "gid":15,
                  "height":16,
                  "id":35,
@@ -488,6 +476,32 @@
                  "width":16,
                  "x":256,
                  "y":80
+                }, 
+                {
+                 "gid":32,
+                 "height":16,
+                 "id":43,
+                 "name":"ToCabran",
+                 "properties":
+                    {
+                     "destx":"10",
+                     "desty":"1",
+                     "map":"Cabran",
+                     "movementType":"teleport"
+                    },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":256,
+                 "y":64
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -519,7 +533,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":43,
+ "nextobjectid":44,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tileheight":16,
@@ -528,12 +542,12 @@
          "columns":9,
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":272,
+         "imageheight":288,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
          "spacing":0,
-         "tilecount":153,
+         "tilecount":162,
          "tileheight":16,
          "tileproperties":
             {
