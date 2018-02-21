@@ -979,6 +979,12 @@
       "formalName":"the Maeles Park entrance",
       "x":54,
       "y":135
+    },
+	"fatetester":{
+      "map":"Minotaur Maze -4",
+      "formalName":"outside a Fate Lake portal in the Minotaur Maze",
+      "x":35,
+      "y":9
     }	
   }
 }
