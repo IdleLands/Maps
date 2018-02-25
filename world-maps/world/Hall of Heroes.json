@@ -2478,6 +2478,38 @@
                  "width":16,
                  "x":112,
                  "y":128
+                }, 
+                {
+                 "gid":15,
+                 "height":16,
+                 "id":173,
+                 "name":"steph101",
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":592,
+                 "y":560
+                }, 
+                {
+                 "gid":15,
+                 "height":16,
+                 "id":174,
+                 "name":"Anonymous Donator",
+                 "properties":
+                    {
+                     "flavorText":"Thank you for your contribution!"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":624,
+                 "y":560
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2553,7 +2585,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":173,
+ "nextobjectid":175,
  "orientation":"orthogonal",
  "properties":
     {
