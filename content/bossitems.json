@@ -883,7 +883,14 @@
     "xp": 7,
     "aReqClassy:_Archer": 1,
     "cReqMysterious_Obsidian_Block": 2
-  },  
+  },
+  "Gnarled Mandibles": {
+    "type": "head",
+    "str": 9000,
+    "defense": 1,
+    "vorpal": 1,
+    "xp": 3
+  }, 
   "dSolver's Feather": {
     "type": "mainhand",
     "str": 50,

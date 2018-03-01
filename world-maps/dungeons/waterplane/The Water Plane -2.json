@@ -39,6 +39,13 @@
                      "map":"Norkos",
                      "movementType":"teleport"
                     },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -56,6 +63,11 @@
                      "flavorText":"A very rare crab with a shell entirely made of crystal. Mage loves these miniature gold-making delicacies.",
                      "storyline":"Memoir: Mage"
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "storyline":"string"
+                    },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
@@ -72,6 +84,11 @@
                     {
                      "flavorText":"This ring is missing its socketed gem.",
                      "storyline":"Lore: Water Plane"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "storyline":"string"
                     },
                  "rotation":0,
                  "type":"Collectible",
@@ -92,6 +109,13 @@
                      "map":"The Water Plane -1",
                      "movementType":"ascend"
                     },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -108,6 +132,10 @@
                     {
                      "flavorText":"Clutching a note that reads, \"This isn't what I meant by burial at sea.\""
                     },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"Skeleton",
                  "visible":true,
@@ -123,6 +151,10 @@
                  "properties":
                     {
                      "forceEvent":"GoldBless"
+                    },
+                 "propertytypes":
+                    {
+                     "forceEvent":"string"
                     },
                  "rotation":0,
                  "type":"",
@@ -142,7 +174,17 @@
                      "destx":"20",
                      "desty":"25",
                      "map":"Fate Lake",
-                     "movementType":"teleport"
+                     "movementType":"teleport",
+                     "requireAchievement":"Mapceptional: Fate Pools -2"
+                    },
+                 "propertytypes":
+                    {
+                     "customMessage":"string",
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string",
+                     "requireAchievement":"string"
                     },
                  "rotation":0,
                  "type":"Teleport",
@@ -159,6 +201,10 @@
                  "properties":
                     {
                      "flavorText":"A plank of wood from an old ship. Painted in white is a skull and crossbones."
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
                     },
                  "rotation":0,
                  "type":"Sign",
@@ -180,6 +226,14 @@
                      "map":"The Water Plane -2",
                      "movementType":"fall"
                     },
+                 "propertytypes":
+                    {
+                     "customMessage":"string",
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
@@ -196,26 +250,19 @@
         }],
  "nextobjectid":20,
  "orientation":"orthogonal",
- "properties":
-    {
-
-    },
  "renderorder":"right-down",
  "tileheight":16,
  "tilesets":[
         {
+         "columns":9,
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":224,
+         "imageheight":288,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
-         "properties":
-            {
-
-            },
          "spacing":0,
-         "tilecount":126,
+         "tilecount":162,
          "tileheight":16,
          "tilewidth":16
         }],
