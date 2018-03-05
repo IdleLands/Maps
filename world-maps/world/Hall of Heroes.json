@@ -2510,6 +2510,26 @@
                  "width":16,
                  "x":624,
                  "y":560
+                }, 
+                {
+                 "gid":69,
+                 "height":16,
+                 "id":175,
+                 "name":"Inusion",
+                 "properties":
+                    {
+                     "flavorText":"LGBT in the house!"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":656,
+                 "y":560
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2585,7 +2605,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":175,
+ "nextobjectid":176,
  "orientation":"orthogonal",
  "properties":
     {
