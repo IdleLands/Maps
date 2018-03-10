@@ -2530,6 +2530,18 @@
                  "width":16,
                  "x":656,
                  "y":560
+                }, 
+                {
+                 "gid":15,
+                 "height":16,
+                 "id":176,
+                 "name":"BubbaSWalter",
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":688,
+                 "y":560
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2605,7 +2617,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":176,
+ "nextobjectid":177,
  "orientation":"orthogonal",
  "properties":
     {
