@@ -468,26 +468,6 @@
                  "y":512
                 }, 
                 {
-                 "gid":48,
-                 "height":16,
-                 "id":55,
-                 "name":"",
-                 "properties":
-                    {
-                     "flavorText":"Keep out of Pleh's home!"
-                    },
-                 "propertytypes":
-                    {
-                     "flavorText":"string"
-                    },
-                 "rotation":0,
-                 "type":"Sign",
-                 "visible":true,
-                 "width":16,
-                 "x":272,
-                 "y":432
-                }, 
-                {
                  "gid":76,
                  "height":16,
                  "id":56,
@@ -1548,6 +1528,26 @@
                  "width":16,
                  "x":272,
                  "y":528
+                }, 
+                {
+                 "gid":162,
+                 "height":16,
+                 "id":166,
+                 "name":"",
+                 "properties":
+                    {
+                     "flavorText":"Keep out of Pleh's home!"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Sign",
+                 "visible":true,
+                 "width":16,
+                 "x":272,
+                 "y":432
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1656,7 +1656,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":166,
+ "nextobjectid":167,
  "orientation":"orthogonal",
  "properties":
     {

@@ -1178,26 +1178,6 @@
                  "y":128
                 }, 
                 {
-                 "gid":48,
-                 "height":16,
-                 "id":172,
-                 "name":"",
-                 "properties":
-                    {
-                     "flavorText":"A poster of a ninja hanging upside down from a branch. The text on the bottom says \"hang in there!\""
-                    },
-                 "propertytypes":
-                    {
-                     "flavorText":"string"
-                    },
-                 "rotation":0,
-                 "type":"Poster",
-                 "visible":true,
-                 "width":16,
-                 "x":448,
-                 "y":464
-                }, 
-                {
                  "gid":51,
                  "height":16,
                  "id":176,
@@ -1216,6 +1196,26 @@
                  "width":16,
                  "x":480,
                  "y":96
+                }, 
+                {
+                 "gid":162,
+                 "height":16,
+                 "id":177,
+                 "name":"",
+                 "properties":
+                    {
+                     "flavorText":"A poster of a ninja hanging upside down from a branch. The text on the bottom says \"hang in there!\""
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Poster",
+                 "visible":true,
+                 "width":16,
+                 "x":448,
+                 "y":464
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1224,7 +1224,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":177,
+ "nextobjectid":178,
  "orientation":"orthogonal",
  "properties":
     {

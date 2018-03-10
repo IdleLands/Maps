@@ -368,26 +368,6 @@
                  "y":80
                 }, 
                 {
-                 "gid":48,
-                 "height":16,
-                 "id":29,
-                 "name":"",
-                 "properties":
-                    {
-                     "flavorText":"Funhouse Supply Closet: Employees only!"
-                    },
-                 "propertytypes":
-                    {
-                     "flavorText":"string"
-                    },
-                 "rotation":0,
-                 "type":"Sign",
-                 "visible":true,
-                 "width":16,
-                 "x":256,
-                 "y":96
-                }, 
-                {
                  "gid":86,
                  "height":16,
                  "id":30,
@@ -640,6 +620,26 @@
                  "width":16,
                  "x":48,
                  "y":80
+                }, 
+                {
+                 "gid":162,
+                 "height":16,
+                 "id":49,
+                 "name":"",
+                 "properties":
+                    {
+                     "flavorText":"Funhouse Supply Closet: Employees only!"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Sign",
+                 "visible":true,
+                 "width":16,
+                 "x":256,
+                 "y":96
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -693,7 +693,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":49,
+ "nextobjectid":50,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tileheight":16,
