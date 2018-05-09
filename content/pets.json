@@ -1091,7 +1091,7 @@
         "requirements": {
             "statistics": {
                 "Character.Event.Switcheroo": 500
-            },
+            }
         },
         "scale": {
             "maxLevel": [1],
