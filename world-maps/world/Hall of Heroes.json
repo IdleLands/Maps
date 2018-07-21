@@ -2542,6 +2542,90 @@
                  "width":16,
                  "x":688,
                  "y":560
+                }, 
+                {
+                 "gid":15,
+                 "height":16,
+                 "id":177,
+                 "name":"MoleOfWar",
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":720,
+                 "y":560
+                }, 
+                {
+                 "gid":73,
+                 "height":16,
+                 "id":178,
+                 "name":"Cinnamon Haske",
+                 "properties":
+                    {
+                     "flavorText":"All you need to do to succeed is try."
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":32,
+                 "y":592
+                }, 
+                {
+                 "gid":15,
+                 "height":16,
+                 "id":179,
+                 "name":"VolkFrost",
+                 "properties":
+                    {
+                     "flavorText":"ayy lmao"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":64,
+                 "y":592
+                }, 
+                {
+                 "gid":77,
+                 "height":16,
+                 "id":180,
+                 "name":"Shunamaji",
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":96,
+                 "y":592
+                }, 
+                {
+                 "gid":71,
+                 "height":16,
+                 "id":181,
+                 "name":"PlutoniumApe",
+                 "properties":
+                    {
+                     "flavorText":"Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
+                 "rotation":0,
+                 "type":"Hero (Donator)",
+                 "visible":true,
+                 "width":16,
+                 "x":128,
+                 "y":592
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2617,7 +2701,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":177,
+ "nextobjectid":182,
  "orientation":"orthogonal",
  "properties":
     {
