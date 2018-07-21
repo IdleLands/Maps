@@ -1079,6 +1079,48 @@
         }
     },
 
+        
+    "Pineapple'o'tron": {
+        "cost": 1000000000,
+        "category": "Protector",
+        "description": "Unlocked by becoming a master of polarization.",
+        "slots": {
+        },
+        "specialStats": { 
+        },
+        "requirements": {
+            "statistics": {
+                "Character.Event.Switcheroo": 500
+            }
+        },
+        "scale": {
+            "maxLevel": [1],
+            "maxItemScore": [0],
+            "inventory": [1],
+            "goldStorage": [0],
+            "battleJoinPercent": [0],
+            "itemFindTimeDuration": [900],
+            "itemSellMultiplier": [0],
+            "itemFindBonus": [0],
+            "itemFindRangeMultiplier": [0],
+            "xpPerGold": [0],
+            "salvage": [0]
+        },
+        "scaleCost": {
+            "maxLevel": [0],
+            "maxItemScore": [0],
+            "inventory": [0],
+            "goldStorage": [0],
+            "battleJoinPercent": [0],
+            "itemFindTimeDuration": [0],
+            "itemSellMultiplier": [0],
+            "itemFindBonus": [0],
+            "itemFindRangeMultiplier": [0],
+            "xpPerGold": [0],
+            "salvage": [0]
+        }
+    },
+    
     "Talking Spirit Wisp": {
         "cost": 1,
         "category": "Hybrid",
