@@ -44,6 +44,98 @@
         }
     },
 
+    "Pet Boulder": {
+        "cost": 100000,
+        "category": "Hybrid",
+        "description": "Unlocked by powering up 49 times.",
+        "slots": {
+            "body": 5
+        },
+        "specialStats": {
+            "prone": 5,
+            "aegis": 5,
+            "defense": 15,
+            "offense": 15
+        },
+        "requirements": {
+            "achievements": [
+                { "name": "Levelable", "tier": 5 }
+            ]
+        },
+        "scale": {
+            "maxLevel": [50, 100, 200],
+            "maxItemScore": [750, 1000, 2000, 5000, 10000, 30000],
+            "inventory": [13, 15, 17, 19, 21, 23, 25],
+            "goldStorage": [100000, 300000, 500000],
+            "battleJoinPercent": [35, 45, 55, 65, 75],
+            "itemFindTimeDuration": [0, 10800, 3600, 1800, 450, 100],
+            "itemSellMultiplier": [0.25, 0.35, 0.45],
+            "itemFindBonus": [0, 20, 25, 26, 27, 30],
+            "itemFindRangeMultiplier": [0, 0.1, 0.3, 0.5],
+            "xpPerGold": [10],
+            "salvage": [1]
+        },
+        "scaleCost": {
+            "maxLevel": [0, 50000, 200000],
+            "maxItemScore": [0, 10000, 20000, 30000, 40000, 50000],
+            "inventory": [0, 10000, 25000, 50000, 75000, 100000, 250000],
+            "goldStorage": [0, 100000, 300000, 500000],
+            "battleJoinPercent": [0, 10000, 20000, 30000, 40000],
+            "itemFindTimeDuration": [0, 50000, 60000, 70000, 80000, 90000],
+            "itemSellMultiplier": [0, 80000, 100000],
+            "itemFindBonus": [0, 50000, 60000, 70000, 80000, 90000],
+            "itemFindRangeMultiplier": [0, 50000, 60000, 70000],
+            "xpPerGold": [0],
+            "salvage": [0]
+        }
+    },
+   
+    "Pet Mountain": {
+        "cost": 10000000,
+        "category": "Hybrid",
+        "description": "Unlocked by powering up 199 times.",
+        "slots": {
+            "body": 15
+        },
+        "specialStats": {
+            "prone": 50,
+            "aegis": 50,
+            "defense": 150,
+            "offense": 150
+        },
+        "requirements": {
+            "achievements": [
+                { "name": "Levelable", "tier": 20 }
+            ]
+        },
+        "scale": {
+            "maxLevel": [200, 250, 300, 350, 400, 450, 500],
+            "maxItemScore": [30000, 40000, 50000],
+            "inventory": [30, 31, 32, 33, 34, 35, 40, 50],
+            "goldStorage": [500000, 1000000, 2500000],
+            "battleJoinPercent": [75, 76, 77, 78, 79, 80, 85, 90],
+            "itemFindTimeDuration": [0, 1800],
+            "itemSellMultiplier": [0.1, 0.2, 0.3, 0.4, 0.5],
+            "itemFindBonus": [1, 50],
+            "itemFindRangeMultiplier": [0, 0.5],
+            "xpPerGold": [20],
+            "salvage": [5]
+        },
+        "scaleCost": {
+            "maxLevel": [0, 100000, 300000, 500000, 700000, 900000, 15000000],
+            "maxItemScore": [0, 1000000, 5000000],
+            "inventory": [0, 250000, 500000, 750000, 1000000, 1500000, 2000000, 3000000],
+            "goldStorage": [0, 5000000, 10000000],
+            "battleJoinPercent": [0, 100000, 300000, 500000, 700000, 900000, 1100000, 1500000],
+            "itemFindTimeDuration": [0, 5000000],
+            "itemSellMultiplier": [0, 80000, 100000],
+            "itemFindBonus": [0, 5000000],
+            "itemFindRangeMultiplier": [0, 5000000],
+            "xpPerGold": [0],
+            "salvage": [0]
+        }
+    },
+    
     "Corgi": {
         "cost": 5000,
         "category": "Hybrid",
@@ -65,28 +157,28 @@
             ]
         },
         "scale": {
-            "maxLevel": [50, 75],
-            "maxItemScore": [500, 750, 1000],
+            "maxLevel": [50, 75, 150],
+            "maxItemScore": [500, 750, 1000, 10000],
             "inventory": [5, 7, 9, 11, 13, 15],
             "goldStorage": [2000, 20000, 100000],
             "battleJoinPercent": [0, 15, 30, 45, 60, 75],
             "itemFindTimeDuration": [0, 86400, 43200, 21600, 10800, 3600, 1800, 450],
             "itemSellMultiplier": [0.07, 0.13],
-            "itemFindBonus": [0, 5, 10, 15, 20, 25],
-            "itemFindRangeMultiplier": [0.05, 0.1, 0.15],
+            "itemFindBonus": [0, 5, 10, 15, 20, 25, 50],
+            "itemFindRangeMultiplier": [0.05, 0.1, 0.15, 0.3],
             "xpPerGold": [5],
             "salvage": [0]
         },
         "scaleCost": {
-            "maxLevel": [0, 50000],
-            "maxItemScore": [0, 30000, 40000],
+            "maxLevel": [0, 50000, 500000],
+            "maxItemScore": [0, 30000, 40000, 500000],
             "inventory": [0, 5000, 7500, 10000, 12500, 15000],
             "goldStorage": [0, 10000, 75000],
             "battleJoinPercent": [0, 15000, 25000, 35000, 45000, 60000],
             "itemFindTimeDuration": [0, 20000, 25000, 30000, 35000, 40000, 50000, 65000],
             "itemSellMultiplier": [0, 25000],
-            "itemFindBonus": [0, 5000, 7500, 15000, 30000, 65000],
-            "itemFindRangeMultiplier": [0, 20000, 30000],
+            "itemFindBonus": [0, 5000, 7500, 15000, 30000, 65000, 500000],
+            "itemFindRangeMultiplier": [0, 20000, 30000, 500000],
             "xpPerGold": [0],
             "salvage": [0]
         }
@@ -118,7 +210,7 @@
         },
         "scale": {
             "maxLevel": [50, 75, 100],
-            "maxItemScore": [500, 1250, 2000],
+            "maxItemScore": [500, 1250, 2000, 10000],
             "inventory": [5, 6, 7, 8, 9, 10],
             "goldStorage": [10000, 20000, 30000],
             "battleJoinPercent": [0, 15, 30, 45, 60, 75, 85],
@@ -131,7 +223,7 @@
         },
         "scaleCost": {
             "maxLevel": [0, 50000, 75000],
-            "maxItemScore": [0, 50000, 100000],
+            "maxItemScore": [0, 50000, 100000, 1000000],
             "inventory": [0, 5000, 7500, 10000, 12500, 15000],
             "goldStorage": [0, 10000, 20000],
             "battleJoinPercent": [0, 15000, 25000, 35000, 45000, 60000, 75000],
@@ -177,12 +269,12 @@
             "maxLevel": [75, 100],
             "maxItemScore": [250, 500, 750, 1000, 1250, 1500],
             "inventory": [3, 5, 7, 10, 15],
-            "goldStorage": [10000, 50000, 100000, 500000],
+            "goldStorage": [10000, 50000, 100000, 500000, 5000000],
             "battleJoinPercent": [0, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50],
-            "itemFindTimeDuration": [0, 21600, 10800, 5400, 2700, 1350, 675, 300],
-            "itemSellMultiplier": [0.07, 0.13, 0.20, 0.27],
-            "itemFindBonus": [0, 5, 10, 15, 20, 25, 30, 35],
-            "itemFindRangeMultiplier": [0, 0.05, 0.1, 0.15],
+            "itemFindTimeDuration": [0, 21600, 10800, 5400, 2700, 1350, 675, 300, 100],
+            "itemSellMultiplier": [0.07, 0.13, 0.20, 0.27, 0.5],
+            "itemFindBonus": [0, 5, 10, 15, 20, 25, 30, 35, 70],
+            "itemFindRangeMultiplier": [0, 0.05, 0.1, 0.15, 0.3],
             "xpPerGold": [15],
             "salvage": [25]
         },
@@ -190,12 +282,12 @@
             "maxLevel": [0, 75000],
             "maxItemScore": [0, 50000, 60000, 70000, 80000, 90000],
             "inventory": [0, 5000, 7500, 10000, 15000],
-            "goldStorage": [0, 5000, 10000, 50000],
+            "goldStorage": [0, 5000, 10000, 50000, 5000000],
             "battleJoinPercent": [0, 15000, 20000, 25000, 30000, 35000, 40000, 45000, 50000, 55000, 60000],
-            "itemFindTimeDuration": [0, 25000, 30000, 35000, 40000, 50000, 65000, 85000],
-            "itemSellMultiplier": [0, 15000, 25000, 45000],
-            "itemFindBonus": [0, 5000, 7500, 15000, 30000, 45000, 60000, 135000],
-            "itemFindRangeMultiplier": [0, 20000, 40000, 75000],
+            "itemFindTimeDuration": [0, 25000, 30000, 35000, 40000, 50000, 65000, 85000, 5000000],
+            "itemSellMultiplier": [0, 15000, 25000, 45000, 5000000],
+            "itemFindBonus": [0, 5000, 7500, 15000, 30000, 45000, 60000, 135000, 5000000],
+            "itemFindRangeMultiplier": [0, 20000, 40000, 75000, 5000000],
             "xpPerGold": [0],
             "salvage": [0]
         }
@@ -231,27 +323,27 @@
         },
         "scale": {
             "maxLevel": [25, 50, 75],
-            "maxItemScore": [750, 1250, 1750],
-            "inventory": [5, 10, 15],
+            "maxItemScore": [750, 1250, 1750, 5000],
+            "inventory": [5, 10, 15, 30],
             "goldStorage": [500, 5000, 50000],
             "battleJoinPercent": [0, 10, 20, 30, 40, 50, 60],
             "itemFindTimeDuration": [0, 21600, 10800, 3600, 1800],
             "itemSellMultiplier": [0.04, 0.08, 0.12, 0.16],
             "itemFindBonus": [3, 7, 13, 17, 23, 27],
-            "itemFindRangeMultiplier": [0, 0.1, 0.2],
+            "itemFindRangeMultiplier": [0, 0.1, 0.2, 0.6],
             "xpPerGold": [10],
             "salvage": [50]
         },
         "scaleCost": {
             "maxLevel": [0, 25000, 50000],
-            "maxItemScore": [0, 15000, 25000],
-            "inventory": [0, 10000, 15000],
+            "maxItemScore": [0, 15000, 25000, 5000000],
+            "inventory": [0, 10000, 15000, 5000000],
             "goldStorage": [0, 5000, 50000],
             "battleJoinPercent": [0, 20000, 30000, 40000, 50000, 60000, 70000],
             "itemFindTimeDuration": [0, 30000, 40000, 65000, 85000],
             "itemSellMultiplier": [0, 10000, 20000, 30000],
             "itemFindBonus": [0, 5000, 7500, 15000, 30000, 45000],
-            "itemFindRangeMultiplier": [0, 10000, 20000],
+            "itemFindRangeMultiplier": [0, 10000, 20000, 5000000],
             "xpPerGold": [0],
             "salvage": [0]
         }
@@ -283,10 +375,10 @@
             "inventory": [5, 15, 25, 35, 50],
             "goldStorage": [10000, 100000, 250000, 1000000],
             "battleJoinPercent": [0],
-            "itemFindTimeDuration": [0, 5400, 2700, 1350, 600],
-            "itemSellMultiplier": [0.2, 0.4, 0.6],
-            "itemFindBonus": [0, 15, 20, 25, 30, 35, 40, 45, 50],
-            "itemFindRangeMultiplier": [0, 0.05, 0.1, 0.15, 0.2],
+            "itemFindTimeDuration": [0, 5400, 2700, 1350, 600, 150],
+            "itemSellMultiplier": [0.2, 0.4, 0.6, 1.5],
+            "itemFindBonus": [0, 15, 20, 25, 30, 35, 40, 45, 50, 100],
+            "itemFindRangeMultiplier": [0, 0.05, 0.1, 0.15, 0.2, 0.5],
             "xpPerGold": [30],
             "salvage": [75]
         },
@@ -296,10 +388,10 @@
             "inventory": [0, 10000, 30000, 50000, 500000],
             "goldStorage": [0, 50000, 125000, 500000],
             "battleJoinPercent": [0],
-            "itemFindTimeDuration": [0, 30000, 40000, 65000, 85000],
-            "itemSellMultiplier": [0, 20000, 40000],
-            "itemFindBonus": [0, 5000, 7500, 15000, 30000, 55000, 100000, 200000, 500000],
-            "itemFindRangeMultiplier": [0, 10000, 50000, 100000, 250000],
+            "itemFindTimeDuration": [0, 30000, 40000, 65000, 85000, 5000000],
+            "itemSellMultiplier": [0, 20000, 40000, 5000000],
+            "itemFindBonus": [0, 5000, 7500, 15000, 30000, 55000, 100000, 200000, 500000, 5000000],
+            "itemFindRangeMultiplier": [0, 10000, 50000, 100000, 250000, 5000000],
             "xpPerGold": [0],
             "salvage": [0]
         }
@@ -343,8 +435,8 @@
             ]
         },
         "scale": {
-            "maxLevel": [50, 100, 150],
-            "maxItemScore": [100, 500, 1000, 1500, 2000],
+            "maxLevel": [50, 100, 150, 300],
+            "maxItemScore": [100, 500, 1000, 1500, 2000, 10000],
             "inventory": [2],
             "goldStorage": [10000, 25000],
             "battleJoinPercent": [50, 60, 70, 80, 90, 99],
@@ -356,8 +448,8 @@
             "salvage": [0]
         },
         "scaleCost": {
-            "maxLevel": [0, 50000, 100000],
-            "maxItemScore": [0, 10000, 20000, 30000, 40000],
+            "maxLevel": [0, 50000, 100000, 5000000],
+            "maxItemScore": [0, 10000, 20000, 30000, 40000, 5000000],
             "inventory": [0],
             "goldStorage": [0, 50000],
             "battleJoinPercent": [0, 50000, 60000, 70000, 80000, 100000],
@@ -403,27 +495,27 @@
             ]
         },
         "scale": {
-            "maxLevel": [75, 125, 175],
-            "maxItemScore": [250, 750, 1250, 1750, 2500],
+            "maxLevel": [75, 125, 175, 450],
+            "maxItemScore": [250, 750, 1250, 1750, 2500, 9000],
             "inventory": [3],
             "goldStorage": [10000, 35000],
             "battleJoinPercent": [55, 65, 75, 85, 95, 100],
             "itemFindTimeDuration": [0, 86400, 64800, 43200, 21600, 10800],
             "itemSellMultiplier": [0.20, 0.40],
-            "itemFindBonus": [-25, 0, 15, 25, 35, 45, 55],
+            "itemFindBonus": [-25, 0, 15, 25, 35, 45, 55, 100],
             "itemFindRangeMultiplier": [0, 0.1, 0.15, 0.2, 0.25],
             "xpPerGold": [25],
             "salvage": [0]
         },
         "scaleCost": {
-            "maxLevel": [0, 75000, 125000],
-            "maxItemScore": [0, 25000, 27500, 50000, 95000],
+            "maxLevel": [0, 75000, 125000, 5000000],
+            "maxItemScore": [0, 25000, 27500, 50000, 95000, 5000000],
             "inventory": [0],
             "goldStorage": [0, 50000],
             "battleJoinPercent": [0, 20000, 30000, 60000, 75000, 100000],
             "itemFindTimeDuration": [0, 50000, 60000, 70000, 80000, 100000],
             "itemSellMultiplier": [0, 60000],
-            "itemFindBonus": [0, 25000, 25000, 50000, 75000, 100000, 125000],
+            "itemFindBonus": [0, 25000, 25000, 50000, 75000, 100000, 125000, 5000000],
             "itemFindRangeMultiplier": [0, 25000, 45000, 65000, 95000],
             "xpPerGold": [0],
             "salvage": [0]
@@ -520,7 +612,7 @@
         },
         "scale": {
             "maxLevel": [50, 100, 150],
-            "maxItemScore": [2000, 3000, 4000],
+            "maxItemScore": [2000, 3000, 4000, 10000],
             "inventory": [3],
             "goldStorage": [0],
             "battleJoinPercent": [10, 20, 30, 40, 50, 60, 70, 80, 90, 100],
@@ -533,7 +625,7 @@
         },
         "scaleCost": {
             "maxLevel": [0, 1000000, 1500000],
-            "maxItemScore": [0, 200000, 300000],
+            "maxItemScore": [0, 200000, 300000, 5000000],
             "inventory": [0],
             "goldStorage": [0],
             "battleJoinPercent": [0, 20000, 30000, 40000, 50000, 60000, 70000, 80000, 90000, 100000],
@@ -593,7 +685,7 @@
         },
         "scale": {
             "maxLevel": [50, 100, 150],
-            "maxItemScore": [2000, 3000, 4000],
+            "maxItemScore": [2000, 3000, 4000, 20000],
             "inventory": [3],
             "goldStorage": [0],
             "battleJoinPercent": [10, 20, 30, 40, 50, 60, 70, 80, 90, 100],
@@ -606,7 +698,7 @@
         },
         "scaleCost": {
             "maxLevel": [0, 1000000, 1500000],
-            "maxItemScore": [0, 200000, 300000],
+            "maxItemScore": [0, 200000, 300000, 5000000],
             "inventory": [0],
             "goldStorage": [0],
             "battleJoinPercent": [0, 20000, 30000, 40000, 50000, 60000, 70000, 80000, 90000, 100000],
@@ -660,7 +752,7 @@
         },
         "scale": {
             "maxLevel": [50, 100, 150],
-            "maxItemScore": [2000, 3000, 4000],
+            "maxItemScore": [2000, 3000, 4000, 12000],
             "inventory": [3],
             "goldStorage": [0],
             "battleJoinPercent": [10, 20, 30, 40, 50, 60, 70, 80, 90, 100],
@@ -673,7 +765,7 @@
         },
         "scaleCost": {
             "maxLevel": [0, 1000000, 1500000],
-            "maxItemScore": [0, 200000, 300000],
+            "maxItemScore": [0, 200000, 300000, 5000000],
             "inventory": [0],
             "goldStorage": [0],
             "battleJoinPercent": [0, 20000, 30000, 40000, 50000, 60000, 70000, 80000, 90000, 100000],
@@ -727,8 +819,8 @@
             ]
         },
         "scale": {
-            "maxLevel": [50, 200],
-            "maxItemScore": [0, 5000],
+            "maxLevel": [50, 200, 500],
+            "maxItemScore": [0, 5000, 30000],
             "inventory": [1, 20],
             "goldStorage": [0, 150000],
             "battleJoinPercent": [0, 50],
@@ -740,8 +832,8 @@
             "salvage": [100]
         },
         "scaleCost": {
-            "maxLevel": [0, 20000000],
-            "maxItemScore": [0, 10000000],
+            "maxLevel": [0, 20000000, 50000000],
+            "maxItemScore": [0, 10000000, 500000000],
             "inventory": [0, 15000000],
             "goldStorage": [0, 15000000],
             "battleJoinPercent": [0, 10000000],
@@ -778,27 +870,27 @@
               }
         },
         "scale": {
-            "maxLevel": [50, 100, 150, 200],
+            "maxLevel": [50, 100, 150, 200, 400],
             "maxItemScore": [2000, 3000, 4000],
-            "inventory": [5, 10, 15, 20, 25],
+            "inventory": [5, 10, 15, 20, 25, 50],
             "goldStorage": [10000, 100000, 1000000],
             "battleJoinPercent": [0, 25, 50, 75, 100],
             "itemFindTimeDuration": [0, 86400, 43200, 21600],
-            "itemSellMultiplier": [0.1, 0.2],
-            "itemFindBonus": [0, 25, 50],
+            "itemSellMultiplier": [0.1, 0.2, 0.8],
+            "itemFindBonus": [0, 25, 50, 150],
             "itemFindRangeMultiplier": [0, 0.05, 0.1, 0.2, 0.35],
             "xpPerGold": [100],
             "salvage": [50]
         },
         "scaleCost": {
-            "maxLevel": [0, 1000000, 1500000, 20000000],
+            "maxLevel": [0, 1000000, 1500000, 20000000, 50000000],
             "maxItemScore": [0, 300000, 400000],
-            "inventory": [0, 100000, 150000, 200000, 250000],
+            "inventory": [0, 100000, 150000, 200000, 250000, 5000000],
             "goldStorage": [0, 1000000, 10000000],
             "battleJoinPercent": [0, 250000, 500000, 750000, 1000000],
             "itemFindTimeDuration": [0, 500000, 1000000, 1500000],
-            "itemSellMultiplier": [0, 60000],
-            "itemFindBonus": [0, 250000, 500000],
+            "itemSellMultiplier": [0, 60000, 5000000],
+            "itemFindBonus": [0, 250000, 500000, 5000000],
             "itemFindRangeMultiplier": [0, 50000, 100000, 200000, 350000],
             "xpPerGold": [0],
             "salvage": [0]
@@ -837,7 +929,7 @@
             "itemFindBonus": [0, 1, 5, 10, 15, 20],
             "itemFindRangeMultiplier": [0, 0.05, 0.1, 0.25],
             "xpPerGold": [1],
-            "salvage": [200]
+            "salvage": [200, 300]
         },
         "scaleCost": {
             "maxLevel": [0],
@@ -850,7 +942,7 @@
             "itemFindBonus": [0, 100000, 500000, 1000000, 1500000, 2000000],
             "itemFindRangeMultiplier": [0, 500000, 1000000, 2500000],
             "xpPerGold": [0],
-            "salvage": [0]
+            "salvage": [0, 500000000]
         }
     },
     
