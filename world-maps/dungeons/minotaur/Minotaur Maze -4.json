@@ -158,8 +158,7 @@
                      "destx":"20",
                      "desty":"25",
                      "map":"Fate Lake",
-                     "movementType":"teleport",
-                     "requireAchievement":"Mapceptional: Fate Pools -2"
+                     "movementType":"teleport"
                     },
                  "propertytypes":
                     {
