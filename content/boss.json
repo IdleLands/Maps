@@ -96,8 +96,7 @@
             "str": 1800,
             "con": 400,
             "dex": 1600,
-            "agi": 1500,
-            "poison": 1
+            "agi": 1500
         },
         "items": [
             { "name": "Super Shuriken", "dropPercent": 80 }
@@ -227,8 +226,7 @@
             "dex": 1000,
             "con": 250,
             "agi": 1000,
-            "int": 500,
-            "vampire": 2
+            "int": 500
         },
         "items": [
             { "name": "Golden Vampire Gauntlets", "dropPercent": 80 }
@@ -282,9 +280,7 @@
             "luk": 33,
             "dex": 600,
             "agi": 900,
-            "str": 2000,
-            "prone": 1,
-            "glowing": 1
+            "str": 2000
         },
         "items": [
             { "name": "Fire Infused Dragon Tooth", "dropPercent": 75 }
@@ -307,8 +303,7 @@
             "con": 1300,
             "agi": 500,
             "str": 3900,
-            "int": 2900,
-            "defense": 2
+            "int": 2900
         },
         "items": [
             { "name": "Breastplate of Wrath", "dropPercent": 80 }
@@ -328,9 +323,7 @@
             "con": 888,
             "agi": 750,
             "int": 1000,
-            "str": 2000,
-            "offense": 2,
-            "lethal": 1
+            "str": 2000
         },
         "items": [
             { "name": "Amulet of Anger", "dropPercent": 80 }
@@ -350,8 +343,7 @@
             "con": 1000,
             "agi": 1000,
             "str": 1000,
-            "int": 1000,
-            "defense": 2
+            "int": 1000
         },
         "items": [
             { "name": "Amulet of Fear", "dropPercent": 80 }
@@ -369,10 +361,7 @@
             "luk": 33,
             "agi": 888,
             "con": 150,
-            "int": 2200,
-            "defense": 2,
-            "shatter": 1,
-            "poison": 2
+            "int": 2200
         },
         "items": [
             { "name": "Amulet of Decay", "dropPercent": 80 }
@@ -392,9 +381,7 @@
             "con": 621,
             "agi": 1200,
             "str": 1000,
-            "int": 2500,
-            "defense": 1,
-            "dance": 1
+            "int": 2500
         },
         "items": [
             { "name": "Amulet of Insanity", "dropPercent": 80 }
@@ -413,8 +400,7 @@
             "con": 1500,
             "agi": 1000,
             "str": 2000,
-            "int": 2000,
-            "vampire": 1
+            "int": 2000
         },
         "items": [
             { "name": "Amulet of Death", "dropPercent": 80 }
@@ -433,10 +419,7 @@
             "con": 1500,
             "agi": 975,
             "str": 2001,
-            "int": 2001,
-            "shatter": 1,
-            "lethal": 1,
-            "glowing": 1
+            "int": 2001
         },
         "items": [
             { "name": "Lich Lord's Phylactery", "dropPercent": 80 },
@@ -483,9 +466,7 @@
             "con": 900,
             "agi": 1001,
             "str": 1000,
-            "int": 150,
-            "glowing": 1,
-            "venom": 1
+            "int": 150
         },
         "items": [
             { "name": "Mushroom Shaped Charm", "dropPercent": 80 }
@@ -521,8 +502,7 @@
             "dex": 120,
             "con": 175,
             "agi": 75,
-            "str": 375,
-            "offense": 1
+            "str": 375
         }
 		},
     "Toy Maker Elf": {
@@ -569,9 +549,7 @@
             "con": 3500,
             "agi": 1701,
             "str": 4400,
-            "int": 900,
-            "glowing": 1,
-            "silver": 1
+            "int": 900
         },
         "items": [
             { "name": "The Naughty List", "dropPercent": 80 }
@@ -602,9 +580,7 @@
             "str": 230,
             "int": 3370,
             "agi": 570,
-            "con": 876,
-            "venom": 2,
-            "poison": 2
+            "con": 876
         },
         "items": [
             { "name": "Noxious Amulet", "dropPercent": 80 }
@@ -621,10 +597,7 @@
             "str": 2000,
             "con": 1120,
             "dex": 450,
-            "agi": 300,
-            "defense": 1,
-            "offense": 1,
-            "glowing": 1
+            "agi": 300
         },
         "items": [
             { "name": "Guardian Longsword", "dropPercent": 80 }
@@ -641,10 +614,7 @@
             "level": 44,
             "str": 400,
             "int": 2015,
-            "con": 100,
-            "crit": 3,
-            "lethal": 1,
-            "glowing": 1
+            "con": 100
         },
         "items": [
             { "name": "Guardian Staff", "dropPercent": 80 }
@@ -663,9 +633,7 @@
             "int": 1000,
             "dex": 600,
             "agi": 500,
-            "con": 825,
-            "defense": 2,
-            "glowing": 1
+            "con": 825
         },
         "items": [
             { "name": "Guardian Mace", "dropPercent": 80 }
@@ -685,9 +653,7 @@
             "dex": 1500,
             "agi": 1200,
             "con": 900,
-            "luk": 100,
-            "crit": 1,
-            "glowing": 1
+            "luk": 100
         },
         "items": [
             { "name": "Guardian Guidebook", "dropPercent": 80 }
@@ -705,11 +671,7 @@
             "dex": 1500,
             "agi": 1500,
             "con": 2000,
-            "luk": 100,
-            "defense": 1,
-            "offense": 1,
-            "crit": 2,
-            "glowing": 2
+            "luk": 100
         },
         "items": [
             { "name": "Guardian Tower Shield", "dropPercent": 80 }
@@ -728,10 +690,7 @@
             "dex": 1285,
             "agi": 1285,
             "con": 481,
-            "luk": 26,
-            "prone": 1,
-            "poison": 1,
-            "venom": 1
+            "luk": 26
         },
         "items": [
             { "name": "Acid Amulet Shard", "dropPercent": 75 }
@@ -749,8 +708,7 @@
             "str": 2200,
             "dex": 2200,
             "int": 5000,
-            "luk": -10,
-            "power": 1
+            "luk": -10
         },
         "items": [
             { "name": "Necromantic Essence", "dropPercent": 75 }
@@ -771,11 +729,7 @@
             "dex": 2200,
             "agi": 1990,
             "con": 2700,
-            "luk": 15,
-            "prone": 1,
-            "defense": 1,
-            "offense": 1,
-            "vorpal": 1
+            "luk": 15
         },
         "items": [
             { "name": "Halberd of the Fire Giants", "dropPercent": 75 }
@@ -794,9 +748,7 @@
             "agi": 1905,
             "int": 2000,
             "mpregen": 100,
-            "con": 400,
-            "lethal": 1,
-            "offense": 2
+            "con": 400
         },
         "items": [
             { "name": "Flame Polished Gauntlets", "dropPercent": 75 }
@@ -833,9 +785,7 @@
             "str": 1200,
             "int": 1000,
             "dex": 805,
-            "agi": 620,
-            "poison": 4,
-            "prone": 1
+            "agi": 620
         },
         "items": [
             { "name": "Leviathan Claw", "dropPercent": 80 }
@@ -855,8 +805,7 @@
             "str": 1500,
             "int": 1750,
             "dex": 1000,
-            "agi": 1200,
-            "deadeye": 1
+            "agi": 1200
         },
         "collectibles": [
             { "name": "Snowbeast Skull", "dropPercent": 90, "flavorText": "What are you, the Bone Collector?", "storyline": "Lore: Frigri" }
@@ -874,11 +823,7 @@
             "str": 730,
             "dex": 400,
             "agi": 400,
-            "int": 100,
-            "poison": 1,
-            "vampire": 1,
-            "lethal": 1,
-            "hpregen": 50
+            "int": 100
         },
         "items": [
             { "name": "Slime Covered Jerkin", "dropPercent": 80 }
@@ -894,10 +839,7 @@
             "level": 15,
             "str": 475,
             "dex": 300,
-            "agi": 210,
-            "prone": 3,
-            "defense": 1,
-            "venom": 1
+            "agi": 210
         },
         "collectibles": [
             { "name": "Gorgon Snake", "dropPercent": 5, "storyline": "Memoir: Necromancer", "flavorText": "The Necromancers of olde would oft use artifacts like this to summon powerful monsters." },
@@ -916,12 +858,7 @@
             "dex": 1000,
             "con": 800,
             "agi": 1000,
-            "int": 250,
-            "glowing": 1,
-            "silver": 1,
-            "power": 1,
-            "defense": 1,
-            "vorpal": 1
+            "int": 250
         },
         "items": [
             { "name": "Slicer's Sabre", "dropPercent": 80 }
@@ -939,11 +876,7 @@
             "dex": 900,
             "con": 1400,
             "agi": 900,
-            "int": -123,
-            "glowing": 1,
-            "prone": 1,
-            "power": 1,
-            "defense": 2
+            "int": -123
         },
         "items": [
             { "name": "Smasher's Smashin' Club", "dropPercent": 75 }
@@ -962,17 +895,7 @@
             "dex": 4000,
             "con": 3000,
             "agi": 2100,
-            "int": 6700,
-            "aegis": 1,
-            "crit": 5,
-            "dance": 1,
-            "deadeye": 1,
-            "lethal": 1,
-            "offense": 1,
-            "poison": 4,
-            "prone": 1,
-            "silver": 1,
-            "vorpal": 1
+            "int": 6700
         },
         "items": [
             { "name": "Naga Resurrection Trident", "dropPercent": 60 }
@@ -990,8 +913,7 @@
             "con": 130,
             "dex": 600,
             "agi": 250,
-            "luk": 15,
-            "crit": 10
+            "luk": 15
         },
         "items": [
             { "name": "Lord Waxington's Top Hat", "dropPercent": 80 }
@@ -1010,8 +932,7 @@
             "con": 175,
             "agi": 255,
             "str": 500,
-            "int": 300,
-            "offense": 1
+            "int": 300
         }
 		},
     "Goldy the Skeleton": {
@@ -1028,8 +949,7 @@
             "con": 175,
             "agi": 255,
             "str": 500,
-            "int": 300,
-            "lethal": 1
+            "int": 300
         }
 		},
     "Mr Bones": {
@@ -1046,8 +966,7 @@
             "con": 175,
             "agi": 255,
             "str": 500,
-            "int": 300,
-            "hpregen": 100
+            "int": 300
         }
 		},
     "Norkian Necromancer": {
@@ -1061,8 +980,7 @@
             "con": 60,
             "dex": 500,
             "agi": 300,
-            "int": 1500,
-            "lethal": 1
+            "int": 1500
         } 
     },
     "Living Crystal": {
@@ -1078,11 +996,7 @@
             "dex": 7000,
             "agi": 7000,
             "int": 10000,
-            "luk": 150,
-            "poison": 4,
-            "venom": 3,
-            "glowing": 1,
-            "hpregen": 500
+            "luk": 150
         },
         "items": [
             { "name": "Crystal Crown", "dropPercent": 75 }
@@ -1099,13 +1013,7 @@
             "con": 15000,
             "dex": 9000,
             "agi": 9000,
-            "luk": 200,
-            "crit": 2,
-            "aegis": 1,
-            "prone": 1,
-            "vorpal": 1,
-            "offense": 2,
-            "defense": 2
+            "luk": 200
         },
         "items": [
             { "name": "Astral Boots", "dropPercent": 20 }
@@ -1123,25 +1031,7 @@
             "dex": 27000,
             "int": 60000,
             "agi": 30000,
-            "luk": 2000,
-            "crit": 9,
-            "aegis": 1,
-            "prone": 1,
-            "vorpal": 1,
-            "offense": 3,
-            "defense": 4,
-            "damageReduction": 300,
-            "dance": 1,
-            "deadeye": 1,
-            "glowing": 1,
-            "lethal": 1,
-            "poison": 5,
-            "venom": 5,
-            "power": 1,
-            "shatter": 1,
-            "silver": 1,
-            "vampire": 1,
-            "hpregen": 666
+            "luk": 2000
         },
         "items": [
             { "name": "Astral Stabilizer", "dropPercent": 75 }
@@ -1196,12 +1086,7 @@
             "con": 4000,
             "dex": 4000,
             "agi": 4000,
-            "luk": 4000,
-            "crit": 6,
-            "deadeye": 1,
-            "defense": 2,
-            "poison": 2,
-            "shatter": 1
+            "luk": 4000
         },
         "items": [
             { "name": "Fate-Fueled Flame Breath", "dropPercent": 80 }
@@ -1222,12 +1107,7 @@
             "str": 720,
             "dex": 405,
             "agi": 450,
-            "int": 500,
-            "poison": 2,
-            "venom": 1,
-            "damageReduction": 350,
-            "defense": 1,
-            "hpregen": 350
+            "int": 500
         },
         "items": [
             { "name": "Acid Wash Pantaloons", "dropPercent": 90 }
@@ -1244,19 +1124,7 @@
             "con": 15000,
             "dex": 9000,
             "agi": 9000,
-            "int": 30000,
-            "luk": 150,
-            "aegis": 1,
-            "dance": 1,
-            "prone": 1,
-            "deadeye": 1,
-            "shatter": 2,
-            "silver": 1,
-            "glowing": 1,
-            "vorpal": 1,
-            "offense": 2,
-            "defense": 2,
-            "hpregen": 4000
+            "int": 30000
         },
         "items": [
             { "name": "Dripping Kris", "dropPercent": 80 },
@@ -1276,12 +1144,7 @@
             "agi": 750,
             "int": 405,
             "luk": 60,
-            "con": 600,
-            "poison": 2,
-            "mirror": 1,
-            "dance": 1,
-            "defense": 1,
-            "prone": 1
+            "con": 600
         },
         "items": [
             { "name": "Doppleganger Skin", "dropPercent": 70 }
@@ -1300,15 +1163,7 @@
             "dex": 48000,
             "int": 1200,
             "agi": 22980,
-            "luk": 1000,
-            "crit": 6,
-            "prone": 1,
-            "offense": 4,
-            "defense": 1,
-            "deadeye": 1,
-            "lethal": 1,
-            "power": 1,
-            "shatter": 1
+            "luk": 1000
         },
         "items": [
             { "name": "Radiant Ruby", "dropPercent": 25 },
@@ -1329,11 +1184,7 @@
             "agi": 9000,
             "int": 32000,
             "luk": 2111,
-            "con": 10001,
-            "poison": 12,
-            "deadeye": 1,
-            "defense": 2,
-            "prone": 1
+            "con": 10001
         },
         "items": [
             { "name": "Mercy Walkers", "dropPercent": 71 }
@@ -1352,13 +1203,7 @@
             "agi": 11005,
             "int": 680,
             "luk": 3850,
-            "con": 20000,
-            "offense": 4,
-            "power": 1,
-            "dance": 1,
-            "defense": 3,
-            "prone": 1,
-            "damageReduction": 350
+            "con": 20000
         },
         "items": [
             { "name": "Unwieldy Claymore of Malice", "dropPercent": 75 }
@@ -1377,16 +1222,7 @@
             "agi": 750,
             "int": 45000,
             "luk": 6700,
-            "con": 6000,
-            "aegis": 1,
-            "crit": 4,
-            "dance": 1,
-            "defense": 2,
-            "prone": 1,
-            "power": 1,
-            "glowing": 1,
-            "shatter": 1,
-            "vampire": 1
+            "con": 6000
         },
         "items": [
             { "name": "Blue Dragon Head", "dropPercent": 90 }
@@ -1405,13 +1241,7 @@
             "agi": 20000,
             "int": 19520,
             "luk": 8000,
-            "con": 10000,
-            "glowing": 2,
-            "silver": 1,
-            "offense": 2,
-            "defense": 2,
-            "prone": 1,
-            "lethal": 1
+            "con": 10000
         },
         "items": [
             { "name": "Rune of Imprisonment", "dropPercent": 80 }
@@ -1433,17 +1263,7 @@
             "agi": 50000,
             "int": 12000,
             "luk": 7777,
-            "con": 22000,
-            "poison": 2,
-            "offense": 5,
-            "dance": 1,
-            "defense": 1,
-            "prone": 1,
-            "power": 1,
-            "damageReduction": 750,
-            "hpregen": 450,
-            "glowing": 1,
-            "shatter": 1
+            "con": 22000
         },
         "collectibles": [
             { "name": "Overflowing Stein", "dropPercent": 75, "storyline": "Lore: City of Dragons", "flavorText": "No matter how many times you empty this magic mug of ale, it always fills to the brim when you open the lid. " }
@@ -1463,15 +1283,7 @@
             "agi": 39000,
             "int": 19000,
             "luk": 7200,
-            "con": 26000,
-            "glowing": 2,
-            "deadeye": 1,
-            "offense": 6,
-            "power": 1,
-            "prone": 1,
-            "crit": 3,
-            "damageReduction": 450,
-            "venom": 3
+            "con": 26000
         },
         "items": [
             { "name": "Branor's Claws", "dropPercent": 75 }
@@ -1490,12 +1302,7 @@
             "agi": 59000,
             "int": 19999,
             "luk": 12000,
-            "con": 29000,
-            "poison": 3,
-            "shatter": 1,
-            "dance": 1,
-            "defense": 1,
-            "prone": 1
+            "con": 29000
         }
     },
     "Barbarian Guardian": {
@@ -1511,14 +1318,7 @@
             "agi": 800,
             "con": 2900,
 			"int": -600,
-            "luk": -1,
-            "defense": 1,
-            "offense": 2,
-            "crit": 1,
-            "glowing": 1,
-			"power": 1,
-			"silver": 1,
-			"aegis": 1
+            "luk": -1
         },
         "items": [
             { "name": "Armored Guardian Fist", "dropPercent": 80 }
@@ -1538,11 +1338,7 @@
             "agi": 1900,
             "con": 2500,
 			"int": 690,
-            "luk": 300,
-            "prone": 1,
-            "defense": -1,
-            "offense": 2,
-            "shatter": 2
+            "luk": 300
         },
         "items": [
             { "name": "Unbreakable Chains", "dropPercent": 80 }
@@ -1562,14 +1358,7 @@
             "agi": 20,
             "int": 3975,
             "luk": 950,
-            "con": 3001,
-            "poison": 3,
-            "venom": 1,
-            "vampire": 1,
-            "defense": 3,
-            "shatter": 1,
-			"hpregen": 25,
-			"mpregen": 250
+            "con": 3001
         },
         "items": [
             { "name": "Rot-resistant Wand", "dropPercent": 75 }
@@ -1589,11 +1378,7 @@
             "agi": 2321,
             "int": 1780,
             "luk": 1100,
-            "con": 2000,
-            "venom": 4,
-            "dance": 1,
-            "prone": 1,
-			"lethal": 1
+            "con": 2000
         },
         "items": [
             { "name": "Snake Fangs", "dropPercent": 75 }
@@ -1615,14 +1400,7 @@
             "con": 6600,
             "agi": 7000,
             "int": 1700,
-			"luk": 2100,
-            "crit": 5,
-            "dance": 1,
-            "deadeye": 1,
-            "lethal": 1,
-            "offense": 1,
-            "prone": 1,
-            "vorpal": 1
+			"luk": 2100
         },
         "items": [
             { "name": "Peglegs", "dropPercent": 77 }
@@ -1642,13 +1420,7 @@
             "agi": 11500,
             "int": 5500,
             "luk": 4400,
-            "con": 5900,
-            "dance": 5,
-			"deadeye": 5,
-            "defense": 1,
-            "prone": 1,
-			"glowing": 1,
-			"crit": 2
+            "con": 5900
         },
         "items": [
             { "name": "Jeweled Gnomish Pipe", "dropPercent": 70 }
@@ -1668,13 +1440,7 @@
             "agi": 9900,
             "int": 7500,
             "luk": 4550,
-            "con": 7550,
-            "poison": 3,
-            "shatter": 1,
-            "defense": 3,
-			"offense": 3,
-            "prone": 1,
-			"deadeye": 2
+            "con": 7550
         },
         "items": [
             { "name": "Pilfered Halberd", "dropPercent": 75 }
@@ -1694,13 +1460,7 @@
             "dex": 17000,
             "agi": 17000,
             "int": 3250,
-            "luk": 150,
-            "poison": 4,
-            "power": 1,
-			"lethal": 1,
-			"deadeye": 1,
-            "glowing": 3,
-            "hpregen": 3750
+            "luk": 150
         },
         "items": [
             { "name": "Crown of the Swamp Queen", "dropPercent": 74 }
@@ -1720,15 +1480,7 @@
             "agi": 10000,
             "int": 24500,
             "luk": 7300,
-            "con": 6300,
-            "mpregen": 2550,
-			"hpregen": 2500,
-            "shatter": 3,
-            "dance": 1,
-            "defense": 1,
-            "prone": 1,
-			"vampire": 1,
-			"crit": 3
+            "con": 6300
         },
         "items": [
             { "name": "Book: Magnum Opus of Transmutation", "dropPercent": 69 }
@@ -1751,13 +1503,7 @@
             "agi": 9900,
             "int": 17500,
             "luk": 4000,
-            "con": 17550,
-            "shatter": 1,
-            "defense": 3,
-			"offense": 3,
-            "prone": 1,
-			"deadeye": 2,
-			"hpregen": 1500
+            "con": 17550
         },
         "items": [
             { "name": "Rudimentary Troll-kin Totem", "dropPercent": 78 }
@@ -1777,14 +1523,7 @@
             "dex": 17000,
             "agi": 17000,
             "int": 3250,
-            "luk": 1525,
-            "power": 1,
-			"lethal": 1,
-			"deadeye": 1,
-			"prone": 1,
-			"vampire": 1,
-            "glowing": 1,
-            "hpregen": 2000
+            "luk": 1525
         },
         "items": [
             { "name": "Evil Twin Goatee", "dropPercent": 81 }
@@ -1804,13 +1543,7 @@
             "agi": 2000,
             "con": 600,
 			"int": 3600,
-            "luk": 325,
-            "power": 1,
-			"deadeye": 1,
-			"shatter": 1,
-			"vampire": 1,
-            "glowing": 2,
-			"damageReduction": 666
+            "luk": 325
         },
         "items": [
             { "name": "Spectral Riding Horse", "dropPercent": 80 }
@@ -1828,13 +1561,7 @@
             "agi": 2000,
             "con": 2800,
 			"int": 125,
-            "luk": 325,
-            "power": 1,
-			"silver": 1,
-			"shatter": 1,
-            "glowing": 1,
-			"offense": 2,
-			"damageReduction": 50
+            "luk": 325
         },
         "items": [
             { "name": "Warm Yeti Mittens", "dropPercent": 76 }
@@ -1853,13 +1580,7 @@
             "agi": 1950,
             "int": 250,
             "luk": 658,
-            "con": 3500,
-            "power": 2,
-			"silver": 2,
-			"defense": 2,
-			"deadeye": 1,
-			"shatter": 1,
-			"damageReduction": 500
+            "con": 3500
         },
         "items": [
             { "name": "Rucksack of the Runaway Yeti", "dropPercent": 75 }
@@ -1877,11 +1598,7 @@
             "agi": 2500,
             "con": 1580,
 			"int": 1000,
-            "luk": 950,
-            "power": 1,
-			"silver": 1,
-            "glowing": 1,
-			"offense": 1
+            "luk": 950
         }
     },
     "Shackles Captain of the Guard": {
@@ -1896,14 +1613,7 @@
             "agi": 3000,
             "int": 1000,
             "luk": 980,
-            "con": 1954,
-            "power": 1,
-			"silver": 2,
-            "glowing": 1,
-			"offense": 1,
-			"deadeye": 1,
-			"defense": 1,
-			"poison": 2
+            "con": 1954
         },
         "items": [
             { "name": "Poison-Tipped Arrows", "dropPercent": 70 }
@@ -1921,15 +1631,7 @@
             "agi": 4250,
             "con": 3000,
 			"int": 1408,
-            "luk": 1025,
-            "power": 1,
-			"crit": 2,
-			"silver": 1,
-			"shatter": 1,
-            "glowing": 2,
-			"offense": 2,
-			"poison": 2,
-			"damageReduction": 500
+            "luk": 1025
         },
         "items": [
             { "name": "Hand Crossbow of the Shackles", "dropPercent": 70 }
@@ -1947,12 +1649,7 @@
             "agi": 10000,
             "int": 10000,
             "luk": 11000,
-            "con": 10000,
-            "prone": 5,
-			"crit": 1,
-			"silver": 1,
-			"shatter": 1,
-			"offense": 2
+            "con": 10000
         },
         "items": [
             { "name": "Reinforced Throwing Net", "dropPercent": 70 }
@@ -1970,13 +1667,7 @@
             "con": 7000,
             "agi": 7000,
             "int": 300,
-			"luk": 2000,
-			"crit": 1,
-			"aegis": 1,
-			"shatter": 1,
-			"defense": 5,
-			"dance": 1,
-			"damageReduction": 200
+			"luk": 2000
         },
         "items": [
             { "name": "Wings of the Roc", "dropPercent": 55 }
@@ -1994,13 +1685,7 @@
             "agi": 1800,
             "con": 3500,
 			"int": 3500,
-            "luk": 500,
-			"crit": 1,
-			"aegis": 1,
-			"power": 3,
-			"defense": 1,
-			"mpregen": 500,
-			"hpregen": 500
+            "luk": 500
         },
         "items": [
             { "name": "Potent Cave Remedies", "dropPercent": 84 }
@@ -2018,12 +1703,7 @@
             "agi": 2000,
             "con": 5900,
 			"int": 9500,
-            "luk": 900,
-			"crit": 2,
-			"aegis": 1,
-			"defense": 2,
-			"glowing": 3,
-			"hpregen": 575
+            "luk": 900
         },
         "items": [
             { "name": "Golden Glow of Glop", "dropPercent": 70 }
@@ -2041,12 +1721,7 @@
             "agi": 5000,
             "con": 6000,
 			"int": 5000,
-            "luk": 1040,
-			"offense": 1,
-			"lethal": 1,
-			"dance": 1,
-			"prone": 1,
-			"hpregen": 250
+            "luk": 1040
         },
         "items": [
             { "name": "Searing Sword", "dropPercent": 90 }
@@ -2064,13 +1739,7 @@
             "agi": 18895,
             "int": 7000,
             "luk": 4400,
-            "con": 5500,
-            "dance": 3,
-			"damageReduction": 450,
-			"deadeye": 1,
-            "defense": 2,
-            "prone": 1,
-			"crit": 5
+            "con": 5500
         },
         "items": [
             { "name": "Spider-Climb Bandana", "dropPercent": 79 }
@@ -2092,22 +1761,7 @@
             "agi": 145010,
             "int": 298500,
             "luk": 12000,
-            "con": 80000,
-            "poison": 4,
-            "shatter": 4,
-            "dance": 4,
-            "defense": 4,
-            "prone": 4,
-			"damageReduction": 15000,
-			"deadeye": 1,
-			"silver": 1,
-			"shatter": 2,
-			"venom": 4,
-			"power": 1,
-			"glowing": 4,
-			"hpregen": 7500,
-			"mpregen": 15000,
-			"vampire": 1
+            "con": 80000
         },
         "items": [
             { "name": "Bionic Dragon Legs", "dropPercent": 88 }
@@ -2130,10 +1784,7 @@
             "agi": 2400,
             "int": 1560,
             "luk": 1100,
-            "con": 1980,
-            "venom": 4,
-            "dance": 1,
-			"lethal": 1
+            "con": 1980
         }
     },
     "Snake Lord": {
@@ -2150,13 +1801,7 @@
             "dex": 8000,
             "agi": 8000,
             "int": 18050,
-            "luk": 5743,
-            "venom": 3,
-            "shatter": 1,
-			"lethal": 1,
-			"deadeye": 1,
-            "glowing": 1,
-            "hpregen": 1000
+            "luk": 5743
         },
         "items": [
             { "name": "Staff of the Living Snake", "dropPercent": 90 }
@@ -2176,15 +1821,7 @@
             "dex": 18000,
             "agi": 10000,
             "int": 27680,
-            "luk": 1099,
-			"lethal": 1,
-			"aegis": 1,
-			"prone": 1,
-			"vampire": 1,
-			"poison": 1,
-            "silver": 1,
-            "hpregen": 2000,
-			"mpregen": 2000
+            "luk": 1099
         },
         "items": [
             { "name": "Wild Magic Brew", "dropPercent": 99 }
@@ -2207,15 +1844,7 @@
             "agi": 79000,
             "int": 29000,
             "luk": 19200,
-            "con": 30000,
-            "glowing": 10,
-            "deadeye": 1,
-            "offense": 6,
-            "power": 1,
-            "prone": 1,
-			"aegis": 1,
-            "damageReduction": 4500,
-            "shatter": 3
+            "con": 30000
         },
         "items": [
             { "name": "Electric Eel Gland", "dropPercent": 90 }
@@ -2238,16 +1867,7 @@
             "agi": 70000,
             "int": 1000,
             "luk": 10000,
-            "con": 14000,
-            "deadeye": 1,
-            "offense": 6,
-			"dance": 1,
-            "power": 1,
-            "prone": 2,
-			"vampire": 2,
-            "venom": 6,
-			"silver": 1,
-			"lethal": 1
+            "con": 14000
         },
         "items": [
             { "name": "Cave Spider Spinneret", "dropPercent": 77 }
@@ -2267,14 +1887,7 @@
             "agi": 18000,
             "int": 40000,
             "luk": 10000,
-            "con": 14000,
-            "offense": 3,
-			"defense": 6,
-            "power": 1,
-            "prone": 2,
-			"silver": 1,
-			"lethal": 1,
-			"hpregen": 5555
+            "con": 14000
         },
         "items": [
             { "name": "Deep Well Access Card", "dropPercent": 25 }
@@ -2294,15 +1907,7 @@
             "agi": 100000,
             "int": 20000,
             "luk": 10000,
-            "con": 30000,
-            "offense": 4,
-			"defense": 6,
-			"dance": 1,
-            "power": 1,
-            "prone": 2,
-			"silver": 1,
-			"glowing": 1,
-			"damageReduction": 5555
+            "con": 30000
         },
         "items": [
             { "name": "Repeating Clockborg Arrow Launcher", "dropPercent": 81 }
@@ -2320,16 +1925,7 @@
             "dex": 9000,
             "agi": 9000,
             "int": 8000,
-            "luk": 4800,
-			"power": 1,
-            "aegis": 1,
-            "dance": 1,
-            "prone": 1,
-            "silver": 1,
-            "glowing": 1,
-            "crit": 3,
-            "offense": 1,
-            "defense": 5
+            "luk": 4800
         },
         "items": [
             { "name": "Gnarled Mandibles", "dropPercent": 85 }

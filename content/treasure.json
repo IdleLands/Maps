@@ -51,16 +51,13 @@
   },
   "Seajewel": {
     "type": "charm",
-    "int": 450,
-    "mp": 500
+    "int": 450
   },
   "Red Tunic": {
     "type": "body",
     "str": 600,
     "dex": 150,
-    "luk": 25,
-    "defense": 1,
-    "hpregen": 25
+    "luk": 25
   },
   "Thick Winter Gloves": {
     "type": "hands",
@@ -90,31 +87,26 @@
   "Basilisk Shield": {
     "type": "offhand",
     "agi": 180,
-    "con": 80,
-    "defense": 2,
-    "glowing": 1
+    "con": 80
   },
   "Royal Coif": {
     "type": "head",
     "str": 200,
     "agi": 600,
     "dex": 600,
-    "con": 500,
-    "deadeye": 1
+    "con": 500
   },
   "Royal Scaled Robe": {
     "type": "body",
     "int": 1000,
-    "con": 250,
-    "defense": 2
+    "con": 250
   },
   "Royal Dragonskin Boots": {
     "type": "feet",
     "agi": 1000,
     "dex": 1100,
     "str": 800,
-    "hp": 1500,
-    "defense": 1
+    "hp": 1500
   },
   "Royal Sword of the Fallen Hero": {
     "type": "mainhand",
@@ -122,9 +114,7 @@
     "dex": 500,
     "int": 500,
     "con": -50,
-    "luk": -25,
-    "offense": 2,
-    "vorpal": 1
+    "luk": -25
   },
   "Clerical Assistant": {
     "type": "offhand",
@@ -132,8 +122,7 @@
     "hp": 250,
     "luk": 35,
     "xp": 5,
-    "gold": 150,
-    "damageReduction": 300
+    "gold": 150
   },
   "Coin Purse": {
     "type": "charm",
@@ -141,17 +130,14 @@
     "luk": 35,
     "hp": 500,
     "xp": 5,
-    "gold": 150,
-    "aegis": 1,
-    "glowing": 1
+    "gold": 150
   },
   "Dagger of Discounts": {
     "type": "mainhand",
     "agi": 500,
     "luk": 35,
     "hp": 500,
-    "gold": 150,
-    "vampire": 1
+    "gold": 150
   },
   "Mule": {
     "type": "legs",
@@ -160,10 +146,7 @@
     "luk": 35,
     "hp": 500,
     "xp": 10,
-    "gold": 150,
-    "dance": 1,
-    "prone": 1,
-    "sentimentality": 70
+    "gold": 150
   },
   "Reading Spectacles": {
     "type": "head",
@@ -172,19 +155,13 @@
     "luk": 35,
     "hp": 500,
     "xp": 5,
-    "gold": 150,
-    "dance": 1,
-    "hpregen": 100,
-    "mpregen": 50
+    "gold": 150
   },
   "Little Loom": {
     "type": "hands",
     "dex": 600,
     "int": 2000,
-    "luk": 500,
-    "damageReduction": 350,
-    "mpregen": 50,
-    "sentimentality": 100
+    "luk": 500
   },
   "Ring of Uncontrolled Anger Issues": {
     "type": "finger",
@@ -196,7 +173,6 @@
     "type": "head",
     "int": 2500,
     "luk": 500,
-    "deadeye": 1,
     "hp": 800
   },
   "Fate-Strung Shortbow": {
@@ -204,19 +180,13 @@
     "con": 40,
     "dex": 2500,
     "agi": 2000,
-    "luk": 500,
-    "crit": 5,
-    "deadeye": 1,
-    "glowing": 1
+    "luk": 500
   },
   "Precision Piccolo": {
     "type": "hands",
     "agi": 1800,
     "int": 1800,
-    "luk": 500,
-    "dance": 1,
-    "deadeye": 1,
-    "silver": 1
+    "luk": 500
   },
   "Kirierath's Favor": {
     "type": "charm",
@@ -233,8 +203,7 @@
     "con": 800,
     "dex": 900,
     "agi": 250,
-    "luk": 500,
-    "defense": 1
+    "luk": 500
   },
   "Quarterstaff of Good Tidings": {
     "type": "mainhand",
@@ -244,14 +213,11 @@
     "agi": 200,
     "int": 1000,
     "luk": 500,
-    "gold": 150,
-    "silver": 1
+    "gold": 150
   },
   "Source of Fate": {
     "type": "offhand",
-    "luk": 1500,
-    "glowing": 1,
-    "lethal": 1
+    "luk": 1500
   },
   "Fate-Hardened Scales": {
     "type": "body",
@@ -260,12 +226,7 @@
     "dex": 350,
     "agi": 200,
     "int": 850,
-    "luk": 500,
-    "aegis": 1,
-    "dance": 1,
-    "defense": 1,
-    "glowing": 1,
-    "sentimentality": 500
+    "luk": 500
   },
   "Lovely Quiver": {
     "type": "body",
@@ -275,9 +236,7 @@
     "agi": 1443,
     "int": 143,
     "luk": 143,
-    "gold": 20,
-    "power": 1,
-    "silver": 1
+    "gold": 20
   },
   "Tiny Wings": {
     "type": "body",
@@ -287,7 +246,6 @@
     "agi": 1443,
     "int": 143,
     "luk": 143,
-    "dance": 1,
     "xp": 3
   },
   "Mibru, Javelin of the Loveseeker": {
@@ -297,10 +255,7 @@
     "dex": 143,
     "agi": 143,
     "int": 143,
-    "luk": 143,
-    "deadeye": 1,
-    "lethal": 1,
-    "prone": 1
+    "luk": 143
   },
   "Pirate Medallion": {
     "type": "charm",
@@ -309,29 +264,20 @@
     "dex": 2000,
     "agi": 2000,
     "int": 1000,
-    "luk": 500,
-    "hpregen": 1000,
-    "power": 1,
-    "vorpal": 1
+    "luk": 500
   },
   "Censer of Life": {
     "type": "charm",
     "str": 2000,
     "con": 2000,
     "agi": 1000,
-    "int": 6000,
-    "aegis": 1,
-    "hpregen": 1000
+    "int": 6000
   },
   "Bronze Spearhead": {
     "type": "charm",
     "str": 5750,
     "con": 5750,
-    "luk": 25,
-    "crit": 1,
-    "glowing": 5,
-    "offense": 1,
-    "shatter": 1
+    "luk": 25
   },
   "Timeless Topaz": {
     "type": "trinket",
@@ -346,20 +292,12 @@
     "con": 350,
     "dex": 500,
     "agi": 2100,
-    "luk": 100,
-    "crit": 1,
-    "damageReduction": 500,
-    "hpregen": 1000,
-    "poison": -1,
-    "venom": -1
+    "luk": 100
   },
   "Troll Leather Leggings": {
     "type": "legs",
     "dex": 450,
-    "agi": 2100,
-    "damageReduction": 500,
-    "defense": 2,
-    "hpregen": 1500
+    "agi": 2100
   },
   "Magical Rebreather": {
     "type": "head",
@@ -368,11 +306,7 @@
     "agi": -1000,
     "int": 10000,
     "luk": 2000,
-    "glowing": 1,
     "hp": 500,
-    "hpregen": 1500,
-    "mp": 500,
-    "mpregen": 1500,
     "xp": 3,
 	"sReqCharacter*Terrains*Water": 172800
   },
@@ -383,12 +317,6 @@
     "dex": 500,
     "agi": 500,
     "int": 3300,
-    "luk": 3300,
-    "aegis": 1,
-    "damageReduction": 1000,
-    "defense": 3,
-    "power": 1,
-    "silver": 1,
     "xp": 2,
 	"sReqCharacter*Terrains*Water": 172800
   }
