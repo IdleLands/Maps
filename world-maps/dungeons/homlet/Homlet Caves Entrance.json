@@ -1,4 +1,5 @@
 { "height":26,
+ "infinite":false,
  "layers":[
         {
          "data":[4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 7, 7, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 7, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 7, 4, 4, 4, 4, 4, 4, 4, 5, 4, 7, 5, 4, 4, 4, 4, 4, 4, 4, 7, 7, 4, 4, 4, 4, 4, 4, 4, 4, 7, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 7, 5, 4, 4, 4, 4, 4, 4, 4, 4, 7, 4, 4, 4, 4, 4, 4, 4, 4, 7, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 7, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 7, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 7, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 7, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 7, 4, 4, 4, 4, 4, 4, 4, 4, 7, 5, 7, 4, 4, 4, 4, 4, 4, 4, 4, 7, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
@@ -10,7 +11,7 @@
          "width":10,
          "x":0,
          "y":0
-        },
+        }, 
         {
          "data":[17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 0, 0, 17, 17, 17, 17, 17, 17, 0, 0, 0, 0, 0, 0, 0, 17, 17, 16, 0, 0, 0, 0, 0, 0, 16, 17, 17, 0, 0, 0, 0, 0, 0, 0, 0, 17, 17, 0, 0, 0, 0, 0, 0, 0, 0, 17, 17, 16, 0, 0, 0, 0, 0, 0, 16, 17, 17, 0, 0, 0, 0, 0, 0, 0, 0, 17, 17, 0, 0, 0, 0, 0, 0, 0, 0, 17, 17, 16, 0, 0, 0, 0, 0, 0, 16, 17, 17, 0, 0, 0, 0, 0, 0, 0, 0, 17, 17, 0, 0, 0, 0, 0, 0, 0, 0, 17, 17, 16, 0, 0, 0, 0, 0, 0, 16, 17, 17, 0, 0, 0, 0, 0, 0, 0, 0, 17, 17, 0, 0, 0, 0, 0, 0, 0, 0, 17, 17, 16, 0, 0, 0, 0, 0, 0, 16, 17, 17, 0, 0, 0, 0, 0, 0, 0, 0, 17, 17, 0, 0, 0, 0, 0, 0, 0, 0, 17, 17, 0, 0, 0, 0, 0, 0, 0, 0, 33, 17, 0, 0, 0, 0, 0, 0, 0, 33, 33, 17, 0, 0, 0, 0, 0, 0, 33, 33, 33, 17, 0, 0, 0, 0, 0, 33, 33, 33, 33, 17, 0, 0, 0, 0, 33, 33, 33, 33, 33, 17, 0, 0, 0, 0, 33, 33, 33, 33, 33, 17, 0, 0, 0, 0, 33, 33, 33, 33, 33, 17, 17, 17, 17, 17, 33, 33, 33, 33, 33],
          "height":26,
@@ -21,15 +22,15 @@
          "width":10,
          "x":0,
          "y":0
-        },
+        }, 
         {
          "draworder":"topdown",
-         "height":18,
          "name":"Interactables",
          "objects":[
                 {
                  "gid":2,
-                 "height":0,
+                 "height":16,
+                 "id":1,
                  "name":"ToHomletCave",
                  "properties":
                     {
@@ -38,32 +39,46 @@
                      "map":"Homlet Caves",
                      "movementType":"ascend"
                     },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":64,
                  "y":32
-                },
+                }, 
                 {
                  "gid":15,
-                 "height":0,
+                 "height":16,
+                 "id":2,
                  "name":"Decorative Plaque",
                  "properties":
                     {
-						"flavorText": "Engraved with \"Welcome to Homlet, beware of death.\" How ominous.",
-						"storyline": "Lore: Homlet"
+                     "flavorText":"Engraved with \"Welcome to Homlet, beware of death.\" How ominous.",
+                     "storyline":"Lore: Homlet"
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string",
+                     "storyline":"string"
                     },
                  "rotation":0,
                  "type":"Collectible",
                  "visible":true,
-                 "width":0,
-                 "x":16,
-                 "y":400
-                },
+                 "width":16,
+                 "x":32,
+                 "y":384
+                }, 
                 {
                  "gid":1,
-                 "height":0,
+                 "height":16,
+                 "id":3,
                  "name":"ToNorkos",
                  "properties":
                     {
@@ -72,16 +87,24 @@
                      "map":"Norkos",
                      "movementType":"descend"
                     },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":80,
                  "y":352
-                },
+                }, 
                 {
                  "gid":2,
-                 "height":0,
+                 "height":16,
+                 "id":4,
                  "name":"ToHomletCave",
                  "properties":
                     {
@@ -90,56 +113,57 @@
                      "map":"Homlet Caves",
                      "movementType":"ascend"
                     },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
                  "rotation":0,
                  "type":"Teleport",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":80,
                  "y":32
                 }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
-         "width":10,
          "x":0,
          "y":0
-        },
+        }, 
         {
          "draworder":"topdown",
-         "height":18,
          "name":"Regions",
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
-         "width":10,
          "x":0,
          "y":0
         }],
+ "nextobjectid":5,
  "orientation":"orthogonal",
- "properties":
-    {
-
-    },
  "renderorder":"right-down",
+ "tiledversion":"1.1.4",
  "tileheight":16,
  "tilesets":[
         {
+         "columns":9,
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":64,
+         "imageheight":304,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
-         "properties":
-            {
-
-            },
          "spacing":0,
+         "tilecount":171,
          "tileheight":16,
          "tilewidth":16
         }],
  "tilewidth":16,
+ "type":"map",
  "version":1,
  "width":10
 }

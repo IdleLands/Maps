@@ -3868,7 +3868,7 @@
                  "name":"",
                  "properties":
                     {
-                     "flavorText":"The fabled remains of an old Norkos Council worker who sealed the Chamber of Ascension."
+                     "flavorText":"An adventurer who ascended within the chamber and lost his crystals."
                     },
                  "propertytypes":
                     {
@@ -7253,12 +7253,12 @@
          "columns":9,
          "firstgid":1,
          "image":"..\/..\/img\/tiles.png",
-         "imageheight":288,
+         "imageheight":304,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
          "spacing":0,
-         "tilecount":162,
+         "tilecount":171,
          "tileheight":16,
          "tileproperties":
             {
