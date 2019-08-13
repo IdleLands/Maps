@@ -326,7 +326,7 @@
     "dex": 250,
     "agi": 550,
     "int": 900,
-    "luk": -250
+    "luk": -250,
     "xp": 2
   },
   "Doppleganger Skin": {
@@ -334,7 +334,7 @@
     "con": 100,
     "dex": 150,
     "agi": 250,
-    "luk": 20
+    "luk": 20,
     "xp": 1
   },
   "Guardian Core": {
