@@ -2054,28 +2054,6 @@
                 {
                  "gid":29,
                  "height":16,
-                 "id":716,
-                 "name":"Restart",
-                 "properties":
-                    {
-                     "movementType":"teleport",
-                     "toLoc":"astralcontrolroom"
-                    },
-                 "propertytypes":
-                    {
-                     "movementType":"string",
-                     "toLoc":"string"
-                    },
-                 "rotation":0,
-                 "type":"Teleport",
-                 "visible":true,
-                 "width":16,
-                 "x":400,
-                 "y":384
-                }, 
-                {
-                 "gid":29,
-                 "height":16,
                  "id":717,
                  "name":"Restart",
                  "properties":
