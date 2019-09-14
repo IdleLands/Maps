@@ -3,10 +3,6 @@
   "version": "0.0.0",
   "description": "Maps for IdleLands",
   "scripts": {
-    "test": "npm run verify:all && npm run list:all",
-    "list:all": "node test/list/_all",
-    "verify:all": "node test/verify/_all",
-    "analysis:all": "node test/analysis/_all"
   },
   "repository": {
     "type": "git",
