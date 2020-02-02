@@ -2034,6 +2034,32 @@
                  "width":16,
                  "x":816,
                  "y":768
+                }, 
+                {
+                 "gid":32,
+                 "height":16,
+                 "id":172,
+                 "name":"ToCabran",
+                 "properties":
+                    {
+                     "destx":"90",
+                     "desty":"10",
+                     "map":"Cabran",
+                     "movementType":"teleport"
+                    },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":1264,
+                 "y":736
                 }],
          "opacity":1,
          "type":"objectgroup",
