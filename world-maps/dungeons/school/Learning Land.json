@@ -482,34 +482,34 @@
          "name":"Regions",
          "objects":[
                 {
-                 "height":240,
+                 "height":272,
                  "id":18,
-                 "name":"Santa's Runway",
+                 "name":"Schoolhouse",
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":656,
-                 "x":0,
-                 "y":0
+                 "width":448,
+                 "x":80,
+                 "y":96
                 }, 
                 {
-                 "height":768,
-                 "id":19,
-                 "name":"Santa's Workshops",
+                 "height":96,
+                 "id":52,
+                 "name":"Schoolhouse",
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":656,
-                 "x":0,
-                 "y":240
+                 "width":112,
+                 "x":240,
+                 "y":368
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }],
- "nextobjectid":52,
+ "nextobjectid":53,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.1.5",

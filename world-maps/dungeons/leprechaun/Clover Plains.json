@@ -232,30 +232,19 @@
          "name":"Regions",
          "objects":[
                 {
-                 "height":240,
-                 "id":18,
-                 "name":"Santa's Runway",
+                 "height":1120,
+                 "id":19,
+                 "name":"Clover Fields",
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":656,
                  "x":0,
                  "y":0
-                }, 
-                {
-                 "height":768,
-                 "id":19,
-                 "name":"Santa's Workshops",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":656,
-                 "x":0,
-                 "y":240
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }],
