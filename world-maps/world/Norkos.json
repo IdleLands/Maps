@@ -6761,7 +6761,7 @@
                  "gid":1,
                  "height":16,
                  "id":623,
-                 "name":"",
+                 "name":"ToClover",
                  "properties":
                     {
                      "destx":"7",
@@ -6779,7 +6779,7 @@
                      "requireHoliday":"string"
                     },
                  "rotation":0,
-                 "type":"",
+                 "type":"Teleport",
                  "visible":true,
                  "width":16,
                  "x":64,
