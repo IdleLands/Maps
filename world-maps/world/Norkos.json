@@ -6868,7 +6868,7 @@
                  "name":"ToRestingPlace",
                  "properties":
                     {
-                     "destx":"28",
+                     "destx":"20",
                      "desty":"34",
                      "map":"Resting Place",
                      "movementType":"fall",
