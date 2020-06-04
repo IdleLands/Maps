@@ -109,7 +109,7 @@
                      "movementType":"string"
                     },
                  "rotation":0,
-                 "type":"",
+                 "type":"Teleport",
                  "visible":true,
                  "width":16,
                  "x":320,
