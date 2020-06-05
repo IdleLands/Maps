@@ -9882,26 +9882,15 @@
          "name":"Regions",
          "objects":[
                 {
-                 "height":240,
-                 "id":18,
-                 "name":"Santa's Runway",
+                 "height":656,
+                 "id":19,
+                 "name":"Place of Rest",
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":656,
                  "x":0,
                  "y":0
-                }, 
-                {
-                 "height":768,
-                 "id":19,
-                 "name":"Santa's Workshops",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":656,
-                 "x":0,
-                 "y":240
                 }],
          "opacity":1,
          "type":"objectgroup",
