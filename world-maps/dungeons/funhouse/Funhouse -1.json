@@ -200,12 +200,12 @@
          "columns":9,
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":288,
+         "imageheight":304,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
          "spacing":0,
-         "tilecount":162,
+         "tilecount":165,
          "tileheight":16,
          "tileproperties":
             {
