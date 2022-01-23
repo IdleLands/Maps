@@ -25,6 +25,7 @@
         }, 
         {
          "draworder":"topdown",
+         "height":11,
          "name":"Interactables",
          "objects":[
                 {
@@ -199,12 +200,12 @@
          "columns":9,
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":304,
+         "imageheight":288,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
          "spacing":0,
-         "tilecount":171,
+         "tilecount":162,
          "tileheight":16,
          "tileproperties":
             {
