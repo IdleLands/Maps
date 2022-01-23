@@ -164,8 +164,8 @@
                  "name":"ToFunhouseChess",
                  "properties":
                     {
-                     "destx":"2",
-                     "desty":"2",
+                     "destx":"6",
+                     "desty":"7",
                      "map":"Funhouse Chess",
                      "movementType":"descend"
                     },
