@@ -61,11 +61,13 @@
                  "properties":
                     {
                      "flavorText":"Move 1. e4 is considered best by test.",
+                     "rarity":"newbie",
                      "storyline":"Lore: Funhouse"
                     },
                  "propertytypes":
                     {
                      "flavorText":"string",
+                     "rarity":"string",
                      "storyline":"string"
                     },
                  "rotation":0,
@@ -163,11 +165,13 @@
                  "properties":
                     {
                      "flavorText":"Move 2. Bc4 makes this the bishop's opening.",
+                     "rarity":"basic",
                      "storyline":"Lore: Funhouse"
                     },
                  "propertytypes":
                     {
                      "flavorText":"string",
+                     "rarity":"string",
                      "storyline":"string"
                     },
                  "rotation":0,
@@ -185,11 +189,13 @@
                  "properties":
                     {
                      "flavorText":"Move 3.. Nf5, gotta really protect my e-pawn.",
+                     "rarity":"basic",
                      "storyline":"Lore: Funhouse"
                     },
                  "propertytypes":
                     {
                      "flavorText":"string",
+                     "rarity":"string",
                      "storyline":"string"
                     },
                  "rotation":0,
@@ -207,11 +213,13 @@
                  "properties":
                     {
                      "flavorText":"Move 2.. d5, gotta protect my king's pawn.",
+                     "rarity":"basic",
                      "storyline":"Lore: Funhouse"
                     },
                  "propertytypes":
                     {
                      "flavorText":"string",
+                     "rarity":"string",
                      "storyline":"string"
                     },
                  "rotation":0,
@@ -229,11 +237,13 @@
                  "properties":
                     {
                      "flavorText":"Move 1.. e5, I can play the copy game.",
+                     "rarity":"basic",
                      "storyline":"Lore: Funhouse"
                     },
                  "propertytypes":
                     {
                      "flavorText":"string",
+                     "rarity":"string",
                      "storyline":"string"
                     },
                  "rotation":0,
@@ -251,11 +261,13 @@
                  "properties":
                     {
                      "flavorText":"Move 3. Qh5, setting up a nasty trap.",
+                     "rarity":"basic",
                      "storyline":"Lore: Funhouse"
                     },
                  "propertytypes":
                     {
                      "flavorText":"string",
+                     "rarity":"string",
                      "storyline":"string"
                     },
                  "rotation":0,
@@ -273,11 +285,13 @@
                  "properties":
                     {
                      "flavorText":"Move 4. Qxf7#, your opponent cries.",
+                     "rarity":"pro",
                      "storyline":"Lore: Funhouse"
                     },
                  "propertytypes":
                     {
                      "flavorText":"string",
+                     "rarity":"string",
                      "storyline":"string"
                     },
                  "rotation":0,
