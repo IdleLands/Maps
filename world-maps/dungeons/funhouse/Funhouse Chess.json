@@ -281,7 +281,7 @@
                  "gid":15,
                  "height":16,
                  "id":20,
-                 "name":"Scholar's mate",
+                 "name":"Scholar's Mate",
                  "properties":
                     {
                      "flavorText":"Move 4. Qxf7#, your opponent cries.",
@@ -366,6 +366,14 @@
                  "height":16,
                  "id":31,
                  "name":"",
+                 "properties":
+                    {
+                     "requireCollectible":"Scolar's Mate"
+                    },
+                 "propertytypes":
+                    {
+                     "requireCollectible":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
