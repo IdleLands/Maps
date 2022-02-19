@@ -1,7 +1,8 @@
 { "height":11,
+ "infinite":false,
  "layers":[
         {
-         "data":[7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 36, 36, 36, 36, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 36, 7, 36, 36, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 36, 7, 36, 36, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 36, 7, 36, 36, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 36, 7, 36, 36, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 36, 7, 36, 36, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 36, 36, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 36, 36, 36, 36, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 36, 36, 36, 36, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 36, 36, 36, 36, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 36, 36, 36, 36],
+         "data":[7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 36, 36, 36, 36, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 36, 7, 36, 36, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 36, 7, 36, 36, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 36, 7, 36, 36, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 36, 7, 36, 36, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 36, 7, 36, 36, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 36, 36, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 36, 7, 36, 36, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 36, 7, 36, 36, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 36, 7, 36, 36, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 36, 36, 36, 36],
          "height":11,
          "name":"Terrain",
          "opacity":1,
@@ -156,29 +157,55 @@
                  "width":16,
                  "x":128,
                  "y":160
+                }, 
+                {
+                 "gid":1,
+                 "height":16,
+                 "id":10,
+                 "name":"ToFunhouseChess",
+                 "properties":
+                    {
+                     "destx":"6",
+                     "desty":"7",
+                     "map":"Funhouse Chess",
+                     "movementType":"descend"
+                    },
+                 "propertytypes":
+                    {
+                     "destx":"string",
+                     "desty":"string",
+                     "map":"string",
+                     "movementType":"string"
+                    },
+                 "rotation":0,
+                 "type":"Teleport",
+                 "visible":true,
+                 "width":16,
+                 "x":176,
+                 "y":160
                 }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
-         "width":14,
          "x":0,
          "y":0
         }],
- "nextobjectid":9,
+ "nextobjectid":11,
  "orientation":"orthogonal",
  "renderorder":"right-down",
+ "tiledversion":"1.1.4",
  "tileheight":16,
  "tilesets":[
         {
          "columns":9,
          "firstgid":1,
          "image":"..\/..\/..\/img\/tiles.png",
-         "imageheight":288,
+         "imageheight":304,
          "imagewidth":144,
          "margin":0,
          "name":"tiles",
          "spacing":0,
-         "tilecount":162,
+         "tilecount":171,
          "tileheight":16,
          "tileproperties":
             {
@@ -203,6 +230,7 @@
          "tilewidth":16
         }],
  "tilewidth":16,
+ "type":"map",
  "version":1,
  "width":14
 }
