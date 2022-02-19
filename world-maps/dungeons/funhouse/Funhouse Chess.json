@@ -60,7 +60,7 @@
                  "name":"White King's Pawn",
                  "properties":
                     {
-                     "flavorText":"Move 1. e4 is considered best by test.",
+                     "flavorText":"Move 1. e4, best by test.",
                      "rarity":"newbie",
                      "storyline":"Lore: Funhouse"
                     },
@@ -188,7 +188,7 @@
                  "name":"Black Queen's Knight",
                  "properties":
                     {
-                     "flavorText":"Move 3.. Nf5, gotta really protect my e-pawn.",
+                     "flavorText":"Move 3.. Nf5, gotta really protect my King's pawn. Wait was this a blunder?",
                      "rarity":"basic",
                      "storyline":"Lore: Funhouse"
                     },
@@ -212,7 +212,7 @@
                  "name":"Black Queen's Pawn",
                  "properties":
                     {
-                     "flavorText":"Move 2.. d5, gotta protect my king's pawn.",
+                     "flavorText":"Move 2.. d5, gotta protect my King's pawn.",
                      "rarity":"basic",
                      "storyline":"Lore: Funhouse"
                     },
