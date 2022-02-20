@@ -509,11 +509,11 @@
                  "gid":32,
                  "height":16,
                  "id":41,
-                 "name":"ToFigri",
+                 "name":"ToFrigri",
                  "properties":
                     {
                      "movementType":"teleport",
-                     "toLoc":"figri"
+                     "toLoc":"frigri"
                     },
                  "propertytypes":
                     {
@@ -531,11 +531,11 @@
                  "gid":32,
                  "height":16,
                  "id":42,
-                 "name":"ToFigri",
+                 "name":"ToFrigri",
                  "properties":
                     {
                      "movementType":"teleport",
-                     "toLoc":"figri"
+                     "toLoc":"frigri"
                     },
                  "propertytypes":
                     {
