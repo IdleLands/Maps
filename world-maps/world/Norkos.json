@@ -5432,6 +5432,14 @@
                  "height":16,
                  "id":510,
                  "name":"Norkos",
+                 "properties":
+                    {
+                     "flavorText":"The ruins of a portal that once worked but is now broken."
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"GuildTeleport",
                  "visible":true,
@@ -5472,6 +5480,14 @@
                  "height":16,
                  "id":515,
                  "name":"Maeles",
+                 "properties":
+                    {
+                     "flavorText":"The ruins of a portal that once worked but is now broken."
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"GuildTeleport",
                  "visible":true,
@@ -5532,6 +5548,14 @@
                  "height":16,
                  "id":518,
                  "name":"Frigri",
+                 "properties":
+                    {
+                     "flavorText":"The ruins of a portal that once worked but is now broken."
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"GuildTeleport",
                  "visible":true,
@@ -7462,7 +7486,7 @@
      "name":"string"
     },
  "renderorder":"right-down",
- "tiledversion":"1.1.5",
+ "tiledversion":"1.1.4",
  "tileheight":16,
  "tilesets":[
         {

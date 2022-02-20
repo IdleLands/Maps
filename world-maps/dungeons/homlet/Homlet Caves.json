@@ -470,6 +470,14 @@
                  "height":16,
                  "id":38,
                  "name":"Homlet",
+                 "properties":
+                    {
+                     "flavorText":"The ruins of a portal that once worked but is now broken."
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"GuildTeleport",
                  "visible":true,
@@ -639,7 +647,7 @@
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }],
