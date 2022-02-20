@@ -386,6 +386,14 @@
                  "height":16,
                  "id":23,
                  "name":"Vocalnus",
+                 "properties":
+                    {
+                     "flavorText":"The ruins of a portal that once worked but is now broken."
+                    },
+                 "propertytypes":
+                    {
+                     "flavorText":"string"
+                    },
                  "rotation":0,
                  "type":"GuildTeleport",
                  "visible":true,
